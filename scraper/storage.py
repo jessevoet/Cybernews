@@ -2,7 +2,7 @@ import json
 import os
 from datetime import datetime, timedelta, timezone
 
-DATA_FILE = "data.json"
+DATA_FILE = "../data.json"
 WINDOW_DAYS = 7
 
 
