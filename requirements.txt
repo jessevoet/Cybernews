@@ -1,0 +1,2 @@
+# No external dependencies — stdlib only (urllib, xml.etree, json, re, math)
+# This keeps the GitHub Actions runner fast and dependency-free

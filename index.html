@@ -1,0 +1,682 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CYBER INTEL // LIVE FEED</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@400;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:        #040508;
+    --surface:   #0a0d14;
+    --border:    #1a2035;
+    --accent:    #00ff9d;
+    --accent2:   #ff3d6b;
+    --accent3:   #ffd600;
+    --accent4:   #00c8ff;
+    --muted:     #3a4560;
+    --text:      #c8d4f0;
+    --text-dim:  #5a6888;
+    --critical:  #ff3d6b;
+    --high:      #ff9500;
+    --medium:    #ffd600;
+    --low:       #00ff9d;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Space Mono', monospace;
+    font-size: 13px;
+    line-height: 1.6;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* Scanline overlay */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(0,0,0,0.08) 2px,
+      rgba(0,0,0,0.08) 4px
+    );
+    pointer-events: none;
+    z-index: 1000;
+  }
+
+  /* Grid background */
+  body::after {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(0,255,157,0.03) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(0,255,157,0.03) 1px, transparent 1px);
+    background-size: 40px 40px;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  /* ── Header ── */
+  header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: rgba(4,5,8,0.95);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--border);
+    padding: 0 24px;
+  }
+
+  .header-inner {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 56px;
+    gap: 16px;
+  }
+
+  .logo {
+    font-family: 'Syne', sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    letter-spacing: 0.12em;
+    color: var(--accent);
+    text-shadow: 0 0 20px rgba(0,255,157,0.4);
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .logo-dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 8px var(--accent);
+    animation: blink 1.4s ease-in-out infinite;
+  }
+
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.2; }
+  }
+
+  .header-meta {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 11px;
+    color: var(--text-dim);
+  }
+
+  .status-pill {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 10px;
+    border: 1px solid var(--border);
+    border-radius: 2px;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  .status-pill.live { border-color: var(--accent); color: var(--accent); }
+  .status-pill.live .dot { background: var(--accent); box-shadow: 0 0 6px var(--accent); }
+  .dot { width: 6px; height: 6px; border-radius: 50%; animation: blink 1.4s infinite; }
+
+  /* ── Stats bar ── */
+  .stats-bar {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 0 24px;
+  }
+
+  .stats-inner {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: flex;
+    gap: 0;
+    overflow-x: auto;
+  }
+
+  .stat {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 24px 10px 0;
+    margin-right: 24px;
+    border-right: 1px solid var(--border);
+    min-width: 100px;
+    flex-shrink: 0;
+  }
+
+  .stat:last-child { border-right: none; }
+
+  .stat-value {
+    font-family: 'Syne', sans-serif;
+    font-size: 22px;
+    font-weight: 800;
+    color: var(--accent);
+    line-height: 1;
+  }
+
+  .stat-value.red   { color: var(--critical); }
+  .stat-value.amber { color: var(--high); }
+  .stat-value.blue  { color: var(--accent4); }
+
+  .stat-label {
+    font-size: 9px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin-top: 2px;
+  }
+
+  /* ── Layout ── */
+  .container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px 24px;
+    position: relative;
+    z-index: 1;
+  }
+
+  /* ── Filter bar ── */
+  .filter-bar {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+    align-items: center;
+  }
+
+  .filter-label {
+    font-size: 10px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin-right: 4px;
+  }
+
+  .filter-btn {
+    padding: 4px 12px;
+    border: 1px solid var(--border);
+    background: transparent;
+    color: var(--text-dim);
+    font-family: 'Space Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-radius: 2px;
+    transition: all 0.15s;
+  }
+
+  .filter-btn:hover,
+  .filter-btn.active {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: rgba(0,255,157,0.05);
+  }
+
+  .filter-btn.critical-filter.active {
+    border-color: var(--critical);
+    color: var(--critical);
+    background: rgba(255,61,107,0.08);
+  }
+
+  .search-box {
+    margin-left: auto;
+    position: relative;
+  }
+
+  .search-input {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--text);
+    font-family: 'Space Mono', monospace;
+    font-size: 11px;
+    padding: 5px 12px 5px 28px;
+    border-radius: 2px;
+    outline: none;
+    width: 220px;
+    transition: border-color 0.15s;
+  }
+
+  .search-input:focus { border-color: var(--accent); }
+  .search-input::placeholder { color: var(--muted); }
+
+  .search-icon {
+    position: absolute;
+    left: 9px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--muted);
+    font-size: 12px;
+  }
+
+  /* ── Feed grid ── */
+  .feed-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+    gap: 12px;
+  }
+
+  /* ── Article card ── */
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    transition: border-color 0.2s, transform 0.2s;
+    position: relative;
+    overflow: hidden;
+    animation: fadeIn 0.3s ease forwards;
+    opacity: 0;
+  }
+
+  @keyframes fadeIn {
+    to { opacity: 1; transform: translateY(0); }
+    from { opacity: 0; transform: translateY(8px); }
+  }
+
+  .card::before {
+    content: '';
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 3px;
+    background: var(--low);
+  }
+
+  .card.critical::before { background: var(--critical); box-shadow: 0 0 8px var(--critical); }
+  .card.high::before     { background: var(--high); }
+  .card.medium::before   { background: var(--medium); }
+
+  .card:hover {
+    border-color: var(--muted);
+    transform: translateY(-2px);
+  }
+
+  .card.critical {
+    border-color: rgba(255,61,107,0.25);
+    background: rgba(255,61,107,0.03);
+  }
+
+  .card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 8px;
+  }
+
+  .card-source {
+    font-size: 9px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+  }
+
+  .score-badge {
+    font-family: 'Syne', sans-serif;
+    font-size: 13px;
+    font-weight: 800;
+    padding: 2px 7px;
+    border-radius: 2px;
+    border: 1px solid currentColor;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .score-critical { color: var(--critical); background: rgba(255,61,107,0.1); }
+  .score-high     { color: var(--high);     background: rgba(255,149,0,0.1); }
+  .score-medium   { color: var(--medium);   background: rgba(255,214,0,0.08); }
+  .score-low      { color: var(--low);      background: rgba(0,255,157,0.06); }
+
+  .card-title {
+    font-family: 'Syne', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1.4;
+    color: var(--text);
+  }
+
+  .card-title a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .card-title a:hover { color: var(--accent); }
+
+  .card-summary {
+    font-size: 11px;
+    color: var(--text-dim);
+    line-height: 1.6;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  .cats {
+    display: flex;
+    gap: 4px;
+    flex-wrap: wrap;
+  }
+
+  .cat-tag {
+    font-size: 9px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 2px 6px;
+    border: 1px solid var(--border);
+    border-radius: 2px;
+    color: var(--text-dim);
+  }
+
+  .cat-tag.apt        { border-color: #7c3aed; color: #a78bfa; }
+  .cat-tag.ransomware { border-color: var(--critical); color: var(--critical); }
+  .cat-tag.vuln       { border-color: var(--high); color: var(--high); }
+  .cat-tag.breach     { border-color: #f59e0b; color: #fbbf24; }
+  .cat-tag.malware    { border-color: #ef4444; color: #f87171; }
+  .cat-tag.ics        { border-color: #06b6d4; color: #22d3ee; }
+  .cat-tag.law        { border-color: var(--accent4); color: var(--accent4); }
+  .cat-tag.advisory   { border-color: var(--low); color: var(--low); }
+
+  .card-time {
+    font-size: 10px;
+    color: var(--muted);
+  }
+
+  .critical-badge {
+    font-size: 9px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 2px 7px;
+    background: rgba(255,61,107,0.15);
+    border: 1px solid var(--critical);
+    color: var(--critical);
+    border-radius: 2px;
+    animation: pulseRed 2s infinite;
+  }
+
+  @keyframes pulseRed {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.5; }
+  }
+
+  /* ── Empty state ── */
+  .empty {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 80px 20px;
+    color: var(--text-dim);
+  }
+
+  .empty-icon { font-size: 36px; margin-bottom: 12px; opacity: 0.4; }
+
+  /* ── Footer ── */
+  footer {
+    border-top: 1px solid var(--border);
+    padding: 16px 24px;
+    margin-top: 40px;
+    font-size: 10px;
+    color: var(--text-dim);
+    letter-spacing: 0.08em;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+  }
+
+  /* ── Scrollbar ── */
+  ::-webkit-scrollbar { width: 4px; height: 4px; }
+  ::-webkit-scrollbar-track { background: var(--bg); }
+  ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+  @media (max-width: 600px) {
+    .header-meta { display: none; }
+    .feed-grid { grid-template-columns: 1fr; }
+    .search-box { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="logo">
+      <div class="logo-dot"></div>
+      CYBER INTEL
+    </div>
+    <div class="header-meta">
+      <div class="status-pill live"><div class="dot"></div>LIVE</div>
+      <span id="updated-time">—</span>
+      <span id="header-counts">—</span>
+    </div>
+  </div>
+</header>
+
+<div class="stats-bar">
+  <div class="stats-inner">
+    <div class="stat">
+      <div class="stat-value red" id="stat-critical">—</div>
+      <div class="stat-label">Critical</div>
+    </div>
+    <div class="stat">
+      <div class="stat-value" id="stat-relevant">—</div>
+      <div class="stat-label">Relevant (7d)</div>
+    </div>
+    <div class="stat">
+      <div class="stat-value blue" id="stat-total">—</div>
+      <div class="stat-label">Total Articles</div>
+    </div>
+    <div class="stat">
+      <div class="stat-value amber" id="stat-new">—</div>
+      <div class="stat-label">New This Hour</div>
+    </div>
+    <div class="stat">
+      <div class="stat-value" id="stat-sources">—</div>
+      <div class="stat-label">Sources</div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+
+  <div class="filter-bar">
+    <span class="filter-label">Filter:</span>
+    <button class="filter-btn active"          data-filter="relevant">Relevant</button>
+    <button class="filter-btn critical-filter" data-filter="critical">🚨 Critical</button>
+    <button class="filter-btn"                 data-filter="all">All</button>
+    <button class="filter-btn"                 data-filter="Ransomware">Ransomware</button>
+    <button class="filter-btn"                 data-filter="APT / Nation State">APT</button>
+    <button class="filter-btn"                 data-filter="Vulnerability">Vuln</button>
+    <button class="filter-btn"                 data-filter="Data Breach">Breach</button>
+    <button class="filter-btn"                 data-filter="ICS / OT">ICS/OT</button>
+    <button class="filter-btn"                 data-filter="Law Enforcement">Law</button>
+
+    <div class="search-box">
+      <span class="search-icon">⌕</span>
+      <input class="search-input" type="text" id="search" placeholder="Search articles...">
+    </div>
+  </div>
+
+  <div class="feed-grid" id="feed"></div>
+
+</div>
+
+<footer>
+  CYBER INTEL DASHBOARD — AUTO-UPDATED HOURLY — POWERED BY GITHUB ACTIONS + VERCEL
+</footer>
+
+<script>
+const CAT_CLASS = {
+  "APT / Nation State": "apt",
+  "Ransomware":         "ransomware",
+  "Vulnerability":      "vuln",
+  "Data Breach":        "breach",
+  "Malware":            "malware",
+  "ICS / OT":           "ics",
+  "Law Enforcement":    "law",
+  "Advisory":           "advisory",
+};
+
+let allItems = [];
+let activeFilter = "relevant";
+let searchQuery = "";
+
+function scoreClass(s) {
+  if (s >= 80) return "score-critical";
+  if (s >= 65) return "score-high";
+  if (s >= 50) return "score-medium";
+  return "score-low";
+}
+
+function cardLevel(item) {
+  if (item.critical) return "critical";
+  if (item.score >= 70) return "high";
+  if (item.score >= 50) return "medium";
+  return "";
+}
+
+function timeAgo(iso) {
+  const diff = (Date.now() - new Date(iso)) / 1000;
+  if (diff < 60)   return `${Math.round(diff)}s ago`;
+  if (diff < 3600) return `${Math.round(diff/60)}m ago`;
+  if (diff < 86400)return `${Math.round(diff/3600)}h ago`;
+  return `${Math.round(diff/86400)}d ago`;
+}
+
+function renderCards(items) {
+  const feed = document.getElementById("feed");
+  if (!items.length) {
+    feed.innerHTML = `<div class="empty"><div class="empty-icon">📡</div>No articles match this filter.</div>`;
+    return;
+  }
+  feed.innerHTML = items.slice(0, 120).map((item, i) => {
+    const cats = (item.categories || ["General"]);
+    const catTags = cats.map(c =>
+      `<span class="cat-tag ${CAT_CLASS[c]||''}">${c}</span>`
+    ).join("");
+    const level = cardLevel(item);
+    const sc = scoreClass(item.score);
+    const summary = (item.summary || "").replace(/<[^>]*>/g, "").slice(0, 200);
+
+    return `
+    <div class="card ${level}" style="animation-delay:${Math.min(i*0.03,0.6)}s">
+      <div class="card-top">
+        <span class="card-source">${item.source}</span>
+        <span class="score-badge ${sc}">${item.score}</span>
+      </div>
+      <div class="card-title">
+        <a href="${item.url}" target="_blank" rel="noopener">${item.title}</a>
+      </div>
+      ${summary ? `<div class="card-summary">${summary}</div>` : ""}
+      <div class="card-footer">
+        <div class="cats">${catTags}</div>
+        <div style="display:flex;gap:8px;align-items:center">
+          ${item.critical ? `<span class="critical-badge">⚡ Critical</span>` : ""}
+          <span class="card-time">${timeAgo(item.published)}</span>
+        </div>
+      </div>
+    </div>`;
+  }).join("");
+}
+
+function applyFilters() {
+  let items = allItems;
+
+  if (activeFilter === "relevant") {
+    items = items.filter(i => i.is_relevant);
+  } else if (activeFilter === "critical") {
+    items = items.filter(i => i.critical);
+  } else if (activeFilter !== "all") {
+    items = items.filter(i => (i.categories||[]).includes(activeFilter));
+  }
+
+  if (searchQuery) {
+    const q = searchQuery.toLowerCase();
+    items = items.filter(i =>
+      i.title.toLowerCase().includes(q) ||
+      (i.summary||"").toLowerCase().includes(q) ||
+      i.source.toLowerCase().includes(q)
+    );
+  }
+
+  renderCards(items);
+}
+
+async function loadData() {
+  try {
+    const res = await fetch(`data.json?t=${Date.now()}`);
+    const data = await res.json();
+
+    allItems = (data.items || []).sort((a,b) => new Date(b.published) - new Date(a.published));
+
+    const s = data.stats || {};
+    document.getElementById("stat-critical").textContent = s.critical ?? "—";
+    document.getElementById("stat-relevant").textContent = s.relevant ?? "—";
+    document.getElementById("stat-total").textContent    = s.total ?? "—";
+    document.getElementById("stat-new").textContent      = s.new_this_run ?? "—";
+    document.getElementById("stat-sources").textContent  = s.sources ?? "—";
+
+    if (data.updated) {
+      const d = new Date(data.updated);
+      document.getElementById("updated-time").textContent =
+        `Updated ${timeAgo(data.updated)}`;
+    }
+
+    document.getElementById("header-counts").textContent =
+      `${s.total || 0} articles / ${s.sources || 0} sources`;
+
+    applyFilters();
+  } catch(e) {
+    document.getElementById("feed").innerHTML =
+      `<div class="empty"><div class="empty-icon">⚠️</div>No data yet — run the scraper first via GitHub Actions.</div>`;
+    console.error(e);
+  }
+}
+
+// Filter buttons
+document.querySelectorAll(".filter-btn").forEach(btn => {
+  btn.addEventListener("click", () => {
+    document.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
+    btn.classList.add("active");
+    activeFilter = btn.dataset.filter;
+    applyFilters();
+  });
+});
+
+// Search
+document.getElementById("search").addEventListener("input", e => {
+  searchQuery = e.target.value.trim();
+  applyFilters();
+});
+
+// Load & auto-refresh every 5 minutes
+loadData();
+setInterval(loadData, 5 * 60 * 1000);
+</script>
+</body>
+</html>
