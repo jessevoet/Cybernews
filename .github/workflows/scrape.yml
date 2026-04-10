@@ -1,0 +1,44 @@
+name: Cyber Intel Scraper
+ 
+on:
+  schedule:
+    - cron: "0 * * * *"   # every hour on the hour
+  workflow_dispatch:        # allow manual trigger from GitHub UI
+ 
+permissions:
+  contents: write
+ 
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+ 
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+ 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+ 
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+ 
+      - name: Run scraper
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          cd scraper
+          python main.py
+ 
+      - name: Commit updated data
+        run: |
+          git config user.name  "cyber-intel-bot"
+          git config user.email "bot@cyber-intel"
+          git add data.json index.html
+          git diff --cached --quiet || git commit -m "chore: hourly intel update $(date -u +%Y-%m-%dT%H:%M)"
+          git push
