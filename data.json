@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: Squid Overfishing in the South Pacific",
+      "url": "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-squid-overfishing-in-the-south-pacific.html",
+      "summary": "<p>Regulation is <a href=\"https://news.mongabay.com/short-article/2026/03/the-squid-rush-in-the-south-pacific-is-forcing-regulators-to-act/\">hard</a>:</p>\n<blockquote><p>The South Pacific Regional Fisheries Management Organization (SPRFMO) oversees fishing across roughly 59 million square kilometers (22 million square miles) of the South Pacific high seas, trying to impose order on a region double the size of Africa, where distant-water fleets pursue species ranging from jack mackerel to jumbo f",
+      "source": "Schneier on Security",
+      "published": "2026-04-10T21:29:03.069511+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.58
+    },
+    {
       "title": "Thinking Outside The Box [dusted off draft from 2017]",
       "url": "https://projectzero.google/2025/12/thinking-outside-the-box.html",
       "summary": "Preface Hello from the future! This is a blogpost I originally drafted in early 2017. I wrote what I intended to be the first half of this post (about escaping from the VM to the VirtualBox host userspace process with CVE-2017-3558), but I never got around to writing the second half (going from the VirtualBox host userspace process to the host kernel), and eventually sorta forgot about this old post draft… But it seems a bit sad to just leave this old draft rotting around forever, so I decided t",
@@ -301,12 +316,12 @@
       "threshold": 11.41
     }
   ],
-  "updated": "2026-04-10T20:26:14.632870+00:00",
+  "updated": "2026-04-10T21:29:17.053636+00:00",
   "stats": {
-    "total": 20,
+    "total": 21,
     "relevant": 7,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
