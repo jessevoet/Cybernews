@@ -629,7 +629,8 @@ function applyFilters() {
 
 async function loadData() {
   try {
-    const res = await fetch(`data.json?t=${Date.now()}`);
+    //const res = await fetch(`data.json?t=${Date.now()}`);
+    const res = await fetch(`https://raw.githubusercontent.com/jessevoet/Cybernews/main/data.json?t=${Date.now()}`);
     const data = await res.json();
 
     allItems = (data.items || []).sort((a,b) => new Date(b.published) - new Date(a.published));
