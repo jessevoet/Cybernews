@@ -1,11 +1,312 @@
 {
-  "items": [],
-  "updated": null,
+  "items": [
+    {
+      "title": "Thinking Outside The Box [dusted off draft from 2017]",
+      "url": "https://projectzero.google/2025/12/thinking-outside-the-box.html",
+      "summary": "Preface Hello from the future! This is a blogpost I originally drafted in early 2017. I wrote what I intended to be the first half of this post (about escaping from the VM to the VirtualBox host userspace process with CVE-2017-3558), but I never got around to writing the second half (going from the VirtualBox host userspace process to the host kernel), and eventually sorta forgot about this old post draft… But it seems a bit sad to just leave this old draft rotting around forever, so I decided t",
+      "source": "Google Project Zero",
+      "published": "2026-04-10T14:48:57.301286+00:00",
+      "raw_score": 0.0,
+      "score": 30,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 11.41
+    },
+    {
+      "title": "Welcome to the new Project Zero Blog",
+      "url": "https://projectzero.google/2025/12/welcome.html",
+      "summary": "While on Project Zero, we aim for our research to be leading-edge, our blog design was … not so much. We welcome readers to our shiny new blog! For the occasion, we asked members of Project Zero to dust off old blog posts that never quite saw the light of day. And while we wish we could say the techniques they cover are no longer relevant, there is still a lot of work that needs to be done to protect users against zero days. Our new blog will continue to shine a light on the capabilities of atta",
+      "source": "Google Project Zero",
+      "published": "2026-04-10T14:48:57.301009+00:00",
+      "raw_score": 7.667557307079043,
+      "score": 58,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 11.41
+    },
+    {
+      "title": "A 0-click exploit chain for the Pixel 9 Part 1: Decoding Dolby",
+      "url": "https://projectzero.google/2026/01/pixel-0-click-part-1.html",
+      "summary": "Over the past few years, several AI-powered features have been added to mobile phones that allow users to better search and understand their messages. One effect of this change is increased 0-click attack surface, as efficient analysis often requires message media to be decoded before the message is opened by the user. One such feature is audio transcription. Incoming SMS and RCS audio attachments received by Google Messages are now automatically decoded with no user interaction. As a result, au",
+      "source": "Google Project Zero",
+      "published": "2026-04-10T14:48:57.300765+00:00",
+      "raw_score": 5.730955591634832,
+      "score": 51,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 11.41
+    },
+    {
+      "title": "A 0-click exploit chain for the Pixel 9 Part 2: Cracking the Sandbox with a Big Wave",
+      "url": "https://projectzero.google/2026/01/pixel-0-click-part-2.html",
+      "summary": "With the advent of a potential Dolby Unified Decoder RCE exploit, it seemed prudent to see what kind of Linux kernel drivers might be accessible from the resulting userland context, the mediacodec context. As per the AOSP documentation, the mediacodec SELinux context is intended to be a constrained (a.k.a sandboxed) context where non-secure software decoders are utilized. Nevertheless, using my DriverCartographer tool, I discovered an interesting device driver, /dev/bigwave that was accessible f",
+      "source": "Google Project Zero",
+      "published": "2026-04-10T14:48:57.300620+00:00",
+      "raw_score": 11.753280759741934,
+      "score": 73,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 11.41
+    },
+    {
+      "title": "A 0-click exploit chain for the Pixel 9 Part 3: Where do we go from here?",
+      "url": "https://projectzero.google/2026/01/pixel-0-click-part-3.html",
+      "summary": "While our previous two blog posts provided technical recommendations for increasing the effort required by attackers to develop 0-click exploit chains, our experience finding, reporting and exploiting these vulnerabilities highlighted some broader issues in the Android ecosystem. This post describes the problems we encountered and recommendations for improvement. Audio Attack Surface The Dolby UDC is part of the 0-click attack surface of most Android devices because of audio transcription in the",
+      "source": "Google Project Zero",
+      "published": "2026-04-10T14:48:57.300467+00:00",
+      "raw_score": 5.110162112899294,
+      "score": 49,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 11.41
+    },
+    {
+      "title": "Bypassing Windows Administrator Protection",
+      "url": "https://projectzero.google/2026/26/windows-administrator-protection.html",
+      "summary": "A headline feature introduced in the latest release of Windows 11, 25H2 is Administrator Protection. The goal of this feature is to replace User Account Control (UAC) with a more robust and importantly, securable system to allow a local user to access administrator privileges only when necessary. This blog post will give a brief overview of the new feature, how it works and how it’s different from UAC. I’ll then describe some of the security research I undertook while it was in the insider previ",
+      "source": "Google Project Zero",
+      "published": "2026-04-10T14:48:57.300313+00:00",
+      "raw_score": 1.6367111701533539,
+      "score": 36,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.41
+    },
+    {
+      "title": "Breaking the Sound Barrier, Part II: Exploiting CVE-2024-54529",
+      "url": "https://projectzero.google/2026/01/sound-barrier-2.html",
+      "summary": "In the first part of this series, I detailed my journey into macOS security research, which led to the discovery of a type confusion vulnerability (CVE-2024-54529) and a double-free vulnerability (CVE-2025-31235) in the coreaudiod system daemon through a process I call knowledge-driven fuzzing. While the first post focused on the process of finding the vulnerabilities, this post dives into the intricate process of exploiting the type confusion vulnerability. I’ll explain the technical details of",
+      "source": "Google Project Zero",
+      "published": "2026-04-10T14:48:57.300039+00:00",
+      "raw_score": 5.329471717586546,
+      "score": 50,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 11.41
+    },
+    {
+      "title": "Bypassing Administrator Protection by Abusing UI Access",
+      "url": "https://projectzero.google/2026/02/windows-administrator-protection.html",
+      "summary": "In my last blog post I introduced the new Windows feature, Administrator Protection and how it aimed to create a secure boundary for UAC where one didn’t exist. I described one of the ways I was able to bypass the feature before it was released. In total I found 9 bypasses during my research that have now all been fixed. In this blog post I wanted to describe the root cause of 5 of those 9 issues, specifically the implementation of UI Access, how this has been a long standing problem with UAC th",
+      "source": "Google Project Zero",
+      "published": "2026-04-10T14:48:57.299773+00:00",
+      "raw_score": 0.0,
+      "score": 30,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.41
+    },
+    {
+      "title": "A Deep Dive into the GetProcessHandleFromHwnd API",
+      "url": "https://projectzero.google/2026/02/gphfh-deep-dive.html",
+      "summary": "In my previous blog post I mentioned the GetProcessHandleFromHwnd API. This was an API I didn’t know existed until I found a publicly disclosed UAC bypass using the Quick Assist UI Access application. This API looked interesting so I thought I should take a closer look. I typically start by reading the documentation for an API I don’t know about, assuming it’s documented at all. It can give you an idea of how long the API has existed as well as its security properties. The documentation’s remark",
+      "source": "Google Project Zero",
+      "published": "2026-04-10T14:48:57.299503+00:00",
+      "raw_score": 1.5646663218057457,
+      "score": 36,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.41
+    },
+    {
+      "title": "On the Effectiveness of Mutational Grammar Fuzzing",
+      "url": "https://projectzero.google/2026/03/mutational-grammar-fuzzing.html",
+      "summary": "Mutational grammar fuzzing is a fuzzing technique in which the fuzzer uses a predefined grammar that describes the structure of the samples. When a sample gets mutated, the mutations happen in such a way that any resulting samples still adhere to the grammar rules, thus the structure of the samples gets maintained by the mutation process. In case of coverage-guided grammar fuzzing, if the resulting sample (after the mutation) triggers previously unseen code coverage, this sample is saved to the ",
+      "source": "Google Project Zero",
+      "published": "2026-04-10T14:48:57.299172+00:00",
+      "raw_score": 0.0,
+      "score": 30,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.41
+    },
+    {
+      "title": "US Bans All Foreign-Made Consumer Routers",
+      "url": "https://www.schneier.com/blog/archives/2026/04/us-bans-all-foreign-made-consumer-routers.html",
+      "summary": "<p>This is for <a href=\"https://docs.fcc.gov/public/attachments/DOC-420034A1.pdf\">new routers</a>; you don&#8217;t have to throw away your existing ones:</p>\n<blockquote><p>The Executive Branch determination noted that foreign-produced routers (1) introduce &#8220;a supply chain vulnerability that could disrupt the U.S. economy, critical infrastructure, and national defense&#8221; and (2) pose &#8220;a severe cybersecurity risk that could be leveraged to immediately and severely disrupt U.S. cri",
+      "source": "Schneier on Security",
+      "published": "2026-04-10T14:48:50.129162+00:00",
+      "raw_score": 14.011298536883556,
+      "score": 82,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "ICS / OT"
+      ],
+      "threshold": 11.41
+    },
+    {
+      "title": "Company that Secretly Records and Publishes Zoom Meetings",
+      "url": "https://www.schneier.com/blog/archives/2026/04/company-that-secretly-records-and-publishes-zoom-meetings.html",
+      "summary": "<p>WebinarTV searches the internet for public Zoom invites, joins the meetings, secretly records them, and <a href=\"https://www.404media.co/this-company-is-secretly-turning-your-zoom-calls-into-ai-podcasts/\">publishes</a> (alternate <a href=\"https://archive.ph/TYd4L\">link</a>) the recordings. It doesn&#8217;t use the Zoom record feature, so Zoom can&#8217;t do anything about it.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-04-10T14:48:50.128981+00:00",
+      "raw_score": 0.0,
+      "score": 30,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.41
+    },
+    {
+      "title": "Friday Squid Blogging: Jurassic Fish Chokes on Squid",
+      "url": "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-jurassic-fish-chokes-on-squid.html",
+      "summary": "<p>Here&#8217;s a <a href=\"https://timesofindia.indiatimes.com/etimes/animals/how-a-jurassic-fish-choked-to-death-on-a-floating-squid-150-million-years-ago/articleshow/129823852.cms\">fossil</a> of a 150-million year old fish that choked to death on a <i>belemnite rostrum</i>: the hard, internal shell of an extinct, squid-like animal.</p>\n<p>Original <a href=\"https://www.nature.com/articles/s41598-025-00163-7\">paper</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security",
+      "source": "Schneier on Security",
+      "published": "2026-04-10T14:48:50.128848+00:00",
+      "raw_score": 1.6483880631627712,
+      "score": 36,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.41
+    },
+    {
+      "title": "Google Wants to Transition to Post-Quantum Cryptography by 2029",
+      "url": "https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html",
+      "summary": "<p>Google <a href=\"https://blog.google/innovation-and-ai/technology/safety-security/cryptography-migration-timeline/\">says</a> that it will fully transition to post-quantum cryptography by 2029. I think this is a good move, not because I think we will have a useful quantum computer anywhere near that year, but because crypto-agility is always a good thing.</p>\n<p>Slashdot <a href=\"https://it.slashdot.org/story/26/03/27/2123239/google-moves-post-quantum-encryption-timeline-up-to-2029\">thread</a>.",
+      "source": "Schneier on Security",
+      "published": "2026-04-10T14:48:50.128618+00:00",
+      "raw_score": 0.0,
+      "score": 30,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.41
+    },
+    {
+      "title": "New Mexico’s Meta Ruling and Encryption",
+      "url": "https://www.schneier.com/blog/archives/2026/04/new-mexicos-meta-ruling-and-encryption.html",
+      "summary": "<p>Mike Masnick <a href=\"https://www.techdirt.com/2026/03/26/everyone-cheering-the-social-media-addiction-verdicts-against-meta-should-understand-what-theyre-actually-cheering-for/\">points out </a> that the recent New Mexico court ruling against Meta has some bad implications for end-to-end encryption, and security in general:</p>\n<blockquote><p>If the &#8220;design choices create liability&#8221; framework seems worrying in the abstract, the New Mexico case provides a concrete example of where ",
+      "source": "Schneier on Security",
+      "published": "2026-04-10T14:48:50.128365+00:00",
+      "raw_score": 1.7285465849375194,
+      "score": 36,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.41
+    },
+    {
+      "title": "Hong Kong Police Can Force You to Reveal Your Encryption Keys",
+      "url": "https://www.schneier.com/blog/archives/2026/04/hong-kong-police-can-force-you-to-reveal-your-encryption-keys.html",
+      "summary": "<p>According to a new law, the Hong Kong police can <a href=\"https://www.msn.com/en-us/news/world/ar-AA1ZwfSE\">demand</a> that you reveal the encryption keys protecting your computer, phone, hard drives, etc.&#8212;even if you are just transiting the airport.</p>\n<blockquote><p>In a security alert dated March 26, the U.S. Consulate General said that, on March 23, 2026, Hong Kong authorities changed the rules governing enforcement of the National Security Law. Under the revised framework, police ",
+      "source": "Schneier on Security",
+      "published": "2026-04-10T14:48:50.127872+00:00",
+      "raw_score": 1.5705630246456281,
+      "score": 36,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 11.41
+    },
+    {
+      "title": "Cybersecurity in the Age of Instant Software",
+      "url": "https://www.schneier.com/blog/archives/2026/04/cybersecurity-in-the-age-of-instant-software.html",
+      "summary": "<p>AI is rapidly changing how software is written, deployed, and used. Trends point to a future where AIs can write custom software quickly and easily: “instant software.” Taken to an extreme, it might become easier for a user to have an AI write an application on demand&#8212;a spreadsheet, for example&#8212;and delete it when you’re done using it than to buy one commercially. Future systems could include a mix: both traditional long-term software and ephemeral instant software that is constant",
+      "source": "Schneier on Security",
+      "published": "2026-04-10T14:48:50.127597+00:00",
+      "raw_score": 2.18776137468434,
+      "score": 38,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.41
+    },
+    {
+      "title": "Python Supply-Chain Compromise",
+      "url": "https://www.schneier.com/blog/archives/2026/04/python-supply-chain-compromise.html",
+      "summary": "<p>This is <a href=\"https://www.truesec.com/hub/blog/malicious-pypi-package-litellm-supply-chain-compromise\">news</a>:</p>\n<blockquote><p>A malicious supply chain compromise has been identified in the Python Package Index package litellm version 1.82.8. The published wheel contains a malicious .pth file (litellm_init.pth, 34,628 bytes) which is automatically executed by the Python interpreter on every startup, without requiring any explicit import of the litellm module.</p></blockquote>\n<p>There",
+      "source": "Schneier on Security",
+      "published": "2026-04-10T14:48:50.127096+00:00",
+      "raw_score": 0.0,
+      "score": 30,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.41
+    },
+    {
+      "title": "On Microsoft’s Lousy Cloud Security",
+      "url": "https://www.schneier.com/blog/archives/2026/04/on-microsofts-lousy-cloud-security.html",
+      "summary": "<p>ProPublica has a <a href=\"https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/\">scoop</a>:</p>\n<blockquote><p>In late 2024, the federal government&#8217;s cybersecurity evaluators rendered a troubling verdict on one of Microsoft&#8217;s biggest cloud computing offerings.</p>\n<p>The tech giant&#8217;s &#8220;lack of proper detailed security documentation&#8221; left reviewers with a &#8220;lack of confidence in ",
+      "source": "Schneier on Security",
+      "published": "2026-04-10T14:48:50.126854+00:00",
+      "raw_score": 9.123004034301605,
+      "score": 64,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.41
+    },
+    {
+      "title": "Sen. Sanders Talks to Claude About AI and Privacy",
+      "url": "https://www.schneier.com/blog/archives/2026/04/sen-sanders-talks-to-claude-about-ai-and-privacy.html",
+      "summary": "<p>Claude is actually <a href=\"https://www.youtube.com/watch?v=h3AtWdeu_G0\">pretty good</a> on the issues.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-04-10T14:48:50.126337+00:00",
+      "raw_score": 0.0,
+      "score": 30,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.41
+    }
+  ],
+  "updated": "2026-04-10T14:49:03.718888+00:00",
   "stats": {
-    "total": 0,
-    "relevant": 0,
-    "critical": 0,
-    "new_this_run": 0,
-    "sources": 0
+    "total": 20,
+    "relevant": 7,
+    "critical": 4,
+    "new_this_run": 20,
+    "sources": 2
   }
 }
