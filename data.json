@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Upcoming Speaking Engagements",
+      "url": "https://www.schneier.com/blog/archives/2026/04/upcoming-speaking-engagements-55.html",
+      "summary": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m speaking at <a href=\"https://www.democracyxchange.org/\">DemocracyXChange 2026</a> in Toronto, Ontario, Canada, on April 18, 2026.</li>\n<li>I’m speaking at the <a href=\"https://www.sans.org/cyber-security-training-events/ai-summit-2026\">SANS AI Cybersecurity Summit 2026</a> in Arlington, Virginia, USA, at 9:40 AM ET on April 20, 2026.</li>\n<li>I’m speaking at the <a href=\"https://nemertes.com/nemertes-next-virtu",
+      "source": "Schneier on Security",
+      "published": "2026-04-14T16:56:06.847535+00:00",
+      "raw_score": 2.4903491517123784,
+      "score": 38,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.73
+    },
+    {
       "title": "How Hackers Are Thinking About AI",
       "url": "https://www.schneier.com/blog/archives/2026/04/how-hackers-are-thinking-about-ai.html",
       "summary": "<p>Interesting paper: &#8220;<a href=\"https://arxiv.org/abs/2602.14783\">What hackers talk about when they talk about AI: Early-stage diffusion of a cybercrime innovation.</a>&#8221;</p>\n<blockquote><p><b>Abstract:</b> The rapid expansion of artificial intelligence (AI) is raising concerns about its potential to transform cybercrime. Beyond empowering novice offenders, AI stands to intensify the scale and sophistication of attacks by seasoned cybercriminals. This paper examines the evolving relat",
@@ -361,12 +376,12 @@
       "threshold": 11.41
     }
   ],
-  "updated": "2026-04-14T15:06:48.517808+00:00",
+  "updated": "2026-04-14T16:56:20.963092+00:00",
   "stats": {
-    "total": 24,
+    "total": 25,
     "relevant": 9,
     "critical": 5,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
