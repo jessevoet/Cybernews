@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Mythos and Cybersecurity",
+      "url": "https://www.schneier.com/blog/archives/2026/04/mythos-and-cybersecurity.html",
+      "summary": "<p>Last week, Anthropic pulled back the curtain on <a href=\"https://red.anthropic.com/2026/mythos-preview/\">Claude Mythos Preview</a>, an AI model so capable at finding and exploiting software vulnerabilities that the company <a href=\"https://globalnews.ca/news/11769446/anthropic-ai-model-too-powerful/\">decided</a> it was too dangerous to release to the public. Instead, access has been <a href=\"https://thehill.com/policy/technology/5824219-anthropic-new-ai-dangerous-public/\">restricted</a> to ro",
+      "source": "Schneier on Security",
+      "published": "2026-04-17T11:42:57.082474+00:00",
+      "raw_score": 2.299424053543465,
+      "score": 35,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 9.97
+    },
+    {
       "title": "Human Trust of AI Agents",
       "url": "https://www.schneier.com/blog/archives/2026/04/human-trust-of-ai-agents.html",
       "summary": "<p>Interesting research: &#8220;<a href=\"https://arxiv.org/pdf/2505.11011\">Humans expect rationality and cooperation from LLM opponents in strategic games</a>.&#8221;</p>\n<blockquote><p><b>Abstract:</b> As Large Language Models (LLMs) integrate into our social and economic interactions, we need to deepen our understanding of how humans respond to LLMs opponents in strategic settings. We present the results of the first controlled monetarily-incentivised laboratory experiment looking at differenc",
@@ -406,12 +421,12 @@
       "threshold": 11.41
     }
   ],
-  "updated": "2026-04-17T10:05:55.166126+00:00",
+  "updated": "2026-04-17T11:43:10.260623+00:00",
   "stats": {
-    "total": 27,
+    "total": 28,
     "relevant": 9,
     "critical": 5,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
