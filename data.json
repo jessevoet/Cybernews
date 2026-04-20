@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "AI Chatbots and Trust",
+      "url": "https://www.schneier.com/blog/archives/2026/04/ai-chatbots-and-trust.html",
+      "summary": "<p>All the leading AI chatbots are sycophantic, and that&#8217;s a <a href=\"https://aiforautomation.io/news/2026-03-27-stanford-study-ai-chatbots-flatter-users-49-percent-more-bad-advice\">problem</a>:</p>\n<blockquote><p>Participants rated sycophantic AI responses as more trustworthy than balanced ones. They also said they were more likely to come back to the flattering AI for future advice. And critically ­ they couldn&#8217;t tell the difference between sycophantic and objective responses. Both",
+      "source": "Schneier on Security",
+      "published": "2026-04-20T11:12:42.639507+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 9.15
+    },
+    {
+      "title": "Is “Satoshi Nakamoto” Really Adam Back?",
+      "url": "https://www.schneier.com/blog/archives/2026/04/is-satoshi-nakamoto-really-adam-back.html",
+      "summary": "<p>The <i>New York Times</i> has a <a href=\"https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html\">long article</a> where the author lays out an impressive array of circumstantial evidence that the inventor of Bitcoin is the cypherpunk Adam Back.</p>\n<p>I don&#8217;t know. The article is convincing, but it&#8217;s written to be convincing.</p>\n<p>I can&#8217;t remember if I ever met Adam. I was a member of the Cypherpunks mailing list for a while, but I was",
+      "source": "Schneier on Security",
+      "published": "2026-04-20T11:12:42.637919+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.15
+    },
+    {
       "title": "Friday Squid Blogging: Squid Overfishing in the South Pacific",
       "url": "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-squid-overfishing-in-the-south-pacific.html",
       "summary": "<p>Regulation is <a href=\"https://news.mongabay.com/short-article/2026/03/the-squid-rush-in-the-south-pacific-is-forcing-regulators-to-act/\">hard</a>:</p>\n<blockquote><p>The South Pacific Regional Fisheries Management Organization (SPRFMO) oversees fishing across roughly 59 million square kilometers (22 million square miles) of the South Pacific high seas, trying to impose order on a region double the size of Africa, where distant-water fleets pursue species ranging from jack mackerel to jumbo f",
@@ -299,29 +329,14 @@
         "Advisory"
       ],
       "threshold": 9.75
-    },
-    {
-      "title": "AI Chatbots and Trust",
-      "url": "https://www.schneier.com/blog/archives/2026/04/ai-chatbots-and-trust.html",
-      "summary": "<p>All the leading AI chatbots are sycophantic, and that&#8217;s a <a href=\"https://aiforautomation.io/news/2026-03-27-stanford-study-ai-chatbots-flatter-users-49-percent-more-bad-advice\">problem</a>:</p>\n<blockquote><p>Participants rated sycophantic AI responses as more trustworthy than balanced ones. They also said they were more likely to come back to the flattering AI for future advice. And critically ­ they couldn&#8217;t tell the difference between sycophantic and objective responses. Both",
-      "source": "Schneier on Security",
-      "published": "2026-04-13T11:09:41.808836+00:00",
-      "raw_score": 0.0,
-      "score": 29,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 9.58
     }
   ],
-  "updated": "2026-04-20T09:49:59.058506+00:00",
+  "updated": "2026-04-20T11:12:56.500354+00:00",
   "stats": {
-    "total": 21,
+    "total": 22,
     "relevant": 7,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
