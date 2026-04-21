@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "How Hackers Are Thinking About AI",
+      "url": "https://www.schneier.com/blog/archives/2026/04/how-hackers-are-thinking-about-ai.html",
+      "summary": "<p>Interesting paper: &#8220;<a href=\"https://arxiv.org/abs/2602.14783\">What hackers talk about when they talk about AI: Early-stage diffusion of a cybercrime innovation.</a>&#8221;</p>\n<blockquote><p><b>Abstract:</b> The rapid expansion of artificial intelligence (AI) is raising concerns about its potential to transform cybercrime. Beyond empowering novice offenders, AI stands to intensify the scale and sophistication of attacks by seasoned cybercriminals. This paper examines the evolving relat",
+      "source": "Schneier on Security",
+      "published": "2026-04-21T11:54:11.945266+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.15
+    },
+    {
+      "title": "Mexican Surveillance Company",
+      "url": "https://www.schneier.com/blog/archives/2026/04/mexican-surveillance-company.html",
+      "summary": "<p><a href=\"https://restofworld.org/2026/mexico-seguritech-government-surveillance-profile/\">Grupo Seguritech</a> is a Mexican surveillance company that is expanding into the US.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-04-21T11:54:11.943892+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.15
+    },
+    {
       "title": "On Anthropic’s Mythos Preview and Project Glasswing",
       "url": "https://www.schneier.com/blog/archives/2026/04/on-anthropics-mythos-preview-and-project-glasswing.html",
       "summary": "<p>The cybersecurity industry is obsessing over Anthropic&#8217;s new model, Claude Mythos Preview, and its effects on cybersecurity. Anthropic said that it is <a href=\"https://red.anthropic.com/2026/mythos-preview/\">not releasing it</a> to the general public because of its cyberattack capabilities, and has launched <a href=\"https://www.anthropic.com/glasswing\">Project Glasswing</a> to run the model against a whole slew of public domain and proprietary software, with the aim of finding and patch",
@@ -314,29 +344,14 @@
         "General"
       ],
       "threshold": 9.73
-    },
-    {
-      "title": "How Hackers Are Thinking About AI",
-      "url": "https://www.schneier.com/blog/archives/2026/04/how-hackers-are-thinking-about-ai.html",
-      "summary": "<p>Interesting paper: &#8220;<a href=\"https://arxiv.org/abs/2602.14783\">What hackers talk about when they talk about AI: Early-stage diffusion of a cybercrime innovation.</a>&#8221;</p>\n<blockquote><p><b>Abstract:</b> The rapid expansion of artificial intelligence (AI) is raising concerns about its potential to transform cybercrime. Beyond empowering novice offenders, AI stands to intensify the scale and sophistication of attacks by seasoned cybercriminals. This paper examines the evolving relat",
-      "source": "Schneier on Security",
-      "published": "2026-04-14T11:52:18.695555+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.75
     }
   ],
-  "updated": "2026-04-21T10:12:05.696949+00:00",
+  "updated": "2026-04-21T11:54:25.353525+00:00",
   "stats": {
-    "total": 22,
+    "total": 23,
     "relevant": 7,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
