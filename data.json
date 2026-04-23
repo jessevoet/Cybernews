@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "FBI Extracts Deleted Signal Messages from iPhone Notification Database",
+      "url": "https://www.schneier.com/blog/archives/2026/04/fbi-extracts-deleted-signal-messages-from-iphone-notification-database.html",
+      "summary": "<p>404 Media <a href=\"https://www.404media.co/fbi-extracts-suspects-deleted-signal-messages-saved-in-iphone-notification-database-2/\">reports</a> (alternate <a href=\"https://archive.ph/bSQhD\">site</a>):</p>\n<blockquote><p>The FBI was able to forensically extract copies of incoming Signal messages from a defendant’s iPhone, even after the app was deleted, because copies of the content were saved in the device’s push notification database&#8230;.</p>\n<p>The news shows how forensic extraction&#8212",
+      "source": "Schneier on Security",
+      "published": "2026-04-23T11:54:11.057384+00:00",
+      "raw_score": 3.292291943456095,
+      "score": 43,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Law Enforcement"
+      ],
+      "threshold": 8.9
+    },
+    {
       "title": "Human Trust of AI Agents",
       "url": "https://www.schneier.com/blog/archives/2026/04/human-trust-of-ai-agents.html",
       "summary": "<p>Interesting research: &#8220;<a href=\"https://arxiv.org/pdf/2505.11011\">Humans expect rationality and cooperation from LLM opponents in strategic games</a>.&#8221;</p>\n<blockquote><p><b>Abstract:</b> As Large Language Models (LLMs) integrate into our social and economic interactions, we need to deepen our understanding of how humans respond to LLMs opponents in strategic settings. We present the results of the first controlled monetarily-incentivised laboratory experiment looking at differenc",
@@ -361,9 +376,9 @@
       "threshold": 9.97
     }
   ],
-  "updated": "2026-04-23T10:21:51.312232+00:00",
+  "updated": "2026-04-23T11:54:25.226193+00:00",
   "stats": {
-    "total": 24,
+    "total": 25,
     "relevant": 8,
     "critical": 3,
     "new_this_run": 1,
