@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Mythos and Cybersecurity",
+      "url": "https://www.schneier.com/blog/archives/2026/04/mythos-and-cybersecurity.html",
+      "summary": "<p>Last week, Anthropic pulled back the curtain on <a href=\"https://red.anthropic.com/2026/mythos-preview/\">Claude Mythos Preview</a>, an AI model so capable at finding and exploiting software vulnerabilities that the company <a href=\"https://globalnews.ca/news/11769446/anthropic-ai-model-too-powerful/\">decided</a> it was too dangerous to release to the public. Instead, access has been <a href=\"https://thehill.com/policy/technology/5824219-anthropic-new-ai-dangerous-public/\">restricted</a> to ro",
+      "source": "Schneier on Security",
+      "published": "2026-04-24T11:56:52.874625+00:00",
+      "raw_score": 2.299424053543465,
+      "score": 37,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 8.82
+    },
+    {
+      "title": "Hiding Bluetooth Trackers in Mail",
+      "url": "https://www.schneier.com/blog/archives/2026/04/hiding-bluetooth-trackers-in-mail.html",
+      "summary": "<p>It was used to <a href=\"https://www.tomshardware.com/tech-industry/cyber-security/bluetooth-tracker-hidden-in-a-postcard-and-mailed-to-a-warship-exposed-its-location-a-eur5-gadget-put-a-eur500-million-dutch-ship-at-risk-for-24-hours\">track</a> a Dutch naval ship:</p>\n<blockquote><p>Dutch journalist Just Vervaart, working for regional media network Omroep Gelderland, followed the directions posted on the Dutch government website and mailed a postcard with a hidden tracker inside. Because of th",
+      "source": "Schneier on Security",
+      "published": "2026-04-24T11:56:52.873557+00:00",
+      "raw_score": 5.47221458336799,
+      "score": 54,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.82
+    },
+    {
       "title": "FBI Extracts Deleted Signal Messages from iPhone Notification Database",
       "url": "https://www.schneier.com/blog/archives/2026/04/fbi-extracts-deleted-signal-messages-from-iphone-notification-database.html",
       "summary": "<p>404 Media <a href=\"https://www.404media.co/fbi-extracts-suspects-deleted-signal-messages-saved-in-iphone-notification-database-2/\">reports</a> (alternate <a href=\"https://archive.ph/bSQhD\">site</a>):</p>\n<blockquote><p>The FBI was able to forensically extract copies of incoming Signal messages from a defendant’s iPhone, even after the app was deleted, because copies of the content were saved in the device’s push notification database&#8230;.</p>\n<p>The news shows how forensic extraction&#8212",
@@ -359,29 +389,14 @@
         "General"
       ],
       "threshold": 9.97
-    },
-    {
-      "title": "Mythos and Cybersecurity",
-      "url": "https://www.schneier.com/blog/archives/2026/04/mythos-and-cybersecurity.html",
-      "summary": "<p>Last week, Anthropic pulled back the curtain on <a href=\"https://red.anthropic.com/2026/mythos-preview/\">Claude Mythos Preview</a>, an AI model so capable at finding and exploiting software vulnerabilities that the company <a href=\"https://globalnews.ca/news/11769446/anthropic-ai-model-too-powerful/\">decided</a> it was too dangerous to release to the public. Instead, access has been <a href=\"https://thehill.com/policy/technology/5824219-anthropic-new-ai-dangerous-public/\">restricted</a> to ro",
-      "source": "Schneier on Security",
-      "published": "2026-04-17T11:42:57.082474+00:00",
-      "raw_score": 2.299424053543465,
-      "score": 35,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 9.97
     }
   ],
-  "updated": "2026-04-24T10:58:37.505063+00:00",
+  "updated": "2026-04-24T11:57:05.418427+00:00",
   "stats": {
-    "total": 25,
-    "relevant": 8,
+    "total": 26,
+    "relevant": 9,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
