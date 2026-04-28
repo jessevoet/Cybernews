@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Mexican Surveillance Company",
+      "url": "https://www.schneier.com/blog/archives/2026/04/mexican-surveillance-company.html",
+      "summary": "<p><a href=\"https://restofworld.org/2026/mexico-seguritech-government-surveillance-profile/\">Grupo Seguritech</a> is a Mexican surveillance company that is expanding into the US.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-04-28T12:20:54.663431+00:00",
+      "raw_score": 0.0,
+      "score": 24,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.84
+    },
+    {
+      "title": "What Anthropic’s Mythos Means for the Future of Cybersecurity",
+      "url": "https://www.schneier.com/blog/archives/2026/04/what-anthropics-mythos-means-for-the-future-of-cybersecurity.html",
+      "summary": "<p>Two weeks ago, Anthropic <a href=\"https://red.anthropic.com/2026/mythos-preview/\">announced</a> that its new model, Claude Mythos Preview, can autonomously find and weaponize software vulnerabilities, turning them into working exploits without expert guidance. These were vulnerabilities in key software like operating systems and internet infrastructure that thousands of software developers working on those systems failed to find. This capability will have major security implications, compromi",
+      "source": "Schneier on Security",
+      "published": "2026-04-28T12:20:54.662519+00:00",
+      "raw_score": 3.852367498613269,
+      "score": 45,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 8.84
+    },
+    {
       "title": "Is “Satoshi Nakamoto” Really Adam Back?",
       "url": "https://www.schneier.com/blog/archives/2026/04/is-satoshi-nakamoto-really-adam-back.html",
       "summary": "<p>The <i>New York Times</i> has a <a href=\"https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html\">long article</a> where the author lays out an impressive array of circumstantial evidence that the inventor of Bitcoin is the cypherpunk Adam Back.</p>\n<p>I don&#8217;t know. The article is convincing, but it&#8217;s written to be convincing.</p>\n<p>I can&#8217;t remember if I ever met Adam. I was a member of the Cypherpunks mailing list for a while, but I was",
@@ -314,44 +344,14 @@
         "General"
       ],
       "threshold": 9.15
-    },
-    {
-      "title": "How Hackers Are Thinking About AI",
-      "url": "https://www.schneier.com/blog/archives/2026/04/how-hackers-are-thinking-about-ai.html",
-      "summary": "<p>Interesting paper: &#8220;<a href=\"https://arxiv.org/abs/2602.14783\">What hackers talk about when they talk about AI: Early-stage diffusion of a cybercrime innovation.</a>&#8221;</p>\n<blockquote><p><b>Abstract:</b> The rapid expansion of artificial intelligence (AI) is raising concerns about its potential to transform cybercrime. Beyond empowering novice offenders, AI stands to intensify the scale and sophistication of attacks by seasoned cybercriminals. This paper examines the evolving relat",
-      "source": "Schneier on Security",
-      "published": "2026-04-21T11:54:11.945266+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.15
-    },
-    {
-      "title": "Mexican Surveillance Company",
-      "url": "https://www.schneier.com/blog/archives/2026/04/mexican-surveillance-company.html",
-      "summary": "<p><a href=\"https://restofworld.org/2026/mexico-seguritech-government-surveillance-profile/\">Grupo Seguritech</a> is a Mexican surveillance company that is expanding into the US.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-04-21T11:54:11.943892+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.15
     }
   ],
-  "updated": "2026-04-28T10:55:15.449905+00:00",
+  "updated": "2026-04-28T12:21:07.650055+00:00",
   "stats": {
     "total": 23,
     "relevant": 7,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
