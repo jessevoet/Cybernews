@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "ICE Uses Graphite Spyware",
+      "url": "https://www.schneier.com/blog/archives/2026/04/ice-uses-graphite-spyware.html",
+      "summary": "<p>ICE has <a href=\"https://www.npr.org/2026/04/07/nx-s1-5776799/ice-spyware-privacy\">admitted</a> that it uses spyware from the Israeli company Graphite.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-04-29T12:11:10.809207+00:00",
+      "raw_score": 5.776347409806229,
+      "score": 56,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Malware"
+      ],
+      "threshold": 8.86
+    },
+    {
       "title": "Claude Mythos Has Found 271 Zero-Days in Firefox",
       "url": "https://www.schneier.com/blog/archives/2026/04/claude-mythos-has-found-271-zero-days-in-firefox.html",
       "summary": "<p>That&#8217;s <a href=\"https://blog.mozilla.org/en/firefox/ai-security-zero-day-vulnerabilities/\">a lot</a>. No, it&#8217;s an extraordinary number:</p>\n<blockquote><p>Since February, the Firefox team has been working around the clock using frontier AI models to find and fix latent security vulnerabilities in the browser. We wrote previously about our collaboration with Anthropic to scan Firefox with Opus 4.6, which led to fixes for 22 security-sensitive bugs in Firefox 148.</p>\n<p>As part of ",
@@ -314,41 +329,11 @@
         "General"
       ],
       "threshold": 9.08
-    },
-    {
-      "title": "Defense in Depth, Medieval Style",
-      "url": "https://www.schneier.com/blog/archives/2026/04/defense-in-depth-medieval-style.html",
-      "summary": "<p>This <a href=\"https://turkisharchaeonews.net/object/theodosian-land-walls-constantinople\">article</a> on the walls of Constantinople is fascinating.</p>\n<blockquote><p>The system comprised four defensive lines arranged in formidable layers:</p>\n<ul>\n<li>The brick-lined ditch, divided by bulkheads and often flooded, 15­-20 meters wide and up to 7 meters deep.\n<li>A low breastwork, about 2 meters high, enabling defenders to fire freely from behind.\n<li>The outer wall, 8 meters tall and 2.8 mete",
-      "source": "Schneier on Security",
-      "published": "2026-04-22T11:53:08.682760+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.08
-    },
-    {
-      "title": "ICE Uses Graphite Spyware",
-      "url": "https://www.schneier.com/blog/archives/2026/04/ice-uses-graphite-spyware.html",
-      "summary": "<p>ICE has <a href=\"https://www.npr.org/2026/04/07/nx-s1-5776799/ice-spyware-privacy\">admitted</a> that it uses spyware from the Israeli company Graphite.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-04-22T11:53:08.681727+00:00",
-      "raw_score": 5.776347409806229,
-      "score": 55,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Malware"
-      ],
-      "threshold": 9.08
     }
   ],
-  "updated": "2026-04-29T10:46:40.529577+00:00",
+  "updated": "2026-04-29T12:11:23.519582+00:00",
   "stats": {
-    "total": 23,
+    "total": 22,
     "relevant": 8,
     "critical": 3,
     "new_this_run": 1,
