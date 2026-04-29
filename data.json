@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Claude Mythos Has Found 271 Zero-Days in Firefox",
+      "url": "https://www.schneier.com/blog/archives/2026/04/claude-mythos-has-found-271-zero-days-in-firefox.html",
+      "summary": "<p>That&#8217;s <a href=\"https://blog.mozilla.org/en/firefox/ai-security-zero-day-vulnerabilities/\">a lot</a>. No, it&#8217;s an extraordinary number:</p>\n<blockquote><p>Since February, the Firefox team has been working around the clock using frontier AI models to find and fix latent security vulnerabilities in the browser. We wrote previously about our collaboration with Anthropic to scan Firefox with Opus 4.6, which led to fixes for 22 security-sensitive bugs in Firefox 148.</p>\n<p>As part of ",
+      "source": "Schneier on Security",
+      "published": "2026-04-29T10:46:25.061255+00:00",
+      "raw_score": 1.5971133192625468,
+      "score": 33,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 8.86
+    },
+    {
       "title": "Mexican Surveillance Company",
       "url": "https://www.schneier.com/blog/archives/2026/04/mexican-surveillance-company.html",
       "summary": "<p><a href=\"https://restofworld.org/2026/mexico-seguritech-government-surveillance-profile/\">Grupo Seguritech</a> is a Mexican surveillance company that is expanding into the US.</p>",
@@ -331,12 +346,12 @@
       "threshold": 9.08
     }
   ],
-  "updated": "2026-04-29T08:01:03.755900+00:00",
+  "updated": "2026-04-29T10:46:40.529577+00:00",
   "stats": {
-    "total": 22,
-    "relevant": 7,
-    "critical": 2,
-    "new_this_run": 0,
+    "total": 23,
+    "relevant": 8,
+    "critical": 3,
+    "new_this_run": 1,
     "sources": 2
   }
 }
