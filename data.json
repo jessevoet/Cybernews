@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "FBI Extracts Deleted Signal Messages from iPhone Notification Database",
+      "url": "https://www.schneier.com/blog/archives/2026/04/fbi-extracts-deleted-signal-messages-from-iphone-notification-database.html",
+      "summary": "<p>404 Media <a href=\"https://www.404media.co/fbi-extracts-suspects-deleted-signal-messages-saved-in-iphone-notification-database-2/\">reports</a> (alternate <a href=\"https://archive.ph/bSQhD\">site</a>):</p>\n<blockquote><p>The FBI was able to forensically extract copies of incoming Signal messages from a defendant’s iPhone, even after the app was deleted, because copies of the content were saved in the device’s push notification database&#8230;.</p>\n<p>The news shows how forensic extraction&#8212",
+      "source": "Schneier on Security",
+      "published": "2026-04-30T12:08:31.203891+00:00",
+      "raw_score": 3.292291943456095,
+      "score": 41,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Law Enforcement"
+      ],
+      "threshold": 8.87
+    },
+    {
       "title": "Fast16 Malware",
       "url": "https://www.schneier.com/blog/archives/2026/04/fast16-malware.html",
       "summary": "<p>Researchers have reverse-engineered a piece of malware named Fast16. It&#8217;s almost certainly state-sponsored, probably US in origin, and was <a href=\"https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/?_sp=72d58355-e351-43ad-ba73-bc2b546a30a0.1777128353268\">deployed</a> against Iran years before Stuxnet:</p>\n<blockquote><p>&#8220;&#8230;the Fast16 malware was designed to carry out the most subtle form of sabotage ever seen in an in-the-wild malware tool: By a",
@@ -314,24 +329,9 @@
         "General"
       ],
       "threshold": 8.82
-    },
-    {
-      "title": "FBI Extracts Deleted Signal Messages from iPhone Notification Database",
-      "url": "https://www.schneier.com/blog/archives/2026/04/fbi-extracts-deleted-signal-messages-from-iphone-notification-database.html",
-      "summary": "<p>404 Media <a href=\"https://www.404media.co/fbi-extracts-suspects-deleted-signal-messages-saved-in-iphone-notification-database-2/\">reports</a> (alternate <a href=\"https://archive.ph/bSQhD\">site</a>):</p>\n<blockquote><p>The FBI was able to forensically extract copies of incoming Signal messages from a defendant’s iPhone, even after the app was deleted, because copies of the content were saved in the device’s push notification database&#8230;.</p>\n<p>The news shows how forensic extraction&#8212",
-      "source": "Schneier on Security",
-      "published": "2026-04-23T11:54:11.057384+00:00",
-      "raw_score": 3.292291943456095,
-      "score": 43,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Law Enforcement"
-      ],
-      "threshold": 8.9
     }
   ],
-  "updated": "2026-04-30T10:46:39.943140+00:00",
+  "updated": "2026-04-30T12:08:44.375057+00:00",
   "stats": {
     "total": 22,
     "relevant": 8,
