@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Fast16 Malware",
+      "url": "https://www.schneier.com/blog/archives/2026/04/fast16-malware.html",
+      "summary": "<p>Researchers have reverse-engineered a piece of malware named Fast16. It&#8217;s almost certainly state-sponsored, probably US in origin, and was <a href=\"https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/?_sp=72d58355-e351-43ad-ba73-bc2b546a30a0.1777128353268\">deployed</a> against Iran years before Stuxnet:</p>\n<blockquote><p>&#8220;&#8230;the Fast16 malware was designed to carry out the most subtle form of sabotage ever seen in an in-the-wild malware tool: By a",
+      "source": "Schneier on Security",
+      "published": "2026-04-30T10:46:21.509316+00:00",
+      "raw_score": 4.35176499187716,
+      "score": 47,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Malware"
+      ],
+      "threshold": 8.87
+    },
+    {
       "title": "ICE Uses Graphite Spyware",
       "url": "https://www.schneier.com/blog/archives/2026/04/ice-uses-graphite-spyware.html",
       "summary": "<p>ICE has <a href=\"https://www.npr.org/2026/04/07/nx-s1-5776799/ice-spyware-privacy\">admitted</a> that it uses spyware from the Israeli company Graphite.</p>",
@@ -314,29 +329,14 @@
         "Law Enforcement"
       ],
       "threshold": 8.9
-    },
-    {
-      "title": "Human Trust of AI Agents",
-      "url": "https://www.schneier.com/blog/archives/2026/04/human-trust-of-ai-agents.html",
-      "summary": "<p>Interesting research: &#8220;<a href=\"https://arxiv.org/pdf/2505.11011\">Humans expect rationality and cooperation from LLM opponents in strategic games</a>.&#8221;</p>\n<blockquote><p><b>Abstract:</b> As Large Language Models (LLMs) integrate into our social and economic interactions, we need to deepen our understanding of how humans respond to LLMs opponents in strategic settings. We present the results of the first controlled monetarily-incentivised laboratory experiment looking at differenc",
-      "source": "Schneier on Security",
-      "published": "2026-04-23T10:21:36.951046+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.08
     }
   ],
-  "updated": "2026-04-30T08:04:41.083953+00:00",
+  "updated": "2026-04-30T10:46:39.943140+00:00",
   "stats": {
     "total": 22,
     "relevant": 8,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
