@@ -1,6 +1,156 @@
 {
   "items": [
     {
+      "title": "Thinking Outside The Box [dusted off draft from 2017]",
+      "url": "https://projectzero.google/2025/12/thinking-outside-the-box.html",
+      "summary": "Preface Hello from the future! This is a blogpost I originally drafted in early 2017. I wrote what I intended to be the first half of this post (about escaping from the VM to the VirtualBox host userspace process with CVE-2017-3558), but I never got around to writing the second half (going from the VirtualBox host userspace process to the host kernel), and eventually sorta forgot about this old post draft… But it seems a bit sad to just leave this old draft rotting around forever, so I decided t",
+      "source": "Google Project Zero",
+      "published": "2026-05-01T17:50:35.224280+00:00",
+      "raw_score": 0.0,
+      "score": 21,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 8.71
+    },
+    {
+      "title": "Welcome to the new Project Zero Blog",
+      "url": "https://projectzero.google/2025/12/welcome.html",
+      "summary": "While on Project Zero, we aim for our research to be leading-edge, our blog design was … not so much. We welcome readers to our shiny new blog! For the occasion, we asked members of Project Zero to dust off old blog posts that never quite saw the light of day. And while we wish we could say the techniques they cover are no longer relevant, there is still a lot of work that needs to be done to protect users against zero days. Our new blog will continue to shine a light on the capabilities of atta",
+      "source": "Google Project Zero",
+      "published": "2026-05-01T17:50:35.224085+00:00",
+      "raw_score": 7.667557307079043,
+      "score": 66,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 8.71
+    },
+    {
+      "title": "A 0-click exploit chain for the Pixel 9 Part 1: Decoding Dolby",
+      "url": "https://projectzero.google/2026/01/pixel-0-click-part-1.html",
+      "summary": "Over the past few years, several AI-powered features have been added to mobile phones that allow users to better search and understand their messages. One effect of this change is increased 0-click attack surface, as efficient analysis often requires message media to be decoded before the message is opened by the user. One such feature is audio transcription. Incoming SMS and RCS audio attachments received by Google Messages are now automatically decoded with no user interaction. As a result, au",
+      "source": "Google Project Zero",
+      "published": "2026-05-01T17:50:35.223887+00:00",
+      "raw_score": 5.730955591634832,
+      "score": 55,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 8.71
+    },
+    {
+      "title": "A 0-click exploit chain for the Pixel 9 Part 2: Cracking the Sandbox with a Big Wave",
+      "url": "https://projectzero.google/2026/01/pixel-0-click-part-2.html",
+      "summary": "With the advent of a potential Dolby Unified Decoder RCE exploit, it seemed prudent to see what kind of Linux kernel drivers might be accessible from the resulting userland context, the mediacodec context. As per the AOSP documentation, the mediacodec SELinux context is intended to be a constrained (a.k.a sandboxed) context where non-secure software decoders are utilized. Nevertheless, using my DriverCartographer tool, I discovered an interesting device driver, /dev/bigwave that was accessible f",
+      "source": "Google Project Zero",
+      "published": "2026-05-01T17:50:35.223776+00:00",
+      "raw_score": 11.753280759741934,
+      "score": 90,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 8.71
+    },
+    {
+      "title": "A 0-click exploit chain for the Pixel 9 Part 3: Where do we go from here?",
+      "url": "https://projectzero.google/2026/01/pixel-0-click-part-3.html",
+      "summary": "While our previous two blog posts provided technical recommendations for increasing the effort required by attackers to develop 0-click exploit chains, our experience finding, reporting and exploiting these vulnerabilities highlighted some broader issues in the Android ecosystem. This post describes the problems we encountered and recommendations for improvement. Audio Attack Surface The Dolby UDC is part of the 0-click attack surface of most Android devices because of audio transcription in the",
+      "source": "Google Project Zero",
+      "published": "2026-05-01T17:50:35.223659+00:00",
+      "raw_score": 5.110162112899294,
+      "score": 51,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 8.71
+    },
+    {
+      "title": "Bypassing Windows Administrator Protection",
+      "url": "https://projectzero.google/2026/26/windows-administrator-protection.html",
+      "summary": "A headline feature introduced in the latest release of Windows 11, 25H2 is Administrator Protection. The goal of this feature is to replace User Account Control (UAC) with a more robust and importantly, securable system to allow a local user to access administrator privileges only when necessary. This blog post will give a brief overview of the new feature, how it works and how it’s different from UAC. I’ll then describe some of the security research I undertook while it was in the insider previ",
+      "source": "Google Project Zero",
+      "published": "2026-05-01T17:50:35.223542+00:00",
+      "raw_score": 1.6367111701533539,
+      "score": 31,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.71
+    },
+    {
+      "title": "Breaking the Sound Barrier, Part II: Exploiting CVE-2024-54529",
+      "url": "https://projectzero.google/2026/01/sound-barrier-2.html",
+      "summary": "In the first part of this series, I detailed my journey into macOS security research, which led to the discovery of a type confusion vulnerability (CVE-2024-54529) and a double-free vulnerability (CVE-2025-31235) in the coreaudiod system daemon through a process I call knowledge-driven fuzzing. While the first post focused on the process of finding the vulnerabilities, this post dives into the intricate process of exploiting the type confusion vulnerability. I’ll explain the technical details of",
+      "source": "Google Project Zero",
+      "published": "2026-05-01T17:50:35.223349+00:00",
+      "raw_score": 5.329471717586546,
+      "score": 52,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 8.71
+    },
+    {
+      "title": "Bypassing Administrator Protection by Abusing UI Access",
+      "url": "https://projectzero.google/2026/02/windows-administrator-protection.html",
+      "summary": "In my last blog post I introduced the new Windows feature, Administrator Protection and how it aimed to create a secure boundary for UAC where one didn’t exist. I described one of the ways I was able to bypass the feature before it was released. In total I found 9 bypasses during my research that have now all been fixed. In this blog post I wanted to describe the root cause of 5 of those 9 issues, specifically the implementation of UI Access, how this has been a long standing problem with UAC th",
+      "source": "Google Project Zero",
+      "published": "2026-05-01T17:50:35.223144+00:00",
+      "raw_score": 0.0,
+      "score": 21,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.71
+    },
+    {
+      "title": "A Deep Dive into the GetProcessHandleFromHwnd API",
+      "url": "https://projectzero.google/2026/02/gphfh-deep-dive.html",
+      "summary": "In my previous blog post I mentioned the GetProcessHandleFromHwnd API. This was an API I didn’t know existed until I found a publicly disclosed UAC bypass using the Quick Assist UI Access application. This API looked interesting so I thought I should take a closer look. I typically start by reading the documentation for an API I don’t know about, assuming it’s documented at all. It can give you an idea of how long the API has existed as well as its security properties. The documentation’s remark",
+      "source": "Google Project Zero",
+      "published": "2026-05-01T17:50:35.222922+00:00",
+      "raw_score": 1.5646663218057457,
+      "score": 30,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.71
+    },
+    {
+      "title": "On the Effectiveness of Mutational Grammar Fuzzing",
+      "url": "https://projectzero.google/2026/03/mutational-grammar-fuzzing.html",
+      "summary": "Mutational grammar fuzzing is a fuzzing technique in which the fuzzer uses a predefined grammar that describes the structure of the samples. When a sample gets mutated, the mutations happen in such a way that any resulting samples still adhere to the grammar rules, thus the structure of the samples gets maintained by the mutation process. In case of coverage-guided grammar fuzzing, if the resulting sample (after the mutation) triggers previously unseen code coverage, this sample is saved to the ",
+      "source": "Google Project Zero",
+      "published": "2026-05-01T17:50:35.222668+00:00",
+      "raw_score": 0.0,
+      "score": 21,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.71
+    },
+    {
       "title": "Hiding Bluetooth Trackers in Mail",
       "url": "https://www.schneier.com/blog/archives/2026/04/hiding-bluetooth-trackers-in-mail.html",
       "summary": "<p>It was used to <a href=\"https://www.tomshardware.com/tech-industry/cyber-security/bluetooth-tracker-hidden-in-a-postcard-and-mailed-to-a-warship-exposed-its-location-a-eur5-gadget-put-a-eur500-million-dutch-ship-at-risk-for-24-hours\">track</a> a Dutch naval ship:</p>\n<blockquote><p>Dutch journalist Just Vervaart, working for regional media network Omroep Gelderland, followed the directions posted on the Dutch government website and mailed a postcard with a hidden tracker inside. Because of th",
@@ -179,164 +329,14 @@
         "General"
       ],
       "threshold": 9.06
-    },
-    {
-      "title": "Thinking Outside The Box [dusted off draft from 2017]",
-      "url": "https://projectzero.google/2025/12/thinking-outside-the-box.html",
-      "summary": "Preface Hello from the future! This is a blogpost I originally drafted in early 2017. I wrote what I intended to be the first half of this post (about escaping from the VM to the VirtualBox host userspace process with CVE-2017-3558), but I never got around to writing the second half (going from the VirtualBox host userspace process to the host kernel), and eventually sorta forgot about this old post draft… But it seems a bit sad to just leave this old draft rotting around forever, so I decided t",
-      "source": "Google Project Zero",
-      "published": "2026-04-24T16:44:57.308064+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 8.82
-    },
-    {
-      "title": "Welcome to the new Project Zero Blog",
-      "url": "https://projectzero.google/2025/12/welcome.html",
-      "summary": "While on Project Zero, we aim for our research to be leading-edge, our blog design was … not so much. We welcome readers to our shiny new blog! For the occasion, we asked members of Project Zero to dust off old blog posts that never quite saw the light of day. And while we wish we could say the techniques they cover are no longer relevant, there is still a lot of work that needs to be done to protect users against zero days. Our new blog will continue to shine a light on the capabilities of atta",
-      "source": "Google Project Zero",
-      "published": "2026-04-24T16:44:57.307811+00:00",
-      "raw_score": 7.667557307079043,
-      "score": 66,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 8.82
-    },
-    {
-      "title": "A 0-click exploit chain for the Pixel 9 Part 1: Decoding Dolby",
-      "url": "https://projectzero.google/2026/01/pixel-0-click-part-1.html",
-      "summary": "Over the past few years, several AI-powered features have been added to mobile phones that allow users to better search and understand their messages. One effect of this change is increased 0-click attack surface, as efficient analysis often requires message media to be decoded before the message is opened by the user. One such feature is audio transcription. Incoming SMS and RCS audio attachments received by Google Messages are now automatically decoded with no user interaction. As a result, au",
-      "source": "Google Project Zero",
-      "published": "2026-04-24T16:44:57.307570+00:00",
-      "raw_score": 5.730955591634832,
-      "score": 56,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 8.82
-    },
-    {
-      "title": "A 0-click exploit chain for the Pixel 9 Part 2: Cracking the Sandbox with a Big Wave",
-      "url": "https://projectzero.google/2026/01/pixel-0-click-part-2.html",
-      "summary": "With the advent of a potential Dolby Unified Decoder RCE exploit, it seemed prudent to see what kind of Linux kernel drivers might be accessible from the resulting userland context, the mediacodec context. As per the AOSP documentation, the mediacodec SELinux context is intended to be a constrained (a.k.a sandboxed) context where non-secure software decoders are utilized. Nevertheless, using my DriverCartographer tool, I discovered an interesting device driver, /dev/bigwave that was accessible f",
-      "source": "Google Project Zero",
-      "published": "2026-04-24T16:44:57.307422+00:00",
-      "raw_score": 11.753280759741934,
-      "score": 88,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 8.82
-    },
-    {
-      "title": "A 0-click exploit chain for the Pixel 9 Part 3: Where do we go from here?",
-      "url": "https://projectzero.google/2026/01/pixel-0-click-part-3.html",
-      "summary": "While our previous two blog posts provided technical recommendations for increasing the effort required by attackers to develop 0-click exploit chains, our experience finding, reporting and exploiting these vulnerabilities highlighted some broader issues in the Android ecosystem. This post describes the problems we encountered and recommendations for improvement. Audio Attack Surface The Dolby UDC is part of the 0-click attack surface of most Android devices because of audio transcription in the",
-      "source": "Google Project Zero",
-      "published": "2026-04-24T16:44:57.307248+00:00",
-      "raw_score": 5.110162112899294,
-      "score": 52,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 8.82
-    },
-    {
-      "title": "Bypassing Windows Administrator Protection",
-      "url": "https://projectzero.google/2026/26/windows-administrator-protection.html",
-      "summary": "A headline feature introduced in the latest release of Windows 11, 25H2 is Administrator Protection. The goal of this feature is to replace User Account Control (UAC) with a more robust and importantly, securable system to allow a local user to access administrator privileges only when necessary. This blog post will give a brief overview of the new feature, how it works and how it’s different from UAC. I’ll then describe some of the security research I undertook while it was in the insider previ",
-      "source": "Google Project Zero",
-      "published": "2026-04-24T16:44:57.307098+00:00",
-      "raw_score": 1.6367111701533539,
-      "score": 34,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.82
-    },
-    {
-      "title": "Breaking the Sound Barrier, Part II: Exploiting CVE-2024-54529",
-      "url": "https://projectzero.google/2026/01/sound-barrier-2.html",
-      "summary": "In the first part of this series, I detailed my journey into macOS security research, which led to the discovery of a type confusion vulnerability (CVE-2024-54529) and a double-free vulnerability (CVE-2025-31235) in the coreaudiod system daemon through a process I call knowledge-driven fuzzing. While the first post focused on the process of finding the vulnerabilities, this post dives into the intricate process of exploiting the type confusion vulnerability. I’ll explain the technical details of",
-      "source": "Google Project Zero",
-      "published": "2026-04-24T16:44:57.306850+00:00",
-      "raw_score": 5.329471717586546,
-      "score": 53,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 8.82
-    },
-    {
-      "title": "Bypassing Administrator Protection by Abusing UI Access",
-      "url": "https://projectzero.google/2026/02/windows-administrator-protection.html",
-      "summary": "In my last blog post I introduced the new Windows feature, Administrator Protection and how it aimed to create a secure boundary for UAC where one didn’t exist. I described one of the ways I was able to bypass the feature before it was released. In total I found 9 bypasses during my research that have now all been fixed. In this blog post I wanted to describe the root cause of 5 of those 9 issues, specifically the implementation of UI Access, how this has been a long standing problem with UAC th",
-      "source": "Google Project Zero",
-      "published": "2026-04-24T16:44:57.306584+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.82
-    },
-    {
-      "title": "A Deep Dive into the GetProcessHandleFromHwnd API",
-      "url": "https://projectzero.google/2026/02/gphfh-deep-dive.html",
-      "summary": "In my previous blog post I mentioned the GetProcessHandleFromHwnd API. This was an API I didn’t know existed until I found a publicly disclosed UAC bypass using the Quick Assist UI Access application. This API looked interesting so I thought I should take a closer look. I typically start by reading the documentation for an API I don’t know about, assuming it’s documented at all. It can give you an idea of how long the API has existed as well as its security properties. The documentation’s remark",
-      "source": "Google Project Zero",
-      "published": "2026-04-24T16:44:57.306293+00:00",
-      "raw_score": 1.5646663218057457,
-      "score": 33,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.82
-    },
-    {
-      "title": "On the Effectiveness of Mutational Grammar Fuzzing",
-      "url": "https://projectzero.google/2026/03/mutational-grammar-fuzzing.html",
-      "summary": "Mutational grammar fuzzing is a fuzzing technique in which the fuzzer uses a predefined grammar that describes the structure of the samples. When a sample gets mutated, the mutations happen in such a way that any resulting samples still adhere to the grammar rules, thus the structure of the samples gets maintained by the mutation process. In case of coverage-guided grammar fuzzing, if the resulting sample (after the mutation) triggers previously unseen code coverage, this sample is saved to the ",
-      "source": "Google Project Zero",
-      "published": "2026-04-24T16:44:57.306004+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.82
     }
   ],
-  "updated": "2026-05-01T16:44:34.495726+00:00",
+  "updated": "2026-05-01T17:50:43.061690+00:00",
   "stats": {
     "total": 22,
     "relevant": 9,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 10,
     "sources": 2
   }
 }
