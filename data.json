@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: How Squid Survived Extinction Events",
+      "url": "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html",
+      "summary": "<p>Science <a href=\"https://www.sciencedaily.com/releases/2026/03/260331001100.htm\">news</a>:</p>\n<blockquote><p>Scientists have finally cracked a long-standing mystery about squid and cuttlefish evolution by analyzing newly sequenced genomes alongside global datasets. The research reveals that these bizarre, intelligent creatures likely originated deep in the ocean over 100 million years ago, surviving mass extinction events by retreating into oxygen-rich deep-sea refuges. For millions of years",
+      "source": "Schneier on Security",
+      "published": "2026-05-01T21:43:19.343730+00:00",
+      "raw_score": 0.0,
+      "score": 21,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.71
+    },
+    {
       "title": "Thinking Outside The Box [dusted off draft from 2017]",
       "url": "https://projectzero.google/2025/12/thinking-outside-the-box.html",
       "summary": "Preface Hello from the future! This is a blogpost I originally drafted in early 2017. I wrote what I intended to be the first half of this post (about escaping from the VM to the VirtualBox host userspace process with CVE-2017-3558), but I never got around to writing the second half (going from the VirtualBox host userspace process to the host kernel), and eventually sorta forgot about this old post draft… But it seems a bit sad to just leave this old draft rotting around forever, so I decided t",
@@ -299,44 +314,14 @@
         "General"
       ],
       "threshold": 9.06
-    },
-    {
-      "title": "Friday Squid Blogging: New Giant Squid Video",
-      "url": "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-new-giant-squid-video-2.html",
-      "summary": "<p>Pretty fantastic <a href=\"https://www.surfer.com/news/giant-squid-footage-japan-video\">video</a> from Japan of a giant squid eating another squid.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
-      "source": "Schneier on Security",
-      "published": "2026-04-24T21:39:31.256693+00:00",
-      "raw_score": 1.7030643257001112,
-      "score": 33,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.06
-    },
-    {
-      "title": "Friday Squid Blogging: How Squid Survived Extinction Events",
-      "url": "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html",
-      "summary": "<p>Science <a href=\"https://www.sciencedaily.com/releases/2026/03/260331001100.htm\">news</a>:</p>\n<blockquote><p>Scientists have finally cracked a long-standing mystery about squid and cuttlefish evolution by analyzing newly sequenced genomes alongside global datasets. The research reveals that these bizarre, intelligent creatures likely originated deep in the ocean over 100 million years ago, surviving mass extinction events by retreating into oxygen-rich deep-sea refuges. For millions of years",
-      "source": "Schneier on Security",
-      "published": "2026-04-24T21:39:31.255872+00:00",
-      "raw_score": 0.0,
-      "score": 24,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.06
     }
   ],
-  "updated": "2026-05-01T20:02:40.805841+00:00",
+  "updated": "2026-05-01T21:43:33.179713+00:00",
   "stats": {
-    "total": 22,
+    "total": 21,
     "relevant": 9,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
