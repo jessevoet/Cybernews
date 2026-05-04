@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Medieval Encrypted Letter Decoded",
+      "url": "https://www.schneier.com/blog/archives/2026/04/medieval-encrypted-letter-decoded.html",
+      "summary": "<p>Sent by a Spanish diplomat. Apparently people have been <a href=\"https://www.medievalists.net/2026/04/secret-letter-detailing-late-medieval-britain-fully-decoded/\">working on it</a> since it was rediscovered in 1860.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-05-04T12:19:00.051957+00:00",
+      "raw_score": 0.0,
+      "score": 21,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.71
+    },
+    {
       "title": "Hacking Polymarket",
       "url": "https://www.schneier.com/blog/archives/2026/05/hacking-polymarket.html",
       "summary": "<p>Polymarket is a platform where people can bet on real-world events, political and otherwise. Leaving the ethical considerations of this aside (for one, it facilitates <a href=\"https://en.wikipedia.org/wiki/Assassination_market\">assassination</a>), one of the issues with making this work is the verification of these real-world events. Polymarket gamblers have <a href=\"https://www.theguardian.com/world/2026/mar/18/polymarket-gamblers-threaten-israeli-journalist-missile-strike-wager\">threatened<",
@@ -299,41 +314,11 @@
         "Vulnerability"
       ],
       "threshold": 8.84
-    },
-    {
-      "title": "Is “Satoshi Nakamoto” Really Adam Back?",
-      "url": "https://www.schneier.com/blog/archives/2026/04/is-satoshi-nakamoto-really-adam-back.html",
-      "summary": "<p>The <i>New York Times</i> has a <a href=\"https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html\">long article</a> where the author lays out an impressive array of circumstantial evidence that the inventor of Bitcoin is the cypherpunk Adam Back.</p>\n<p>I don&#8217;t know. The article is convincing, but it&#8217;s written to be convincing.</p>\n<p>I can&#8217;t remember if I ever met Adam. I was a member of the Cypherpunks mailing list for a while, but I was",
-      "source": "Schneier on Security",
-      "published": "2026-04-27T12:16:12.098785+00:00",
-      "raw_score": 0.0,
-      "score": 24,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.06
-    },
-    {
-      "title": "Medieval Encrypted Letter Decoded",
-      "url": "https://www.schneier.com/blog/archives/2026/04/medieval-encrypted-letter-decoded.html",
-      "summary": "<p>Sent by a Spanish diplomat. Apparently people have been <a href=\"https://www.medievalists.net/2026/04/secret-letter-detailing-late-medieval-britain-fully-decoded/\">working on it</a> since it was rediscovered in 1860.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-04-27T12:16:12.097683+00:00",
-      "raw_score": 0.0,
-      "score": 24,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.06
     }
   ],
-  "updated": "2026-05-04T10:56:37.252118+00:00",
+  "updated": "2026-05-04T12:19:13.142194+00:00",
   "stats": {
-    "total": 22,
+    "total": 21,
     "relevant": 9,
     "critical": 4,
     "new_this_run": 1,
