@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Hacking Polymarket",
+      "url": "https://www.schneier.com/blog/archives/2026/05/hacking-polymarket.html",
+      "summary": "<p>Polymarket is a platform where people can bet on real-world events, political and otherwise. Leaving the ethical considerations of this aside (for one, it facilitates <a href=\"https://en.wikipedia.org/wiki/Assassination_market\">assassination</a>), one of the issues with making this work is the verification of these real-world events. Polymarket gamblers have <a href=\"https://www.theguardian.com/world/2026/mar/18/polymarket-gamblers-threaten-israeli-journalist-missile-strike-wager\">threatened<",
+      "source": "Schneier on Security",
+      "published": "2026-05-04T10:56:21.787718+00:00",
+      "raw_score": 0.0,
+      "score": 21,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.71
+    },
+    {
       "title": "Friday Squid Blogging: How Squid Survived Extinction Events",
       "url": "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html",
       "summary": "<p>Science <a href=\"https://www.sciencedaily.com/releases/2026/03/260331001100.htm\">news</a>:</p>\n<blockquote><p>Scientists have finally cracked a long-standing mystery about squid and cuttlefish evolution by analyzing newly sequenced genomes alongside global datasets. The research reveals that these bizarre, intelligent creatures likely originated deep in the ocean over 100 million years ago, surviving mass extinction events by retreating into oxygen-rich deep-sea refuges. For millions of years",
@@ -316,12 +331,12 @@
       "threshold": 9.06
     }
   ],
-  "updated": "2026-05-04T08:17:50.159548+00:00",
+  "updated": "2026-05-04T10:56:37.252118+00:00",
   "stats": {
-    "total": 21,
+    "total": 22,
     "relevant": 9,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
