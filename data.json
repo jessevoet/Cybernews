@@ -1,6 +1,23 @@
 {
   "items": [
     {
+      "title": "DarkSword Malware",
+      "url": "https://www.schneier.com/blog/archives/2026/05/darksword-malware.html",
+      "summary": "<p>DarkSword is a sophisticated piece of <a href=\"https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain\">malware</a>&#8212;probably government designed&#8212;that targets iOS.</p>\n<blockquote><p>Google Threat Intelligence Group (GTIG) has identified a new iOS full-chain exploit that leveraged multiple zero-day vulnerabilities to fully compromise devices. Based on toolmarks in recovered payloads, we believe the exploit chain to be called DarkSword. Since at least No",
+      "source": "Schneier on Security",
+      "published": "2026-05-05T11:11:10.579804+00:00",
+      "raw_score": 26.63659723693449,
+      "score": 99,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability",
+        "Malware",
+        "ICS / OT"
+      ],
+      "threshold": 15.61
+    },
+    {
       "title": "Medieval Encrypted Letter Decoded",
       "url": "https://www.schneier.com/blog/archives/2026/04/medieval-encrypted-letter-decoded.html",
       "summary": "<p>Sent by a Spanish diplomat. Apparently people have been <a href=\"https://www.medievalists.net/2026/04/secret-letter-detailing-late-medieval-britain-fully-decoded/\">working on it</a> since it was rediscovered in 1860.</p>",
@@ -316,12 +333,12 @@
       "threshold": 8.84
     }
   ],
-  "updated": "2026-05-05T09:53:49.406742+00:00",
+  "updated": "2026-05-05T11:11:22.707550+00:00",
   "stats": {
-    "total": 21,
-    "relevant": 9,
-    "critical": 4,
-    "new_this_run": 0,
+    "total": 22,
+    "relevant": 10,
+    "critical": 5,
+    "new_this_run": 1,
     "sources": 2
   }
 }
