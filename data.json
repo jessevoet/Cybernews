@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "What Anthropic’s Mythos Means for the Future of Cybersecurity",
+      "url": "https://www.schneier.com/blog/archives/2026/04/what-anthropics-mythos-means-for-the-future-of-cybersecurity.html",
+      "summary": "<p>Two weeks ago, Anthropic <a href=\"https://red.anthropic.com/2026/mythos-preview/\">announced</a> that its new model, Claude Mythos Preview, can autonomously find and weaponize software vulnerabilities, turning them into working exploits without expert guidance. These were vulnerabilities in key software like operating systems and internet infrastructure that thousands of software developers working on those systems failed to find. This capability will have major security implications, compromi",
+      "source": "Schneier on Security",
+      "published": "2026-05-05T13:14:20.845881+00:00",
+      "raw_score": 3.852367498613269,
+      "score": 44,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 15.61
+    },
+    {
       "title": "DarkSword Malware",
       "url": "https://www.schneier.com/blog/archives/2026/05/darksword-malware.html",
       "summary": "<p>DarkSword is a sophisticated piece of <a href=\"https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain\">malware</a>&#8212;probably government designed&#8212;that targets iOS.</p>\n<blockquote><p>Google Threat Intelligence Group (GTIG) has identified a new iOS full-chain exploit that leveraged multiple zero-day vulnerabilities to fully compromise devices. Based on toolmarks in recovered payloads, we believe the exploit chain to be called DarkSword. Since at least No",
@@ -301,41 +316,11 @@
         "Vulnerability"
       ],
       "threshold": 8.86
-    },
-    {
-      "title": "Mexican Surveillance Company",
-      "url": "https://www.schneier.com/blog/archives/2026/04/mexican-surveillance-company.html",
-      "summary": "<p><a href=\"https://restofworld.org/2026/mexico-seguritech-government-surveillance-profile/\">Grupo Seguritech</a> is a Mexican surveillance company that is expanding into the US.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-04-28T12:20:54.663431+00:00",
-      "raw_score": 0.0,
-      "score": 24,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.84
-    },
-    {
-      "title": "What Anthropic’s Mythos Means for the Future of Cybersecurity",
-      "url": "https://www.schneier.com/blog/archives/2026/04/what-anthropics-mythos-means-for-the-future-of-cybersecurity.html",
-      "summary": "<p>Two weeks ago, Anthropic <a href=\"https://red.anthropic.com/2026/mythos-preview/\">announced</a> that its new model, Claude Mythos Preview, can autonomously find and weaponize software vulnerabilities, turning them into working exploits without expert guidance. These were vulnerabilities in key software like operating systems and internet infrastructure that thousands of software developers working on those systems failed to find. This capability will have major security implications, compromi",
-      "source": "Schneier on Security",
-      "published": "2026-04-28T12:20:54.662519+00:00",
-      "raw_score": 3.852367498613269,
-      "score": 45,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 8.84
     }
   ],
-  "updated": "2026-05-05T11:11:22.707550+00:00",
+  "updated": "2026-05-05T13:14:37.727690+00:00",
   "stats": {
-    "total": 22,
+    "total": 21,
     "relevant": 10,
     "critical": 5,
     "new_this_run": 1,
