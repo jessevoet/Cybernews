@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Claude Mythos Has Found 271 Zero-Days in Firefox",
+      "url": "https://www.schneier.com/blog/archives/2026/04/claude-mythos-has-found-271-zero-days-in-firefox.html",
+      "summary": "<p>That&#8217;s <a href=\"https://blog.mozilla.org/en/firefox/ai-security-zero-day-vulnerabilities/\">a lot</a>. No, it&#8217;s an extraordinary number:</p>\n<blockquote><p>Since February, the Firefox team has been working around the clock using frontier AI models to find and fix latent security vulnerabilities in the browser. We wrote previously about our collaboration with Anthropic to scan Firefox with Opus 4.6, which led to fixes for 22 security-sensitive bugs in Firefox 148.</p>\n<p>As part of ",
+      "source": "Schneier on Security",
+      "published": "2026-05-06T10:56:32.389658+00:00",
+      "raw_score": 1.5971133192625468,
+      "score": 38,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 15.6
+    },
+    {
+      "title": "Rowhammer Attack Against NVIDIA Chips",
+      "url": "https://www.schneier.com/blog/archives/2026/05/rowhammer-attack-against-nvidia-chips.html",
+      "summary": "<p>A new <a href=\"https://en.wikipedia.org/wiki/Row_hammer\">rowhammer</a> attack gives <a href=\"https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/\">complete control</a> of NVIDIA CPUs.</p>\n<blockquote><p>On Thursday, two research teams, working independently of each other, demonstrated attacks against two cards from Nvidia’s Ampere generation that take GPU rowhammering into new&#8212;­and potentially much more consequential&#8212",
+      "source": "Schneier on Security",
+      "published": "2026-05-06T10:56:32.388978+00:00",
+      "raw_score": 1.7481643898107069,
+      "score": 39,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 15.6
+    },
+    {
       "title": "What Anthropic’s Mythos Means for the Future of Cybersecurity",
       "url": "https://www.schneier.com/blog/archives/2026/04/what-anthropics-mythos-means-for-the-future-of-cybersecurity.html",
       "summary": "<p>Two weeks ago, Anthropic <a href=\"https://red.anthropic.com/2026/mythos-preview/\">announced</a> that its new model, Claude Mythos Preview, can autonomously find and weaponize software vulnerabilities, turning them into working exploits without expert guidance. These were vulnerabilities in key software like operating systems and internet infrastructure that thousands of software developers working on those systems failed to find. This capability will have major security implications, compromi",
@@ -301,29 +331,14 @@
         "Malware"
       ],
       "threshold": 8.86
-    },
-    {
-      "title": "Claude Mythos Has Found 271 Zero-Days in Firefox",
-      "url": "https://www.schneier.com/blog/archives/2026/04/claude-mythos-has-found-271-zero-days-in-firefox.html",
-      "summary": "<p>That&#8217;s <a href=\"https://blog.mozilla.org/en/firefox/ai-security-zero-day-vulnerabilities/\">a lot</a>. No, it&#8217;s an extraordinary number:</p>\n<blockquote><p>Since February, the Firefox team has been working around the clock using frontier AI models to find and fix latent security vulnerabilities in the browser. We wrote previously about our collaboration with Anthropic to scan Firefox with Opus 4.6, which led to fixes for 22 security-sensitive bugs in Firefox 148.</p>\n<p>As part of ",
-      "source": "Schneier on Security",
-      "published": "2026-04-29T10:46:25.061255+00:00",
-      "raw_score": 1.5971133192625468,
-      "score": 33,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 8.86
     }
   ],
-  "updated": "2026-05-06T08:08:05.665814+00:00",
+  "updated": "2026-05-06T10:56:46.317865+00:00",
   "stats": {
-    "total": 21,
+    "total": 22,
     "relevant": 10,
     "critical": 5,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
