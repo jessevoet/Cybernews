@@ -316,29 +316,14 @@
         "Malware"
       ],
       "threshold": 8.87
-    },
-    {
-      "title": "ICE Uses Graphite Spyware",
-      "url": "https://www.schneier.com/blog/archives/2026/04/ice-uses-graphite-spyware.html",
-      "summary": "<p>ICE has <a href=\"https://www.npr.org/2026/04/07/nx-s1-5776799/ice-spyware-privacy\">admitted</a> that it uses spyware from the Israeli company Graphite.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-04-29T12:11:10.809207+00:00",
-      "raw_score": 5.776347409806229,
-      "score": 56,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Malware"
-      ],
-      "threshold": 8.86
     }
   ],
-  "updated": "2026-05-06T10:56:46.317865+00:00",
+  "updated": "2026-05-06T12:24:55.324595+00:00",
   "stats": {
-    "total": 22,
-    "relevant": 10,
+    "total": 21,
+    "relevant": 9,
     "critical": 5,
-    "new_this_run": 2,
+    "new_this_run": 0,
     "sources": 2
   }
 }
