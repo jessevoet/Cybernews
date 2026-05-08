@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: Giant Squid Live in the Waters of Western Australia",
+      "url": "https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-giant-squid-live-in-the-waters-of-western-australia.html",
+      "summary": "<p>Evidence of them has <a href=\"https://nautil.us/giant-squid-discovered-lurking-off-the-australian-coast-1280546\">been</a> <a href=\"https://oceanographicmagazine.com/news/giant-squid-found-in-western-australian-waters-in-edna-study/\">found</a> by analyzing DNA in the seawater.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.htm",
+      "source": "Schneier on Security",
+      "published": "2026-05-08T21:51:05.153455+00:00",
+      "raw_score": 1.6082301173084574,
+      "score": 39,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 15.49
+    },
+    {
       "title": "Thinking Outside The Box [dusted off draft from 2017]",
       "url": "https://projectzero.google/2025/12/thinking-outside-the-box.html",
       "summary": "Preface Hello from the future! This is a blogpost I originally drafted in early 2017. I wrote what I intended to be the first half of this post (about escaping from the VM to the VirtualBox host userspace process with CVE-2017-3558), but I never got around to writing the second half (going from the VirtualBox host userspace process to the host kernel), and eventually sorta forgot about this old post draft… But it seems a bit sad to just leave this old draft rotting around forever, so I decided t",
@@ -301,29 +316,14 @@
         "General"
       ],
       "threshold": 8.71
-    },
-    {
-      "title": "Friday Squid Blogging: How Squid Survived Extinction Events",
-      "url": "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html",
-      "summary": "<p>Science <a href=\"https://www.sciencedaily.com/releases/2026/03/260331001100.htm\">news</a>:</p>\n<blockquote><p>Scientists have finally cracked a long-standing mystery about squid and cuttlefish evolution by analyzing newly sequenced genomes alongside global datasets. The research reveals that these bizarre, intelligent creatures likely originated deep in the ocean over 100 million years ago, surviving mass extinction events by retreating into oxygen-rich deep-sea refuges. For millions of years",
-      "source": "Schneier on Security",
-      "published": "2026-05-01T21:43:19.343730+00:00",
-      "raw_score": 0.0,
-      "score": 21,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.71
     }
   ],
-  "updated": "2026-05-08T20:46:45.405552+00:00",
+  "updated": "2026-05-08T21:51:18.377864+00:00",
   "stats": {
     "total": 21,
     "relevant": 6,
     "critical": 6,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
