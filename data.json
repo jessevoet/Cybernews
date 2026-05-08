@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "A Ransomware Negotiator Was Working for a Ransomware Gang",
+      "url": "https://www.schneier.com/blog/archives/2026/05/a-ransomware-negotiator-was-working-for-a-ransomware-gang.html",
+      "summary": "<p>Someone <a href=\"https://gizmodo.com/a-ransomware-negotiator-pleads-guilty-to-being-a-double-agent-2000749234\">pleaded guilty</a> to secretly working for a ransomware gang as he negotiated ransomware payments for clients.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-05-08T13:09:02.715041+00:00",
+      "raw_score": 4.574994481895725,
+      "score": 46,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Ransomware"
+      ],
+      "threshold": 16.01
+    },
+    {
       "title": "Smart Glasses for the Authorities",
       "url": "https://www.schneier.com/blog/archives/2026/05/smart-glasses-for-the-authorities.html",
       "summary": "<p>ICE is <a href=\"https://www.kenklippenstein.com/p/exclusive-ice-glasses\">developing</a> its own version of smart glasses, with facial recognition tied to various databases.</p>",
@@ -286,44 +301,14 @@
         "General"
       ],
       "threshold": 8.71
-    },
-    {
-      "title": "Hiding Bluetooth Trackers in Mail",
-      "url": "https://www.schneier.com/blog/archives/2026/04/hiding-bluetooth-trackers-in-mail.html",
-      "summary": "<p>It was used to <a href=\"https://www.tomshardware.com/tech-industry/cyber-security/bluetooth-tracker-hidden-in-a-postcard-and-mailed-to-a-warship-exposed-its-location-a-eur5-gadget-put-a-eur500-million-dutch-ship-at-risk-for-24-hours\">track</a> a Dutch naval ship:</p>\n<blockquote><p>Dutch journalist Just Vervaart, working for regional media network Omroep Gelderland, followed the directions posted on the Dutch government website and mailed a postcard with a hidden tracker inside. Because of th",
-      "source": "Schneier on Security",
-      "published": "2026-05-01T12:56:24.687141+00:00",
-      "raw_score": 5.47221458336799,
-      "score": 53,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.71
-    },
-    {
-      "title": "A Ransomware Negotiator Was Working for a Ransomware Gang",
-      "url": "https://www.schneier.com/blog/archives/2026/05/a-ransomware-negotiator-was-working-for-a-ransomware-gang.html",
-      "summary": "<p>Someone <a href=\"https://gizmodo.com/a-ransomware-negotiator-pleads-guilty-to-being-a-double-agent-2000749234\">pleaded guilty</a> to secretly working for a ransomware gang as he negotiated ransomware payments for clients.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-05-01T11:51:29.625238+00:00",
-      "raw_score": 4.574994481895725,
-      "score": 48,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Ransomware"
-      ],
-      "threshold": 8.71
     }
   ],
-  "updated": "2026-05-08T11:03:15.139896+00:00",
+  "updated": "2026-05-08T13:09:16.494598+00:00",
   "stats": {
-    "total": 21,
-    "relevant": 9,
+    "total": 20,
+    "relevant": 8,
     "critical": 5,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
