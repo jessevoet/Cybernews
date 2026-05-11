@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Hacking Polymarket",
+      "url": "https://www.schneier.com/blog/archives/2026/05/hacking-polymarket.html",
+      "summary": "<p>Polymarket is a platform where people can bet on real-world events, political and otherwise. Leaving the ethical considerations of this aside (for one, it facilitates <a href=\"https://en.wikipedia.org/wiki/Assassination_market\">assassination</a>), one of the issues with making this work is the verification of these real-world events. Polymarket gamblers have <a href=\"https://www.theguardian.com/world/2026/mar/18/polymarket-gamblers-threaten-israeli-journalist-missile-strike-wager\">threatened<",
+      "source": "Schneier on Security",
+      "published": "2026-05-11T13:38:05.907063+00:00",
+      "raw_score": 0.0,
+      "score": 36,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 15.97
+    },
+    {
+      "title": "LLMs and Text-in-Text Steganography",
+      "url": "https://www.schneier.com/blog/archives/2026/05/llms-and-text-in-text-steganography.html",
+      "summary": "<p>Turns out that LLMs are <a href=\"https://arxiv.org/abs/2510.20075\">really good</a> at hiding text messages in other text messages.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-05-11T13:38:05.905983+00:00",
+      "raw_score": 0.0,
+      "score": 36,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 15.97
+    },
+    {
       "title": "Friday Squid Blogging: Giant Squid Live in the Waters of Western Australia",
       "url": "https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-giant-squid-live-in-the-waters-of-western-australia.html",
       "summary": "<p>Evidence of them has <a href=\"https://nautil.us/giant-squid-discovered-lurking-off-the-australian-coast-1280546\">been</a> <a href=\"https://oceanographicmagazine.com/news/giant-squid-found-in-western-australian-waters-in-edna-study/\">found</a> by analyzing DNA in the seawater.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.htm",
@@ -286,44 +316,14 @@
         "ICS / OT"
       ],
       "threshold": 15.61
-    },
-    {
-      "title": "Medieval Encrypted Letter Decoded",
-      "url": "https://www.schneier.com/blog/archives/2026/04/medieval-encrypted-letter-decoded.html",
-      "summary": "<p>Sent by a Spanish diplomat. Apparently people have been <a href=\"https://www.medievalists.net/2026/04/secret-letter-detailing-late-medieval-britain-fully-decoded/\">working on it</a> since it was rediscovered in 1860.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-05-04T12:19:00.051957+00:00",
-      "raw_score": 0.0,
-      "score": 21,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.71
-    },
-    {
-      "title": "Hacking Polymarket",
-      "url": "https://www.schneier.com/blog/archives/2026/05/hacking-polymarket.html",
-      "summary": "<p>Polymarket is a platform where people can bet on real-world events, political and otherwise. Leaving the ethical considerations of this aside (for one, it facilitates <a href=\"https://en.wikipedia.org/wiki/Assassination_market\">assassination</a>), one of the issues with making this work is the verification of these real-world events. Polymarket gamblers have <a href=\"https://www.theguardian.com/world/2026/mar/18/polymarket-gamblers-threaten-israeli-journalist-missile-strike-wager\">threatened<",
-      "source": "Schneier on Security",
-      "published": "2026-05-04T10:56:21.787718+00:00",
-      "raw_score": 0.0,
-      "score": 21,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.71
     }
   ],
-  "updated": "2026-05-11T10:29:03.171889+00:00",
+  "updated": "2026-05-11T13:38:19.916177+00:00",
   "stats": {
     "total": 21,
     "relevant": 6,
     "critical": 6,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
