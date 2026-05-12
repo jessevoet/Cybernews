@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "DarkSword Malware",
+      "url": "https://www.schneier.com/blog/archives/2026/05/darksword-malware.html",
+      "summary": "<p>DarkSword is a sophisticated piece of <a href=\"https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain\">malware</a>&#8212;probably government designed&#8212;that targets iOS.</p>\n<blockquote><p>Google Threat Intelligence Group (GTIG) has identified a new iOS full-chain exploit that leveraged multiple zero-day vulnerabilities to fully compromise devices. Based on toolmarks in recovered payloads, we believe the exploit chain to be called DarkSword. Since at least No",
+      "source": "Schneier on Security",
+      "published": "2026-05-12T11:12:42.329954+00:00",
+      "raw_score": 26.63659723693449,
+      "score": 92,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability",
+        "Malware",
+        "ICS / OT"
+      ],
+      "threshold": 17.38
+    },
+    {
+      "title": "Copy.Fail Linux Vulnerability",
+      "url": "https://www.schneier.com/blog/archives/2026/05/copy-fail-linux-vulnerability.html",
+      "summary": "<p>This is the <a href=\"https://jorijn.com/en/blog/copy-fail-cve-2026-31431-linux-kernel-bug-explained/\">worst</a> Linux vulnerability in years.</p>\n<blockquote><p><strong>TL;DR</strong></p>\n<ul>\n<li>copy.fail is a Linux kernel local privilege escalation, not a browser or clipboard attack. Disclosed by Theori on 29 April 2026 with a working PoC.\n<li>It abuses the kernel crypto API (AF_ALG sockets) plus splice() to write four bytes at a time straight into the page cache of a file the attacker doe",
+      "source": "Schneier on Security",
+      "published": "2026-05-12T11:12:42.328959+00:00",
+      "raw_score": 14.928481823023493,
+      "score": 67,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 17.38
+    },
+    {
       "title": "Hacking Polymarket",
       "url": "https://www.schneier.com/blog/archives/2026/05/hacking-polymarket.html",
       "summary": "<p>Polymarket is a platform where people can bet on real-world events, political and otherwise. Leaving the ethical considerations of this aside (for one, it facilitates <a href=\"https://en.wikipedia.org/wiki/Assassination_market\">assassination</a>), one of the issues with making this work is the verification of these real-world events. Polymarket gamblers have <a href=\"https://www.theguardian.com/world/2026/mar/18/polymarket-gamblers-threaten-israeli-journalist-missile-strike-wager\">threatened<",
@@ -299,31 +331,14 @@
         "Vulnerability"
       ],
       "threshold": 15.61
-    },
-    {
-      "title": "DarkSword Malware",
-      "url": "https://www.schneier.com/blog/archives/2026/05/darksword-malware.html",
-      "summary": "<p>DarkSword is a sophisticated piece of <a href=\"https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain\">malware</a>&#8212;probably government designed&#8212;that targets iOS.</p>\n<blockquote><p>Google Threat Intelligence Group (GTIG) has identified a new iOS full-chain exploit that leveraged multiple zero-day vulnerabilities to fully compromise devices. Based on toolmarks in recovered payloads, we believe the exploit chain to be called DarkSword. Since at least No",
-      "source": "Schneier on Security",
-      "published": "2026-05-05T11:11:10.579804+00:00",
-      "raw_score": 26.63659723693449,
-      "score": 99,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability",
-        "Malware",
-        "ICS / OT"
-      ],
-      "threshold": 15.61
     }
   ],
-  "updated": "2026-05-12T08:36:19.731700+00:00",
+  "updated": "2026-05-12T11:12:55.322114+00:00",
   "stats": {
-    "total": 21,
-    "relevant": 6,
+    "total": 22,
+    "relevant": 7,
     "critical": 6,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
