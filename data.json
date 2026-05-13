@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Rowhammer Attack Against NVIDIA Chips",
+      "url": "https://www.schneier.com/blog/archives/2026/05/rowhammer-attack-against-nvidia-chips.html",
+      "summary": "<p>A new <a href=\"https://en.wikipedia.org/wiki/Row_hammer\">rowhammer</a> attack gives <a href=\"https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/\">complete control</a> of NVIDIA CPUs.</p>\n<blockquote><p>On Thursday, two research teams, working independently of each other, demonstrated attacks against two cards from Nvidia’s Ampere generation that take GPU rowhammering into new&#8212;­and potentially much more consequential&#8212",
+      "source": "Schneier on Security",
+      "published": "2026-05-13T11:55:20.433879+00:00",
+      "raw_score": 1.7481643898107069,
+      "score": 38,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 17.36
+    },
+    {
+      "title": "OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities",
+      "url": "https://www.schneier.com/blog/archives/2026/05/openais-gpt-5-5-is-as-good-as-mythos-at-finding-security-vulnerabilities.html",
+      "summary": "<p>The UK&#8217;s AI Security Institute evaluated GPT-5.5&#8217;s ability to find security vulnerabilities, and <a href=\"https://www.aisi.gov.uk/blog/our-evaluation-of-openais-gpt-5-5-cyber-capabilities\">found</a> that it is comparable to Claude Mythos. Note that the OpenAI model is generally available.</p>\n<p><a href=\"https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities\">Here</a> is the Institute&#8217;s evaluation of Mythos.</p>\n<p>And <a href=\"https://aisle",
+      "source": "Schneier on Security",
+      "published": "2026-05-13T11:55:20.432853+00:00",
+      "raw_score": 1.1572086582935674,
+      "score": 37,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 17.36
+    },
+    {
       "title": "DarkSword Malware",
       "url": "https://www.schneier.com/blog/archives/2026/05/darksword-malware.html",
       "summary": "<p>DarkSword is a sophisticated piece of <a href=\"https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain\">malware</a>&#8212;probably government designed&#8212;that targets iOS.</p>\n<blockquote><p>Google Threat Intelligence Group (GTIG) has identified a new iOS full-chain exploit that leveraged multiple zero-day vulnerabilities to fully compromise devices. Based on toolmarks in recovered payloads, we believe the exploit chain to be called DarkSword. Since at least No",
@@ -286,44 +316,14 @@
         "Malware"
       ],
       "threshold": 15.6
-    },
-    {
-      "title": "Claude Mythos Has Found 271 Zero-Days in Firefox",
-      "url": "https://www.schneier.com/blog/archives/2026/04/claude-mythos-has-found-271-zero-days-in-firefox.html",
-      "summary": "<p>That&#8217;s <a href=\"https://blog.mozilla.org/en/firefox/ai-security-zero-day-vulnerabilities/\">a lot</a>. No, it&#8217;s an extraordinary number:</p>\n<blockquote><p>Since February, the Firefox team has been working around the clock using frontier AI models to find and fix latent security vulnerabilities in the browser. We wrote previously about our collaboration with Anthropic to scan Firefox with Opus 4.6, which led to fixes for 22 security-sensitive bugs in Firefox 148.</p>\n<p>As part of ",
-      "source": "Schneier on Security",
-      "published": "2026-05-06T10:56:32.389658+00:00",
-      "raw_score": 1.5971133192625468,
-      "score": 38,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 15.6
-    },
-    {
-      "title": "Rowhammer Attack Against NVIDIA Chips",
-      "url": "https://www.schneier.com/blog/archives/2026/05/rowhammer-attack-against-nvidia-chips.html",
-      "summary": "<p>A new <a href=\"https://en.wikipedia.org/wiki/Row_hammer\">rowhammer</a> attack gives <a href=\"https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/\">complete control</a> of NVIDIA CPUs.</p>\n<blockquote><p>On Thursday, two research teams, working independently of each other, demonstrated attacks against two cards from Nvidia’s Ampere generation that take GPU rowhammering into new&#8212;­and potentially much more consequential&#8212",
-      "source": "Schneier on Security",
-      "published": "2026-05-06T10:56:32.388978+00:00",
-      "raw_score": 1.7481643898107069,
-      "score": 39,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 15.6
     }
   ],
-  "updated": "2026-05-13T09:35:52.298585+00:00",
+  "updated": "2026-05-13T11:55:33.207264+00:00",
   "stats": {
     "total": 21,
-    "relevant": 7,
-    "critical": 6,
-    "new_this_run": 0,
+    "relevant": 6,
+    "critical": 5,
+    "new_this_run": 2,
     "sources": 2
   }
 }
