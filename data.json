@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
+      "source": "Google Project Zero",
+      "published": "2026-05-13T19:41:00.032438+00:00",
+      "raw_score": 7.092005476157869,
+      "score": 50,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 16.99
+    },
+    {
       "title": "Rowhammer Attack Against NVIDIA Chips",
       "url": "https://www.schneier.com/blog/archives/2026/05/rowhammer-attack-against-nvidia-chips.html",
       "summary": "<p>A new <a href=\"https://en.wikipedia.org/wiki/Row_hammer\">rowhammer</a> attack gives <a href=\"https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/\">complete control</a> of NVIDIA CPUs.</p>\n<blockquote><p>On Thursday, two research teams, working independently of each other, demonstrated attacks against two cards from Nvidia’s Ampere generation that take GPU rowhammering into new&#8212;­and potentially much more consequential&#8212",
@@ -318,12 +334,12 @@
       "threshold": 15.6
     }
   ],
-  "updated": "2026-05-13T17:08:42.750736+00:00",
+  "updated": "2026-05-13T19:41:08.586637+00:00",
   "stats": {
-    "total": 21,
-    "relevant": 6,
+    "total": 22,
+    "relevant": 7,
     "critical": 5,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
