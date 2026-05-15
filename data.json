@@ -347,29 +347,14 @@
         "Vulnerability"
       ],
       "threshold": 16.01
-    },
-    {
-      "title": "A Ransomware Negotiator Was Working for a Ransomware Gang",
-      "url": "https://www.schneier.com/blog/archives/2026/05/a-ransomware-negotiator-was-working-for-a-ransomware-gang.html",
-      "summary": "<p>Someone <a href=\"https://gizmodo.com/a-ransomware-negotiator-pleads-guilty-to-being-a-double-agent-2000749234\">pleaded guilty</a> to secretly working for a ransomware gang as he negotiated ransomware payments for clients.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-05-08T13:09:02.715041+00:00",
-      "raw_score": 4.574994481895725,
-      "score": 46,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Ransomware"
-      ],
-      "threshold": 16.01
     }
   ],
-  "updated": "2026-05-15T11:47:43.821543+00:00",
+  "updated": "2026-05-15T13:43:27.270624+00:00",
   "stats": {
-    "total": 24,
-    "relevant": 7,
-    "critical": 5,
-    "new_this_run": 1,
+    "total": 23,
+    "relevant": 6,
+    "critical": 4,
+    "new_this_run": 0,
     "sources": 2
   }
 }
