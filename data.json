@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: Bigfin Squid",
+      "url": "https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html",
+      "summary": "<p><a href=\"https://www.sciencefocus.com/nature/bigfin-squid\">Article</a> about the bigfin squid.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
+      "source": "Schneier on Security",
+      "published": "2026-05-16T02:02:54.676720+00:00",
+      "raw_score": 1.7887669175740524,
+      "score": 37,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.13
+    },
+    {
       "title": "Friday Squid Blogging: Giant Squid Live in the Waters of Western Australia",
       "url": "https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-giant-squid-live-in-the-waters-of-western-australia.html",
       "summary": "<p>Evidence of them has <a href=\"https://nautil.us/giant-squid-discovered-lurking-off-the-australian-coast-1280546\">been</a> <a href=\"https://oceanographicmagazine.com/news/giant-squid-found-in-western-australian-waters-in-edna-study/\">found</a> by analyzing DNA in the seawater.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.htm",
@@ -334,12 +349,12 @@
       "threshold": 15.97
     }
   ],
-  "updated": "2026-05-15T23:45:14.456984+00:00",
+  "updated": "2026-05-16T02:03:06.931396+00:00",
   "stats": {
-    "total": 22,
+    "total": 23,
     "relevant": 9,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
