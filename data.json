@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "LLMs and Text-in-Text Steganography",
+      "url": "https://www.schneier.com/blog/archives/2026/05/llms-and-text-in-text-steganography.html",
+      "summary": "<p>Turns out that LLMs are <a href=\"https://arxiv.org/abs/2510.20075\">really good</a> at hiding text messages in other text messages.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-05-18T14:28:47.351765+00:00",
+      "raw_score": 0.0,
+      "score": 31,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 12.62
+    },
+    {
+      "title": "Zero-Day Exploit Against Windows BitLocker",
+      "url": "https://www.schneier.com/blog/archives/2026/05/zero-day-exploit-against-windows-bitlocker.html",
+      "summary": "<p>It&#8217;s <a href=\"https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/\">nasty</a>, but it requires physical access to the computer:</p>\n<blockquote><p>The exploit, named YellowKey, was <a href=\"https://github.com/Nightmare-Eclipse/YellowKey\">published</a> earlier this week by a researcher who goes by the alias Nightmare-Eclipse. It reliably bypasses default Windows 11 deployments of BitLocker, the full-volume encryption prote",
+      "source": "Schneier on Security",
+      "published": "2026-05-18T14:28:47.350475+00:00",
+      "raw_score": 14.815696877493824,
+      "score": 79,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 12.62
+    },
+    {
       "title": "Friday Squid Blogging: Bigfin Squid",
       "url": "https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html",
       "summary": "<p><a href=\"https://www.sciencefocus.com/nature/bigfin-squid\">Article</a> about the bigfin squid.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
@@ -317,44 +347,14 @@
         "Vulnerability"
       ],
       "threshold": 17.38
-    },
-    {
-      "title": "Hacking Polymarket",
-      "url": "https://www.schneier.com/blog/archives/2026/05/hacking-polymarket.html",
-      "summary": "<p>Polymarket is a platform where people can bet on real-world events, political and otherwise. Leaving the ethical considerations of this aside (for one, it facilitates <a href=\"https://en.wikipedia.org/wiki/Assassination_market\">assassination</a>), one of the issues with making this work is the verification of these real-world events. Polymarket gamblers have <a href=\"https://www.theguardian.com/world/2026/mar/18/polymarket-gamblers-threaten-israeli-journalist-missile-strike-wager\">threatened<",
-      "source": "Schneier on Security",
-      "published": "2026-05-11T13:38:05.907063+00:00",
-      "raw_score": 0.0,
-      "score": 36,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 15.97
-    },
-    {
-      "title": "LLMs and Text-in-Text Steganography",
-      "url": "https://www.schneier.com/blog/archives/2026/05/llms-and-text-in-text-steganography.html",
-      "summary": "<p>Turns out that LLMs are <a href=\"https://arxiv.org/abs/2510.20075\">really good</a> at hiding text messages in other text messages.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-05-11T13:38:05.905983+00:00",
-      "raw_score": 0.0,
-      "score": 36,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 15.97
     }
   ],
-  "updated": "2026-05-18T10:58:16.095991+00:00",
+  "updated": "2026-05-18T14:29:03.472033+00:00",
   "stats": {
     "total": 23,
-    "relevant": 9,
-    "critical": 4,
-    "new_this_run": 0,
+    "relevant": 10,
+    "critical": 5,
+    "new_this_run": 2,
     "sources": 2
   }
 }
