@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Copy.Fail Linux Vulnerability",
+      "url": "https://www.schneier.com/blog/archives/2026/05/copy-fail-linux-vulnerability.html",
+      "summary": "<p>This is the <a href=\"https://jorijn.com/en/blog/copy-fail-cve-2026-31431-linux-kernel-bug-explained/\">worst</a> Linux vulnerability in years.</p>\n<blockquote><p><strong>TL;DR</strong></p>\n<ul>\n<li>copy.fail is a Linux kernel local privilege escalation, not a browser or clipboard attack. Disclosed by Theori on 29 April 2026 with a working PoC.\n<li>It abuses the kernel crypto API (AF_ALG sockets) plus splice() to write four bytes at a time straight into the page cache of a file the attacker doe",
+      "source": "Schneier on Security",
+      "published": "2026-05-19T13:50:02.902672+00:00",
+      "raw_score": 14.928481823023493,
+      "score": 80,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 12.62
+    },
+    {
+      "title": "Laurie Anderson Is Quoting Me",
+      "url": "https://www.schneier.com/blog/archives/2026/05/laurie-anderson-is-quoting-me.html",
+      "summary": "<p>Not by name, but Laurie Anderson <a href=\"https://www.youtube.com/watch?v=fBKdCzmcj_0\">quotes me</a> in one of the tracks of her new album:</p>\n<blockquote><p>My favorite quote is from a cryptologist who said &#8220;If you think technology will solve your problems, you don&#8217;t understand technology and you don&#8217;t understand your problems.&#8221;</p></blockquote>\n<p>Also in <a href=\"https://www.cbc.ca/arts/q/laurie-anderson-on-the-fantastic-and-catastrophic-uses-of-ai-in-art-1.7206120",
+      "source": "Schneier on Security",
+      "published": "2026-05-19T13:50:02.901402+00:00",
+      "raw_score": 0.0,
+      "score": 31,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 12.62
+    },
+    {
       "title": "LLMs and Text-in-Text Steganography",
       "url": "https://www.schneier.com/blog/archives/2026/05/llms-and-text-in-text-steganography.html",
       "summary": "<p>Turns out that LLMs are <a href=\"https://arxiv.org/abs/2510.20075\">really good</a> at hiding text messages in other text messages.</p>",
@@ -315,46 +345,14 @@
         "General"
       ],
       "threshold": 17.36
-    },
-    {
-      "title": "DarkSword Malware",
-      "url": "https://www.schneier.com/blog/archives/2026/05/darksword-malware.html",
-      "summary": "<p>DarkSword is a sophisticated piece of <a href=\"https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain\">malware</a>&#8212;probably government designed&#8212;that targets iOS.</p>\n<blockquote><p>Google Threat Intelligence Group (GTIG) has identified a new iOS full-chain exploit that leveraged multiple zero-day vulnerabilities to fully compromise devices. Based on toolmarks in recovered payloads, we believe the exploit chain to be called DarkSword. Since at least No",
-      "source": "Schneier on Security",
-      "published": "2026-05-12T11:12:42.329954+00:00",
-      "raw_score": 26.63659723693449,
-      "score": 92,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability",
-        "Malware",
-        "ICS / OT"
-      ],
-      "threshold": 17.38
-    },
-    {
-      "title": "Copy.Fail Linux Vulnerability",
-      "url": "https://www.schneier.com/blog/archives/2026/05/copy-fail-linux-vulnerability.html",
-      "summary": "<p>This is the <a href=\"https://jorijn.com/en/blog/copy-fail-cve-2026-31431-linux-kernel-bug-explained/\">worst</a> Linux vulnerability in years.</p>\n<blockquote><p><strong>TL;DR</strong></p>\n<ul>\n<li>copy.fail is a Linux kernel local privilege escalation, not a browser or clipboard attack. Disclosed by Theori on 29 April 2026 with a working PoC.\n<li>It abuses the kernel crypto API (AF_ALG sockets) plus splice() to write four bytes at a time straight into the page cache of a file the attacker doe",
-      "source": "Schneier on Security",
-      "published": "2026-05-12T11:12:42.328959+00:00",
-      "raw_score": 14.928481823023493,
-      "score": 67,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 17.38
     }
   ],
-  "updated": "2026-05-19T10:32:59.728123+00:00",
+  "updated": "2026-05-19T13:50:18.031744+00:00",
   "stats": {
     "total": 23,
-    "relevant": 10,
-    "critical": 5,
-    "new_this_run": 0,
+    "relevant": 9,
+    "critical": 4,
+    "new_this_run": 2,
     "sources": 2
   }
 }
