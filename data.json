@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities",
+      "url": "https://www.schneier.com/blog/archives/2026/05/openais-gpt-5-5-is-as-good-as-mythos-at-finding-security-vulnerabilities.html",
+      "summary": "<p>The UK&#8217;s AI Security Institute evaluated GPT-5.5&#8217;s ability to find security vulnerabilities, and <a href=\"https://www.aisi.gov.uk/blog/our-evaluation-of-openais-gpt-5-5-cyber-capabilities\">found</a> that it is comparable to Claude Mythos. Note that the OpenAI model is generally available.</p>\n<p><a href=\"https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities\">Here</a> is the Institute&#8217;s evaluation of Mythos.</p>\n<p>And <a href=\"https://aisle",
+      "source": "Schneier on Security",
+      "published": "2026-05-20T13:30:55.518051+00:00",
+      "raw_score": 1.1572086582935674,
+      "score": 35,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 12.62
+    },
+    {
       "title": "Copy.Fail Linux Vulnerability",
       "url": "https://www.schneier.com/blog/archives/2026/05/copy-fail-linux-vulnerability.html",
       "summary": "<p>This is the <a href=\"https://jorijn.com/en/blog/copy-fail-cve-2026-31431-linux-kernel-bug-explained/\">worst</a> Linux vulnerability in years.</p>\n<blockquote><p><strong>TL;DR</strong></p>\n<ul>\n<li>copy.fail is a Linux kernel local privilege escalation, not a browser or clipboard attack. Disclosed by Theori on 29 April 2026 with a working PoC.\n<li>It abuses the kernel crypto API (AF_ALG sockets) plus splice() to write four bytes at a time straight into the page cache of a file the attacker doe",
@@ -315,44 +330,14 @@
         "Advisory"
       ],
       "threshold": 16.99
-    },
-    {
-      "title": "Rowhammer Attack Against NVIDIA Chips",
-      "url": "https://www.schneier.com/blog/archives/2026/05/rowhammer-attack-against-nvidia-chips.html",
-      "summary": "<p>A new <a href=\"https://en.wikipedia.org/wiki/Row_hammer\">rowhammer</a> attack gives <a href=\"https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/\">complete control</a> of NVIDIA CPUs.</p>\n<blockquote><p>On Thursday, two research teams, working independently of each other, demonstrated attacks against two cards from Nvidia’s Ampere generation that take GPU rowhammering into new&#8212;­and potentially much more consequential&#8212",
-      "source": "Schneier on Security",
-      "published": "2026-05-13T11:55:20.433879+00:00",
-      "raw_score": 1.7481643898107069,
-      "score": 38,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 17.36
-    },
-    {
-      "title": "OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities",
-      "url": "https://www.schneier.com/blog/archives/2026/05/openais-gpt-5-5-is-as-good-as-mythos-at-finding-security-vulnerabilities.html",
-      "summary": "<p>The UK&#8217;s AI Security Institute evaluated GPT-5.5&#8217;s ability to find security vulnerabilities, and <a href=\"https://www.aisi.gov.uk/blog/our-evaluation-of-openais-gpt-5-5-cyber-capabilities\">found</a> that it is comparable to Claude Mythos. Note that the OpenAI model is generally available.</p>\n<p><a href=\"https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities\">Here</a> is the Institute&#8217;s evaluation of Mythos.</p>\n<p>And <a href=\"https://aisle",
-      "source": "Schneier on Security",
-      "published": "2026-05-13T11:55:20.432853+00:00",
-      "raw_score": 1.1572086582935674,
-      "score": 37,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 17.36
     }
   ],
-  "updated": "2026-05-20T10:19:03.361116+00:00",
+  "updated": "2026-05-20T13:31:09.107363+00:00",
   "stats": {
-    "total": 23,
+    "total": 22,
     "relevant": 9,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
