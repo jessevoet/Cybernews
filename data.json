@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "On AI Security",
+      "url": "https://www.schneier.com/blog/archives/2026/05/on-ai-security.html",
+      "summary": "<p>Good <a href=\"https://berryvilleiml.com/docs/no-security-meter-ai.pdf\">report</a>:</p>\n<blockquote><p><b>Executive Summary:</b> Let&#8217;s say you wanted to make sure that your AI is secure. Can you just maximize the security and privacy benchmark and call it a day? Nope, because benchmarks don&#8217;t actually work for measuring AI capabilities (even when they are NOT emergent systemic properties like security). So let&#8217;s take a step back: how do you measure security in the first place",
+      "source": "Schneier on Security",
+      "published": "2026-05-20T16:50:09.663527+00:00",
+      "raw_score": 1.0637647757921946,
+      "score": 35,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 12.63
+    },
+    {
       "title": "OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities",
       "url": "https://www.schneier.com/blog/archives/2026/05/openais-gpt-5-5-is-as-good-as-mythos-at-finding-security-vulnerabilities.html",
       "summary": "<p>The UK&#8217;s AI Security Institute evaluated GPT-5.5&#8217;s ability to find security vulnerabilities, and <a href=\"https://www.aisi.gov.uk/blog/our-evaluation-of-openais-gpt-5-5-cyber-capabilities\">found</a> that it is comparable to Claude Mythos. Note that the OpenAI model is generally available.</p>\n<p><a href=\"https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities\">Here</a> is the Institute&#8217;s evaluation of Mythos.</p>\n<p>And <a href=\"https://aisle",
@@ -332,9 +347,9 @@
       "threshold": 16.99
     }
   ],
-  "updated": "2026-05-20T13:31:09.107363+00:00",
+  "updated": "2026-05-20T16:50:24.389949+00:00",
   "stats": {
-    "total": 22,
+    "total": 23,
     "relevant": 9,
     "critical": 4,
     "new_this_run": 1,
