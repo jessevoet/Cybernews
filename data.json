@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Upcoming Speaking Engagements",
+      "url": "https://www.schneier.com/blog/archives/2026/05/upcoming-speaking-engagements-56.html",
+      "summary": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m giving a virtual talk on “The Security of Trust in the Age of AI,” hosted by the <a href=\"https://www.fwa.org/event-landing/2351\">Financial Women’s Association of New York</a>, at 6:00 PM ET on May 21, 2026.</li>\n<li>I’m speaking at the <a href=\"https://potsdamer-sicherheitskonferenz.de/\">Potsdam Conference on National Cybersecurity</a> at the Hasso Plattner Institut in Potsdam, Germany. The event runs June 24–",
+      "source": "Schneier on Security",
+      "published": "2026-05-21T16:35:22.730516+00:00",
+      "raw_score": 4.048756895794073,
+      "score": 43,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 12.89
+    },
+    {
+      "title": "macOS Kernel Memory Corruption Exploit",
+      "url": "https://www.schneier.com/blog/archives/2026/05/macos-kernel-memory-corruption-exploit.html",
+      "summary": "<p>A group used Anthropic&#8217;s Mythos AI model to <a href=\"https://blog.calif.io/p/first-public-kernel-memory-corruption\">help find</a> a kernel memory corruption vulnerability and exploit on Apple&#8217;s M5.</p>\n<p>News <a href=\"https://9to5mac.com/2026/05/14/calif-team-details-how-anthropic-mythos-helped-build-a-working-macos-exploit-in-five-days/\">article</a>.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-05-21T16:35:22.729274+00:00",
+      "raw_score": 10.2151447986009,
+      "score": 63,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 12.89
+    },
+    {
       "title": "How Dangerous Is Anthropic’s Mythos AI?",
       "url": "https://www.schneier.com/blog/archives/2026/05/how-dangerous-is-anthropics-mythos-ai.html",
       "summary": "<p>Last month, Anthropic made a remarkable <a href=\"https://red.anthropic.com/2026/mythos-preview/\">announcement</a> about its new model, Claude Mythos Preview: it was so good at finding security vulnerabilities in software that the company would not release it to the general public. Instead, it would only be available to a <a href=\"https://www.anthropic.com/glasswing\">select group</a> of companies to scan and fix their own software.</p>\n<p>The announcement requires context&#8212;but it containe",
@@ -315,29 +345,14 @@
         "General"
       ],
       "threshold": 11.13
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "url": "https://www.schneier.com/blog/archives/2026/05/upcoming-speaking-engagements-56.html",
-      "summary": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m giving a virtual talk on “The Security of Trust in the Age of AI,” hosted by the <a href=\"https://www.fwa.org/event-landing/2351\">Financial Women’s Association of New York</a>, at 6:00 PM ET on May 21, 2026.</li>\n<li>I’m speaking at the <a href=\"https://potsdamer-sicherheitskonferenz.de/\">Potsdam Conference on National Cybersecurity</a> at the Hasso Plattner Institut in Potsdam, Germany. The event runs June 24–",
-      "source": "Schneier on Security",
-      "published": "2026-05-14T16:04:55.383108+00:00",
-      "raw_score": 4.048756895794073,
-      "score": 44,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 16.48
     }
   ],
-  "updated": "2026-05-21T13:56:05.161980+00:00",
+  "updated": "2026-05-21T16:35:35.371074+00:00",
   "stats": {
-    "total": 22,
-    "relevant": 9,
+    "total": 23,
+    "relevant": 10,
     "critical": 4,
-    "new_this_run": 1,
+    "new_this_run": 2,
     "sources": 2
   }
 }
