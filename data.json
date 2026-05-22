@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "CISA Security Leak",
+      "url": "https://www.schneier.com/blog/archives/2026/05/cisa-security-leak.html",
+      "summary": "<p>Crazy <a href=\"https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/\">story</a>:</p>\n<blockquote><p>Until this past weekend, a contractor for the Cybersecurity &#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys sof",
+      "source": "Schneier on Security",
+      "published": "2026-05-22T16:14:56.892750+00:00",
+      "raw_score": 10.970956466489037,
+      "score": 68,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Data Breach",
+        "Advisory"
+      ],
+      "threshold": 12.05
+    },
+    {
       "title": "Bypassing On-Camera Age-Verification Checks",
       "url": "https://www.schneier.com/blog/archives/2026/05/bypassing-on-camera-age-verification-checks.html",
       "summary": "<p>Some AI-based video age-verification checks can be fooled with a <a href=\"https://techcrunch.com/2026/05/06/some-kids-are-bypassing-age-verification-checks-with-a-fake-mustache/\">fake mustache</a>.</p>",
@@ -347,10 +363,10 @@
       "threshold": 11.13
     }
   ],
-  "updated": "2026-05-22T13:24:06.897332+00:00",
+  "updated": "2026-05-22T16:15:10.211975+00:00",
   "stats": {
-    "total": 23,
-    "relevant": 10,
+    "total": 24,
+    "relevant": 11,
     "critical": 4,
     "new_this_run": 1,
     "sources": 2
