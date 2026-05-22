@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: Regulating Squid Fishing in the South Pacific",
+      "url": "https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-regulating-squid-fishing-in-the-south-pacific.html",
+      "summary": "<p>The South Pacific Regional Fisheries Management Organization (SPRFMO) needs to <a href=\"https://goodmenproject.com/featured-content/the-squid-rush-in-the-south-pacific-is-forcing-regulators-to-act/\">regulate</a> squid fishing in the South Pacific.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a",
+      "source": "Schneier on Security",
+      "published": "2026-05-22T21:58:08.519280+00:00",
+      "raw_score": 1.630934542493989,
+      "score": 35,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 12.03
+    },
+    {
       "title": "Welcome to the new Project Zero Blog",
       "url": "https://projectzero.google/2025/12/welcome.html",
       "summary": "While on Project Zero, we aim for our research to be leading-edge, our blog design was … not so much. We welcome readers to our shiny new blog! For the occasion, we asked members of Project Zero to dust off old blog posts that never quite saw the light of day. And while we wish we could say the techniques they cover are no longer relevant, there is still a lot of work that needs to be done to protect users against zero days. Our new blog will continue to shine a light on the capabilities of atta",
@@ -348,12 +363,12 @@
       "threshold": 11.13
     }
   ],
-  "updated": "2026-05-22T20:28:05.992998+00:00",
+  "updated": "2026-05-22T21:58:23.636787+00:00",
   "stats": {
-    "total": 23,
+    "total": 24,
     "relevant": 8,
     "critical": 3,
-    "new_this_run": 9,
+    "new_this_run": 1,
     "sources": 2
   }
 }
