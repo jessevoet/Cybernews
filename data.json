@@ -346,29 +346,14 @@
         "General"
       ],
       "threshold": 11.13
-    },
-    {
-      "title": "Friday Squid Blogging: Giant Squid Live in the Waters of Western Australia",
-      "url": "https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-giant-squid-live-in-the-waters-of-western-australia.html",
-      "summary": "<p>Evidence of them has <a href=\"https://nautil.us/giant-squid-discovered-lurking-off-the-australian-coast-1280546\">been</a> <a href=\"https://oceanographicmagazine.com/news/giant-squid-found-in-western-australian-waters-in-edna-study/\">found</a> by analyzing DNA in the seawater.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.htm",
-      "source": "Schneier on Security",
-      "published": "2026-05-15T22:44:09.510366+00:00",
-      "raw_score": 1.6082301173084574,
-      "score": 37,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 11.13
     }
   ],
-  "updated": "2026-05-22T21:58:23.636787+00:00",
+  "updated": "2026-05-22T22:57:45.543387+00:00",
   "stats": {
-    "total": 24,
+    "total": 23,
     "relevant": 8,
     "critical": 3,
-    "new_this_run": 1,
+    "new_this_run": 0,
     "sources": 2
   }
 }
