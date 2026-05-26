@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Laurie Anderson Is Quoting Me",
+      "url": "https://www.schneier.com/blog/archives/2026/05/laurie-anderson-is-quoting-me.html",
+      "summary": "<p>Not by name, but Laurie Anderson <a href=\"https://www.youtube.com/watch?v=fBKdCzmcj_0\">quotes me</a> in one of the tracks of her new album:</p>\n<blockquote><p>My favorite quote is from a cryptologist who said &#8220;If you think technology will solve your problems, you don&#8217;t understand technology and you don&#8217;t understand your problems.&#8221;</p></blockquote>\n<p>Also in <a href=\"https://www.cbc.ca/arts/q/laurie-anderson-on-the-fantastic-and-catastrophic-uses-of-ai-in-art-1.7206120",
+      "source": "Schneier on Security",
+      "published": "2026-05-26T17:21:17.130836+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 12.3
+    },
+    {
+      "title": "Identifying People Using Wi-Fi Routers",
+      "url": "https://www.schneier.com/blog/archives/2026/05/identifying-people-using-wi-fi-routers.html",
+      "summary": "<p>Not identifying people based on their use of Wi-Fi routers, but identifying people <a href=\"https://gizmodo.com/researchers-issue-warning-about-tech-that-could-turn-every-router-into-a-potential-means-for-surveillance-2000763181\">using Wi-Fi signals</a>.</p>\n<blockquote><p>This is accomplished through what is known as <a href=\"https://wballiance.com/wi-fi-sensing-101-an-introduction/\">WiFi sensing</a>, or the use of WiFi signals to infer information about a physical environment. When radio si",
+      "source": "Schneier on Security",
+      "published": "2026-05-26T17:21:17.130049+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 12.3
+    },
+    {
       "title": "Zero-Day Exploit Against Windows BitLocker",
       "url": "https://www.schneier.com/blog/archives/2026/05/zero-day-exploit-against-windows-bitlocker.html",
       "summary": "<p>It&#8217;s <a href=\"https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/\">nasty</a>, but it requires physical access to the computer:</p>\n<blockquote><p>The exploit, named YellowKey, was <a href=\"https://github.com/Nightmare-Eclipse/YellowKey\">published</a> earlier this week by a researcher who goes by the alias Nightmare-Eclipse. It reliably bypasses default Windows 11 deployments of BitLocker, the full-volume encryption prote",
@@ -301,44 +331,14 @@
         "General"
       ],
       "threshold": 12.62
-    },
-    {
-      "title": "Copy.Fail Linux Vulnerability",
-      "url": "https://www.schneier.com/blog/archives/2026/05/copy-fail-linux-vulnerability.html",
-      "summary": "<p>This is the <a href=\"https://jorijn.com/en/blog/copy-fail-cve-2026-31431-linux-kernel-bug-explained/\">worst</a> Linux vulnerability in years.</p>\n<blockquote><p><strong>TL;DR</strong></p>\n<ul>\n<li>copy.fail is a Linux kernel local privilege escalation, not a browser or clipboard attack. Disclosed by Theori on 29 April 2026 with a working PoC.\n<li>It abuses the kernel crypto API (AF_ALG sockets) plus splice() to write four bytes at a time straight into the page cache of a file the attacker doe",
-      "source": "Schneier on Security",
-      "published": "2026-05-19T13:50:02.902672+00:00",
-      "raw_score": 14.928481823023493,
-      "score": 80,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 12.62
-    },
-    {
-      "title": "Laurie Anderson Is Quoting Me",
-      "url": "https://www.schneier.com/blog/archives/2026/05/laurie-anderson-is-quoting-me.html",
-      "summary": "<p>Not by name, but Laurie Anderson <a href=\"https://www.youtube.com/watch?v=fBKdCzmcj_0\">quotes me</a> in one of the tracks of her new album:</p>\n<blockquote><p>My favorite quote is from a cryptologist who said &#8220;If you think technology will solve your problems, you don&#8217;t understand technology and you don&#8217;t understand your problems.&#8221;</p></blockquote>\n<p>Also in <a href=\"https://www.cbc.ca/arts/q/laurie-anderson-on-the-fantastic-and-catastrophic-uses-of-ai-in-art-1.7206120",
-      "source": "Schneier on Security",
-      "published": "2026-05-19T13:50:02.901402+00:00",
-      "raw_score": 0.0,
-      "score": 31,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 12.62
     }
   ],
-  "updated": "2026-05-26T13:48:18.937434+00:00",
+  "updated": "2026-05-26T17:21:30.063477+00:00",
   "stats": {
     "total": 22,
-    "relevant": 8,
+    "relevant": 7,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
