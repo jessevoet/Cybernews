@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "FBI’s 2025 Internet Crime Report",
+      "url": "https://www.schneier.com/blog/archives/2026/05/fbis-2025-internet-crime-report.html",
+      "summary": "<p>The 2025 <a href=\"https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf\">Internet Crime Report</a> was published a few weeks ago, but I only just saw it.<br />\nLots of interesting statistics.</p>\n<p><a href=\"https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions\">Press release</a>. <a href=\"https://www.wsj.com/tech/cybersecurity/internet-crime-fbi-report-fd7c16e8\">News</a> <a href=\"https://www.governing.com/key-findings/report-how-cyber-crime-affe",
+      "source": "Schneier on Security",
+      "published": "2026-05-27T14:19:31.201003+00:00",
+      "raw_score": 5.939488732002044,
+      "score": 49,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "ICS / OT",
+        "Law Enforcement"
+      ],
+      "threshold": 12.38
+    },
+    {
       "title": "Laurie Anderson Is Quoting Me",
       "url": "https://www.schneier.com/blog/archives/2026/05/laurie-anderson-is-quoting-me.html",
       "summary": "<p>Not by name, but Laurie Anderson <a href=\"https://www.youtube.com/watch?v=fBKdCzmcj_0\">quotes me</a> in one of the tracks of her new album:</p>\n<blockquote><p>My favorite quote is from a cryptologist who said &#8220;If you think technology will solve your problems, you don&#8217;t understand technology and you don&#8217;t understand your problems.&#8221;</p></blockquote>\n<p>Also in <a href=\"https://www.cbc.ca/arts/q/laurie-anderson-on-the-fantastic-and-catastrophic-uses-of-ai-in-art-1.7206120",
@@ -316,29 +332,14 @@
         "General"
       ],
       "threshold": 12.63
-    },
-    {
-      "title": "OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities",
-      "url": "https://www.schneier.com/blog/archives/2026/05/openais-gpt-5-5-is-as-good-as-mythos-at-finding-security-vulnerabilities.html",
-      "summary": "<p>The UK&#8217;s AI Security Institute evaluated GPT-5.5&#8217;s ability to find security vulnerabilities, and <a href=\"https://www.aisi.gov.uk/blog/our-evaluation-of-openais-gpt-5-5-cyber-capabilities\">found</a> that it is comparable to Claude Mythos. Note that the OpenAI model is generally available.</p>\n<p><a href=\"https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities\">Here</a> is the Institute&#8217;s evaluation of Mythos.</p>\n<p>And <a href=\"https://aisle",
-      "source": "Schneier on Security",
-      "published": "2026-05-20T13:30:55.518051+00:00",
-      "raw_score": 1.1572086582935674,
-      "score": 35,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 12.62
     }
   ],
-  "updated": "2026-05-27T10:49:33.680442+00:00",
+  "updated": "2026-05-27T14:19:44.359029+00:00",
   "stats": {
     "total": 22,
     "relevant": 7,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
