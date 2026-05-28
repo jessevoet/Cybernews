@@ -317,26 +317,11 @@
         "Vulnerability"
       ],
       "threshold": 12.89
-    },
-    {
-      "title": "How Dangerous Is Anthropic’s Mythos AI?",
-      "url": "https://www.schneier.com/blog/archives/2026/05/how-dangerous-is-anthropics-mythos-ai.html",
-      "summary": "<p>Last month, Anthropic made a remarkable <a href=\"https://red.anthropic.com/2026/mythos-preview/\">announcement</a> about its new model, Claude Mythos Preview: it was so good at finding security vulnerabilities in software that the company would not release it to the general public. Instead, it would only be available to a <a href=\"https://www.anthropic.com/glasswing\">select group</a> of companies to scan and fix their own software.</p>\n<p>The announcement requires context&#8212;but it containe",
-      "source": "Schneier on Security",
-      "published": "2026-05-21T13:55:52.157310+00:00",
-      "raw_score": 1.613846753340967,
-      "score": 36,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 12.63
     }
   ],
-  "updated": "2026-05-28T10:45:09.325043+00:00",
+  "updated": "2026-05-28T14:29:09.370568+00:00",
   "stats": {
-    "total": 22,
+    "total": 21,
     "relevant": 7,
     "critical": 3,
     "new_this_run": 0,
