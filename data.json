@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "macOS Kernel Memory Corruption Exploit",
+      "url": "https://www.schneier.com/blog/archives/2026/05/macos-kernel-memory-corruption-exploit.html",
+      "summary": "<p>A group used Anthropic&#8217;s Mythos AI model to <a href=\"https://blog.calif.io/p/first-public-kernel-memory-corruption\">help find</a> a kernel memory corruption vulnerability and exploit on Apple&#8217;s M5.</p>\n<p>News <a href=\"https://9to5mac.com/2026/05/14/calif-team-details-how-anthropic-mythos-helped-build-a-working-macos-exploit-in-five-days/\">article</a>.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-05-28T17:56:29.022944+00:00",
+      "raw_score": 10.2151447986009,
+      "score": 64,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 12.38
+    },
+    {
       "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
@@ -287,44 +302,14 @@
         "General"
       ],
       "threshold": 12.89
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "url": "https://www.schneier.com/blog/archives/2026/05/upcoming-speaking-engagements-56.html",
-      "summary": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m giving a virtual talk on “The Security of Trust in the Age of AI,” hosted by the <a href=\"https://www.fwa.org/event-landing/2351\">Financial Women’s Association of New York</a>, at 6:00 PM ET on May 21, 2026.</li>\n<li>I’m speaking at the <a href=\"https://potsdamer-sicherheitskonferenz.de/\">Potsdam Conference on National Cybersecurity</a> at the Hasso Plattner Institut in Potsdam, Germany. The event runs June 24–",
-      "source": "Schneier on Security",
-      "published": "2026-05-21T16:35:22.730516+00:00",
-      "raw_score": 4.048756895794073,
-      "score": 43,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 12.89
-    },
-    {
-      "title": "macOS Kernel Memory Corruption Exploit",
-      "url": "https://www.schneier.com/blog/archives/2026/05/macos-kernel-memory-corruption-exploit.html",
-      "summary": "<p>A group used Anthropic&#8217;s Mythos AI model to <a href=\"https://blog.calif.io/p/first-public-kernel-memory-corruption\">help find</a> a kernel memory corruption vulnerability and exploit on Apple&#8217;s M5.</p>\n<p>News <a href=\"https://9to5mac.com/2026/05/14/calif-team-details-how-anthropic-mythos-helped-build-a-working-macos-exploit-in-five-days/\">article</a>.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-05-21T16:35:22.729274+00:00",
-      "raw_score": 10.2151447986009,
-      "score": 63,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 12.89
     }
   ],
-  "updated": "2026-05-28T14:29:09.370568+00:00",
+  "updated": "2026-05-28T17:56:41.963366+00:00",
   "stats": {
-    "total": 21,
+    "total": 20,
     "relevant": 7,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
