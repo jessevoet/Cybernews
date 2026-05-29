@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Chilling Effects",
+      "url": "https://www.schneier.com/blog/archives/2026/05/chilling-effects.html",
+      "summary": "<p>Younger Americans have <a href=\"https://thehill.com/homenews/campaign/5759759-young-voters-trump-approval-rating-economy/\">soured on the second Donald Trump presidency</a>, but they are not protesting it.</p>\n<p>Despite <a href=\"https://www.pbs.org/newshour/show/new-poll-shows-growing-number-of-americans-disapprove-of-trumps-handling-of-iran-war\">an unpopular Iran war</a> and an even more <a href=\"https://www.cnn.com/2026/05/05/politics/trump-approval-rating-analysis-vis\">unpopular Trump admi",
+      "source": "Schneier on Security",
+      "published": "2026-05-29T12:41:20.317726+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "ICS / OT"
+      ],
+      "threshold": 12.38
+    },
+    {
       "title": "macOS Kernel Memory Corruption Exploit",
       "url": "https://www.schneier.com/blog/archives/2026/05/macos-kernel-memory-corruption-exploit.html",
       "summary": "<p>A group used Anthropic&#8217;s Mythos AI model to <a href=\"https://blog.calif.io/p/first-public-kernel-memory-corruption\">help find</a> a kernel memory corruption vulnerability and exploit on Apple&#8217;s M5.</p>\n<p>News <a href=\"https://9to5mac.com/2026/05/14/calif-team-details-how-anthropic-mythos-helped-build-a-working-macos-exploit-in-five-days/\">article</a>.</p>",
@@ -304,12 +319,12 @@
       "threshold": 12.89
     }
   ],
-  "updated": "2026-05-29T09:35:53.634567+00:00",
+  "updated": "2026-05-29T12:41:34.652293+00:00",
   "stats": {
-    "total": 20,
+    "total": 21,
     "relevant": 7,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
