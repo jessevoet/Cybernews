@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Microsoft Threatening Security Researcher",
+      "url": "https://www.schneier.com/blog/archives/2026/06/microsoft-threatening-security-researcher.html",
+      "summary": "<p>An anonymous security researcher called &#8220;Nightmare Eclipse&#8221; has been <a href=\"https://deadeclipse666.blogspot.com/\">publishing</a> a series of significant security exploits against Microsoft Windows&#8212;including one that <a href=\"https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/\">breaks</a> BitLocker. Microsoft has <a href=\"https://www.microsoft.com/en-us/msrc/blog/2026/05/a-shared-responsibility-protecting-cu",
+      "source": "Schneier on Security",
+      "published": "2026-06-02T14:43:20.424748+00:00",
+      "raw_score": 1.0914850305359654,
+      "score": 32,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 10.38
+    },
+    {
+      "title": "The Intersection of Encryption and AI",
+      "url": "https://www.schneier.com/blog/archives/2026/06/the-intersection-of-encryption-and-ai.html",
+      "summary": "<p><em>As part of their 20th Anniversary celebration, <a href=\"https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue\"><cite>Dark Reading</cite></a> asked five cybersecurity industry leaders who wrote blogs or columns for them over the years to select their favorite piece and share their reflections on the topic today. This is my section.</em></p>\n<p>Renowned technologist and author Bruce Schneier contributed a column on June 20, 2010, warning about <a",
+      "source": "Schneier on Security",
+      "published": "2026-06-02T14:43:20.424585+00:00",
+      "raw_score": 2.5266604394651706,
+      "score": 38,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Data Breach"
+      ],
+      "threshold": 10.38
+    },
+    {
       "title": "Vulnerability Disclosure in the Age of AI",
       "url": "https://www.schneier.com/blog/archives/2026/06/vulnerability-disclosure-in-the-age-of-ai.html",
       "summary": "<p>New article: &#8220;<a href=\"https://cyberdefensereview.army.mil/Portals/6/Documents/2026-vol11-iss2/CDR_V11_N2_Hathaway.pdf\">Responsible Disclosure in the Age of AI: A Call for Urgent Action</a>,&#8221; by Melissa Hathaway.</p>\n<blockquote><p><b>Abstract:</b> Artificial intelligence is fundamentally reshaping the balance between vulnerability discovery and remediation. Frontier AI models are now capable of autonomously identifying exploitable software vulnerabilities at unprecedented speed a",
@@ -319,12 +349,12 @@
       "threshold": 12.3
     }
   ],
-  "updated": "2026-06-02T10:04:32.147229+00:00",
+  "updated": "2026-06-02T14:43:33.985574+00:00",
   "stats": {
-    "total": 21,
-    "relevant": 6,
-    "critical": 3,
-    "new_this_run": 0,
+    "total": 23,
+    "relevant": 7,
+    "critical": 4,
+    "new_this_run": 2,
     "sources": 2
   }
 }
