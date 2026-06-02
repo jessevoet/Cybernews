@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Identifying People Using Wi-Fi Routers",
+      "url": "https://www.schneier.com/blog/archives/2026/05/identifying-people-using-wi-fi-routers.html",
+      "summary": "<p>Not identifying people based on their use of Wi-Fi routers, but identifying people <a href=\"https://gizmodo.com/researchers-issue-warning-about-tech-that-could-turn-every-router-into-a-potential-means-for-surveillance-2000763181\">using Wi-Fi signals</a>.</p>\n<blockquote><p>This is accomplished through what is known as <a href=\"https://wballiance.com/wi-fi-sensing-101-an-introduction/\">WiFi sensing</a>, or the use of WiFi signals to infer information about a physical environment. When radio si",
+      "source": "Schneier on Security",
+      "published": "2026-06-02T18:31:54.833785+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.38
+    },
+    {
       "title": "Microsoft Threatening Security Researcher",
       "url": "https://www.schneier.com/blog/archives/2026/06/microsoft-threatening-security-researcher.html",
       "summary": "<p>An anonymous security researcher called &#8220;Nightmare Eclipse&#8221; has been <a href=\"https://deadeclipse666.blogspot.com/\">publishing</a> a series of significant security exploits against Microsoft Windows&#8212;including one that <a href=\"https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/\">breaks</a> BitLocker. Microsoft has <a href=\"https://www.microsoft.com/en-us/msrc/blog/2026/05/a-shared-responsibility-protecting-cu",
@@ -317,44 +332,14 @@
         "Law Enforcement"
       ],
       "threshold": 12.38
-    },
-    {
-      "title": "Laurie Anderson Is Quoting Me",
-      "url": "https://www.schneier.com/blog/archives/2026/05/laurie-anderson-is-quoting-me.html",
-      "summary": "<p>Not by name, but Laurie Anderson <a href=\"https://www.youtube.com/watch?v=fBKdCzmcj_0\">quotes me</a> in one of the tracks of her new album:</p>\n<blockquote><p>My favorite quote is from a cryptologist who said &#8220;If you think technology will solve your problems, you don&#8217;t understand technology and you don&#8217;t understand your problems.&#8221;</p></blockquote>\n<p>Also in <a href=\"https://www.cbc.ca/arts/q/laurie-anderson-on-the-fantastic-and-catastrophic-uses-of-ai-in-art-1.7206120",
-      "source": "Schneier on Security",
-      "published": "2026-05-26T17:21:17.130836+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 12.3
-    },
-    {
-      "title": "Identifying People Using Wi-Fi Routers",
-      "url": "https://www.schneier.com/blog/archives/2026/05/identifying-people-using-wi-fi-routers.html",
-      "summary": "<p>Not identifying people based on their use of Wi-Fi routers, but identifying people <a href=\"https://gizmodo.com/researchers-issue-warning-about-tech-that-could-turn-every-router-into-a-potential-means-for-surveillance-2000763181\">using Wi-Fi signals</a>.</p>\n<blockquote><p>This is accomplished through what is known as <a href=\"https://wballiance.com/wi-fi-sensing-101-an-introduction/\">WiFi sensing</a>, or the use of WiFi signals to infer information about a physical environment. When radio si",
-      "source": "Schneier on Security",
-      "published": "2026-05-26T17:21:17.130049+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 12.3
     }
   ],
-  "updated": "2026-06-02T14:43:33.985574+00:00",
+  "updated": "2026-06-02T18:32:09.118076+00:00",
   "stats": {
-    "total": 23,
+    "total": 22,
     "relevant": 7,
     "critical": 4,
-    "new_this_run": 2,
+    "new_this_run": 1,
     "sources": 2
   }
 }
