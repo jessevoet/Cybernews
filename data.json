@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "AI Used to Decrypt Medieval Ciphers",
+      "url": "https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html",
+      "summary": "<p>Researchers are using machine learning algorithms to <a href=\"https://www.bbc.com/future/article/20260527-plots-love-letters-and-diplomacy-the-medieval-secrets-being-revealed-by-ai\">decrypt</a> historical pencil-and-paper ciphers.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-06-03T13:07:19.171041+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.82
+    },
+    {
       "title": "Identifying People Using Wi-Fi Routers",
       "url": "https://www.schneier.com/blog/archives/2026/05/identifying-people-using-wi-fi-routers.html",
       "summary": "<p>Not identifying people based on their use of Wi-Fi routers, but identifying people <a href=\"https://gizmodo.com/researchers-issue-warning-about-tech-that-could-turn-every-router-into-a-potential-means-for-surveillance-2000763181\">using Wi-Fi signals</a>.</p>\n<blockquote><p>This is accomplished through what is known as <a href=\"https://wballiance.com/wi-fi-sensing-101-an-introduction/\">WiFi sensing</a>, or the use of WiFi signals to infer information about a physical environment. When radio si",
@@ -334,12 +349,12 @@
       "threshold": 12.38
     }
   ],
-  "updated": "2026-06-03T08:07:30.566795+00:00",
+  "updated": "2026-06-03T13:07:35.090848+00:00",
   "stats": {
-    "total": 22,
+    "total": 23,
     "relevant": 7,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
