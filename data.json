@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "FBI’s 2025 Internet Crime Report",
+      "url": "https://www.schneier.com/blog/archives/2026/05/fbis-2025-internet-crime-report.html",
+      "summary": "<p>The 2025 <a href=\"https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf\">Internet Crime Report</a> was published a few weeks ago, but I only just saw it.<br />\nLots of interesting statistics.</p>\n<p><a href=\"https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions\">Press release</a>. <a href=\"https://www.wsj.com/tech/cybersecurity/internet-crime-fbi-report-fd7c16e8\">News</a> <a href=\"https://www.governing.com/key-findings/report-how-cyber-crime-affe",
+      "source": "Schneier on Security",
+      "published": "2026-06-03T18:16:34.664747+00:00",
+      "raw_score": 5.939488732002044,
+      "score": 54,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "ICS / OT",
+        "Law Enforcement"
+      ],
+      "threshold": 9.82
+    },
+    {
       "title": "AI Used to Decrypt Medieval Ciphers",
       "url": "https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html",
       "summary": "<p>Researchers are using machine learning algorithms to <a href=\"https://www.bbc.com/future/article/20260527-plots-love-letters-and-diplomacy-the-medieval-secrets-being-revealed-by-ai\">decrypt</a> historical pencil-and-paper ciphers.</p>",
@@ -316,43 +332,12 @@
         "Advisory"
       ],
       "threshold": 12.38
-    },
-    {
-      "title": "On AI Security",
-      "url": "https://www.schneier.com/blog/archives/2026/05/on-ai-security.html",
-      "summary": "<p>Good <a href=\"https://berryvilleiml.com/docs/no-security-meter-ai.pdf\">report</a>:</p>\n<blockquote><p><b>Executive Summary:</b> Let&#8217;s say you wanted to make sure that your AI is secure. Can you just maximize the security and privacy benchmark and call it a day? Nope, because benchmarks don&#8217;t actually work for measuring AI capabilities (even when they are NOT emergent systemic properties like security). So let&#8217;s take a step back: how do you measure security in the first place",
-      "source": "Schneier on Security",
-      "published": "2026-05-27T17:51:29.744714+00:00",
-      "raw_score": 1.0637647757921946,
-      "score": 31,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 12.38
-    },
-    {
-      "title": "FBI’s 2025 Internet Crime Report",
-      "url": "https://www.schneier.com/blog/archives/2026/05/fbis-2025-internet-crime-report.html",
-      "summary": "<p>The 2025 <a href=\"https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf\">Internet Crime Report</a> was published a few weeks ago, but I only just saw it.<br />\nLots of interesting statistics.</p>\n<p><a href=\"https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions\">Press release</a>. <a href=\"https://www.wsj.com/tech/cybersecurity/internet-crime-fbi-report-fd7c16e8\">News</a> <a href=\"https://www.governing.com/key-findings/report-how-cyber-crime-affe",
-      "source": "Schneier on Security",
-      "published": "2026-05-27T14:19:31.201003+00:00",
-      "raw_score": 5.939488732002044,
-      "score": 49,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "ICS / OT",
-        "Law Enforcement"
-      ],
-      "threshold": 12.38
     }
   ],
-  "updated": "2026-06-03T13:07:35.090848+00:00",
+  "updated": "2026-06-03T18:16:48.167037+00:00",
   "stats": {
-    "total": 23,
-    "relevant": 7,
+    "total": 22,
+    "relevant": 8,
     "critical": 4,
     "new_this_run": 1,
     "sources": 2
