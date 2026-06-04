@@ -332,27 +332,12 @@
         "ICS / OT"
       ],
       "threshold": 12.38
-    },
-    {
-      "title": "macOS Kernel Memory Corruption Exploit",
-      "url": "https://www.schneier.com/blog/archives/2026/05/macos-kernel-memory-corruption-exploit.html",
-      "summary": "<p>A group used Anthropic&#8217;s Mythos AI model to <a href=\"https://blog.calif.io/p/first-public-kernel-memory-corruption\">help find</a> a kernel memory corruption vulnerability and exploit on Apple&#8217;s M5.</p>\n<p>News <a href=\"https://9to5mac.com/2026/05/14/calif-team-details-how-anthropic-mythos-helped-build-a-working-macos-exploit-in-five-days/\">article</a>.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-05-28T17:56:29.022944+00:00",
-      "raw_score": 10.2151447986009,
-      "score": 64,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 12.38
     }
   ],
-  "updated": "2026-06-04T16:44:43.309102+00:00",
+  "updated": "2026-06-04T19:13:26.656449+00:00",
   "stats": {
-    "total": 23,
-    "relevant": 8,
+    "total": 22,
+    "relevant": 7,
     "critical": 4,
     "new_this_run": 0,
     "sources": 2
