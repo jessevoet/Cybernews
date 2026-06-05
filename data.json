@@ -331,28 +331,12 @@
         "General"
       ],
       "threshold": 12.38
-    },
-    {
-      "title": "CISA Security Leak",
-      "url": "https://www.schneier.com/blog/archives/2026/05/cisa-security-leak.html",
-      "summary": "<p>Crazy <a href=\"https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/\">story</a>:</p>\n<blockquote><p>Until this past weekend, a contractor for the Cybersecurity &#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys sof",
-      "source": "Schneier on Security",
-      "published": "2026-05-29T16:35:56.168771+00:00",
-      "raw_score": 10.970956466489037,
-      "score": 67,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Data Breach",
-        "Advisory"
-      ],
-      "threshold": 12.38
     }
   ],
-  "updated": "2026-06-05T16:25:29.116021+00:00",
+  "updated": "2026-06-05T18:54:31.541884+00:00",
   "stats": {
-    "total": 23,
-    "relevant": 7,
+    "total": 22,
+    "relevant": 6,
     "critical": 4,
     "new_this_run": 0,
     "sources": 2
