@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Vulnerability Disclosure in the Age of AI",
+      "url": "https://www.schneier.com/blog/archives/2026/06/vulnerability-disclosure-in-the-age-of-ai.html",
+      "summary": "<p>New article: &#8220;<a href=\"https://cyberdefensereview.army.mil/Portals/6/Documents/2026-vol11-iss2/CDR_V11_N2_Hathaway.pdf\">Responsible Disclosure in the Age of AI: A Call for Urgent Action</a>,&#8221; by Melissa Hathaway.</p>\n<blockquote><p><b>Abstract:</b> Artificial intelligence is fundamentally reshaping the balance between vulnerability discovery and remediation. Frontier AI models are now capable of autonomously identifying exploitable software vulnerabilities at unprecedented speed a",
+      "source": "Schneier on Security",
+      "published": "2026-06-08T22:18:27.132880+00:00",
+      "raw_score": 3.341333034967357,
+      "score": 42,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 10.67
+    },
+    {
       "title": "Critical Zcash Vulnerability Found and Fixed",
       "url": "https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html",
       "summary": "<p>If you&#8217;re a user&#8212;owner?&#8212;of this cryptocurrency, <a href=\"https://securityaffairs.com/193224/hacking/claude-opus-found-a-four-year-old-hole-in-zcashs-privacy-layer-nobody-knows-if-someone-already-used-it.html\">this</a> is important:</p>\n<blockquote><p>On May 29, the security researcher Taylor Hornby found a critical vulnerability in Zcash Orchard privacy pool using Claude Opus 4.8. The Zcash team hired Hornby specifically to look for this kind of issue. He found one fast enou",
@@ -316,29 +331,14 @@
         "Data Breach"
       ],
       "threshold": 10.38
-    },
-    {
-      "title": "Vulnerability Disclosure in the Age of AI",
-      "url": "https://www.schneier.com/blog/archives/2026/06/vulnerability-disclosure-in-the-age-of-ai.html",
-      "summary": "<p>New article: &#8220;<a href=\"https://cyberdefensereview.army.mil/Portals/6/Documents/2026-vol11-iss2/CDR_V11_N2_Hathaway.pdf\">Responsible Disclosure in the Age of AI: A Call for Urgent Action</a>,&#8221; by Melissa Hathaway.</p>\n<blockquote><p><b>Abstract:</b> Artificial intelligence is fundamentally reshaping the balance between vulnerability discovery and remediation. Frontier AI models are now capable of autonomously identifying exploitable software vulnerabilities at unprecedented speed a",
-      "source": "Schneier on Security",
-      "published": "2026-06-01T20:10:36.899939+00:00",
-      "raw_score": 3.341333034967357,
-      "score": 41,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 10.62
     }
   ],
-  "updated": "2026-06-08T20:01:22.615789+00:00",
+  "updated": "2026-06-08T22:18:38.400471+00:00",
   "stats": {
     "total": 22,
     "relevant": 9,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
