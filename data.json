@@ -331,28 +331,12 @@
         "Advisory"
       ],
       "threshold": 9.82
-    },
-    {
-      "title": "FBI’s 2025 Internet Crime Report",
-      "url": "https://www.schneier.com/blog/archives/2026/05/fbis-2025-internet-crime-report.html",
-      "summary": "<p>The 2025 <a href=\"https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf\">Internet Crime Report</a> was published a few weeks ago, but I only just saw it.<br />\nLots of interesting statistics.</p>\n<p><a href=\"https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions\">Press release</a>. <a href=\"https://www.wsj.com/tech/cybersecurity/internet-crime-fbi-report-fd7c16e8\">News</a> <a href=\"https://www.governing.com/key-findings/report-how-cyber-crime-affe",
-      "source": "Schneier on Security",
-      "published": "2026-06-03T18:16:34.664747+00:00",
-      "raw_score": 5.939488732002044,
-      "score": 54,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "ICS / OT",
-        "Law Enforcement"
-      ],
-      "threshold": 9.82
     }
   ],
-  "updated": "2026-06-10T17:51:34.139076+00:00",
+  "updated": "2026-06-10T20:12:17.817377+00:00",
   "stats": {
-    "total": 23,
-    "relevant": 11,
+    "total": 22,
+    "relevant": 10,
     "critical": 3,
     "new_this_run": 0,
     "sources": 2
