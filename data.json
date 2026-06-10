@@ -1,6 +1,37 @@
 {
   "items": [
     {
+      "title": "AI Used to Decrypt Medieval Ciphers",
+      "url": "https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html",
+      "summary": "<p>Researchers are using machine learning algorithms to <a href=\"https://www.bbc.com/future/article/20260527-plots-love-letters-and-diplomacy-the-medieval-secrets-being-revealed-by-ai\">decrypt</a> historical pencil-and-paper ciphers.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-06-10T14:18:59.577095+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.7
+    },
+    {
+      "title": "NSO Group Hacking WhatsApp Despite Court Order",
+      "url": "https://www.schneier.com/blog/archives/2026/06/nso-group-hacking-whatsapp-despite-court-order.html",
+      "summary": "<p>WhatsApp has <a href=\"https://www.securityweek.com/whatsapp-catches-spyware-firm-nso-defying-no-hacking-court-order/\">caught</a> the NSO Group phishing its users, in violation of a court order.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-06-10T14:18:59.575368+00:00",
+      "raw_score": 7.0523695696506055,
+      "score": 56,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Malware",
+        "Phishing"
+      ],
+      "threshold": 10.7
+    },
+    {
       "title": "Microsoft Threatening Security Researcher",
       "url": "https://www.schneier.com/blog/archives/2026/06/microsoft-threatening-security-researcher.html",
       "summary": "<p>An anonymous security researcher called &#8220;Nightmare Eclipse&#8221; has been <a href=\"https://deadeclipse666.blogspot.com/\">publishing</a> a series of significant security exploits against Microsoft Windows&#8212;including one that <a href=\"https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/\">breaks</a> BitLocker. Microsoft has <a href=\"https://www.microsoft.com/en-us/msrc/blog/2026/05/a-shared-responsibility-protecting-cu",
@@ -316,29 +347,14 @@
         "Law Enforcement"
       ],
       "threshold": 9.82
-    },
-    {
-      "title": "AI Used to Decrypt Medieval Ciphers",
-      "url": "https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html",
-      "summary": "<p>Researchers are using machine learning algorithms to <a href=\"https://www.bbc.com/future/article/20260527-plots-love-letters-and-diplomacy-the-medieval-secrets-being-revealed-by-ai\">decrypt</a> historical pencil-and-paper ciphers.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-06-03T13:07:19.171041+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.82
     }
   ],
-  "updated": "2026-06-10T10:56:15.386099+00:00",
+  "updated": "2026-06-10T14:19:12.846424+00:00",
   "stats": {
-    "total": 22,
-    "relevant": 10,
+    "total": 23,
+    "relevant": 11,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
