@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Hacking Meta’s AI Chatbot",
+      "url": "https://www.schneier.com/blog/archives/2026/06/hacking-metas-ai-chatbot.html",
+      "summary": "<p>Hackers are <a href=\"https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/\">convincing</a> Meta&#8217;s AI support chatbot to let them take over other peoples&#8217; accounts:</p>\n<blockquote><p>A <a href=\"https://x.com/DarkWebInformer/status/2061253599758315527\">video</a> posted on X showed the step-by-step process to hack someone&#8217;s Instagram account. The hacker allegedly used a VPN to spoof the targets&#8217; pr",
+      "source": "Schneier on Security",
+      "published": "2026-06-11T14:30:13.069046+00:00",
+      "raw_score": 3.457093169875039,
+      "score": 40,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.97
+    },
+    {
+      "title": "Enhanced License Plate Tracking",
+      "url": "https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html",
+      "summary": "<p>The surveillance company Leonardo wants <a href=\"https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/\">more data</a>:</p>\n<blockquote><p>A surveillance company plans to add sensors to automatic license plate readers (ALPRs) that would mean the devices, as well as capture the license plate of passing vehicles, would also sweep up unique identifiers of mobile phones, wearables, and other Bluetooth-enabled devices in those cars, potentially",
+      "source": "Schneier on Security",
+      "published": "2026-06-11T14:30:13.067957+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "APT / Nation State"
+      ],
+      "threshold": 10.97
+    },
+    {
       "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
@@ -316,29 +346,14 @@
         "General"
       ],
       "threshold": 8.89
-    },
-    {
-      "title": "Hacking Meta’s AI Chatbot",
-      "url": "https://www.schneier.com/blog/archives/2026/06/hacking-metas-ai-chatbot.html",
-      "summary": "<p>Hackers are <a href=\"https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/\">convincing</a> Meta&#8217;s AI support chatbot to let them take over other peoples&#8217; accounts:</p>\n<blockquote><p>A <a href=\"https://x.com/DarkWebInformer/status/2061253599758315527\">video</a> posted on X showed the step-by-step process to hack someone&#8217;s Instagram account. The hacker allegedly used a VPN to spoof the targets&#8217; pr",
-      "source": "Schneier on Security",
-      "published": "2026-06-04T13:52:45.678197+00:00",
-      "raw_score": 3.457093169875039,
-      "score": 45,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.69
     }
   ],
-  "updated": "2026-06-11T10:06:24.743409+00:00",
+  "updated": "2026-06-11T14:30:26.390872+00:00",
   "stats": {
-    "total": 22,
+    "total": 23,
     "relevant": 10,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
