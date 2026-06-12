@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "AI Worm",
+      "url": "https://www.schneier.com/blog/archives/2026/06/ai-worm.html",
+      "summary": "<p>Researchers have <a href=\"https://cleverhans.io/worm\">prototyped</a> an AI-powered <a href=\"https://www.nytimes.com/2026/06/02/technology/scientists-find-way-to-supercharge-dangerous-computer-worms-with-ai.html\">internet worm</a>.</p>\n<p>The coolest thing about the prototype is that it carries its own LLM with it, and runs it on computers that have been broken into.</p>\n<p>This is the closest to John Brunner&#8217;s original <a href=\"https://en.wikipedia.org/wiki/The_Shockwave_Rider\">1975 con",
+      "source": "Schneier on Security",
+      "published": "2026-06-12T14:34:41.103527+00:00",
+      "raw_score": 0.0,
+      "score": 24,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.16
+    },
+    {
       "title": "Bernie Sanders’ AI Sovereign Wealth Fund Plan",
       "url": "https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html",
       "summary": "<p>Let no one accuse Bernie Sanders of ducking the big questions. Writing in the New York Times last week, the senator <a href=\"https://www.nytimes.com/2026/06/01/opinion/artificial-intelligence-bernie-sanders.html\">asked</a>: &#8220;Will the future of humanity be determined by a handful of billionaires who have promoted and developed AI, with virtually no democratic input, who stand to become even richer and more powerful than they are today?&#8221;</p>\n<p>We agree entirely that this is one of ",
@@ -331,41 +346,11 @@
         "General"
       ],
       "threshold": 8.89
-    },
-    {
-      "title": "Chilling Effects",
-      "url": "https://www.schneier.com/blog/archives/2026/05/chilling-effects.html",
-      "summary": "<p>Younger Americans have <a href=\"https://thehill.com/homenews/campaign/5759759-young-voters-trump-approval-rating-economy/\">soured on the second Donald Trump presidency</a>, but they are not protesting it.</p>\n<p>Despite <a href=\"https://www.pbs.org/newshour/show/new-poll-shows-growing-number-of-americans-disapprove-of-trumps-handling-of-iran-war\">an unpopular Iran war</a> and an even more <a href=\"https://www.cnn.com/2026/05/05/politics/trump-approval-rating-analysis-vis\">unpopular Trump admi",
-      "source": "Schneier on Security",
-      "published": "2026-06-05T13:48:19.920222+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "ICS / OT"
-      ],
-      "threshold": 8.89
-    },
-    {
-      "title": "AI Worm",
-      "url": "https://www.schneier.com/blog/archives/2026/06/ai-worm.html",
-      "summary": "<p>Researchers have <a href=\"https://cleverhans.io/worm\">prototyped</a> an AI-powered <a href=\"https://www.nytimes.com/2026/06/02/technology/scientists-find-way-to-supercharge-dangerous-computer-worms-with-ai.html\">internet worm</a>.</p>\n<p>The coolest thing about the prototype is that it carries its own LLM with it, and runs it on computers that have been broken into.</p>\n<p>This is the closest to John Brunner&#8217;s original <a href=\"https://en.wikipedia.org/wiki/The_Shockwave_Rider\">1975 con",
-      "source": "Schneier on Security",
-      "published": "2026-06-05T13:48:19.918186+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.89
     }
   ],
-  "updated": "2026-06-12T11:35:35.807742+00:00",
+  "updated": "2026-06-12T14:34:53.540450+00:00",
   "stats": {
-    "total": 24,
+    "total": 23,
     "relevant": 10,
     "critical": 3,
     "new_this_run": 1,
