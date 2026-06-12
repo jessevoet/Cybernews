@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: Squid-Inspired Fluid Pump",
+      "url": "https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-squid-inspired-fluid-pump.html",
+      "summary": "<p>This fluid pump was <a href=\"https://www.bu.edu/articles/2026/squid-inspired-lab-tech-wins-student-team-climate-award/\">inspired</a> by the way squids propel themselves through the water.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
+      "source": "Schneier on Security",
+      "published": "2026-06-12T21:24:06.685441+00:00",
+      "raw_score": 1.7030643257001112,
+      "score": 32,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.2
+    },
+    {
       "title": "AI Worm",
       "url": "https://www.schneier.com/blog/archives/2026/06/ai-worm.html",
       "summary": "<p>Researchers have <a href=\"https://cleverhans.io/worm\">prototyped</a> an AI-powered <a href=\"https://www.nytimes.com/2026/06/02/technology/scientists-find-way-to-supercharge-dangerous-computer-worms-with-ai.html\">internet worm</a>.</p>\n<p>The coolest thing about the prototype is that it carries its own LLM with it, and runs it on computers that have been broken into.</p>\n<p>This is the closest to John Brunner&#8217;s original <a href=\"https://en.wikipedia.org/wiki/The_Shockwave_Rider\">1975 con",
@@ -348,12 +363,12 @@
       "threshold": 8.89
     }
   ],
-  "updated": "2026-06-12T19:53:41.445185+00:00",
+  "updated": "2026-06-12T21:24:23.188636+00:00",
   "stats": {
-    "total": 23,
+    "total": 24,
     "relevant": 10,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
