@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Bernie Sanders’ AI Sovereign Wealth Fund Plan",
+      "url": "https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html",
+      "summary": "<p>Let no one accuse Bernie Sanders of ducking the big questions. Writing in the New York Times last week, the senator <a href=\"https://www.nytimes.com/2026/06/01/opinion/artificial-intelligence-bernie-sanders.html\">asked</a>: &#8220;Will the future of humanity be determined by a handful of billionaires who have promoted and developed AI, with virtually no democratic input, who stand to become even richer and more powerful than they are today?&#8221;</p>\n<p>We agree entirely that this is one of ",
+      "source": "Schneier on Security",
+      "published": "2026-06-12T11:35:24.119226+00:00",
+      "raw_score": 0.0,
+      "score": 24,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.16
+    },
+    {
       "title": "Hacking Meta’s AI Chatbot",
       "url": "https://www.schneier.com/blog/archives/2026/06/hacking-metas-ai-chatbot.html",
       "summary": "<p>Hackers are <a href=\"https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/\">convincing</a> Meta&#8217;s AI support chatbot to let them take over other peoples&#8217; accounts:</p>\n<blockquote><p>A <a href=\"https://x.com/DarkWebInformer/status/2061253599758315527\">video</a> posted on X showed the step-by-step process to hack someone&#8217;s Instagram account. The hacker allegedly used a VPN to spoof the targets&#8217; pr",
@@ -348,12 +363,12 @@
       "threshold": 8.89
     }
   ],
-  "updated": "2026-06-12T07:13:33.702151+00:00",
+  "updated": "2026-06-12T11:35:35.807742+00:00",
   "stats": {
-    "total": 23,
+    "total": 24,
     "relevant": 10,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
