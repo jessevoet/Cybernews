@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "The FCC Wants to Eliminate Burner Phones",
+      "url": "https://www.schneier.com/blog/archives/2026/06/the-fcc-wants-to-eliminate-burner-phones.html",
+      "summary": "<p>A proposed FCC rule would <a href=\"https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/\">kill</a> burner phones: phones whose accounts are not attached to a particular person.</p>\n<blockquote><p>The FCC plans to do this by legally forcing the country&#8217;s telecoms to store a wealth of personal information about essentially all phone customers, including a government issued identification number and their physical address, alarming privacy ad",
+      "source": "Schneier on Security",
+      "published": "2026-06-15T12:57:47.312996+00:00",
+      "raw_score": 5.071808638243502,
+      "score": 46,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.97
+    },
+    {
       "title": "Upcoming Speaking Engagements",
       "url": "https://www.schneier.com/blog/archives/2026/06/upcoming-speaking-engagements-57.html",
       "summary": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m giving a keynote at <a href=\"https://wirtschaftsrat.de/de/hoehepunktveranstaltungen/wir-bauen-die-cybernation-von-der-vision-zur-wirkung/\">Cybernation 2026</a> in Berlin, Germany, on June 24, 2026.</li>\n<li>I’m speaking at the <a href=\"https://potsdamer-sicherheitskonferenz.de/\">Potsdam Conference on National Cybersecurity</a> at the Hasso Plattner Institut in Potsdam, Germany. The event runs June 24–25, 2026, ",
@@ -363,12 +378,12 @@
       "threshold": 8.89
     }
   ],
-  "updated": "2026-06-15T06:14:19.388552+00:00",
+  "updated": "2026-06-15T12:58:01.091128+00:00",
   "stats": {
-    "total": 24,
+    "total": 25,
     "relevant": 7,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
