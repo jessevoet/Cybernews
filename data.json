@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Flock Cameras Are Being Used for Stalking",
+      "url": "https://www.schneier.com/blog/archives/2026/06/flock-cameras-are-being-used-for-stalking.html",
+      "summary": "<p>There are over a dozen cases around the country where police officers are using the Flock surveillance camera system to obsessively and illegally <a href=\"https://www.404media.co/cops-keep-getting-arrested-for-using-flock-to-stalk-people/\">stalk people</a>.</p>\n<p><a href=\"https://archive.ph/l5KcH\">Alternate link</a>.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-06-16T12:03:43.851844+00:00",
+      "raw_score": 0.0,
+      "score": 24,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Law Enforcement"
+      ],
+      "threshold": 10.97
+    },
+    {
       "title": "Anthropic’s Project Glasswing Update",
       "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-project-glasswing-update.html",
       "summary": "<p>In April, Anthropic initated <a href=\"https://www.anthropic.com/glasswing\">Project Glasswing</a>. The idea was to let companies use their new model to find and fix vulnerabilities in their own software. It was a fantastic PR move, and so many press outlets have uncritically parroted Anthropic&#8217;s claims that it&#8217;s now common wisdom that Mythos is better at finding software vulnerabilities than other models. Which is just <a href=\"https://www.theguardian.com/commentisfree/2026/may/08/",
@@ -363,12 +378,12 @@
       "threshold": 10.48
     }
   ],
-  "updated": "2026-06-16T06:25:01.266848+00:00",
+  "updated": "2026-06-16T12:03:56.269509+00:00",
   "stats": {
-    "total": 24,
+    "total": 25,
     "relevant": 7,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
