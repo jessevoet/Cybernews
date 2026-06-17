@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "NSO Group Hacking WhatsApp Despite Court Order",
+      "url": "https://www.schneier.com/blog/archives/2026/06/nso-group-hacking-whatsapp-despite-court-order.html",
+      "summary": "<p>WhatsApp has <a href=\"https://www.securityweek.com/whatsapp-catches-spyware-firm-nso-defying-no-hacking-court-order/\">caught</a> the NSO Group phishing its users, in violation of a court order.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-06-17T14:51:05.113299+00:00",
+      "raw_score": 7.0523695696506055,
+      "score": 56,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Malware",
+        "Phishing"
+      ],
+      "threshold": 10.72
+    },
+    {
       "title": "AI Use by the US Government",
       "url": "https://www.schneier.com/blog/archives/2026/06/ai-use-by-the-us-government.html",
       "summary": "<p>On 14 April, the Trump administration quietly acknowledged the widespread use of AI to automate government processes. The office of management and budget (OMB) <a href=\"https://github.com/ombegov/2025-Federal-Agency-AI-Use-Case-Inventory/commit/3c225ba8438e48306ace7698c8c7feb9486cbc69\">disclosed</a> a staggering 3,611 active or planned use cases for AI across the federal government. The list has <a href=\"https://fedscoop.com/disclosed-government-ai-use-increased-in-2025-omb/\">ballooned</a> by",
@@ -330,42 +346,11 @@
         "Advisory"
       ],
       "threshold": 10.7
-    },
-    {
-      "title": "AI Used to Decrypt Medieval Ciphers",
-      "url": "https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html",
-      "summary": "<p>Researchers are using machine learning algorithms to <a href=\"https://www.bbc.com/future/article/20260527-plots-love-letters-and-diplomacy-the-medieval-secrets-being-revealed-by-ai\">decrypt</a> historical pencil-and-paper ciphers.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-06-10T14:18:59.577095+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.7
-    },
-    {
-      "title": "NSO Group Hacking WhatsApp Despite Court Order",
-      "url": "https://www.schneier.com/blog/archives/2026/06/nso-group-hacking-whatsapp-despite-court-order.html",
-      "summary": "<p>WhatsApp has <a href=\"https://www.securityweek.com/whatsapp-catches-spyware-firm-nso-defying-no-hacking-court-order/\">caught</a> the NSO Group phishing its users, in violation of a court order.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-06-10T14:18:59.575368+00:00",
-      "raw_score": 7.0523695696506055,
-      "score": 56,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Malware",
-        "Phishing"
-      ],
-      "threshold": 10.7
     }
   ],
-  "updated": "2026-06-17T11:27:44.249133+00:00",
+  "updated": "2026-06-17T14:51:17.406914+00:00",
   "stats": {
-    "total": 24,
+    "total": 23,
     "relevant": 5,
     "critical": 2,
     "new_this_run": 1,
