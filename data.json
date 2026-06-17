@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "AI Use by the US Government",
+      "url": "https://www.schneier.com/blog/archives/2026/06/ai-use-by-the-us-government.html",
+      "summary": "<p>On 14 April, the Trump administration quietly acknowledged the widespread use of AI to automate government processes. The office of management and budget (OMB) <a href=\"https://github.com/ombegov/2025-Federal-Agency-AI-Use-Case-Inventory/commit/3c225ba8438e48306ace7698c8c7feb9486cbc69\">disclosed</a> a staggering 3,611 active or planned use cases for AI across the federal government. The list has <a href=\"https://fedscoop.com/disclosed-government-ai-use-increased-in-2025-omb/\">ballooned</a> by",
+      "source": "Schneier on Security",
+      "published": "2026-06-17T11:27:32.071550+00:00",
+      "raw_score": 3.606544995216643,
+      "score": 40,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Malware"
+      ],
+      "threshold": 10.72
+    },
+    {
       "title": "GPS As a Key Distribution Platform",
       "url": "https://www.schneier.com/blog/archives/2026/06/gps-as-a-key-distribution-platform.html",
       "summary": "<p><a href=\"https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/\">This</a> is interesting:</p>\n<blockquote><p>The U.S. military has likely been quietly broadcasting codes for its global encryption network using public GPS for nearly 20 years, turning each satellite into a hidden &#8220;numbers station,&#8221; according to Steven Murdoch&#8230;</p>\n<p>That means every device that uses GPS has been receiving hidden government information for ",
@@ -348,12 +363,12 @@
       "threshold": 10.7
     }
   ],
-  "updated": "2026-06-17T06:00:38.304285+00:00",
+  "updated": "2026-06-17T11:27:44.249133+00:00",
   "stats": {
-    "total": 23,
+    "total": 24,
     "relevant": 5,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
