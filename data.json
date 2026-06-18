@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
+      "source": "Google Project Zero",
+      "published": "2026-06-18T05:28:29.921452+00:00",
+      "raw_score": 7.092005476157869,
+      "score": 56,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 10.72
+    },
+    {
       "title": "NSO Group Hacking WhatsApp Despite Court Order",
       "url": "https://www.schneier.com/blog/archives/2026/06/nso-group-hacking-whatsapp-despite-court-order.html",
       "summary": "<p>WhatsApp has <a href=\"https://www.securityweek.com/whatsapp-catches-spyware-firm-nso-defying-no-hacking-court-order/\">caught</a> the NSO Group phishing its users, in violation of a court order.</p>",
@@ -330,30 +346,14 @@
         "APT / Nation State"
       ],
       "threshold": 10.97
-    },
-    {
-      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
-      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
-      "source": "Google Project Zero",
-      "published": "2026-06-11T00:08:43.655753+00:00",
-      "raw_score": 7.092005476157869,
-      "score": 56,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 10.7
     }
   ],
-  "updated": "2026-06-18T00:07:44.855316+00:00",
+  "updated": "2026-06-18T05:28:37.541659+00:00",
   "stats": {
     "total": 23,
     "relevant": 5,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
