@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Embedding Forbidden Text in Spyware to Discourage AI Analysis",
+      "url": "https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis.html",
+      "summary": "<p>At least one malware developer is <a href=\"https://x.com/jsrailton/status/2064661778978533571\">adding text</a> about nuclear and biological weapons to their spyware, in an effort to stop automatic AI analysis.</p>\n<p><a href=\"https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious\">Details</a>:</p>\n<blockquote><p>The _index.js payload begins with a large JavaScript block comment containing fake system instructions and policy-trigge",
+      "source": "Schneier on Security",
+      "published": "2026-06-18T13:56:09.349450+00:00",
+      "raw_score": 12.027757590122292,
+      "score": 80,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Malware",
+        "ICS / OT"
+      ],
+      "threshold": 10.26
+    },
+    {
       "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
@@ -348,12 +364,12 @@
       "threshold": 10.97
     }
   ],
-  "updated": "2026-06-18T10:05:28.523005+00:00",
+  "updated": "2026-06-18T13:56:19.642235+00:00",
   "stats": {
-    "total": 23,
-    "relevant": 5,
+    "total": 24,
+    "relevant": 6,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
