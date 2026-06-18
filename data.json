@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Enhanced License Plate Tracking",
+      "url": "https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html",
+      "summary": "<p>The surveillance company Leonardo wants <a href=\"https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/\">more data</a>:</p>\n<blockquote><p>A surveillance company plans to add sensors to automatic license plate readers (ALPRs) that would mean the devices, as well as capture the license plate of passing vehicles, would also sweep up unique identifiers of mobile phones, wearables, and other Bluetooth-enabled devices in those cars, potentially",
+      "source": "Schneier on Security",
+      "published": "2026-06-18T16:52:19.467616+00:00",
+      "raw_score": 0.0,
+      "score": 23,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "APT / Nation State"
+      ],
+      "threshold": 10.26
+    },
+    {
       "title": "Embedding Forbidden Text in Spyware to Discourage AI Analysis",
       "url": "https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis.html",
       "summary": "<p>At least one malware developer is <a href=\"https://x.com/jsrailton/status/2064661778978533571\">adding text</a> about nuclear and biological weapons to their spyware, in an effort to stop automatic AI analysis.</p>\n<p><a href=\"https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious\">Details</a>:</p>\n<blockquote><p>The _index.js payload begins with a large JavaScript block comment containing fake system instructions and policy-trigge",
@@ -332,41 +347,11 @@
         "General"
       ],
       "threshold": 11.16
-    },
-    {
-      "title": "Hacking Meta’s AI Chatbot",
-      "url": "https://www.schneier.com/blog/archives/2026/06/hacking-metas-ai-chatbot.html",
-      "summary": "<p>Hackers are <a href=\"https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/\">convincing</a> Meta&#8217;s AI support chatbot to let them take over other peoples&#8217; accounts:</p>\n<blockquote><p>A <a href=\"https://x.com/DarkWebInformer/status/2061253599758315527\">video</a> posted on X showed the step-by-step process to hack someone&#8217;s Instagram account. The hacker allegedly used a VPN to spoof the targets&#8217; pr",
-      "source": "Schneier on Security",
-      "published": "2026-06-11T14:30:13.069046+00:00",
-      "raw_score": 3.457093169875039,
-      "score": 40,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.97
-    },
-    {
-      "title": "Enhanced License Plate Tracking",
-      "url": "https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html",
-      "summary": "<p>The surveillance company Leonardo wants <a href=\"https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/\">more data</a>:</p>\n<blockquote><p>A surveillance company plans to add sensors to automatic license plate readers (ALPRs) that would mean the devices, as well as capture the license plate of passing vehicles, would also sweep up unique identifiers of mobile phones, wearables, and other Bluetooth-enabled devices in those cars, potentially",
-      "source": "Schneier on Security",
-      "published": "2026-06-11T14:30:13.067957+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "APT / Nation State"
-      ],
-      "threshold": 10.97
     }
   ],
-  "updated": "2026-06-18T13:56:19.642235+00:00",
+  "updated": "2026-06-18T16:52:30.274691+00:00",
   "stats": {
-    "total": 24,
+    "total": 23,
     "relevant": 6,
     "critical": 2,
     "new_this_run": 1,
