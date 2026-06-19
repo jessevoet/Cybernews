@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Bernie Sanders’ AI Sovereign Wealth Fund Plan",
+      "url": "https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html",
+      "summary": "<p>Let no one accuse Bernie Sanders of ducking the big questions. Writing in the New York Times last week, the senator <a href=\"https://www.nytimes.com/2026/06/01/opinion/artificial-intelligence-bernie-sanders.html\">asked</a>: &#8220;Will the future of humanity be determined by a handful of billionaires who have promoted and developed AI, with virtually no democratic input, who stand to become even richer and more powerful than they are today?&#8221;</p>\n<p>We agree entirely that this is one of ",
+      "source": "Schneier on Security",
+      "published": "2026-06-19T12:40:48.187739+00:00",
+      "raw_score": 0.0,
+      "score": 23,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.26
+    },
+    {
+      "title": "Anthropic’s Fable and the State of AI",
+      "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html",
+      "summary": "<p>On June 9th, Anthropic <a href=\"https://www.anthropic.com/news/claude-fable-5-mythos-5\">released</a> its Fable generative AI model. Three days later, the US government <a href=\"https://www.explainx.ai/blog/us-government-bans-fable-5-mythos-5-anthropic-export-control-2026\">classified</a> it as a dangerous munition, and used its export-control authority to <a href=\"https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order\">prohibit</a> any forei",
+      "source": "Schneier on Security",
+      "published": "2026-06-19T12:40:48.186524+00:00",
+      "raw_score": 5.147132528910484,
+      "score": 48,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.26
+    },
+    {
       "title": "Enhanced License Plate Tracking",
       "url": "https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html",
       "summary": "<p>The surveillance company Leonardo wants <a href=\"https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/\">more data</a>:</p>\n<blockquote><p>A surveillance company plans to add sensors to automatic license plate readers (ALPRs) that would mean the devices, as well as capture the license plate of passing vehicles, would also sweep up unique identifiers of mobile phones, wearables, and other Bluetooth-enabled devices in those cars, potentially",
@@ -332,29 +362,14 @@
         "General"
       ],
       "threshold": 11.16
-    },
-    {
-      "title": "Bernie Sanders’ AI Sovereign Wealth Fund Plan",
-      "url": "https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html",
-      "summary": "<p>Let no one accuse Bernie Sanders of ducking the big questions. Writing in the New York Times last week, the senator <a href=\"https://www.nytimes.com/2026/06/01/opinion/artificial-intelligence-bernie-sanders.html\">asked</a>: &#8220;Will the future of humanity be determined by a handful of billionaires who have promoted and developed AI, with virtually no democratic input, who stand to become even richer and more powerful than they are today?&#8221;</p>\n<p>We agree entirely that this is one of ",
-      "source": "Schneier on Security",
-      "published": "2026-06-12T11:35:24.119226+00:00",
-      "raw_score": 0.0,
-      "score": 24,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 11.16
     }
   ],
-  "updated": "2026-06-19T08:30:41.063934+00:00",
+  "updated": "2026-06-19T12:41:01.093980+00:00",
   "stats": {
-    "total": 23,
+    "total": 24,
     "relevant": 6,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
