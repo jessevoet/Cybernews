@@ -347,29 +347,14 @@
         "General"
       ],
       "threshold": 11.2
-    },
-    {
-      "title": "AI Worm",
-      "url": "https://www.schneier.com/blog/archives/2026/06/ai-worm.html",
-      "summary": "<p>Researchers have <a href=\"https://cleverhans.io/worm\">prototyped</a> an AI-powered <a href=\"https://www.nytimes.com/2026/06/02/technology/scientists-find-way-to-supercharge-dangerous-computer-worms-with-ai.html\">internet worm</a>.</p>\n<p>The coolest thing about the prototype is that it carries its own LLM with it, and runs it on computers that have been broken into.</p>\n<p>This is the closest to John Brunner&#8217;s original <a href=\"https://en.wikipedia.org/wiki/The_Shockwave_Rider\">1975 con",
-      "source": "Schneier on Security",
-      "published": "2026-06-12T14:34:41.103527+00:00",
-      "raw_score": 0.0,
-      "score": 24,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 11.16
     }
   ],
-  "updated": "2026-06-19T12:41:01.093980+00:00",
+  "updated": "2026-06-19T15:56:08.582151+00:00",
   "stats": {
-    "total": 24,
+    "total": 23,
     "relevant": 6,
     "critical": 2,
-    "new_this_run": 2,
+    "new_this_run": 0,
     "sources": 2
   }
 }
