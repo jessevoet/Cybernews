@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: Squid-Inspired Fluid Pump",
+      "url": "https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-squid-inspired-fluid-pump.html",
+      "summary": "<p>This fluid pump was <a href=\"https://www.bu.edu/articles/2026/squid-inspired-lab-tech-wins-student-team-climate-award/\">inspired</a> by the way squids propel themselves through the water.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
+      "source": "Schneier on Security",
+      "published": "2026-06-19T22:43:43.834624+00:00",
+      "raw_score": 1.7030643257001112,
+      "score": 33,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.07
+    },
+    {
+      "title": "Friday Squid Blogging: Victims of Unregulated Squid Fishing",
+      "url": "https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html",
+      "summary": "<p>Dolphins, sharks, turtles, and human workers are all <a href=\"https://insideclimatenews.org/news/03062026/unregulated-squid-fleets-threaten-ocean-life-and-workers/\">victims</a> of unregulated squid fishing fleets.</p>\n<p>Another <a href=\"https://ejfoundation.org/news-media/global-squid-fleets-exposed-new-investigation-reveals-rampant-forced-labour-illegal-fishing-and-abuse\">news article</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that ",
+      "source": "Schneier on Security",
+      "published": "2026-06-19T22:43:43.833380+00:00",
+      "raw_score": 1.7415758305526265,
+      "score": 34,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 10.07
+    },
+    {
       "title": "Bernie Sanders’ AI Sovereign Wealth Fund Plan",
       "url": "https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html",
       "summary": "<p>Let no one accuse Bernie Sanders of ducking the big questions. Writing in the New York Times last week, the senator <a href=\"https://www.nytimes.com/2026/06/01/opinion/artificial-intelligence-bernie-sanders.html\">asked</a>: &#8220;Will the future of humanity be determined by a handful of billionaires who have promoted and developed AI, with virtually no democratic input, who stand to become even richer and more powerful than they are today?&#8221;</p>\n<p>We agree entirely that this is one of ",
@@ -332,29 +362,14 @@
         "General"
       ],
       "threshold": 11.2
-    },
-    {
-      "title": "Friday Squid Blogging: Squid-Inspired Fluid Pump",
-      "url": "https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-squid-inspired-fluid-pump.html",
-      "summary": "<p>This fluid pump was <a href=\"https://www.bu.edu/articles/2026/squid-inspired-lab-tech-wins-student-team-climate-award/\">inspired</a> by the way squids propel themselves through the water.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
-      "source": "Schneier on Security",
-      "published": "2026-06-12T21:24:06.685441+00:00",
-      "raw_score": 1.7030643257001112,
-      "score": 32,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 11.2
     }
   ],
-  "updated": "2026-06-19T21:01:24.316180+00:00",
+  "updated": "2026-06-19T22:43:53.851461+00:00",
   "stats": {
-    "total": 23,
-    "relevant": 6,
-    "critical": 2,
-    "new_this_run": 0,
+    "total": 24,
+    "relevant": 7,
+    "critical": 3,
+    "new_this_run": 2,
     "sources": 2
   }
 }
