@@ -347,44 +347,14 @@
         "Law Enforcement"
       ],
       "threshold": 10.97
-    },
-    {
-      "title": "Anthropic’s Project Glasswing Update",
-      "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-project-glasswing-update.html",
-      "summary": "<p>In April, Anthropic initated <a href=\"https://www.anthropic.com/glasswing\">Project Glasswing</a>. The idea was to let companies use their new model to find and fix vulnerabilities in their own software. It was a fantastic PR move, and so many press outlets have uncritically parroted Anthropic&#8217;s claims that it&#8217;s now common wisdom that Mythos is better at finding software vulnerabilities than other models. Which is just <a href=\"https://www.theguardian.com/commentisfree/2026/may/08/",
-      "source": "Schneier on Security",
-      "published": "2026-06-15T17:58:30.856217+00:00",
-      "raw_score": 0.0,
-      "score": 24,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.97
-    },
-    {
-      "title": "Critical Zcash Vulnerability Found and Fixed",
-      "url": "https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html",
-      "summary": "<p>If you&#8217;re a user&#8212;owner?&#8212;of this cryptocurrency, <a href=\"https://securityaffairs.com/193224/hacking/claude-opus-found-a-four-year-old-hole-in-zcashs-privacy-layer-nobody-knows-if-someone-already-used-it.html\">this</a> is important:</p>\n<blockquote><p>On May 29, the security researcher Taylor Hornby found a critical vulnerability in Zcash Orchard privacy pool using Claude Opus 4.8. The Zcash team hired Hornby specifically to look for this kind of issue. He found one fast enou",
-      "source": "Schneier on Security",
-      "published": "2026-06-15T17:58:30.855942+00:00",
-      "raw_score": 13.602502781721906,
-      "score": 83,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.97
     }
   ],
-  "updated": "2026-06-22T14:25:56.360600+00:00",
+  "updated": "2026-06-22T18:40:14.052025+00:00",
   "stats": {
-    "total": 25,
-    "relevant": 9,
+    "total": 23,
+    "relevant": 8,
     "critical": 3,
-    "new_this_run": 2,
+    "new_this_run": 0,
     "sources": 2
   }
 }
