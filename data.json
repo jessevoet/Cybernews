@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Flock Cameras Are Being Used for Stalking",
+      "url": "https://www.schneier.com/blog/archives/2026/06/flock-cameras-are-being-used-for-stalking.html",
+      "summary": "<p>There are over a dozen cases around the country where police officers are using the Flock surveillance camera system to obsessively and illegally <a href=\"https://www.404media.co/cops-keep-getting-arrested-for-using-flock-to-stalk-people/\">stalk people</a>.</p>\n<p><a href=\"https://archive.ph/l5KcH\">Alternate link</a>.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-06-23T13:36:16.735542+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Law Enforcement"
+      ],
+      "threshold": 10.07
+    },
+    {
+      "title": "Anthropic’s Fable 5 Model Jailbroken Within Days",
+      "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-fable-5-model-jailbroken-within-days.html",
+      "summary": "<p>Fable 5 is the supposed safe version of Anthropic&#8217;s Mythos Preview, with guardrails to ensure that it can&#8217;t be used to create cyberattacks.</p>\n<p>Well, that restriction was <a href=\"https://cybersecuritynews.com/anthropics-claude-fable-5-jailbroken/\">bypassed</a> within days.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-06-23T13:36:16.734599+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "ICS / OT"
+      ],
+      "threshold": 10.07
+    },
+    {
       "title": "The FCC Wants to Eliminate Burner Phones",
       "url": "https://www.schneier.com/blog/archives/2026/06/the-fcc-wants-to-eliminate-burner-phones.html",
       "summary": "<p>A proposed FCC rule would <a href=\"https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/\">kill</a> burner phones: phones whose accounts are not attached to a particular person.</p>\n<blockquote><p>The FCC plans to do this by legally forcing the country&#8217;s telecoms to store a wealth of personal information about essentially all phone customers, including a government issued identification number and their physical address, alarming privacy ad",
@@ -332,29 +362,14 @@
         "General"
       ],
       "threshold": 10.97
-    },
-    {
-      "title": "Flock Cameras Are Being Used for Stalking",
-      "url": "https://www.schneier.com/blog/archives/2026/06/flock-cameras-are-being-used-for-stalking.html",
-      "summary": "<p>There are over a dozen cases around the country where police officers are using the Flock surveillance camera system to obsessively and illegally <a href=\"https://www.404media.co/cops-keep-getting-arrested-for-using-flock-to-stalk-people/\">stalk people</a>.</p>\n<p><a href=\"https://archive.ph/l5KcH\">Alternate link</a>.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-06-16T12:03:43.851844+00:00",
-      "raw_score": 0.0,
-      "score": 24,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Law Enforcement"
-      ],
-      "threshold": 10.97
     }
   ],
-  "updated": "2026-06-23T10:28:08.291435+00:00",
+  "updated": "2026-06-23T13:36:29.992186+00:00",
   "stats": {
-    "total": 23,
+    "total": 24,
     "relevant": 8,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
