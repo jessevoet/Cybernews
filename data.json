@@ -347,26 +347,11 @@
         "Malware"
       ],
       "threshold": 10.72
-    },
-    {
-      "title": "GPS As a Key Distribution Platform",
-      "url": "https://www.schneier.com/blog/archives/2026/06/gps-as-a-key-distribution-platform.html",
-      "summary": "<p><a href=\"https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/\">This</a> is interesting:</p>\n<blockquote><p>The U.S. military has likely been quietly broadcasting codes for its global encryption network using public GPS for nearly 20 years, turning each satellite into a hidden &#8220;numbers station,&#8221; according to Steven Murdoch&#8230;</p>\n<p>That means every device that uses GPS has been receiving hidden government information for ",
-      "source": "Schneier on Security",
-      "published": "2026-06-16T17:54:56.712880+00:00",
-      "raw_score": 5.147132528910484,
-      "score": 47,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.97
     }
   ],
-  "updated": "2026-06-23T16:20:54.879846+00:00",
+  "updated": "2026-06-23T19:03:24.107364+00:00",
   "stats": {
-    "total": 24,
+    "total": 23,
     "relevant": 8,
     "critical": 3,
     "new_this_run": 0,
