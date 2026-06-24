@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "AI Use by the US Government",
+      "url": "https://www.schneier.com/blog/archives/2026/06/ai-use-by-the-us-government.html",
+      "summary": "<p>On 14 April, the Trump administration quietly acknowledged the widespread use of AI to automate government processes. The office of management and budget (OMB) <a href=\"https://github.com/ombegov/2025-Federal-Agency-AI-Use-Case-Inventory/commit/3c225ba8438e48306ace7698c8c7feb9486cbc69\">disclosed</a> a staggering 3,611 active or planned use cases for AI across the federal government. The list has <a href=\"https://fedscoop.com/disclosed-government-ai-use-increased-in-2025-omb/\">ballooned</a> by",
+      "source": "Schneier on Security",
+      "published": "2026-06-24T11:38:04.384590+00:00",
+      "raw_score": 3.606544995216643,
+      "score": 40,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Malware"
+      ],
+      "threshold": 11.16
+    },
+    {
       "title": "Flock Cameras Are Being Used for Stalking",
       "url": "https://www.schneier.com/blog/archives/2026/06/flock-cameras-are-being-used-for-stalking.html",
       "summary": "<p>There are over a dozen cases around the country where police officers are using the Flock surveillance camera system to obsessively and illegally <a href=\"https://www.404media.co/cops-keep-getting-arrested-for-using-flock-to-stalk-people/\">stalk people</a>.</p>\n<p><a href=\"https://archive.ph/l5KcH\">Alternate link</a>.</p>",
@@ -332,29 +347,14 @@
         "Phishing"
       ],
       "threshold": 10.72
-    },
-    {
-      "title": "AI Use by the US Government",
-      "url": "https://www.schneier.com/blog/archives/2026/06/ai-use-by-the-us-government.html",
-      "summary": "<p>On 14 April, the Trump administration quietly acknowledged the widespread use of AI to automate government processes. The office of management and budget (OMB) <a href=\"https://github.com/ombegov/2025-Federal-Agency-AI-Use-Case-Inventory/commit/3c225ba8438e48306ace7698c8c7feb9486cbc69\">disclosed</a> a staggering 3,611 active or planned use cases for AI across the federal government. The list has <a href=\"https://fedscoop.com/disclosed-government-ai-use-increased-in-2025-omb/\">ballooned</a> by",
-      "source": "Schneier on Security",
-      "published": "2026-06-17T11:27:32.071550+00:00",
-      "raw_score": 3.606544995216643,
-      "score": 40,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Malware"
-      ],
-      "threshold": 10.72
     }
   ],
-  "updated": "2026-06-24T08:19:37.738697+00:00",
+  "updated": "2026-06-24T11:38:15.351950+00:00",
   "stats": {
     "total": 23,
     "relevant": 8,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
