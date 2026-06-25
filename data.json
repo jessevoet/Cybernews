@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Embedding Forbidden Text in Spyware to Discourage AI Analysis",
+      "url": "https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis-2.html",
+      "summary": "<p>At least one malware developer is <a href=\"https://x.com/jsrailton/status/2064661778978533571\">adding text</a> about nuclear and biological weapons to their spyware, in an effort to stop automatic AI analysis.</p>\n<p><a href=\"https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious\">Details</a>:</p>\n<blockquote><p>The _index.js payload begins with a large JavaScript block comment containing fake system instructions and policy-trigge",
+      "source": "Schneier on Security",
+      "published": "2026-06-25T16:15:52.147682+00:00",
+      "raw_score": 12.027757590122292,
+      "score": 75,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Malware",
+        "ICS / OT"
+      ],
+      "threshold": 11.2
+    },
+    {
       "title": "Interesting Paper Exploring Prompt Injection",
       "url": "https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html",
       "summary": "<p><a href=\"https://role-confusion.github.io/\">This</a> is a fascinating explotation of how LLMs fall for prompt injection attacks. It turns out that they learn to recognize the style of text in different role/instruction blocks, and not just the tags.</p>\n<p>Their conclusion:</p>\n<blockquote><p>Role tags were a formatting trick that became the security architecture and the cognitive scaffolding of modern LLMs. We&#8217;ve shown that this architecture doesn&#8217;t survive into the model&#8217;s",
@@ -330,25 +346,9 @@
         "APT / Nation State"
       ],
       "threshold": 10.26
-    },
-    {
-      "title": "Embedding Forbidden Text in Spyware to Discourage AI Analysis",
-      "url": "https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis.html",
-      "summary": "<p>At least one malware developer is <a href=\"https://x.com/jsrailton/status/2064661778978533571\">adding text</a> about nuclear and biological weapons to their spyware, in an effort to stop automatic AI analysis.</p>\n<p><a href=\"https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious\">Details</a>:</p>\n<blockquote><p>The _index.js payload begins with a large JavaScript block comment containing fake system instructions and policy-trigge",
-      "source": "Schneier on Security",
-      "published": "2026-06-18T13:56:09.349450+00:00",
-      "raw_score": 12.027757590122292,
-      "score": 80,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Malware",
-        "ICS / OT"
-      ],
-      "threshold": 10.26
     }
   ],
-  "updated": "2026-06-25T13:10:49.441667+00:00",
+  "updated": "2026-06-25T16:16:03.917882+00:00",
   "stats": {
     "total": 23,
     "relevant": 7,
