@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "AI and Liability",
+      "url": "https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html",
+      "summary": "<p>Earlier this month, a German court <a href=\"https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/\">ruled</a> that Google is liable for its AI search summaries. Rejecting defenses like &#8220;users can check for themselves,&#8221; and that they generally know &#8220;that information generated with AI should not be blindly trusted,&#8221; the court held that the AI&#8217;s summaries are reflections of the compan",
+      "source": "Schneier on Security",
+      "published": "2026-06-25T19:01:49.951356+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.43
+    },
+    {
       "title": "Embedding Forbidden Text in Spyware to Discourage AI Analysis",
       "url": "https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis-2.html",
       "summary": "<p>At least one malware developer is <a href=\"https://x.com/jsrailton/status/2064661778978533571\">adding text</a> about nuclear and biological weapons to their spyware, in an effort to stop automatic AI analysis.</p>\n<p><a href=\"https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious\">Details</a>:</p>\n<blockquote><p>The _index.js payload begins with a large JavaScript block comment containing fake system instructions and policy-trigge",
@@ -331,24 +346,9 @@
         "General"
       ],
       "threshold": 10.26
-    },
-    {
-      "title": "Enhanced License Plate Tracking",
-      "url": "https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html",
-      "summary": "<p>The surveillance company Leonardo wants <a href=\"https://www.404media.co/this-company-will-add-phone-airpod-and-smartwatch-trackers-to-license-plate-readers/\">more data</a>:</p>\n<blockquote><p>A surveillance company plans to add sensors to automatic license plate readers (ALPRs) that would mean the devices, as well as capture the license plate of passing vehicles, would also sweep up unique identifiers of mobile phones, wearables, and other Bluetooth-enabled devices in those cars, potentially",
-      "source": "Schneier on Security",
-      "published": "2026-06-18T16:52:19.467616+00:00",
-      "raw_score": 0.0,
-      "score": 23,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "APT / Nation State"
-      ],
-      "threshold": 10.26
     }
   ],
-  "updated": "2026-06-25T16:16:03.917882+00:00",
+  "updated": "2026-06-25T19:02:00.126136+00:00",
   "stats": {
     "total": 23,
     "relevant": 7,
