@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
+      "source": "Google Project Zero",
+      "published": "2026-06-25T07:33:52.580674+00:00",
+      "raw_score": 7.092005476157869,
+      "score": 55,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 11.16
+    },
+    {
       "title": "AI Use by the US Government",
       "url": "https://www.schneier.com/blog/archives/2026/06/ai-use-by-the-us-government.html",
       "summary": "<p>On 14 April, the Trump administration quietly acknowledged the widespread use of AI to automate government processes. The office of management and budget (OMB) <a href=\"https://github.com/ombegov/2025-Federal-Agency-AI-Use-Case-Inventory/commit/3c225ba8438e48306ace7698c8c7feb9486cbc69\">disclosed</a> a staggering 3,611 active or planned use cases for AI across the federal government. The list has <a href=\"https://fedscoop.com/disclosed-government-ai-use-increased-in-2025-omb/\">ballooned</a> by",
@@ -315,30 +331,14 @@
         "ICS / OT"
       ],
       "threshold": 10.26
-    },
-    {
-      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
-      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
-      "source": "Google Project Zero",
-      "published": "2026-06-18T05:28:29.921452+00:00",
-      "raw_score": 7.092005476157869,
-      "score": 56,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 10.72
     }
   ],
-  "updated": "2026-06-25T03:34:37.252436+00:00",
+  "updated": "2026-06-25T07:33:58.532666+00:00",
   "stats": {
     "total": 22,
     "relevant": 7,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
