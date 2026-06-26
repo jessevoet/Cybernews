@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Anthropic’s Fable and the State of AI",
+      "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html",
+      "summary": "<p>On June 9th, Anthropic <a href=\"https://www.anthropic.com/news/claude-fable-5-mythos-5\">released</a> its Fable generative AI model. Three days later, the US government <a href=\"https://www.explainx.ai/blog/us-government-bans-fable-5-mythos-5-anthropic-export-control-2026\">classified</a> it as a dangerous munition, and used its export-control authority to <a href=\"https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order\">prohibit</a> any forei",
+      "source": "Schneier on Security",
+      "published": "2026-06-26T13:03:00.507424+00:00",
+      "raw_score": 5.147132528910484,
+      "score": 47,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.43
+    },
+    {
+      "title": "One Million Passports Leaked Online",
+      "url": "https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html",
+      "summary": "<p>A database of almost a million passports from around the world was <a href=\"https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/\">leaked</a> online.</p>\n<p>Note what happened. A high-value credential&#8212;a passport&#8212;was used in an ancillary low-value authentication system: ID verification for cannabis dispensaries. And it&#8217;s the low-value system that got hacked, putting the high-value credential at risk.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-06-26T13:03:00.506178+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Data Breach"
+      ],
+      "threshold": 11.43
+    },
+    {
       "title": "AI and Liability",
       "url": "https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html",
       "summary": "<p>Earlier this month, a German court <a href=\"https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/\">ruled</a> that Google is liable for its AI search summaries. Rejecting defenses like &#8220;users can check for themselves,&#8221; and that they generally know &#8220;that information generated with AI should not be blindly trusted,&#8221; the court held that the AI&#8217;s summaries are reflections of the compan",
@@ -316,44 +346,14 @@
         "Vulnerability"
       ],
       "threshold": 10.07
-    },
-    {
-      "title": "Bernie Sanders’ AI Sovereign Wealth Fund Plan",
-      "url": "https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html",
-      "summary": "<p>Let no one accuse Bernie Sanders of ducking the big questions. Writing in the New York Times last week, the senator <a href=\"https://www.nytimes.com/2026/06/01/opinion/artificial-intelligence-bernie-sanders.html\">asked</a>: &#8220;Will the future of humanity be determined by a handful of billionaires who have promoted and developed AI, with virtually no democratic input, who stand to become even richer and more powerful than they are today?&#8221;</p>\n<p>We agree entirely that this is one of ",
-      "source": "Schneier on Security",
-      "published": "2026-06-19T12:40:48.187739+00:00",
-      "raw_score": 0.0,
-      "score": 23,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.26
-    },
-    {
-      "title": "Anthropic’s Fable and the State of AI",
-      "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html",
-      "summary": "<p>On June 9th, Anthropic <a href=\"https://www.anthropic.com/news/claude-fable-5-mythos-5\">released</a> its Fable generative AI model. Three days later, the US government <a href=\"https://www.explainx.ai/blog/us-government-bans-fable-5-mythos-5-anthropic-export-control-2026\">classified</a> it as a dangerous munition, and used its export-control authority to <a href=\"https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order\">prohibit</a> any forei",
-      "source": "Schneier on Security",
-      "published": "2026-06-19T12:40:48.186524+00:00",
-      "raw_score": 5.147132528910484,
-      "score": 48,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.26
     }
   ],
-  "updated": "2026-06-26T10:14:14.479328+00:00",
+  "updated": "2026-06-26T13:03:10.576431+00:00",
   "stats": {
     "total": 23,
     "relevant": 7,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
