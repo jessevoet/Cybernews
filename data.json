@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "The Chinese Control the Majority of Argentina’s Squid Fleet",
+      "url": "https://www.schneier.com/blog/archives/2026/06/the-chinese-control-the-majority-of-argentinas-squid-fleet.html",
+      "summary": "<p>Chinese companies control nearly <a href=\"https://www.seafoodsource.com/news/environment-sustainability/chinese-companies-control-nearly-two-thirds-of-argentina-s-own-squid-fleet-according-to-new-iuu-expos\">two-thirds</a> of Argentina’s own squid fleet.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-06-26T22:02:43.002522+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 10.82
+    },
+    {
       "title": "Meta Is Testing Facial Recognition for Police and Military",
       "url": "https://www.schneier.com/blog/archives/2026/06/meta-is-testing-facial-recognition-for-police-and-military.html",
       "summary": "<p>We know that ICE wants to <a href=\"https://futurism.com/artificial-intelligence/ice-facial-surveillance-glasses\">deploy</a> eyeglasses with facial recognition that can identify people in real time.</p>\n<p>Turns out Meta is <a href=\"https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/\">prototyping</a> the feature with a Pentagon supplier. (Alternate <a href=\"https://gizmodo.com/meta-is-testing-police-surveillance-tech-for-its-smart-glasses-2000771931\">news</a> st",
@@ -363,12 +378,12 @@
       "threshold": 10.07
     }
   ],
-  "updated": "2026-06-26T20:27:00.311973+00:00",
+  "updated": "2026-06-26T22:02:53.964619+00:00",
   "stats": {
-    "total": 24,
-    "relevant": 7,
-    "critical": 3,
-    "new_this_run": 0,
+    "total": 25,
+    "relevant": 8,
+    "critical": 4,
+    "new_this_run": 1,
     "sources": 2
   }
 }
