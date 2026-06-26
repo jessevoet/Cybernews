@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: Victims of Unregulated Squid Fishing",
+      "url": "https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html",
+      "summary": "<p>Dolphins, sharks, turtles, and human workers are all <a href=\"https://insideclimatenews.org/news/03062026/unregulated-squid-fleets-threaten-ocean-life-and-workers/\">victims</a> of unregulated squid fishing fleets.</p>\n<p>Another <a href=\"https://ejfoundation.org/news-media/global-squid-fleets-exposed-new-investigation-reveals-rampant-forced-labour-illegal-fishing-and-abuse\">news article</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that ",
+      "source": "Schneier on Security",
+      "published": "2026-06-26T23:54:58.381329+00:00",
+      "raw_score": 1.7415758305526265,
+      "score": 33,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 10.82
+    },
+    {
       "title": "The Chinese Control the Majority of Argentina’s Squid Fleet",
       "url": "https://www.schneier.com/blog/archives/2026/06/the-chinese-control-the-majority-of-argentinas-squid-fleet.html",
       "summary": "<p>Chinese companies control nearly <a href=\"https://www.seafoodsource.com/news/environment-sustainability/chinese-companies-control-nearly-two-thirds-of-argentina-s-own-squid-fleet-according-to-new-iuu-expos\">two-thirds</a> of Argentina’s own squid fleet.</p>",
@@ -346,41 +361,11 @@
         "General"
       ],
       "threshold": 10.07
-    },
-    {
-      "title": "Friday Squid Blogging: Squid-Inspired Fluid Pump",
-      "url": "https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-squid-inspired-fluid-pump.html",
-      "summary": "<p>This fluid pump was <a href=\"https://www.bu.edu/articles/2026/squid-inspired-lab-tech-wins-student-team-climate-award/\">inspired</a> by the way squids propel themselves through the water.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
-      "source": "Schneier on Security",
-      "published": "2026-06-19T22:43:43.834624+00:00",
-      "raw_score": 1.7030643257001112,
-      "score": 33,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.07
-    },
-    {
-      "title": "Friday Squid Blogging: Victims of Unregulated Squid Fishing",
-      "url": "https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html",
-      "summary": "<p>Dolphins, sharks, turtles, and human workers are all <a href=\"https://insideclimatenews.org/news/03062026/unregulated-squid-fleets-threaten-ocean-life-and-workers/\">victims</a> of unregulated squid fishing fleets.</p>\n<p>Another <a href=\"https://ejfoundation.org/news-media/global-squid-fleets-exposed-new-investigation-reveals-rampant-forced-labour-illegal-fishing-and-abuse\">news article</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that ",
-      "source": "Schneier on Security",
-      "published": "2026-06-19T22:43:43.833380+00:00",
-      "raw_score": 1.7415758305526265,
-      "score": 34,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 10.07
     }
   ],
-  "updated": "2026-06-26T22:02:53.964619+00:00",
+  "updated": "2026-06-26T23:55:07.081616+00:00",
   "stats": {
-    "total": 25,
+    "total": 24,
     "relevant": 8,
     "critical": 4,
     "new_this_run": 1,
