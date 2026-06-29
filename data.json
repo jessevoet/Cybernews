@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Professional Athletes and Wearables",
+      "url": "https://www.schneier.com/blog/archives/2026/06/professional-athletes-and-wearables.html",
+      "summary": "<p>I haven&#8217;t thought about the <a href=\"https://www.hardresetmedia.com/p/wnba-players-labor-contract-wearables\">privacy issues</a> surrounding professional athletes and wearables.</p>\n<blockquote><p>Wearables present <a href=\"https://iapp.org/news/a/the-digital-body-rethinking-privacy-and-security-in-wearable-health-trackers\">serious privacy issues</a> for &#8220;Average Joe&#8221; consumers, who are entrusting tech companies to safely store and protect their biometric data. Imagine the st",
+      "source": "Schneier on Security",
+      "published": "2026-06-29T14:41:29.617014+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.08
+    },
+    {
+      "title": "Robot Police Officers",
+      "url": "https://www.schneier.com/blog/archives/2026/06/robot-police-officers.html",
+      "summary": "<p>We&#8217;ve taken one small step towards robot police officers: a drone capable of disarming a suspect:</p>\n<blockquote><p>In a <a href=\"https://www.instagram.com/reel/DZ4-tdPtbey/\">June 22 video</a> posted on the Sacramento County Sheriff’s Office’s Instagram page, an officer wearing goggles can be seen operating a drone to retrieve a knife from an armed suspect hiding inside a cluttered house. &#8220;After not responding to negotiators, a drone was deployed inside the residence,&#8221; the ",
+      "source": "Schneier on Security",
+      "published": "2026-06-29T14:41:29.615713+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.08
+    },
+    {
       "title": "Welcome to the new Project Zero Blog",
       "url": "https://projectzero.google/2025/12/welcome.html",
       "summary": "While on Project Zero, we aim for our research to be leading-edge, our blog design was … not so much. We welcome readers to our shiny new blog! For the occasion, we asked members of Project Zero to dust off old blog posts that never quite saw the light of day. And while we wish we could say the techniques they cover are no longer relevant, there is still a lot of work that needs to be done to protect users against zero days. Our new blog will continue to shine a light on the capabilities of atta",
@@ -316,44 +346,14 @@
         "ICS / OT"
       ],
       "threshold": 10.07
-    },
-    {
-      "title": "The FCC Wants to Eliminate Burner Phones",
-      "url": "https://www.schneier.com/blog/archives/2026/06/the-fcc-wants-to-eliminate-burner-phones.html",
-      "summary": "<p>A proposed FCC rule would <a href=\"https://www.404media.co/fcc-wants-to-kill-burner-phones-by-forcing-telecoms-to-get-all-customers-ids/\">kill</a> burner phones: phones whose accounts are not attached to a particular person.</p>\n<blockquote><p>The FCC plans to do this by legally forcing the country&#8217;s telecoms to store a wealth of personal information about essentially all phone customers, including a government issued identification number and their physical address, alarming privacy ad",
-      "source": "Schneier on Security",
-      "published": "2026-06-22T14:25:44.809583+00:00",
-      "raw_score": 5.071808638243502,
-      "score": 49,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.07
-    },
-    {
-      "title": "Professional Athletes and Wearables",
-      "url": "https://www.schneier.com/blog/archives/2026/06/professional-athletes-and-wearables.html",
-      "summary": "<p>I haven&#8217;t thought about the <a href=\"https://www.hardresetmedia.com/p/wnba-players-labor-contract-wearables\">privacy issues</a> surrounding professional athletes and wearables.</p>\n<blockquote><p>Wearables present <a href=\"https://iapp.org/news/a/the-digital-body-rethinking-privacy-and-security-in-wearable-health-trackers\">serious privacy issues</a> for &#8220;Average Joe&#8221; consumers, who are entrusting tech companies to safely store and protect their biometric data. Imagine the st",
-      "source": "Schneier on Security",
-      "published": "2026-06-22T14:25:44.808593+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.07
     }
   ],
-  "updated": "2026-06-29T10:22:20.952941+00:00",
+  "updated": "2026-06-29T14:41:40.240321+00:00",
   "stats": {
     "total": 23,
     "relevant": 7,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
