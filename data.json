@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Factoring RSA Keys with Many Zeros",
+      "url": "https://www.schneier.com/blog/archives/2026/06/factoring-rsa-keys-with-many-zeros.html",
+      "summary": "<p>Interesting research on a <a href=\"https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/\">new class</a> of weak RSA keys: keys with lots of zeros. It turns out that these keys are out in the wild.</p>\n<blockquote><p>The badkeys project is an open-source service that checks public keys for known vulnerabilities. While developing this tool, Hanno collected a massive number of real-world keys from public sources, including Certificate Transparency logs, intern",
+      "source": "Schneier on Security",
+      "published": "2026-06-29T17:27:10.295027+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability",
+        "Law Enforcement"
+      ],
+      "threshold": 11.41
+    },
+    {
       "title": "Professional Athletes and Wearables",
       "url": "https://www.schneier.com/blog/archives/2026/06/professional-athletes-and-wearables.html",
       "summary": "<p>I haven&#8217;t thought about the <a href=\"https://www.hardresetmedia.com/p/wnba-players-labor-contract-wearables\">privacy issues</a> surrounding professional athletes and wearables.</p>\n<blockquote><p>Wearables present <a href=\"https://iapp.org/news/a/the-digital-body-rethinking-privacy-and-security-in-wearable-health-trackers\">serious privacy issues</a> for &#8220;Average Joe&#8221; consumers, who are entrusting tech companies to safely store and protect their biometric data. Imagine the st",
@@ -348,12 +364,12 @@
       "threshold": 10.07
     }
   ],
-  "updated": "2026-06-29T14:41:40.240321+00:00",
+  "updated": "2026-06-29T17:27:23.552691+00:00",
   "stats": {
-    "total": 23,
-    "relevant": 7,
-    "critical": 4,
-    "new_this_run": 2,
+    "total": 24,
+    "relevant": 8,
+    "critical": 5,
+    "new_this_run": 1,
     "sources": 2
   }
 }
