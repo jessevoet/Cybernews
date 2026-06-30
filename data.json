@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Anthropic’s Fable 5 Model Jailbroken Within Days",
+      "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-fable-5-model-jailbroken-within-days.html",
+      "summary": "<p>Fable 5 is the supposed safe version of Anthropic&#8217;s Mythos Preview, with guardrails to ensure that it can&#8217;t be used to create cyberattacks.</p>\n<p>Well, that restriction was <a href=\"https://cybersecuritynews.com/anthropics-claude-fable-5-jailbroken/\">bypassed</a> within days.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-06-30T16:16:25.404877+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "ICS / OT"
+      ],
+      "threshold": 11.41
+    },
+    {
       "title": "The Realities of AI Video Surveillance",
       "url": "https://www.schneier.com/blog/archives/2026/06/the-realities-of-ai-video-surveillance.html",
       "summary": "<p>The <i>Financial Times</i> has a <a href=\"https://archive.ph/s6mES\">good article</a> on how AI is changing the capabilities of video surveillance, with information from both Israel/Iran and Russia.</p>\n<p>I <a href=\"https://www.schneier.com/blog/archives/2023/12/ai-and-mass-spying.html\">wrote about</a> this sort of thing a few years ago, how AI enables mass spying in the way that computers and networks enabled mass surveillance. The interesting development in the article is that AI allows peo",
@@ -347,41 +362,11 @@
         "Malware"
       ],
       "threshold": 11.16
-    },
-    {
-      "title": "Flock Cameras Are Being Used for Stalking",
-      "url": "https://www.schneier.com/blog/archives/2026/06/flock-cameras-are-being-used-for-stalking.html",
-      "summary": "<p>There are over a dozen cases around the country where police officers are using the Flock surveillance camera system to obsessively and illegally <a href=\"https://www.404media.co/cops-keep-getting-arrested-for-using-flock-to-stalk-people/\">stalk people</a>.</p>\n<p><a href=\"https://archive.ph/l5KcH\">Alternate link</a>.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-06-23T13:36:16.735542+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Law Enforcement"
-      ],
-      "threshold": 10.07
-    },
-    {
-      "title": "Anthropic’s Fable 5 Model Jailbroken Within Days",
-      "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-fable-5-model-jailbroken-within-days.html",
-      "summary": "<p>Fable 5 is the supposed safe version of Anthropic&#8217;s Mythos Preview, with guardrails to ensure that it can&#8217;t be used to create cyberattacks.</p>\n<p>Well, that restriction was <a href=\"https://cybersecuritynews.com/anthropics-claude-fable-5-jailbroken/\">bypassed</a> within days.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-06-23T13:36:16.734599+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "ICS / OT"
-      ],
-      "threshold": 10.07
     }
   ],
-  "updated": "2026-06-30T13:04:09.921617+00:00",
+  "updated": "2026-06-30T16:16:36.256566+00:00",
   "stats": {
-    "total": 25,
+    "total": 24,
     "relevant": 8,
     "critical": 5,
     "new_this_run": 1,
