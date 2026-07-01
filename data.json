@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Papa Johns Surveillance-Based Advertising",
+      "url": "https://www.schneier.com/blog/archives/2026/07/papa-johns-surveillance-based-advertising.html",
+      "summary": "<p>Papa Johns is <a href=\"https://www.adexchanger.com/tv/papa-johns-can-predict-when-your-fridge-is-empty/\">spying</a> on people&#8217;s buying activities to predict when they are low on food:</p>\n<blockquote><p>The pizza chain recently tapped NBCUniversal, Instacart and the dentsu-owned media agency Carat for help reaching consumers when they&#8217;re low on groceries&#8212;and thus more likely to be swayed by a mouth-watering ad. The idea is to reach hungry consumers by &#8220;knowing what is ",
+      "source": "Schneier on Security",
+      "published": "2026-07-01T11:50:58.592606+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.41
+    },
+    {
       "title": "Anthropic’s Fable 5 Model Jailbroken Within Days",
       "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-fable-5-model-jailbroken-within-days.html",
       "summary": "<p>Fable 5 is the supposed safe version of Anthropic&#8217;s Mythos Preview, with guardrails to ensure that it can&#8217;t be used to create cyberattacks.</p>\n<p>Well, that restriction was <a href=\"https://cybersecuritynews.com/anthropics-claude-fable-5-jailbroken/\">bypassed</a> within days.</p>",
@@ -347,29 +362,14 @@
         "Advisory"
       ],
       "threshold": 11.16
-    },
-    {
-      "title": "AI Use by the US Government",
-      "url": "https://www.schneier.com/blog/archives/2026/06/ai-use-by-the-us-government.html",
-      "summary": "<p>On 14 April, the Trump administration quietly acknowledged the widespread use of AI to automate government processes. The office of management and budget (OMB) <a href=\"https://github.com/ombegov/2025-Federal-Agency-AI-Use-Case-Inventory/commit/3c225ba8438e48306ace7698c8c7feb9486cbc69\">disclosed</a> a staggering 3,611 active or planned use cases for AI across the federal government. The list has <a href=\"https://fedscoop.com/disclosed-government-ai-use-increased-in-2025-omb/\">ballooned</a> by",
-      "source": "Schneier on Security",
-      "published": "2026-06-24T11:38:04.384590+00:00",
-      "raw_score": 3.606544995216643,
-      "score": 40,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Malware"
-      ],
-      "threshold": 11.16
     }
   ],
-  "updated": "2026-07-01T08:03:20.913882+00:00",
+  "updated": "2026-07-01T11:51:11.437139+00:00",
   "stats": {
     "total": 24,
     "relevant": 8,
     "critical": 5,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
