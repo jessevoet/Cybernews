@@ -361,30 +361,14 @@
         "General"
       ],
       "threshold": 11.43
-    },
-    {
-      "title": "Embedding Forbidden Text in Spyware to Discourage AI Analysis",
-      "url": "https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis-2.html",
-      "summary": "<p>At least one malware developer is <a href=\"https://x.com/jsrailton/status/2064661778978533571\">adding text</a> about nuclear and biological weapons to their spyware, in an effort to stop automatic AI analysis.</p>\n<p><a href=\"https://socket.dev/blog/mini-shai-hulud-miasma-and-hades-worms-target-bioinformatics-and-mcp-developers-via-malicious\">Details</a>:</p>\n<blockquote><p>The _index.js payload begins with a large JavaScript block comment containing fake system instructions and policy-trigge",
-      "source": "Schneier on Security",
-      "published": "2026-06-25T16:15:52.147682+00:00",
-      "raw_score": 12.027757590122292,
-      "score": 75,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Malware",
-        "ICS / OT"
-      ],
-      "threshold": 11.2
     }
   ],
-  "updated": "2026-07-02T15:05:51.746522+00:00",
+  "updated": "2026-07-02T17:26:50.991596+00:00",
   "stats": {
-    "total": 25,
-    "relevant": 8,
+    "total": 24,
+    "relevant": 7,
     "critical": 5,
-    "new_this_run": 1,
+    "new_this_run": 0,
     "sources": 2
   }
 }
