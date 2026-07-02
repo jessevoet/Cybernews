@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Interesting Paper Exploring Prompt Injection",
+      "url": "https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html",
+      "summary": "<p><a href=\"https://role-confusion.github.io/\">This</a> is a fascinating explotation of how LLMs fall for prompt injection attacks. It turns out that they learn to recognize the style of text in different role/instruction blocks, and not just the tags.</p>\n<p>Their conclusion:</p>\n<blockquote><p>Role tags were a formatting trick that became the security architecture and the cognitive scaffolding of modern LLMs. We&#8217;ve shown that this architecture doesn&#8217;t survive into the model&#8217;s",
+      "source": "Schneier on Security",
+      "published": "2026-07-02T15:05:40.137364+00:00",
+      "raw_score": 1.6367111701533539,
+      "score": 34,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.74
+    },
+    {
       "title": "Cybersecurity Mission Creep in the US",
       "url": "https://www.schneier.com/blog/archives/2026/07/cybersecurity-mission-creep-in-the-us.html",
       "summary": "<p>Interesting paper: &#8220;<a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4588977\">Cybersecurity Mission Creep</a>.&#8221;</p>\n<blockquote><p><b>Abstract:</b> Cybersecurity is experiencing mission creep. Policymakers are casting more and more problems as issues of cybersecurity. So reframed, wildly different policy issues, from misinformation, to child social media safety laws, to antitrust regulations, to alleged journalist misconduct, to anti-sex trafficking statutes become wha",
@@ -362,24 +377,9 @@
         "ICS / OT"
       ],
       "threshold": 11.2
-    },
-    {
-      "title": "Interesting Paper Exploring Prompt Injection",
-      "url": "https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html",
-      "summary": "<p><a href=\"https://role-confusion.github.io/\">This</a> is a fascinating explotation of how LLMs fall for prompt injection attacks. It turns out that they learn to recognize the style of text in different role/instruction blocks, and not just the tags.</p>\n<p>Their conclusion:</p>\n<blockquote><p>Role tags were a formatting trick that became the security architecture and the cognitive scaffolding of modern LLMs. We&#8217;ve shown that this architecture doesn&#8217;t survive into the model&#8217;s",
-      "source": "Schneier on Security",
-      "published": "2026-06-25T13:10:38.662112+00:00",
-      "raw_score": 1.6367111701533539,
-      "score": 32,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 11.2
     }
   ],
-  "updated": "2026-07-02T12:02:26.148664+00:00",
+  "updated": "2026-07-02T15:05:51.746522+00:00",
   "stats": {
     "total": 25,
     "relevant": 8,
