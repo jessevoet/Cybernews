@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Meta Is Testing Facial Recognition for Police and Military",
+      "url": "https://www.schneier.com/blog/archives/2026/06/meta-is-testing-facial-recognition-for-police-and-military.html",
+      "summary": "<p>We know that ICE wants to <a href=\"https://futurism.com/artificial-intelligence/ice-facial-surveillance-glasses\">deploy</a> eyeglasses with facial recognition that can identify people in real time.</p>\n<p>Turns out Meta is <a href=\"https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/\">prototyping</a> the feature with a Pentagon supplier. (Alternate <a href=\"https://gizmodo.com/meta-is-testing-police-surveillance-tech-for-its-smart-glasses-2000771931\">news</a> st",
+      "source": "Schneier on Security",
+      "published": "2026-07-03T19:01:44.494927+00:00",
+      "raw_score": 0.0,
+      "score": 24,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.73
+    },
+    {
       "title": "One Million Passports Leaked Online",
       "url": "https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html",
       "summary": "<p>A database of almost a million passports from around the world was <a href=\"https://cambridgeanalytica.org/data-breaches-scandals/passports-driver-licenses-exposed-public-internet-2026-51096/\">leaked</a> online.</p>\n<p>Note what happened. A high-value credential&#8212;a passport&#8212;was used in an ancillary low-value authentication system: ID verification for cannabis dispensaries. And it&#8217;s the low-value system that got hacked, putting the high-value credential at risk.</p>",
@@ -348,29 +363,14 @@
         "Vulnerability"
       ],
       "threshold": 10.82
-    },
-    {
-      "title": "Meta Is Testing Facial Recognition for Police and Military",
-      "url": "https://www.schneier.com/blog/archives/2026/06/meta-is-testing-facial-recognition-for-police-and-military.html",
-      "summary": "<p>We know that ICE wants to <a href=\"https://futurism.com/artificial-intelligence/ice-facial-surveillance-glasses\">deploy</a> eyeglasses with facial recognition that can identify people in real time.</p>\n<p>Turns out Meta is <a href=\"https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/\">prototyping</a> the feature with a Pentagon supplier. (Alternate <a href=\"https://gizmodo.com/meta-is-testing-police-surveillance-tech-for-its-smart-glasses-2000771931\">news</a> st",
-      "source": "Schneier on Security",
-      "published": "2026-06-26T18:22:30.164016+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 11.73
     }
   ],
-  "updated": "2026-07-03T17:13:30.996962+00:00",
+  "updated": "2026-07-03T19:01:53.831570+00:00",
   "stats": {
     "total": 24,
     "relevant": 8,
     "critical": 6,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
