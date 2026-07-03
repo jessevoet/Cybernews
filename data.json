@@ -1,6 +1,23 @@
 {
   "items": [
     {
+      "title": "Flock Cameras Can Surveil Cars Without License Plates",
+      "url": "https://www.schneier.com/blog/archives/2026/07/flock-cameras-can-surveil-cars-without-license-plates.html",
+      "summary": "<p>This is from a 2024 <a href=\"https://amp.newsobserver.com/news/politics-government/article315990932.html\">company presentation</a>:</p>\n<blockquote><p>Officers can also tap into data showing a car&#8217;s decals, bumper stickers, back and top racks&#8212;along with temporary and unique state tags.</p>\n<p>Flock calls it a &#8220;Vehicle Fingerprint&#8221; and it&#8217;s touted as a way for law enforcement officials to get more information &#8220;even when you don&#8217;t have full plate inform",
+      "source": "Schneier on Security",
+      "published": "2026-07-03T11:25:58.768286+00:00",
+      "raw_score": 3.9518083270236333,
+      "score": 44,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability",
+        "ICS / OT",
+        "Law Enforcement"
+      ],
+      "threshold": 9.73
+    },
+    {
       "title": "AI and Liability",
       "url": "https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html",
       "summary": "<p>Earlier this month, a German court <a href=\"https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/\">ruled</a> that Google is liable for its AI search summaries. Rejecting defenses like &#8220;users can check for themselves,&#8221; and that they generally know &#8220;that information generated with AI should not be blindly trusted,&#8221; the court held that the AI&#8217;s summaries are reflections of the compan",
@@ -363,12 +380,12 @@
       "threshold": 11.43
     }
   ],
-  "updated": "2026-07-03T08:50:15.865308+00:00",
+  "updated": "2026-07-03T11:26:13.997164+00:00",
   "stats": {
-    "total": 24,
-    "relevant": 7,
-    "critical": 5,
-    "new_this_run": 0,
+    "total": 25,
+    "relevant": 8,
+    "critical": 6,
+    "new_this_run": 1,
     "sources": 2
   }
 }
