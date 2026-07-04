@@ -348,29 +348,14 @@
         "General"
       ],
       "threshold": 10.82
-    },
-    {
-      "title": "Friday Squid Blogging: Victims of Unregulated Squid Fishing",
-      "url": "https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html",
-      "summary": "<p>Dolphins, sharks, turtles, and human workers are all <a href=\"https://insideclimatenews.org/news/03062026/unregulated-squid-fleets-threaten-ocean-life-and-workers/\">victims</a> of unregulated squid fishing fleets.</p>\n<p>Another <a href=\"https://ejfoundation.org/news-media/global-squid-fleets-exposed-new-investigation-reveals-rampant-forced-labour-illegal-fishing-and-abuse\">news article</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that ",
-      "source": "Schneier on Security",
-      "published": "2026-06-26T23:54:58.381329+00:00",
-      "raw_score": 1.7415758305526265,
-      "score": 33,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 10.82
     }
   ],
-  "updated": "2026-07-03T22:56:53.945326+00:00",
+  "updated": "2026-07-04T00:00:16.865516+00:00",
   "stats": {
-    "total": 24,
-    "relevant": 8,
-    "critical": 6,
-    "new_this_run": 1,
+    "total": 23,
+    "relevant": 7,
+    "critical": 5,
+    "new_this_run": 0,
     "sources": 2
   }
 }
