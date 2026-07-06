@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "France to Stop Certifying Non-Quantum-Safe Encryption",
+      "url": "https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html",
+      "summary": "<p>France is <a href=\"https://www.reuters.com/legal/litigation/france-stop-certifying-products-without-quantum-safe-encryption-2026-06-16/\">accelerating</a> its transition to post-quantum encryption:</p>\n<blockquote><p>France&#8217;s cybersecurity agency ANSSI said on Tuesday it would stop certifying security products that lack quantum-resistant encryption, a move that will force government bodies and critical operators to shift away from older systems.</p>\n<p>Samih Souissi, ANSSI&#8217;s chief ",
+      "source": "Schneier on Security",
+      "published": "2026-07-06T11:55:10.631546+00:00",
+      "raw_score": 9.542702110337167,
+      "score": 68,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 10.31
+    },
+    {
       "title": "Welcome to the new Project Zero Blog",
       "url": "https://projectzero.google/2025/12/welcome.html",
       "summary": "While on Project Zero, we aim for our research to be leading-edge, our blog design was … not so much. We welcome readers to our shiny new blog! For the occasion, we asked members of Project Zero to dust off old blog posts that never quite saw the light of day. And while we wish we could say the techniques they cover are no longer relevant, there is still a lot of work that needs to be done to protect users against zero days. Our new blog will continue to shine a light on the capabilities of atta",
@@ -350,12 +365,12 @@
       "threshold": 11.08
     }
   ],
-  "updated": "2026-07-06T07:02:53.213570+00:00",
+  "updated": "2026-07-06T11:55:20.623037+00:00",
   "stats": {
-    "total": 23,
-    "relevant": 8,
-    "critical": 5,
-    "new_this_run": 0,
+    "total": 24,
+    "relevant": 9,
+    "critical": 6,
+    "new_this_run": 1,
     "sources": 2
   }
 }
