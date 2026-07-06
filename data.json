@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Robot Police Officers",
+      "url": "https://www.schneier.com/blog/archives/2026/06/robot-police-officers.html",
+      "summary": "<p>We&#8217;ve taken one small step towards robot police officers: a drone capable of disarming a suspect:</p>\n<blockquote><p>In a <a href=\"https://www.instagram.com/reel/DZ4-tdPtbey/\">June 22 video</a> posted on the Sacramento County Sheriff’s Office’s Instagram page, an officer wearing goggles can be seen operating a drone to retrieve a knife from an armed suspect hiding inside a cluttered house. &#8220;After not responding to negotiators, a drone was deployed inside the residence,&#8221; the ",
+      "source": "Schneier on Security",
+      "published": "2026-07-06T14:59:35.615087+00:00",
+      "raw_score": 0.0,
+      "score": 23,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.31
+    },
+    {
       "title": "France to Stop Certifying Non-Quantum-Safe Encryption",
       "url": "https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html",
       "summary": "<p>France is <a href=\"https://www.reuters.com/legal/litigation/france-stop-certifying-products-without-quantum-safe-encryption-2026-06-16/\">accelerating</a> its transition to post-quantum encryption:</p>\n<blockquote><p>France&#8217;s cybersecurity agency ANSSI said on Tuesday it would stop certifying security products that lack quantum-resistant encryption, a move that will force government bodies and critical operators to shift away from older systems.</p>\n<p>Samih Souissi, ANSSI&#8217;s chief ",
@@ -333,41 +348,11 @@
         "Law Enforcement"
       ],
       "threshold": 11.41
-    },
-    {
-      "title": "Professional Athletes and Wearables",
-      "url": "https://www.schneier.com/blog/archives/2026/06/professional-athletes-and-wearables.html",
-      "summary": "<p>I haven&#8217;t thought about the <a href=\"https://www.hardresetmedia.com/p/wnba-players-labor-contract-wearables\">privacy issues</a> surrounding professional athletes and wearables.</p>\n<blockquote><p>Wearables present <a href=\"https://iapp.org/news/a/the-digital-body-rethinking-privacy-and-security-in-wearable-health-trackers\">serious privacy issues</a> for &#8220;Average Joe&#8221; consumers, who are entrusting tech companies to safely store and protect their biometric data. Imagine the st",
-      "source": "Schneier on Security",
-      "published": "2026-06-29T14:41:29.617014+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 11.08
-    },
-    {
-      "title": "Robot Police Officers",
-      "url": "https://www.schneier.com/blog/archives/2026/06/robot-police-officers.html",
-      "summary": "<p>We&#8217;ve taken one small step towards robot police officers: a drone capable of disarming a suspect:</p>\n<blockquote><p>In a <a href=\"https://www.instagram.com/reel/DZ4-tdPtbey/\">June 22 video</a> posted on the Sacramento County Sheriff’s Office’s Instagram page, an officer wearing goggles can be seen operating a drone to retrieve a knife from an armed suspect hiding inside a cluttered house. &#8220;After not responding to negotiators, a drone was deployed inside the residence,&#8221; the ",
-      "source": "Schneier on Security",
-      "published": "2026-06-29T14:41:29.615713+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 11.08
     }
   ],
-  "updated": "2026-07-06T11:55:20.623037+00:00",
+  "updated": "2026-07-06T14:59:45.347704+00:00",
   "stats": {
-    "total": 24,
+    "total": 23,
     "relevant": 9,
     "critical": 6,
     "new_this_run": 1,
