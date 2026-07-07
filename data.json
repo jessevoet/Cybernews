@@ -348,29 +348,14 @@
         "General"
       ],
       "threshold": 11.41
-    },
-    {
-      "title": "Anthropic’s Fable 5 Model Jailbroken Within Days",
-      "url": "https://www.schneier.com/blog/archives/2026/06/anthropics-fable-5-model-jailbroken-within-days.html",
-      "summary": "<p>Fable 5 is the supposed safe version of Anthropic&#8217;s Mythos Preview, with guardrails to ensure that it can&#8217;t be used to create cyberattacks.</p>\n<p>Well, that restriction was <a href=\"https://cybersecuritynews.com/anthropics-claude-fable-5-jailbroken/\">bypassed</a> within days.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-06-30T16:16:25.404877+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "ICS / OT"
-      ],
-      "threshold": 11.41
     }
   ],
-  "updated": "2026-07-07T14:07:30.637459+00:00",
+  "updated": "2026-07-07T17:05:45.767009+00:00",
   "stats": {
-    "total": 24,
+    "total": 23,
     "relevant": 9,
     "critical": 6,
-    "new_this_run": 1,
+    "new_this_run": 0,
     "sources": 2
   }
 }
