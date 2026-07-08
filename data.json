@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Papa Johns Surveillance-Based Advertising",
+      "url": "https://www.schneier.com/blog/archives/2026/07/papa-johns-surveillance-based-advertising.html",
+      "summary": "<p>Papa Johns is <a href=\"https://www.adexchanger.com/tv/papa-johns-can-predict-when-your-fridge-is-empty/\">spying</a> on people&#8217;s buying activities to predict when they are low on food:</p>\n<blockquote><p>The pizza chain recently tapped NBCUniversal, Instacart and the dentsu-owned media agency Carat for help reaching consumers when they&#8217;re low on groceries&#8212;and thus more likely to be swayed by a mouth-watering ad. The idea is to reach hungry consumers by &#8220;knowing what is ",
+      "source": "Schneier on Security",
+      "published": "2026-07-08T12:13:57.795041+00:00",
+      "raw_score": 0.0,
+      "score": 22,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.43
+    },
+    {
+      "title": "Cybersecurity and the Gap Between Skill and Ability",
+      "url": "https://www.schneier.com/blog/archives/2026/07/cybersecurity-and-the-gap-between-skill-and-ability.html",
+      "summary": "<p>Last week, national security agencies from the Five Eyes&#8212;that&#8217;s the rich, English-language-speaking countries club&#8212;jointly released a <a href=\"https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/4523810/five-eyes-cyber-security-agencies-statement/\">statement</a> warning of the increasing cyber risks of AI models: in particular, their ability to autonomously hack into systems and networks. The statement was more measured than some of the <a href=\"https://www.thegua",
+      "source": "Schneier on Security",
+      "published": "2026-07-08T12:13:57.794257+00:00",
+      "raw_score": 8.042732713612356,
+      "score": 61,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.43
+    },
+    {
       "title": "The Realities of AI Video Surveillance",
       "url": "https://www.schneier.com/blog/archives/2026/06/the-realities-of-ai-video-surveillance.html",
       "summary": "<p>The <i>Financial Times</i> has a <a href=\"https://archive.ph/s6mES\">good article</a> on how AI is changing the capabilities of video surveillance, with information from both Israel/Iran and Russia.</p>\n<p>I <a href=\"https://www.schneier.com/blog/archives/2023/12/ai-and-mass-spying.html\">wrote about</a> this sort of thing a few years ago, how AI enables mass spying in the way that computers and networks enabled mass surveillance. The interesting development in the article is that AI allows peo",
@@ -333,29 +363,14 @@
         "Advisory"
       ],
       "threshold": 11.41
-    },
-    {
-      "title": "Papa Johns Surveillance-Based Advertising",
-      "url": "https://www.schneier.com/blog/archives/2026/07/papa-johns-surveillance-based-advertising.html",
-      "summary": "<p>Papa Johns is <a href=\"https://www.adexchanger.com/tv/papa-johns-can-predict-when-your-fridge-is-empty/\">spying</a> on people&#8217;s buying activities to predict when they are low on food:</p>\n<blockquote><p>The pizza chain recently tapped NBCUniversal, Instacart and the dentsu-owned media agency Carat for help reaching consumers when they&#8217;re low on groceries&#8212;and thus more likely to be swayed by a mouth-watering ad. The idea is to reach hungry consumers by &#8220;knowing what is ",
-      "source": "Schneier on Security",
-      "published": "2026-07-01T11:50:58.592606+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 11.41
     }
   ],
-  "updated": "2026-07-08T10:07:20.667896+00:00",
+  "updated": "2026-07-08T12:14:08.817066+00:00",
   "stats": {
-    "total": 23,
-    "relevant": 9,
+    "total": 24,
+    "relevant": 10,
     "critical": 6,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
