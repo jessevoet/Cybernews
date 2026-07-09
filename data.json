@@ -348,26 +348,11 @@
         "Law Enforcement"
       ],
       "threshold": 9.73
-    },
-    {
-      "title": "AI and Liability",
-      "url": "https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html",
-      "summary": "<p>Earlier this month, a German court <a href=\"https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/\">ruled</a> that Google is liable for its AI search summaries. Rejecting defenses like &#8220;users can check for themselves,&#8221; and that they generally know &#8220;that information generated with AI should not be blindly trusted,&#8221; the court held that the AI&#8217;s summaries are reflections of the compan",
-      "source": "Schneier on Security",
-      "published": "2026-07-02T19:09:26.230023+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.74
     }
   ],
-  "updated": "2026-07-09T18:45:57.359391+00:00",
+  "updated": "2026-07-09T20:41:42.225365+00:00",
   "stats": {
-    "total": 24,
+    "total": 23,
     "relevant": 10,
     "critical": 6,
     "new_this_run": 0,
