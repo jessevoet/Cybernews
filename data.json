@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
+      "source": "Google Project Zero",
+      "published": "2026-07-09T10:45:14.520253+00:00",
+      "raw_score": 7.092005476157869,
+      "score": 56,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 10.43
+    },
+    {
       "title": "Papa Johns Surveillance-Based Advertising",
       "url": "https://www.schneier.com/blog/archives/2026/07/papa-johns-surveillance-based-advertising.html",
       "summary": "<p>Papa Johns is <a href=\"https://www.adexchanger.com/tv/papa-johns-can-predict-when-your-fridge-is-empty/\">spying</a> on people&#8217;s buying activities to predict when they are low on food:</p>\n<blockquote><p>The pizza chain recently tapped NBCUniversal, Instacart and the dentsu-owned media agency Carat for help reaching consumers when they&#8217;re low on groceries&#8212;and thus more likely to be swayed by a mouth-watering ad. The idea is to reach hungry consumers by &#8220;knowing what is ",
@@ -347,30 +363,14 @@
         "General"
       ],
       "threshold": 9.74
-    },
-    {
-      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
-      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
-      "source": "Google Project Zero",
-      "published": "2026-07-02T09:52:22.900621+00:00",
-      "raw_score": 7.092005476157869,
-      "score": 54,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 11.41
     }
   ],
-  "updated": "2026-07-09T07:28:52.005922+00:00",
+  "updated": "2026-07-09T10:45:19.863974+00:00",
   "stats": {
     "total": 24,
     "relevant": 10,
     "critical": 6,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
