@@ -363,29 +363,14 @@
         "General"
       ],
       "threshold": 9.74
-    },
-    {
-      "title": "Interesting Paper Exploring Prompt Injection",
-      "url": "https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html",
-      "summary": "<p><a href=\"https://role-confusion.github.io/\">This</a> is a fascinating explotation of how LLMs fall for prompt injection attacks. It turns out that they learn to recognize the style of text in different role/instruction blocks, and not just the tags.</p>\n<p>Their conclusion:</p>\n<blockquote><p>Role tags were a formatting trick that became the security architecture and the cognitive scaffolding of modern LLMs. We&#8217;ve shown that this architecture doesn&#8217;t survive into the model&#8217;s",
-      "source": "Schneier on Security",
-      "published": "2026-07-02T15:05:40.137364+00:00",
-      "raw_score": 1.6367111701533539,
-      "score": 34,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.74
     }
   ],
-  "updated": "2026-07-09T13:42:43.704297+00:00",
+  "updated": "2026-07-09T16:22:20.125776+00:00",
   "stats": {
-    "total": 25,
+    "total": 24,
     "relevant": 10,
     "critical": 6,
-    "new_this_run": 2,
+    "new_this_run": 0,
     "sources": 2
   }
 }
