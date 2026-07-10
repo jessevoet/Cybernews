@@ -333,28 +333,13 @@
         "General"
       ],
       "threshold": 9.73
-    },
-    {
-      "title": "The Chinese Control the Majority of Argentina’s Squid Fleet",
-      "url": "https://www.schneier.com/blog/archives/2026/06/the-chinese-control-the-majority-of-argentinas-squid-fleet.html",
-      "summary": "<p>Chinese companies control nearly <a href=\"https://www.seafoodsource.com/news/environment-sustainability/chinese-companies-control-nearly-two-thirds-of-argentina-s-own-squid-fleet-according-to-new-iuu-expos\">two-thirds</a> of Argentina’s own squid fleet.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-07-03T22:56:39.392492+00:00",
-      "raw_score": 0.0,
-      "score": 24,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 9.73
     }
   ],
-  "updated": "2026-07-10T22:50:40.242824+00:00",
+  "updated": "2026-07-10T23:48:37.032181+00:00",
   "stats": {
-    "total": 23,
-    "relevant": 11,
-    "critical": 6,
+    "total": 22,
+    "relevant": 10,
+    "critical": 5,
     "new_this_run": 0,
     "sources": 2
   }
