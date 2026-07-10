@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "Flock Cameras Can Surveil Cars Without License Plates",
+      "url": "https://www.schneier.com/blog/archives/2026/07/flock-cameras-can-surveil-cars-without-license-plates.html",
+      "summary": "<p>This is from a 2024 <a href=\"https://amp.newsobserver.com/news/politics-government/article315990932.html\">company presentation</a>:</p>\n<blockquote><p>Officers can also tap into data showing a car&#8217;s decals, bumper stickers, back and top racks&#8212;along with temporary and unique state tags.</p>\n<p>Flock calls it a &#8220;Vehicle Fingerprint&#8221; and it&#8217;s touted as a way for law enforcement officials to get more information &#8220;even when you don&#8217;t have full plate inform",
+      "source": "Schneier on Security",
+      "published": "2026-07-10T13:03:26.462270+00:00",
+      "raw_score": 3.9518083270236333,
+      "score": 41,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability",
+        "ICS / OT",
+        "Law Enforcement"
+      ],
+      "threshold": 10.19
+    },
+    {
+      "title": "AI Surveillance and Social Progress",
+      "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+      "summary": "<p>In the near future, <a href=\"https://www.theguardian.com/technology/artificialintelligenceai\">AI</a>-powered surveillance systems will be able to track everything we do in public, and much of what we do in private. And if we do something wrong&#8212;shoplift, litter, jaywalk, you name it&#8212;the system will notice, retain it, tie it to your official government record, communicate that fact to you, and provide real-time alerts to any relevant authorities&#8230; and maybe also to the general ",
+      "source": "Schneier on Security",
+      "published": "2026-07-10T13:03:26.461443+00:00",
+      "raw_score": 4.927586591658379,
+      "score": 46,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.19
+    },
+    {
       "title": "Cybersecurity Mission Creep in the US",
       "url": "https://www.schneier.com/blog/archives/2026/07/cybersecurity-mission-creep-in-the-us.html",
       "summary": "<p>Interesting paper: &#8220;<a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4588977\">Cybersecurity Mission Creep</a>.&#8221;</p>\n<blockquote><p><b>Abstract:</b> Cybersecurity is experiencing mission creep. Policymakers are casting more and more problems as issues of cybersecurity. So reframed, wildly different policy issues, from misinformation, to child social media safety laws, to antitrust regulations, to alleged journalist misconduct, to anti-sex trafficking statutes become wha",
@@ -331,31 +363,14 @@
         "Data Breach"
       ],
       "threshold": 9.73
-    },
-    {
-      "title": "Flock Cameras Can Surveil Cars Without License Plates",
-      "url": "https://www.schneier.com/blog/archives/2026/07/flock-cameras-can-surveil-cars-without-license-plates.html",
-      "summary": "<p>This is from a 2024 <a href=\"https://amp.newsobserver.com/news/politics-government/article315990932.html\">company presentation</a>:</p>\n<blockquote><p>Officers can also tap into data showing a car&#8217;s decals, bumper stickers, back and top racks&#8212;along with temporary and unique state tags.</p>\n<p>Flock calls it a &#8220;Vehicle Fingerprint&#8221; and it&#8217;s touted as a way for law enforcement officials to get more information &#8220;even when you don&#8217;t have full plate inform",
-      "source": "Schneier on Security",
-      "published": "2026-07-03T11:25:58.768286+00:00",
-      "raw_score": 3.9518083270236333,
-      "score": 44,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability",
-        "ICS / OT",
-        "Law Enforcement"
-      ],
-      "threshold": 9.73
     }
   ],
-  "updated": "2026-07-10T10:14:31.338261+00:00",
+  "updated": "2026-07-10T13:03:37.689324+00:00",
   "stats": {
-    "total": 23,
+    "total": 24,
     "relevant": 10,
     "critical": 6,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
