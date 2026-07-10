@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: “Squidbleed” Vulnerability",
+      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html",
+      "summary": "<p>In a rare combined cybersecurity/squid post, a twenty-nine-year-old <a href=\"https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html\">squid proxy bug</a> can leak HTTP requests.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
+      "source": "Schneier on Security",
+      "published": "2026-07-10T21:51:14.181217+00:00",
+      "raw_score": 12.322101304882615,
+      "score": 77,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Data Breach"
+      ],
+      "threshold": 11.2
+    },
+    {
       "title": "Flock Cameras Can Surveil Cars Without License Plates",
       "url": "https://www.schneier.com/blog/archives/2026/07/flock-cameras-can-surveil-cars-without-license-plates.html",
       "summary": "<p>This is from a 2024 <a href=\"https://amp.newsobserver.com/news/politics-government/article315990932.html\">company presentation</a>:</p>\n<blockquote><p>Officers can also tap into data showing a car&#8217;s decals, bumper stickers, back and top racks&#8212;along with temporary and unique state tags.</p>\n<p>Flock calls it a &#8220;Vehicle Fingerprint&#8221; and it&#8217;s touted as a way for law enforcement officials to get more information &#8220;even when you don&#8217;t have full plate inform",
@@ -335,12 +350,12 @@
       "threshold": 9.73
     }
   ],
-  "updated": "2026-07-10T20:14:07.271860+00:00",
+  "updated": "2026-07-10T21:51:25.077730+00:00",
   "stats": {
-    "total": 22,
-    "relevant": 10,
+    "total": 23,
+    "relevant": 11,
     "critical": 6,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
