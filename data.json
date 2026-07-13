@@ -333,29 +333,14 @@
         "Law Enforcement"
       ],
       "threshold": 10.31
-    },
-    {
-      "title": "Robot Police Officers",
-      "url": "https://www.schneier.com/blog/archives/2026/06/robot-police-officers.html",
-      "summary": "<p>We&#8217;ve taken one small step towards robot police officers: a drone capable of disarming a suspect:</p>\n<blockquote><p>In a <a href=\"https://www.instagram.com/reel/DZ4-tdPtbey/\">June 22 video</a> posted on the Sacramento County Sheriff’s Office’s Instagram page, an officer wearing goggles can be seen operating a drone to retrieve a knife from an armed suspect hiding inside a cluttered house. &#8220;After not responding to negotiators, a drone was deployed inside the residence,&#8221; the ",
-      "source": "Schneier on Security",
-      "published": "2026-07-06T14:59:35.615087+00:00",
-      "raw_score": 0.0,
-      "score": 23,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.31
     }
   ],
-  "updated": "2026-07-13T14:05:41.505230+00:00",
+  "updated": "2026-07-13T17:06:37.145378+00:00",
   "stats": {
-    "total": 23,
+    "total": 22,
     "relevant": 8,
     "critical": 5,
-    "new_this_run": 1,
+    "new_this_run": 0,
     "sources": 2
   }
 }
