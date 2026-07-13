@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "AI Data Centers and the Concentration of Wealth",
+      "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+      "summary": "<p><em>This essay was written with Nathan E. Sanders, and originally appeared in <a href=\"https://www.theguardian.com/commentisfree/2026/jul/09/ai-datacenter-company-politics\">The Guardian</a>.</em></p>\n<p>Opposition to AI data centers has emerged as a primary theme in US politics, one that&#8212;surprisingly&#8212;doesn&#8217;t <a href=\"https://grist.org/politics/data-center-ai-bipartisan-backlash/\">fall</a> <a href=\"https://www.nytimes.com/2026/05/01/us/politics/liberals-conservatives-data-cen",
+      "source": "Schneier on Security",
+      "published": "2026-07-13T11:51:25.575013+00:00",
+      "raw_score": 0.0,
+      "score": 22,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "ICS / OT"
+      ],
+      "threshold": 11.2
+    },
+    {
       "title": "Welcome to the new Project Zero Blog",
       "url": "https://projectzero.google/2025/12/welcome.html",
       "summary": "While on Project Zero, we aim for our research to be leading-edge, our blog design was … not so much. We welcome readers to our shiny new blog! For the occasion, we asked members of Project Zero to dust off old blog posts that never quite saw the light of day. And while we wish we could say the techniques they cover are no longer relevant, there is still a lot of work that needs to be done to protect users against zero days. Our new blog will continue to shine a light on the capabilities of atta",
@@ -335,12 +350,12 @@
       "threshold": 10.31
     }
   ],
-  "updated": "2026-07-13T08:48:46.884417+00:00",
+  "updated": "2026-07-13T11:51:36.038011+00:00",
   "stats": {
-    "total": 22,
+    "total": 23,
     "relevant": 8,
     "critical": 5,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
