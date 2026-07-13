@@ -317,29 +317,13 @@
         "Phishing"
       ],
       "threshold": 10.31
-    },
-    {
-      "title": "Factoring RSA Keys with Many Zeros",
-      "url": "https://www.schneier.com/blog/archives/2026/06/factoring-rsa-keys-with-many-zeros.html",
-      "summary": "<p>Interesting research on a <a href=\"https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/\">new class</a> of weak RSA keys: keys with lots of zeros. It turns out that these keys are out in the wild.</p>\n<blockquote><p>The badkeys project is an open-source service that checks public keys for known vulnerabilities. While developing this tool, Hanno collected a massive number of real-world keys from public sources, including Certificate Transparency logs, intern",
-      "source": "Schneier on Security",
-      "published": "2026-07-06T17:45:31.228495+00:00",
-      "raw_score": 0.0,
-      "score": 23,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability",
-        "Law Enforcement"
-      ],
-      "threshold": 10.31
     }
   ],
-  "updated": "2026-07-13T17:06:37.145378+00:00",
+  "updated": "2026-07-13T19:12:03.714246+00:00",
   "stats": {
-    "total": 22,
-    "relevant": 8,
-    "critical": 5,
+    "total": 21,
+    "relevant": 7,
+    "critical": 4,
     "new_this_run": 0,
     "sources": 2
   }
