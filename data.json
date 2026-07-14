@@ -317,29 +317,14 @@
         "General"
       ],
       "threshold": 10.43
-    },
-    {
-      "title": "The Realities of AI Video Surveillance",
-      "url": "https://www.schneier.com/blog/archives/2026/06/the-realities-of-ai-video-surveillance.html",
-      "summary": "<p>The <i>Financial Times</i> has a <a href=\"https://archive.ph/s6mES\">good article</a> on how AI is changing the capabilities of video surveillance, with information from both Israel/Iran and Russia.</p>\n<p>I <a href=\"https://www.schneier.com/blog/archives/2023/12/ai-and-mass-spying.html\">wrote about</a> this sort of thing a few years ago, how AI enables mass spying in the way that computers and networks enabled mass surveillance. The interesting development in the article is that AI allows peo",
-      "source": "Schneier on Security",
-      "published": "2026-07-07T14:07:17.243928+00:00",
-      "raw_score": 0.0,
-      "score": 23,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.31
     }
   ],
-  "updated": "2026-07-14T13:08:36.913234+00:00",
+  "updated": "2026-07-14T15:16:39.842131+00:00",
   "stats": {
-    "total": 22,
+    "total": 21,
     "relevant": 7,
     "critical": 4,
-    "new_this_run": 1,
+    "new_this_run": 0,
     "sources": 2
   }
 }
