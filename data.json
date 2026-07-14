@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Vulnerability in FIFA’s Network",
+      "url": "https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html",
+      "summary": "<p>FIFA&#8217;s network was <a href=\"https://bobdahacker.com/blog/fifa-hack\">vulnerable</a> to anyone with even minimal access.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-07-14T11:17:30.373030+00:00",
+      "raw_score": 4.162886120207028,
+      "score": 41,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.96
+    },
+    {
       "title": "France to Stop Certifying Non-Quantum-Safe Encryption",
       "url": "https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html",
       "summary": "<p>France is <a href=\"https://www.reuters.com/legal/litigation/france-stop-certifying-products-without-quantum-safe-encryption-2026-06-16/\">accelerating</a> its transition to post-quantum encryption:</p>\n<blockquote><p>France&#8217;s cybersecurity agency ANSSI said on Tuesday it would stop certifying security products that lack quantum-resistant encryption, a move that will force government bodies and critical operators to shift away from older systems.</p>\n<p>Samih Souissi, ANSSI&#8217;s chief ",
@@ -319,12 +334,12 @@
       "threshold": 10.31
     }
   ],
-  "updated": "2026-07-14T09:46:44.549588+00:00",
+  "updated": "2026-07-14T11:17:42.707064+00:00",
   "stats": {
-    "total": 21,
+    "total": 22,
     "relevant": 7,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
