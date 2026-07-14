@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Upcoming Speaking Engagements",
+      "url": "https://www.schneier.com/blog/archives/2026/07/upcoming-speaking-engagements-58.html",
+      "summary": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m speaking (virtually) at the <a href=\"https://pr2.technologypolicyworkshop.org/\">Policy-Relevant Privacy Research Workshop</a> in Calgary, Canada, on Monday, July 20, 2026.</li>\n<li>I’m speaking at <a href=\"https://events.cyberriskcollaborative.com/boston-leadership-exchange-2026\">Boston Leadership Exchange</a> in Boston, Massachusetts, USA, on Wednesday, July 22, 2026.</li>\n<li>I’m speaking at <a href=\"https://",
+      "source": "Schneier on Security",
+      "published": "2026-07-14T17:02:53.483353+00:00",
+      "raw_score": 0.0,
+      "score": 19,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.1
+    },
+    {
       "title": "Google Is Suing Chinese Scammers Who Are Using Gemini",
       "url": "https://www.schneier.com/blog/archives/2026/07/google-is-suing-chinese-scammers-who-are-using-gemini.html",
       "summary": "<p>Not sure <a href=\"https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/\">this</a> will have any effect, but I support the effort:</p>\n<blockquote><p>According to Google&#8217;s legal filing, Outsider Enterprise operates through Telegram. The group offers phishing-as-a-service to individuals who may not be technically savvy enough to set up fraudulent websites and text campaigns on their own. In its Telegram channels, Outsider Enterpr",
@@ -319,12 +334,12 @@
       "threshold": 10.43
     }
   ],
-  "updated": "2026-07-14T15:16:39.842131+00:00",
+  "updated": "2026-07-14T17:03:10.179142+00:00",
   "stats": {
-    "total": 21,
+    "total": 22,
     "relevant": 7,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
