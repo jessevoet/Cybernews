@@ -334,12 +334,12 @@
       "threshold": 10.43
     }
   ],
-  "updated": "2026-07-14T17:03:10.179142+00:00",
+  "updated": "2026-07-14T19:02:26.562906+00:00",
   "stats": {
     "total": 22,
     "relevant": 7,
     "critical": 4,
-    "new_this_run": 1,
+    "new_this_run": 0,
     "sources": 2
   }
 }
