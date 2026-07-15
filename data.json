@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "A Video Screen That Is Also a Camera",
+      "url": "https://www.schneier.com/blog/archives/2026/07/a-video-screen-that-is-also-a-camera.html",
+      "summary": "<p><a href=\"https://gizmodo.com/newly-invented-pixel-could-turn-screens-into-cameras-2000777917\">Amazing</a>:</p>\n<blockquote><p>Researchers from ETH Zurich in Switzerland, however, managed to create a new type of pixel that can simultaneously do both. This hypercharged pixel, called a Fourier pixel, can generate and sense arbitrary light fields and tap into a pixel&#8217;s full potential for carrying information by manipulating light&#8217;s intensity, oscillation phases, and polarization. The ",
+      "source": "Schneier on Security",
+      "published": "2026-07-15T11:21:31.682491+00:00",
+      "raw_score": 0.0,
+      "score": 19,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 11.36
+    },
+    {
       "title": "Upcoming Speaking Engagements",
       "url": "https://www.schneier.com/blog/archives/2026/07/upcoming-speaking-engagements-58.html",
       "summary": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m speaking (virtually) at the <a href=\"https://pr2.technologypolicyworkshop.org/\">Policy-Relevant Privacy Research Workshop</a> in Calgary, Canada, on Monday, July 20, 2026.</li>\n<li>I’m speaking at <a href=\"https://events.cyberriskcollaborative.com/boston-leadership-exchange-2026\">Boston Leadership Exchange</a> in Boston, Massachusetts, USA, on Wednesday, July 22, 2026.</li>\n<li>I’m speaking at <a href=\"https://",
@@ -334,12 +349,12 @@
       "threshold": 10.43
     }
   ],
-  "updated": "2026-07-15T09:50:34.302308+00:00",
+  "updated": "2026-07-15T11:21:45.655556+00:00",
   "stats": {
-    "total": 22,
+    "total": 23,
     "relevant": 7,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
