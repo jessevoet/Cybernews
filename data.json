@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: “Squidbleed” Vulnerability",
+      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html",
+      "summary": "<p>In a rare combined cybersecurity/squid post, a twenty-nine-year-old <a href=\"https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html\">squid proxy bug</a> can leak HTTP requests.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
+      "source": "Schneier on Security",
+      "published": "2026-07-17T22:38:26.890490+00:00",
+      "raw_score": 12.322101304882615,
+      "score": 80,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Data Breach"
+      ],
+      "threshold": 10.58
+    },
+    {
       "title": "Friday Squid Blogging: Squid Washing Up on Cape Cod Beach",
       "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-washing-up-on-cape-cod-beach.html",
       "summary": "<p>Lots of <a href=\"https://www.boston25news.com/news/thousands-squid-wash-up-cape-cod-beach/e41059e1-200e-4341-96d8-68dc9cf3bc52/\">articles</a> <a href=\"https://onthewater.com/why-are-thousands-of-squid-beaching-themselves-on-cape-cod\">about</a> <a href=\"https://www.wcvb.com/article/thousands-of-squid-wash-up-on-provincetown-beaches/71536889\">this</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"h",
@@ -330,24 +345,9 @@
         "General"
       ],
       "threshold": 11.2
-    },
-    {
-      "title": "Friday Squid Blogging: “Squidbleed” Vulnerability",
-      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html",
-      "summary": "<p>In a rare combined cybersecurity/squid post, a twenty-nine-year-old <a href=\"https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html\">squid proxy bug</a> can leak HTTP requests.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
-      "source": "Schneier on Security",
-      "published": "2026-07-10T21:51:14.181217+00:00",
-      "raw_score": 12.322101304882615,
-      "score": 77,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Data Breach"
-      ],
-      "threshold": 11.2
     }
   ],
-  "updated": "2026-07-17T21:42:09.515537+00:00",
+  "updated": "2026-07-17T22:38:38.463324+00:00",
   "stats": {
     "total": 23,
     "relevant": 6,
