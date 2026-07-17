@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: Squid Washing Up on Cape Cod Beach",
+      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-washing-up-on-cape-cod-beach.html",
+      "summary": "<p>Lots of <a href=\"https://www.boston25news.com/news/thousands-squid-wash-up-cape-cod-beach/e41059e1-200e-4341-96d8-68dc9cf3bc52/\">articles</a> <a href=\"https://onthewater.com/why-are-thousands-of-squid-beaching-themselves-on-cape-cod\">about</a> <a href=\"https://www.wcvb.com/article/thousands-of-squid-wash-up-on-provincetown-beaches/71536889\">this</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"h",
+      "source": "Schneier on Security",
+      "published": "2026-07-17T21:41:56.919386+00:00",
+      "raw_score": 1.66621918403833,
+      "score": 33,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.58
+    },
+    {
       "title": "AI Surveillance and Social Progress",
       "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
       "summary": "<p>In the near future, <a href=\"https://www.theguardian.com/technology/artificialintelligenceai\">AI</a>-powered surveillance systems will be able to track everything we do in public, and much of what we do in private. And if we do something wrong&#8212;shoplift, litter, jaywalk, you name it&#8212;the system will notice, retain it, tie it to your official government record, communicate that fact to you, and provide real-time alerts to any relevant authorities&#8230; and maybe also to the general ",
@@ -332,12 +347,12 @@
       "threshold": 11.2
     }
   ],
-  "updated": "2026-07-17T20:52:30.245399+00:00",
+  "updated": "2026-07-17T21:42:09.515537+00:00",
   "stats": {
-    "total": 22,
+    "total": 23,
     "relevant": 6,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
