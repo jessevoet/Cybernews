@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Details of Alan Turing’s Voice Encryption System",
+      "url": "https://www.schneier.com/blog/archives/2026/07/details-of-alan-turings-voice-encryption-system.html",
+      "summary": "<p>Really interesting piece of cryptographic <a href=\"https://spectrum.ieee.org/alan-turings-delilah\">history</a>:</p>\n<blockquote><p>In November 2023, a large cache of his wartime papers&#8212;nicknamed the &#8220;Bayley papers&#8221;&#8212;was <a href=\"https://www.bonhams.com/auction/28322/lot/45/turing-alan-the-delilah-project-the-papers-of-alan-turing-and-donald-bayley-relating-to-the-delilah-project/\">auctioned</a> in London for almost half a million U.S. dollars. The previously unknown cac",
+      "source": "Schneier on Security",
+      "published": "2026-07-17T11:14:24.111214+00:00",
+      "raw_score": 0.0,
+      "score": 22,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.88
+    },
+    {
       "title": "The Language of AI Could Change How Humans Speak",
       "url": "https://www.schneier.com/blog/archives/2026/07/the-language-of-ai-could-change-how-humans-speak.html",
       "summary": "<p>Because of the way they are trained, large language models capture only a slice of human language. They&#8217;re trained on the written word, from textbooks to social media posts, and our speech as captured in movies and on television. These models have minimal access to the unscripted conversations we have face to face or voice to voice. This is the vast majority of speech, and a vital component of human culture.</p>\n<p>There&#8217;s a risk to this. The increased use of large language models",
@@ -334,12 +349,12 @@
       "threshold": 10.19
     }
   ],
-  "updated": "2026-07-17T09:47:05.408283+00:00",
+  "updated": "2026-07-17T11:14:36.024266+00:00",
   "stats": {
-    "total": 22,
+    "total": 23,
     "relevant": 7,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
