@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "AI Data Centers and the Concentration of Wealth",
+      "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+      "summary": "<p><em>This essay was written with Nathan E. Sanders, and originally appeared in <a href=\"https://www.theguardian.com/commentisfree/2026/jul/09/ai-datacenter-company-politics\">The Guardian</a>.</em></p>\n<p>Opposition to AI data centers has emerged as a primary theme in US politics, one that&#8212;surprisingly&#8212;doesn&#8217;t <a href=\"https://grist.org/politics/data-center-ai-bipartisan-backlash/\">fall</a> <a href=\"https://www.nytimes.com/2026/05/01/us/politics/liberals-conservatives-data-cen",
+      "source": "Schneier on Security",
+      "published": "2026-07-20T12:08:31.689030+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "ICS / OT"
+      ],
+      "threshold": 10.58
+    },
+    {
+      "title": "On Flock License Plate Tracking Cameras",
+      "url": "https://www.schneier.com/blog/archives/2026/07/on-flock-license-plate-tracking-cameras.html",
+      "summary": "<p>A recent story of a writer who was <a href=\"https://www.thedrive.com/news/how-flock-cameras-wrongly-tracked-me-for-days-over-stolen-plates-and-sent-police-after-me\">mistakenly</a> identified, tracked, and arrested using data from Flock cameras has gone viral.</p>\n<blockquote><p>The New Jersey plates that were allegedly stolen from the LA dealer were <b>34 03 DTM</b>, not <b>34 10 DTM</b>. But when the police report was created and the plate was entered into Flock’s system, it was just recorde",
+      "source": "Schneier on Security",
+      "published": "2026-07-20T12:08:31.688072+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Law Enforcement"
+      ],
+      "threshold": 10.58
+    },
+    {
       "title": "Welcome to the new Project Zero Blog",
       "url": "https://projectzero.google/2025/12/welcome.html",
       "summary": "While on Project Zero, we aim for our research to be leading-edge, our blog design was … not so much. We welcome readers to our shiny new blog! For the occasion, we asked members of Project Zero to dust off old blog posts that never quite saw the light of day. And while we wish we could say the techniques they cover are no longer relevant, there is still a lot of work that needs to be done to protect users against zero days. Our new blog will continue to shine a light on the capabilities of atta",
@@ -330,29 +360,14 @@
         "Vulnerability"
       ],
       "threshold": 11.2
-    },
-    {
-      "title": "AI Data Centers and the Concentration of Wealth",
-      "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
-      "summary": "<p><em>This essay was written with Nathan E. Sanders, and originally appeared in <a href=\"https://www.theguardian.com/commentisfree/2026/jul/09/ai-datacenter-company-politics\">The Guardian</a>.</em></p>\n<p>Opposition to AI data centers has emerged as a primary theme in US politics, one that&#8212;surprisingly&#8212;doesn&#8217;t <a href=\"https://grist.org/politics/data-center-ai-bipartisan-backlash/\">fall</a> <a href=\"https://www.nytimes.com/2026/05/01/us/politics/liberals-conservatives-data-cen",
-      "source": "Schneier on Security",
-      "published": "2026-07-13T11:51:25.575013+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "ICS / OT"
-      ],
-      "threshold": 11.2
     }
   ],
-  "updated": "2026-07-20T09:18:02.925870+00:00",
+  "updated": "2026-07-20T12:08:46.096270+00:00",
   "stats": {
-    "total": 23,
+    "total": 24,
     "relevant": 7,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
