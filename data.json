@@ -345,29 +345,14 @@
         "General"
       ],
       "threshold": 10.96
-    },
-    {
-      "title": "France to Stop Certifying Non-Quantum-Safe Encryption",
-      "url": "https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html",
-      "summary": "<p>France is <a href=\"https://www.reuters.com/legal/litigation/france-stop-certifying-products-without-quantum-safe-encryption-2026-06-16/\">accelerating</a> its transition to post-quantum encryption:</p>\n<blockquote><p>France&#8217;s cybersecurity agency ANSSI said on Tuesday it would stop certifying security products that lack quantum-resistant encryption, a move that will force government bodies and critical operators to shift away from older systems.</p>\n<p>Samih Souissi, ANSSI&#8217;s chief ",
-      "source": "Schneier on Security",
-      "published": "2026-07-13T14:05:28.827474+00:00",
-      "raw_score": 9.542702110337167,
-      "score": 65,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 11.2
     }
   ],
-  "updated": "2026-07-20T12:08:46.096270+00:00",
+  "updated": "2026-07-20T15:01:55.605412+00:00",
   "stats": {
-    "total": 24,
-    "relevant": 7,
-    "critical": 3,
-    "new_this_run": 2,
+    "total": 23,
+    "relevant": 6,
+    "critical": 2,
+    "new_this_run": 0,
     "sources": 2
   }
 }
