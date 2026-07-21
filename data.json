@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Upcoming Speaking Engagements",
+      "url": "https://www.schneier.com/blog/archives/2026/07/upcoming-speaking-engagements-58.html",
+      "summary": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m speaking (virtually) at the <a href=\"https://pr2.technologypolicyworkshop.org/\">Policy-Relevant Privacy Research Workshop</a> in Calgary, Canada, on Monday, July 20, 2026.</li>\n<li>I’m speaking at <a href=\"https://events.cyberriskcollaborative.com/boston-leadership-exchange-2026\">Boston Leadership Exchange</a> in Boston, Massachusetts, USA, on Wednesday, July 22, 2026.</li>\n<li>I’m speaking at <a href=\"https://",
+      "source": "Schneier on Security",
+      "published": "2026-07-21T18:09:30.167245+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.83
+    },
+    {
       "title": "Vulnerability in FIFA’s Network",
       "url": "https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html",
       "summary": "<p>FIFA&#8217;s network was <a href=\"https://bobdahacker.com/blog/fifa-hack\">vulnerable</a> to anyone with even minimal access.</p>",
@@ -330,29 +345,14 @@
         "General"
       ],
       "threshold": 11.36
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "url": "https://www.schneier.com/blog/archives/2026/07/upcoming-speaking-engagements-58.html",
-      "summary": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m speaking (virtually) at the <a href=\"https://pr2.technologypolicyworkshop.org/\">Policy-Relevant Privacy Research Workshop</a> in Calgary, Canada, on Monday, July 20, 2026.</li>\n<li>I’m speaking at <a href=\"https://events.cyberriskcollaborative.com/boston-leadership-exchange-2026\">Boston Leadership Exchange</a> in Boston, Massachusetts, USA, on Wednesday, July 22, 2026.</li>\n<li>I’m speaking at <a href=\"https://",
-      "source": "Schneier on Security",
-      "published": "2026-07-14T17:02:53.483353+00:00",
-      "raw_score": 0.0,
-      "score": 19,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 11.1
     }
   ],
-  "updated": "2026-07-21T16:16:00.867051+00:00",
+  "updated": "2026-07-21T18:09:40.060090+00:00",
   "stats": {
     "total": 23,
     "relevant": 6,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
