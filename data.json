@@ -345,29 +345,14 @@
         "General"
       ],
       "threshold": 11.1
-    },
-    {
-      "title": "Google Is Suing Chinese Scammers Who Are Using Gemini",
-      "url": "https://www.schneier.com/blog/archives/2026/07/google-is-suing-chinese-scammers-who-are-using-gemini.html",
-      "summary": "<p>Not sure <a href=\"https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/\">this</a> will have any effect, but I support the effort:</p>\n<blockquote><p>According to Google&#8217;s legal filing, Outsider Enterprise operates through Telegram. The group offers phishing-as-a-service to individuals who may not be technically savvy enough to set up fraudulent websites and text campaigns on their own. In its Telegram channels, Outsider Enterpr",
-      "source": "Schneier on Security",
-      "published": "2026-07-14T13:08:27.136881+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Phishing"
-      ],
-      "threshold": 10.96
     }
   ],
-  "updated": "2026-07-21T12:19:18.180534+00:00",
+  "updated": "2026-07-21T14:55:15.082602+00:00",
   "stats": {
-    "total": 24,
+    "total": 23,
     "relevant": 6,
     "critical": 2,
-    "new_this_run": 2,
+    "new_this_run": 0,
     "sources": 2
   }
 }
