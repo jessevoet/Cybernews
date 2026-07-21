@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Vulnerability in FIFA’s Network",
+      "url": "https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html",
+      "summary": "<p>FIFA&#8217;s network was <a href=\"https://bobdahacker.com/blog/fifa-hack\">vulnerable</a> to anyone with even minimal access.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-07-21T12:19:05.371393+00:00",
+      "raw_score": 4.162886120207028,
+      "score": 44,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.83
+    },
+    {
+      "title": "MIT to Become Hotbed of AI Video Surveillance",
+      "url": "https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html",
+      "summary": "<p>It&#8217;s <a href=\"https://thetech.com/2026/04/16/ai-surveillance-cameras\">a lot</a>:</p>\n<blockquote><p>According to information obtained by <i>The Tech</i>, MIT is spending over $3 million on more than 500 AI surveillance cameras in academic buildings, residence halls, and outdoor areas along Memorial Drive. Installation of the new cameras, along with the wiring and infrastructure that will support them, began November 2025 and will likely continue until September 2026.</p>\n<p>Technical sp",
+      "source": "Schneier on Security",
+      "published": "2026-07-21T12:19:05.369990+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.83
+    },
+    {
       "title": "AI Data Centers and the Concentration of Wealth",
       "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
       "summary": "<p><em>This essay was written with Nathan E. Sanders, and originally appeared in <a href=\"https://www.theguardian.com/commentisfree/2026/jul/09/ai-datacenter-company-politics\">The Guardian</a>.</em></p>\n<p>Opposition to AI data centers has emerged as a primary theme in US politics, one that&#8212;surprisingly&#8212;doesn&#8217;t <a href=\"https://grist.org/politics/data-center-ai-bipartisan-backlash/\">fall</a> <a href=\"https://www.nytimes.com/2026/05/01/us/politics/liberals-conservatives-data-cen",
@@ -330,29 +360,14 @@
         "Phishing"
       ],
       "threshold": 10.96
-    },
-    {
-      "title": "Vulnerability in FIFA’s Network",
-      "url": "https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html",
-      "summary": "<p>FIFA&#8217;s network was <a href=\"https://bobdahacker.com/blog/fifa-hack\">vulnerable</a> to anyone with even minimal access.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-07-14T11:17:30.373030+00:00",
-      "raw_score": 4.162886120207028,
-      "score": 41,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.96
     }
   ],
-  "updated": "2026-07-21T10:15:06.845729+00:00",
+  "updated": "2026-07-21T12:19:18.180534+00:00",
   "stats": {
-    "total": 23,
+    "total": 24,
     "relevant": 6,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
