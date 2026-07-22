@@ -345,29 +345,14 @@
         "Advisory"
       ],
       "threshold": 11.36
-    },
-    {
-      "title": "Cybersecurity and the Gap Between Skill and Ability",
-      "url": "https://www.schneier.com/blog/archives/2026/07/cybersecurity-and-the-gap-between-skill-and-ability.html",
-      "summary": "<p>Last week, national security agencies from the Five Eyes&#8212;that&#8217;s the rich, English-language-speaking countries club&#8212;jointly released a <a href=\"https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/4523810/five-eyes-cyber-security-agencies-statement/\">statement</a> warning of the increasing cyber risks of AI models: in particular, their ability to autonomously hack into systems and networks. The statement was more measured than some of the <a href=\"https://www.thegua",
-      "source": "Schneier on Security",
-      "published": "2026-07-15T13:12:18.336302+00:00",
-      "raw_score": 8.042732713612356,
-      "score": 57,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 11.36
     }
   ],
-  "updated": "2026-07-22T12:21:41.287862+00:00",
+  "updated": "2026-07-22T14:55:56.746663+00:00",
   "stats": {
-    "total": 24,
-    "relevant": 6,
+    "total": 23,
+    "relevant": 5,
     "critical": 2,
-    "new_this_run": 2,
+    "new_this_run": 0,
     "sources": 2
   }
 }
