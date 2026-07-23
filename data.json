@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Protecting Privacy in an AI Era",
+      "url": "https://www.schneier.com/blog/archives/2026/07/protecting-privacy-in-an-ai-era.html",
+      "summary": "<p>Daniel Solove <a href=\"https://www.wsj.com/tech/cybersecurity/ai-privacy-laws-data-26d9769f\">argues</a> in the <i>Wall Street Journal</i> (alternate <a href=\"https://archive.is/gEhP5\">link</a>) that giving people control of their personal data is not an effective way to regulate privacy in this era. Instead, we need to hold companies accountable for their actions, similar to what we do with food and drug companies. Measures such as rigorous data minimization, fiduciary duties, liability for n",
+      "source": "Schneier on Security",
+      "published": "2026-07-23T17:08:56.850035+00:00",
+      "raw_score": 2.4637932958291895,
+      "score": 37,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.19
+    },
+    {
       "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
@@ -330,44 +345,14 @@
         "General"
       ],
       "threshold": 10.88
-    },
-    {
-      "title": "The Language of AI Could Change How Humans Speak",
-      "url": "https://www.schneier.com/blog/archives/2026/07/the-language-of-ai-could-change-how-humans-speak.html",
-      "summary": "<p>Because of the way they are trained, large language models capture only a slice of human language. They&#8217;re trained on the written word, from textbooks to social media posts, and our speech as captured in movies and on television. These models have minimal access to the unscripted conversations we have face to face or voice to voice. This is the vast majority of speech, and a vital component of human culture.</p>\n<p>There&#8217;s a risk to this. The increased use of large language models",
-      "source": "Schneier on Security",
-      "published": "2026-07-16T15:25:48.185035+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "APT / Nation State"
-      ],
-      "threshold": 10.88
-    },
-    {
-      "title": "Protecting Privacy in an AI Era",
-      "url": "https://www.schneier.com/blog/archives/2026/07/protecting-privacy-in-an-ai-era.html",
-      "summary": "<p>Daniel Solove <a href=\"https://www.wsj.com/tech/cybersecurity/ai-privacy-laws-data-26d9769f\">argues</a> in the <i>Wall Street Journal</i> (alternate <a href=\"https://archive.is/gEhP5\">link</a>) that giving people control of their personal data is not an effective way to regulate privacy in this era. Instead, we need to hold companies accountable for their actions, similar to what we do with food and drug companies. Measures such as rigorous data minimization, fiduciary duties, liability for n",
-      "source": "Schneier on Security",
-      "published": "2026-07-16T15:25:48.183986+00:00",
-      "raw_score": 2.4637932958291895,
-      "score": 33,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.88
     }
   ],
-  "updated": "2026-07-23T15:02:16.393418+00:00",
+  "updated": "2026-07-23T17:09:07.667384+00:00",
   "stats": {
-    "total": 24,
+    "total": 23,
     "relevant": 5,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
