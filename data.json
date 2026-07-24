@@ -345,29 +345,14 @@
         "General"
       ],
       "threshold": 10.58
-    },
-    {
-      "title": "AI Surveillance and Social Progress",
-      "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
-      "summary": "<p>In the near future, <a href=\"https://www.theguardian.com/technology/artificialintelligenceai\">AI</a>-powered surveillance systems will be able to track everything we do in public, and much of what we do in private. And if we do something wrong&#8212;shoplift, litter, jaywalk, you name it&#8212;the system will notice, retain it, tie it to your official government record, communicate that fact to you, and provide real-time alerts to any relevant authorities&#8230; and maybe also to the general ",
-      "source": "Schneier on Security",
-      "published": "2026-07-17T13:04:39.562485+00:00",
-      "raw_score": 4.927586591658379,
-      "score": 45,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.88
     }
   ],
-  "updated": "2026-07-24T12:12:29.840074+00:00",
+  "updated": "2026-07-24T14:44:50.546526+00:00",
   "stats": {
-    "total": 24,
+    "total": 23,
     "relevant": 5,
     "critical": 2,
-    "new_this_run": 2,
+    "new_this_run": 0,
     "sources": 2
   }
 }
