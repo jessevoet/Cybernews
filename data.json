@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: Squid Washing Up on Cape Cod Beach",
+      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-washing-up-on-cape-cod-beach.html",
+      "summary": "<p>Lots of <a href=\"https://www.boston25news.com/news/thousands-squid-wash-up-cape-cod-beach/e41059e1-200e-4341-96d8-68dc9cf3bc52/\">articles</a> <a href=\"https://onthewater.com/why-are-thousands-of-squid-beaching-themselves-on-cape-cod\">about</a> <a href=\"https://www.wcvb.com/article/thousands-of-squid-wash-up-on-provincetown-beaches/71536889\">this</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"h",
+      "source": "Schneier on Security",
+      "published": "2026-07-24T21:55:49.299902+00:00",
+      "raw_score": 1.66621918403833,
+      "score": 35,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.18
+    },
+    {
+      "title": "Friday Squid Blogging: Illex Squid Catch in the Falklands",
+      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-illex-squid-catch-in-the-falklands.html",
+      "summary": "<p>Lower catch <a href=\"https://en.mercopress.com/2026/06/24/falklands-lower-catch-from-the-illex-squid-season-concern-with-fuel-costs\">this year</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
+      "source": "Schneier on Security",
+      "published": "2026-07-24T21:55:49.298592+00:00",
+      "raw_score": 1.7030643257001112,
+      "score": 35,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.18
+    },
+    {
       "title": "Details of Alan Turing’s Voice Encryption System",
       "url": "https://www.schneier.com/blog/archives/2026/07/details-of-alan-turings-voice-encryption-system.html",
       "summary": "<p>Really interesting piece of cryptographic <a href=\"https://spectrum.ieee.org/alan-turings-delilah\">history</a>:</p>\n<blockquote><p>In November 2023, a large cache of his wartime papers&#8212;nicknamed the &#8220;Bayley papers&#8221;&#8212;was <a href=\"https://www.bonhams.com/auction/28322/lot/45/turing-alan-the-delilah-project-the-papers-of-alan-turing-and-donald-bayley-relating-to-the-delilah-project/\">auctioned</a> in London for almost half a million U.S. dollars. The previously unknown cac",
@@ -330,29 +360,14 @@
         "Data Breach"
       ],
       "threshold": 10.58
-    },
-    {
-      "title": "Friday Squid Blogging: Squid Washing Up on Cape Cod Beach",
-      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-washing-up-on-cape-cod-beach.html",
-      "summary": "<p>Lots of <a href=\"https://www.boston25news.com/news/thousands-squid-wash-up-cape-cod-beach/e41059e1-200e-4341-96d8-68dc9cf3bc52/\">articles</a> <a href=\"https://onthewater.com/why-are-thousands-of-squid-beaching-themselves-on-cape-cod\">about</a> <a href=\"https://www.wcvb.com/article/thousands-of-squid-wash-up-on-provincetown-beaches/71536889\">this</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"h",
-      "source": "Schneier on Security",
-      "published": "2026-07-17T21:41:56.919386+00:00",
-      "raw_score": 1.66621918403833,
-      "score": 33,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.58
     }
   ],
-  "updated": "2026-07-24T20:10:31.549520+00:00",
+  "updated": "2026-07-24T21:56:01.535766+00:00",
   "stats": {
-    "total": 23,
+    "total": 24,
     "relevant": 5,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
