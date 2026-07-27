@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "On Flock License Plate Tracking Cameras",
+      "url": "https://www.schneier.com/blog/archives/2026/07/on-flock-license-plate-tracking-cameras.html",
+      "summary": "<p>A recent story of a writer who was <a href=\"https://www.thedrive.com/news/how-flock-cameras-wrongly-tracked-me-for-days-over-stolen-plates-and-sent-police-after-me\">mistakenly</a> identified, tracked, and arrested using data from Flock cameras has gone viral.</p>\n<blockquote><p>The New Jersey plates that were allegedly stolen from the LA dealer were <b>34 03 DTM</b>, not <b>34 10 DTM</b>. But when the police report was created and the plate was entered into Flock’s system, it was just recorde",
+      "source": "Schneier on Security",
+      "published": "2026-07-27T12:50:23.176964+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Law Enforcement"
+      ],
+      "threshold": 9.18
+    },
+    {
+      "title": "Cognyte Sells a Mobile Cell Surveillance Van",
+      "url": "https://www.schneier.com/blog/archives/2026/07/cognyte-sells-a-mobile-cell-surveillance-van.html",
+      "summary": "<p>Yet another Israeli <a href=\"https://www.forbes.com/sites/thomasbrewster/2026/07/13/israels-palantir-rival-is-selling-1-million-spy-vans-to-us-cops/\">mass surveillance company</a>:</p>\n<blockquote><p>Made by Israeli surveillance company Cognyte, the tech simulates a mobile phone tower, which forces nearby phones to connect to it. That enables cops to keep tabs on any phones in the vicinity ­ whether they’re owned by a suspect in a case or not. Cognyte’s contract with the state of Texas reveal",
+      "source": "Schneier on Security",
+      "published": "2026-07-27T12:50:23.175757+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 9.18
+    },
+    {
       "title": "Welcome to the new Project Zero Blog",
       "url": "https://projectzero.google/2025/12/welcome.html",
       "summary": "While on Project Zero, we aim for our research to be leading-edge, our blog design was … not so much. We welcome readers to our shiny new blog! For the occasion, we asked members of Project Zero to dust off old blog posts that never quite saw the light of day. And while we wish we could say the techniques they cover are no longer relevant, there is still a lot of work that needs to be done to protect users against zero days. Our new blog will continue to shine a light on the capabilities of atta",
@@ -315,44 +345,14 @@
         "General"
       ],
       "threshold": 10.83
-    },
-    {
-      "title": "AI Data Centers and the Concentration of Wealth",
-      "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
-      "summary": "<p><em>This essay was written with Nathan E. Sanders, and originally appeared in <a href=\"https://www.theguardian.com/commentisfree/2026/jul/09/ai-datacenter-company-politics\">The Guardian</a>.</em></p>\n<p>Opposition to AI data centers has emerged as a primary theme in US politics, one that&#8212;surprisingly&#8212;doesn&#8217;t <a href=\"https://grist.org/politics/data-center-ai-bipartisan-backlash/\">fall</a> <a href=\"https://www.nytimes.com/2026/05/01/us/politics/liberals-conservatives-data-cen",
-      "source": "Schneier on Security",
-      "published": "2026-07-20T12:08:31.689030+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "ICS / OT"
-      ],
-      "threshold": 10.58
-    },
-    {
-      "title": "On Flock License Plate Tracking Cameras",
-      "url": "https://www.schneier.com/blog/archives/2026/07/on-flock-license-plate-tracking-cameras.html",
-      "summary": "<p>A recent story of a writer who was <a href=\"https://www.thedrive.com/news/how-flock-cameras-wrongly-tracked-me-for-days-over-stolen-plates-and-sent-police-after-me\">mistakenly</a> identified, tracked, and arrested using data from Flock cameras has gone viral.</p>\n<blockquote><p>The New Jersey plates that were allegedly stolen from the LA dealer were <b>34 03 DTM</b>, not <b>34 10 DTM</b>. But when the police report was created and the plate was entered into Flock’s system, it was just recorde",
-      "source": "Schneier on Security",
-      "published": "2026-07-20T12:08:31.688072+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Law Enforcement"
-      ],
-      "threshold": 10.58
     }
   ],
-  "updated": "2026-07-27T09:31:16.563371+00:00",
+  "updated": "2026-07-27T12:50:33.540983+00:00",
   "stats": {
     "total": 23,
-    "relevant": 6,
-    "critical": 2,
-    "new_this_run": 0,
+    "relevant": 7,
+    "critical": 3,
+    "new_this_run": 2,
     "sources": 2
   }
 }
