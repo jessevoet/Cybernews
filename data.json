@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "MIT to Become Hotbed of AI Video Surveillance",
+      "url": "https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html",
+      "summary": "<p>It&#8217;s <a href=\"https://thetech.com/2026/04/16/ai-surveillance-cameras\">a lot</a>:</p>\n<blockquote><p>According to information obtained by <i>The Tech</i>, MIT is spending over $3 million on more than 500 AI surveillance cameras in academic buildings, residence halls, and outdoor areas along Memorial Drive. Installation of the new cameras, along with the wiring and infrastructure that will support them, began November 2025 and will likely continue until September 2026.</p>\n<p>Technical sp",
+      "source": "Schneier on Security",
+      "published": "2026-07-28T12:47:43.667489+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.46
+    },
+    {
+      "title": "Axon Is Another License Plate Surveillance Company",
+      "url": "https://www.schneier.com/blog/archives/2026/07/axon-is-another-license-plate-surveillance-company.html",
+      "summary": "<p>Governments are switching, but I&#8217;m not sure it <a href=\"https://www.jalopnik.com/2215173/flock-cameras-replaced-by-axon-difference/\">makes a difference</a>:</p>\n<blockquote><p>&#8230;some municipalities, including Denver, Colorado, are ditching their Flock arrays. But keep in mind that if they&#8217;re only switching from Flock to another brand of license-plate readers, like Axon, it&#8217;s like a gambling addict trying to kick the habit by switching from FanDuel to DraftKings.</p>\n<p>",
+      "source": "Schneier on Security",
+      "published": "2026-07-28T12:47:43.666241+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.46
+    },
+    {
       "title": "On Flock License Plate Tracking Cameras",
       "url": "https://www.schneier.com/blog/archives/2026/07/on-flock-license-plate-tracking-cameras.html",
       "summary": "<p>A recent story of a writer who was <a href=\"https://www.thedrive.com/news/how-flock-cameras-wrongly-tracked-me-for-days-over-stolen-plates-and-sent-police-after-me\">mistakenly</a> identified, tracked, and arrested using data from Flock cameras has gone viral.</p>\n<blockquote><p>The New Jersey plates that were allegedly stolen from the LA dealer were <b>34 03 DTM</b>, not <b>34 10 DTM</b>. But when the police report was created and the plate was entered into Flock’s system, it was just recorde",
@@ -315,44 +345,14 @@
         "General"
       ],
       "threshold": 10.83
-    },
-    {
-      "title": "Vulnerability in FIFA’s Network",
-      "url": "https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html",
-      "summary": "<p>FIFA&#8217;s network was <a href=\"https://bobdahacker.com/blog/fifa-hack\">vulnerable</a> to anyone with even minimal access.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-07-21T12:19:05.371393+00:00",
-      "raw_score": 4.162886120207028,
-      "score": 44,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.83
-    },
-    {
-      "title": "MIT to Become Hotbed of AI Video Surveillance",
-      "url": "https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html",
-      "summary": "<p>It&#8217;s <a href=\"https://thetech.com/2026/04/16/ai-surveillance-cameras\">a lot</a>:</p>\n<blockquote><p>According to information obtained by <i>The Tech</i>, MIT is spending over $3 million on more than 500 AI surveillance cameras in academic buildings, residence halls, and outdoor areas along Memorial Drive. Installation of the new cameras, along with the wiring and infrastructure that will support them, began November 2025 and will likely continue until September 2026.</p>\n<p>Technical sp",
-      "source": "Schneier on Security",
-      "published": "2026-07-21T12:19:05.369990+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.83
     }
   ],
-  "updated": "2026-07-28T10:24:51.155227+00:00",
+  "updated": "2026-07-28T12:47:54.466418+00:00",
   "stats": {
     "total": 23,
     "relevant": 7,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
