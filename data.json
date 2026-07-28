@@ -330,26 +330,11 @@
         "General"
       ],
       "threshold": 9.19
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "url": "https://www.schneier.com/blog/archives/2026/07/upcoming-speaking-engagements-58.html",
-      "summary": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m speaking (virtually) at the <a href=\"https://pr2.technologypolicyworkshop.org/\">Policy-Relevant Privacy Research Workshop</a> in Calgary, Canada, on Monday, July 20, 2026.</li>\n<li>I’m speaking at <a href=\"https://events.cyberriskcollaborative.com/boston-leadership-exchange-2026\">Boston Leadership Exchange</a> in Boston, Massachusetts, USA, on Wednesday, July 22, 2026.</li>\n<li>I’m speaking at <a href=\"https://",
-      "source": "Schneier on Security",
-      "published": "2026-07-21T18:09:30.167245+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.83
     }
   ],
-  "updated": "2026-07-28T17:18:40.385766+00:00",
+  "updated": "2026-07-28T19:07:35.931829+00:00",
   "stats": {
-    "total": 23,
+    "total": 22,
     "relevant": 7,
     "critical": 3,
     "new_this_run": 0,
