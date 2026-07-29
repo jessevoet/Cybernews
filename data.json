@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Measuring LLMs’ Ability to Perform Cryptanalysis",
+      "url": "https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html",
+      "summary": "<p>There&#8217;s new benchmark measuring AI&#8217;s ability to perform mathematical cryptanalysis. Anthropic&#8217;s frontier model actually found new attacks.</p>\n<p>The benchmark: &#8220;<a href=\"https://arxiv.org/pdf/2607.18538\">CryptanalysisBench: Can LLMs do Cryptanalysis?</a>&#8221; The idea is to benchmark the ability of LLMs to discover new mathematical cryptanalytic attacks against a series of historical algorithms.</p>\n<blockquote><p><b>Abstract:</b> Cryptanalysis&#8212;the task of fin",
+      "source": "Schneier on Security",
+      "published": "2026-07-29T04:59:54.475933+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.46
+    },
+    {
       "title": "MIT to Become Hotbed of AI Video Surveillance",
       "url": "https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html",
       "summary": "<p>It&#8217;s <a href=\"https://thetech.com/2026/04/16/ai-surveillance-cameras\">a lot</a>:</p>\n<blockquote><p>According to information obtained by <i>The Tech</i>, MIT is spending over $3 million on more than 500 AI surveillance cameras in academic buildings, residence halls, and outdoor areas along Memorial Drive. Installation of the new cameras, along with the wiring and infrastructure that will support them, began November 2025 and will likely continue until September 2026.</p>\n<p>Technical sp",
@@ -332,12 +347,12 @@
       "threshold": 9.19
     }
   ],
-  "updated": "2026-07-29T01:43:42.210075+00:00",
+  "updated": "2026-07-29T05:00:05.549645+00:00",
   "stats": {
-    "total": 22,
+    "total": 23,
     "relevant": 7,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
