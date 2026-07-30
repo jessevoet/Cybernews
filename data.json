@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide",
+      "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
+      "summary": "<p><em>This essay originally appeared in <a href=\"https://www.theguardian.com/commentisfree/2026/jul/24/should-you-use-ai\">The Guardian</a>.</em></p>\n<p>I teach public policy at the Harvard Kennedy School and the Munk School at the University of Toronto. And it will come as no surprise to you that my students regularly <a href=\"https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat\">use AI</a> to complete their writing ass",
+      "source": "Schneier on Security",
+      "published": "2026-07-30T12:23:15.170137+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.28
+    },
+    {
       "title": "Measuring the Tendency of AI Agents to Go Rogue",
       "url": "https://www.schneier.com/blog/archives/2026/07/measuring-the-tendency-of-ai-agents-to-go-rogue.html",
       "summary": "<p><em>This essay was written with Barath Raghavan, and originally appeared in <a href=\"https://www.theguardian.com/commentisfree/2026/jul/28/rogue-ai-agent-instructions\">The Guardian</a>.</em></p>\n<p>In July, Hugging Face, a company that hosts much of the world&#8217;s AI software and open-source AI models, was hacked. A malicious dataset had been used to run code on one of its servers. Whoever was behind it captured internal security credentials and moved through systems over a weekend, runnin",
@@ -363,12 +378,12 @@
       "threshold": 9.19
     }
   ],
-  "updated": "2026-07-30T10:12:37.133697+00:00",
+  "updated": "2026-07-30T12:23:30.794104+00:00",
   "stats": {
-    "total": 24,
+    "total": 25,
     "relevant": 8,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
