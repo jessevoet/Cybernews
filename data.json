@@ -1,6 +1,37 @@
 {
   "items": [
     {
+      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
+      "source": "Google Project Zero",
+      "published": "2026-07-30T15:02:16.643595+00:00",
+      "raw_score": 7.092005476157869,
+      "score": 61,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 9.28
+    },
+    {
+      "title": "End-to-End Encryption and “Going Dark”",
+      "url": "https://www.schneier.com/blog/archives/2026/07/end-to-end-encryption-and-going-dark.html",
+      "summary": "<p>New paper: &#8220;<a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959699\">Encryption and Globalization 15 Years Later: End-to-End Encryption and the Third Round of the &#8216;Going Dark&#8217; Debate</a>&#8220;:</p>\n<blockquote><p><b>Abstract</b>: This Article updates and expands on 2012 research on encryption and globalization, analyzing what the authors call &#8220;Round 3&#8221; of the Going Dark Debate: the current controversies over end-to-end encryption (E2EE). Governments",
+      "source": "Schneier on Security",
+      "published": "2026-07-30T15:02:07.942416+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.28
+    },
+    {
       "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide",
       "url": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
       "summary": "<p><em>This essay originally appeared in <a href=\"https://www.theguardian.com/commentisfree/2026/jul/24/should-you-use-ai\">The Guardian</a>.</em></p>\n<p>I teach public policy at the Harvard Kennedy School and the Munk School at the University of Toronto. And it will come as no surprise to you that my students regularly <a href=\"https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat\">use AI</a> to complete their writing ass",
@@ -345,45 +376,14 @@
         "General"
       ],
       "threshold": 9.19
-    },
-    {
-      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
-      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
-      "source": "Google Project Zero",
-      "published": "2026-07-23T12:25:23.188005+00:00",
-      "raw_score": 7.092005476157869,
-      "score": 61,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 9.19
-    },
-    {
-      "title": "End-to-End Encryption and “Going Dark”",
-      "url": "https://www.schneier.com/blog/archives/2026/07/end-to-end-encryption-and-going-dark.html",
-      "summary": "<p>New paper: &#8220;<a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959699\">Encryption and Globalization 15 Years Later: End-to-End Encryption and the Third Round of the &#8216;Going Dark&#8217; Debate</a>&#8220;:</p>\n<blockquote><p><b>Abstract</b>: This Article updates and expands on 2012 research on encryption and globalization, analyzing what the authors call &#8220;Round 3&#8221; of the Going Dark Debate: the current controversies over end-to-end encryption (E2EE). Governments",
-      "source": "Schneier on Security",
-      "published": "2026-07-23T12:25:15.633597+00:00",
-      "raw_score": 0.0,
-      "score": 24,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.19
     }
   ],
-  "updated": "2026-07-30T12:23:30.794104+00:00",
+  "updated": "2026-07-30T15:02:24.845587+00:00",
   "stats": {
     "total": 25,
     "relevant": 8,
     "critical": 4,
-    "new_this_run": 1,
+    "new_this_run": 2,
     "sources": 2
   }
 }
