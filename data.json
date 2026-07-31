@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Why AI Needs a “Genie Coefficient”",
+      "url": "https://www.schneier.com/blog/archives/2026/07/why-ai-needs-a-genie-coefficient.html",
+      "summary": "<p><em>This essay was written with Barath Raghavan, and originally appeared in <a href=\"https://spectrum.ieee.org/ai-agent-benchmark\">IEEE Spectrum</a>.</em></p>\n<p>Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient.</p>\n<p>There&#8217;s often a gap between one person&#8217;s request and another&#8217;s und",
+      "source": "Schneier on Security",
+      "published": "2026-07-31T13:40:44.190381+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.52
+    },
+    {
       "title": "Facial Recognition at Madison Square Garden",
       "url": "https://www.schneier.com/blog/archives/2026/07/facial-recognition-at-madison-square-garden.html",
       "summary": "<p>Last month, the story <a href=\"https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/\">broke</a> (alternate <a href=\"https://archive.ph/ZGqfH\">link</a>) that Madison Square Garden uses facial recognition software on everyone entering the facility, and&#8212;among other groups&#8212;flags activists that oppose using facial recognition.</p>\n<p>Turns out that the system was <a href=\"https://www.wired.com/story/for-taylor-swift-madison-square-garde",
@@ -361,41 +376,11 @@
         "General"
       ],
       "threshold": 9.18
-    },
-    {
-      "title": "Details of Alan Turing’s Voice Encryption System",
-      "url": "https://www.schneier.com/blog/archives/2026/07/details-of-alan-turings-voice-encryption-system.html",
-      "summary": "<p>Really interesting piece of cryptographic <a href=\"https://spectrum.ieee.org/alan-turings-delilah\">history</a>:</p>\n<blockquote><p>In November 2023, a large cache of his wartime papers&#8212;nicknamed the &#8220;Bayley papers&#8221;&#8212;was <a href=\"https://www.bonhams.com/auction/28322/lot/45/turing-alan-the-delilah-project-the-papers-of-alan-turing-and-donald-bayley-relating-to-the-delilah-project/\">auctioned</a> in London for almost half a million U.S. dollars. The previously unknown cac",
-      "source": "Schneier on Security",
-      "published": "2026-07-24T12:12:18.879149+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.43
-    },
-    {
-      "title": "Why AI Needs a “Genie Coefficient”",
-      "url": "https://www.schneier.com/blog/archives/2026/07/why-ai-needs-a-genie-coefficient.html",
-      "summary": "<p><em>This essay was written with Barath Raghavan, and originally appeared in <a href=\"https://spectrum.ieee.org/ai-agent-benchmark\">The Guardian</a>.</em></p>\n<p>Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient.</p>\n<p>There&#8217;s often a gap between one person&#8217;s request and another&#8217;s unde",
-      "source": "Schneier on Security",
-      "published": "2026-07-24T12:12:18.877907+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.43
     }
   ],
-  "updated": "2026-07-31T11:20:35.251490+00:00",
+  "updated": "2026-07-31T13:40:57.447852+00:00",
   "stats": {
-    "total": 26,
+    "total": 25,
     "relevant": 8,
     "critical": 4,
     "new_this_run": 1,
