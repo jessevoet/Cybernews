@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: Squid Helps Discover New Marine Species",
+      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-helps-discover-new-marine-species.html",
+      "summary": "<p>The Squid is a new <a href=\"https://www.theguardian.com/environment/2026/jun/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil\">scientific machine</a>:</p>\n<blockquote><p>One of the technological breakthroughs was the onboard use of a spinning wheel confocal microscope, nicknamed the Squid, which uses lasers to scan microscopic details of how organisms are put together. &#8220;That opens up a whole new world of exploring. We could see cells interacting with each other, exchanging ",
+      "source": "Schneier on Security",
+      "published": "2026-07-31T21:56:53.214292+00:00",
+      "raw_score": 0.0,
+      "score": 24,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.8
+    },
+    {
       "title": "Anthropic’s Opus 5 Is Better at Resisting Prompt Injection",
       "url": "https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html",
       "summary": "<p>The <a href=\"https://www-cdn.anthropic.com/c5fbac3f0b1280a933ebd26d3cb8bb9f5bdeaf48/Claude%20Opus%205%20System%20Card.pdf#page=73\">chart</a> is interesting.</p>\n<blockquote><p>On the IPI benchmark, Opus 5 improved over Opus 4.8, reducing the probability of an attacker succeeding within 15 attempts from 5.5% to 2.0%, and from 0.5% to 0.2% on 1 attempt. It also improved on Sonnet 5 (5.9% at k=15) and Mythos 5 (2.6%), making it the most robust model evaluated. Opus 5 also outperformed all non-Cl",
@@ -361,44 +376,14 @@
         "General"
       ],
       "threshold": 9.18
-    },
-    {
-      "title": "Friday Squid Blogging: Squid Washing Up on Cape Cod Beach",
-      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-washing-up-on-cape-cod-beach.html",
-      "summary": "<p>Lots of <a href=\"https://www.boston25news.com/news/thousands-squid-wash-up-cape-cod-beach/e41059e1-200e-4341-96d8-68dc9cf3bc52/\">articles</a> <a href=\"https://onthewater.com/why-are-thousands-of-squid-beaching-themselves-on-cape-cod\">about</a> <a href=\"https://www.wcvb.com/article/thousands-of-squid-wash-up-on-provincetown-beaches/71536889\">this</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"h",
-      "source": "Schneier on Security",
-      "published": "2026-07-24T21:55:49.299902+00:00",
-      "raw_score": 1.66621918403833,
-      "score": 35,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.18
-    },
-    {
-      "title": "Friday Squid Blogging: Illex Squid Catch in the Falklands",
-      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-illex-squid-catch-in-the-falklands.html",
-      "summary": "<p>Lower catch <a href=\"https://en.mercopress.com/2026/06/24/falklands-lower-catch-from-the-illex-squid-season-concern-with-fuel-costs\">this year</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
-      "source": "Schneier on Security",
-      "published": "2026-07-24T21:55:49.298592+00:00",
-      "raw_score": 1.7030643257001112,
-      "score": 35,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.18
     }
   ],
-  "updated": "2026-07-31T20:53:50.006097+00:00",
+  "updated": "2026-07-31T21:57:05.557282+00:00",
   "stats": {
-    "total": 26,
+    "total": 25,
     "relevant": 8,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
