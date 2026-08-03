@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "The OpenAI Hack Shows the Genie Is Out of the Bottle",
+      "url": "https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html",
+      "summary": "<p><em>This essay originally appeared in <a href=\"https://foreignpolicy.com/2026/07/30/openai-hack-genie-bottle-defense/\">Foreign Policy</a>.</em></p>\n<p>Earlier this month, two of OpenAI&#8217;s models broke out of their containment sandbox and attacked another AI company. The <a href=\"https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html\">story</a> is kind of <a href=\"https://simonwillison.net/2026/Jul/22/openai-cyberattack/\">wild</a>. OpenAI was running security tests ",
+      "source": "Schneier on Security",
+      "published": "2026-08-03T12:49:12.681130+00:00",
+      "raw_score": 1.5807233308094533,
+      "score": 33,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.53
+    },
+    {
       "title": "Welcome to the new Project Zero Blog",
       "url": "https://projectzero.google/2025/12/welcome.html",
       "summary": "While on Project Zero, we aim for our research to be leading-edge, our blog design was … not so much. We welcome readers to our shiny new blog! For the occasion, we asked members of Project Zero to dust off old blog posts that never quite saw the light of day. And while we wish we could say the techniques they cover are no longer relevant, there is still a lot of work that needs to be done to protect users against zero days. Our new blog will continue to shine a light on the capabilities of atta",
@@ -378,12 +393,12 @@
       "threshold": 9.18
     }
   ],
-  "updated": "2026-08-03T09:22:05.675281+00:00",
+  "updated": "2026-08-03T12:49:24.430427+00:00",
   "stats": {
-    "total": 25,
+    "total": 26,
     "relevant": 7,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
