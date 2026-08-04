@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Some Claude Chats Are Searchable on Google",
+      "url": "https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html",
+      "summary": "<p>And it&#8217;s <a href=\"https://www.404media.co/tons-of-peoples-claude-chats-and-creations-are-exposed-on-google/\">personal information</a> (alternate <a href=\"https://archive.ph/sl7rU\">link</a>):</p>\n<blockquote><p>The exposed data includes an AI-powered therapy app that someone appears to have vibe-coded, notes on meetings, and a dashboard someone made apparently to analyze medical billing data. Exposed chats reportedly include private cryptocurrency wallet keys and personal information lik",
+      "source": "Schneier on Security",
+      "published": "2026-08-04T11:55:33.930695+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.53
+    },
+    {
       "title": "More on the OpenAI Agent’s Attack on Hugging Face",
       "url": "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
       "summary": "<p>Hugging Face has <a href=\"https://huggingface.co/blog/agent-intrusion-technical-timeline\">published</a> a detailed timeline of the attack. From the summary:</p>\n<blockquote><p>The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software vulnerabilities. OpenAI ran this on its own infrastructure, and the ExploitGym maintainers and their infrastructure had no involvement in the deployment or ",
@@ -378,12 +393,12 @@
       "threshold": 9.46
     }
   ],
-  "updated": "2026-08-04T09:33:31.976037+00:00",
+  "updated": "2026-08-04T11:55:45.743834+00:00",
   "stats": {
-    "total": 25,
+    "total": 26,
     "relevant": 6,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
