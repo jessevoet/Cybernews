@@ -361,44 +361,14 @@
         "General"
       ],
       "threshold": 9.46
-    },
-    {
-      "title": "MIT to Become Hotbed of AI Video Surveillance",
-      "url": "https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html",
-      "summary": "<p>It&#8217;s <a href=\"https://thetech.com/2026/04/16/ai-surveillance-cameras\">a lot</a>:</p>\n<blockquote><p>According to information obtained by <i>The Tech</i>, MIT is spending over $3 million on more than 500 AI surveillance cameras in academic buildings, residence halls, and outdoor areas along Memorial Drive. Installation of the new cameras, along with the wiring and infrastructure that will support them, began November 2025 and will likely continue until September 2026.</p>\n<p>Technical sp",
-      "source": "Schneier on Security",
-      "published": "2026-07-28T12:47:43.667489+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.46
-    },
-    {
-      "title": "Axon Is Another License Plate Surveillance Company",
-      "url": "https://www.schneier.com/blog/archives/2026/07/axon-is-another-license-plate-surveillance-company.html",
-      "summary": "<p>Governments are switching, but I&#8217;m not sure it <a href=\"https://www.jalopnik.com/2215173/flock-cameras-replaced-by-axon-difference/\">makes a difference</a>:</p>\n<blockquote><p>&#8230;some municipalities, including Denver, Colorado, are ditching their Flock arrays. But keep in mind that if they&#8217;re only switching from Flock to another brand of license-plate readers, like Axon, it&#8217;s like a gambling addict trying to kick the habit by switching from FanDuel to DraftKings.</p>\n<p>",
-      "source": "Schneier on Security",
-      "published": "2026-07-28T12:47:43.666241+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.46
     }
   ],
-  "updated": "2026-08-04T11:55:45.743834+00:00",
+  "updated": "2026-08-04T13:49:47.589114+00:00",
   "stats": {
-    "total": 26,
+    "total": 24,
     "relevant": 6,
     "critical": 3,
-    "new_this_run": 1,
+    "new_this_run": 0,
     "sources": 2
   }
 }
