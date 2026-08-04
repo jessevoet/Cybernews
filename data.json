@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Iran Cyberattacks Against Minnesota Water Systems",
+      "url": "https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html",
+      "summary": "<p><a href=\"https://www.nytimes.com/2026/07/30/us/politics/minnesota-water-cyberattack-iran.html\">Attribution</a> <a href=\"https://www.washingtonpost.com/national-security/2026/07/30/us-spy-agencies-suspect-iran-launched-cyberattack-minnesota-water-facilities/\">is</a> <a href=\"https://thehill.com/policy/technology/6001284-minnesota-water-facilities-cyberattack-investigation-us-iran/amp/\">preliminary</a>, and so far it seems no real damage.</p>\n<p>And it seems like this is a campaign that has tar",
+      "source": "Schneier on Security",
+      "published": "2026-08-04T20:18:10.818117+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "ICS / OT"
+      ],
+      "threshold": 9.75
+    },
+    {
       "title": "Some Claude Chats Are Searchable on Google",
       "url": "https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html",
       "summary": "<p>And it&#8217;s <a href=\"https://www.404media.co/tons-of-peoples-claude-chats-and-creations-are-exposed-on-google/\">personal information</a> (alternate <a href=\"https://archive.ph/sl7rU\">link</a>):</p>\n<blockquote><p>The exposed data includes an AI-powered therapy app that someone appears to have vibe-coded, notes on meetings, and a dashboard someone made apparently to analyze medical billing data. Exposed chats reportedly include private cryptocurrency wallet keys and personal information lik",
@@ -363,12 +378,12 @@
       "threshold": 9.46
     }
   ],
-  "updated": "2026-08-04T18:22:39.488899+00:00",
+  "updated": "2026-08-04T20:18:20.556317+00:00",
   "stats": {
-    "total": 24,
+    "total": 25,
     "relevant": 6,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
