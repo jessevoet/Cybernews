@@ -361,26 +361,11 @@
         "General"
       ],
       "threshold": 9.51
-    },
-    {
-      "title": "Measuring LLMs’ Ability to Perform Cryptanalysis",
-      "url": "https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html",
-      "summary": "<p>There&#8217;s new benchmark measuring AI&#8217;s ability to perform mathematical cryptanalysis. Anthropic&#8217;s frontier model actually found new attacks.</p>\n<p>The benchmark: &#8220;<a href=\"https://arxiv.org/pdf/2607.18538\">CryptanalysisBench: Can LLMs do Cryptanalysis?</a>&#8221; The idea is to benchmark the ability of LLMs to discover new mathematical cryptanalytic attacks against a series of historical algorithms.</p>\n<blockquote><p><b>Abstract:</b> Cryptanalysis&#8212;the task of fin",
-      "source": "Schneier on Security",
-      "published": "2026-07-29T04:59:54.475933+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.46
     }
   ],
-  "updated": "2026-08-05T04:55:34.028245+00:00",
+  "updated": "2026-08-05T07:32:53.118768+00:00",
   "stats": {
-    "total": 25,
+    "total": 24,
     "relevant": 6,
     "critical": 3,
     "new_this_run": 0,
