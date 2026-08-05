@@ -346,41 +346,11 @@
         "Vulnerability"
       ],
       "threshold": 9.28
-    },
-    {
-      "title": "First-Person Identity Theft Story",
-      "url": "https://www.schneier.com/blog/archives/2026/07/first-person-identity-theft-story.html",
-      "summary": "<p>Harrowing <a href=\"https://tech.yahoo.com/cybersecurity/articles/stranger-used-one-text-message-140003797.html\">story</a> of an identity theft victim.</p>\n<p>Yes, the person made a mistake&#8212;they gave the scammer a two-factor authentication code that allowed the scammer to take over their email address. But the real story here is how, for many of us, the security of most of our accounts hangs on the security of our email accounts.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-07-29T12:55:16.293779+00:00",
-      "raw_score": 4.278843912528741,
-      "score": 45,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.51
-    },
-    {
-      "title": "Long-Lived Vulnerability in Microsoft Secure Boot",
-      "url": "https://www.schneier.com/blog/archives/2026/07/long-lived-vulnerability-in-microsoft-secure-boot.html",
-      "summary": "<p>Microsoft&#8217;s Secure Boot has had a <a href=\"https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/\">serious vulnerability</a> for most of its existence.</p>\n<blockquote><p>An industry-wide standard Microsoft invented to protect Windows, and later Linux, devices from firmware infections has been trivial to bypass for 13 of its 14 years of existence. The discovery was made by researchers at security firm ESET after identifying 11 firmware ",
-      "source": "Schneier on Security",
-      "published": "2026-07-29T12:55:16.292317+00:00",
-      "raw_score": 5.015329995736459,
-      "score": 49,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.51
     }
   ],
-  "updated": "2026-08-05T12:47:16.283941+00:00",
+  "updated": "2026-08-05T15:08:02.650875+00:00",
   "stats": {
-    "total": 25,
+    "total": 23,
     "relevant": 6,
     "critical": 3,
     "new_this_run": 0,
