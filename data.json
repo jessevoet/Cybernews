@@ -330,29 +330,13 @@
         "General"
       ],
       "threshold": 9.28
-    },
-    {
-      "title": "Measuring the Tendency of AI Agents to Go Rogue",
-      "url": "https://www.schneier.com/blog/archives/2026/07/measuring-the-tendency-of-ai-agents-to-go-rogue.html",
-      "summary": "<p><em>This essay was written with Barath Raghavan, and originally appeared in <a href=\"https://www.theguardian.com/commentisfree/2026/jul/28/rogue-ai-agent-instructions\">The Guardian</a>.</em></p>\n<p>In July, Hugging Face, a company that hosts much of the world&#8217;s AI software and open-source AI models, was hacked. A malicious dataset had been used to run code on one of its servers. Whoever was behind it captured internal security credentials and moved through systems over a weekend, runnin",
-      "source": "Schneier on Security",
-      "published": "2026-07-29T18:57:26.382485+00:00",
-      "raw_score": 1.5807233308094533,
-      "score": 33,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "APT / Nation State",
-        "Vulnerability"
-      ],
-      "threshold": 9.28
     }
   ],
-  "updated": "2026-08-05T17:20:01.232590+00:00",
+  "updated": "2026-08-05T19:14:30.446171+00:00",
   "stats": {
-    "total": 23,
-    "relevant": 6,
-    "critical": 3,
+    "total": 22,
+    "relevant": 5,
+    "critical": 2,
     "new_this_run": 0,
     "sources": 2
   }
