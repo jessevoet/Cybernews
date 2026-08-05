@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Vulnerabilities in Car Anti-Theft Device",
+      "url": "https://www.schneier.com/blog/archives/2026/08/vulnerabilities-in-car-anti-theft-device.html",
+      "summary": "<p><a href=\"https://www.wired.com/story/a-device-hidden-in-cars-across-the-us-leaves-them-vulnerable-to-hacking-and-paralysis-patch-it-now/\">This</a> is disturbing:</p>\n<blockquote><p>&#8230;a team of security researchers at UC San Diego, who found that a model of aftermarket car alarm known as the KARR Security System, installed in more than 2 million vehicles across the US by their estimate, can let any hacker within Bluetooth range send radio commands to silently unlock the car at will, turn ",
+      "source": "Schneier on Security",
+      "published": "2026-08-05T10:24:53.463755+00:00",
+      "raw_score": 5.106013684799784,
+      "score": 49,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Advisory"
+      ],
+      "threshold": 9.8
+    },
+    {
       "title": "Iran Cyberattacks Against Minnesota Water Systems",
       "url": "https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html",
       "summary": "<p><a href=\"https://www.nytimes.com/2026/07/30/us/politics/minnesota-water-cyberattack-iran.html\">Attribution</a> <a href=\"https://www.washingtonpost.com/national-security/2026/07/30/us-spy-agencies-suspect-iran-launched-cyberattack-minnesota-water-facilities/\">is</a> <a href=\"https://thehill.com/policy/technology/6001284-minnesota-water-facilities-cyberattack-investigation-us-iran/amp/\">preliminary</a>, and so far it seems no real damage.</p>\n<p>And it seems like this is a campaign that has tar",
@@ -363,12 +378,12 @@
       "threshold": 9.51
     }
   ],
-  "updated": "2026-08-05T07:32:53.118768+00:00",
+  "updated": "2026-08-05T10:25:06.342880+00:00",
   "stats": {
-    "total": 24,
+    "total": 25,
     "relevant": 6,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
