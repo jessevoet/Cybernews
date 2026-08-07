@@ -315,26 +315,11 @@
         "General"
       ],
       "threshold": 9.52
-    },
-    {
-      "title": "Why AI Needs a “Genie Coefficient”",
-      "url": "https://www.schneier.com/blog/archives/2026/07/why-ai-needs-a-genie-coefficient.html",
-      "summary": "<p><em>This essay was written with Barath Raghavan, and originally appeared in <a href=\"https://spectrum.ieee.org/ai-agent-benchmark\">IEEE Spectrum</a>.</em></p>\n<p>Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient.</p>\n<p>There&#8217;s often a gap between one person&#8217;s request and another&#8217;s und",
-      "source": "Schneier on Security",
-      "published": "2026-07-31T13:40:44.190381+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.52
     }
   ],
-  "updated": "2026-08-07T12:40:05.497122+00:00",
+  "updated": "2026-08-07T14:05:06.719609+00:00",
   "stats": {
-    "total": 22,
+    "total": 21,
     "relevant": 5,
     "critical": 2,
     "new_this_run": 0,
