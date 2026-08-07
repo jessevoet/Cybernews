@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Facial Recognition at Madison Square Garden",
+      "url": "https://www.schneier.com/blog/archives/2026/07/facial-recognition-at-madison-square-garden.html",
+      "summary": "<p>Last month, the story <a href=\"https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/\">broke</a> (alternate <a href=\"https://archive.ph/ZGqfH\">link</a>) that Madison Square Garden uses facial recognition software on everyone entering the facility, and&#8212;among other groups&#8212;flags activists that oppose using facial recognition.</p>\n<p>Turns out that the system was <a href=\"https://www.wired.com/story/for-taylor-swift-madison-square-garde",
+      "source": "Schneier on Security",
+      "published": "2026-08-07T11:37:43.059744+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.53
+    },
+    {
       "title": "ICE Is Buying Access to Credit Card Records",
       "url": "https://www.schneier.com/blog/archives/2026/08/ice-is-buying-access-to-credit-card-records.html",
       "summary": "<p>Through data brokers, ICE is <a href=\"https://www.404media.co/you-opened-a-credit-card-ice-now-knows-where-you-live/\">buying</a> <a href=\"https://boingboing.net/2026/07/23/credit-header-data-ice.html\">the</a> <a href=\"https://mastodon.social/@heidilifeldman/116981503852352281\">information</a> you provided to open a credit card.</p>",
@@ -315,24 +330,9 @@
         "General"
       ],
       "threshold": 9.52
-    },
-    {
-      "title": "Facial Recognition at Madison Square Garden",
-      "url": "https://www.schneier.com/blog/archives/2026/07/facial-recognition-at-madison-square-garden.html",
-      "summary": "<p>Last month, the story <a href=\"https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/\">broke</a> (alternate <a href=\"https://archive.ph/ZGqfH\">link</a>) that Madison Square Garden uses facial recognition software on everyone entering the facility, and&#8212;among other groups&#8212;flags activists that oppose using facial recognition.</p>\n<p>Turns out that the system was <a href=\"https://www.wired.com/story/for-taylor-swift-madison-square-garde",
-      "source": "Schneier on Security",
-      "published": "2026-07-31T11:20:24.639590+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.52
     }
   ],
-  "updated": "2026-08-07T10:42:13.720911+00:00",
+  "updated": "2026-08-07T11:37:55.210892+00:00",
   "stats": {
     "total": 22,
     "relevant": 5,
