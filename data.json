@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "The OpenAI Hack Shows the Genie Is Out of the Bottle",
+      "url": "https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html",
+      "summary": "<p><em>This essay originally appeared in <a href=\"https://foreignpolicy.com/2026/07/30/openai-hack-genie-bottle-defense/\">Foreign Policy</a>.</em></p>\n<p>Earlier this month, two of OpenAI&#8217;s models broke out of their containment sandbox and attacked another AI company. The <a href=\"https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html\">story</a> is kind of <a href=\"https://simonwillison.net/2026/Jul/22/openai-cyberattack/\">wild</a>. OpenAI was running security tests ",
+      "source": "Schneier on Security",
+      "published": "2026-08-10T14:12:55.960188+00:00",
+      "raw_score": 1.5807233308094533,
+      "score": 34,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.27
+    },
+    {
       "title": "Python Now Has a Post-Quantum Encryption Library",
       "url": "https://www.schneier.com/blog/archives/2026/08/python-now-has-a-post-quantum-encryption-library.html",
       "summary": "<p><a href=\"https://blog.trailofbits.com/2026/06/30/shipping-post-quantum-cryptography-to-python/\">This is good</a>:</p>\n<blockquote><p>Post-quantum cryptography is now one pip-install away for the entire Python ecosystem. With funding from the <a href=\"https://www.sovereign.tech/\">Sovereign Tech Agency</a>, we implemented support for ML-KEM, the NIST-standard key-establishment primitive, and ML-DSA, the NIST-standard digital-signature primitive, in pyca/cryptography.</p></blockquote>\n<p>Remembe",
@@ -330,29 +345,14 @@
         "Vulnerability"
       ],
       "threshold": 9.53
-    },
-    {
-      "title": "The OpenAI Hack Shows the Genie Is Out of the Bottle",
-      "url": "https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html",
-      "summary": "<p><em>This essay originally appeared in <a href=\"https://foreignpolicy.com/2026/07/30/openai-hack-genie-bottle-defense/\">Foreign Policy</a>.</em></p>\n<p>Earlier this month, two of OpenAI&#8217;s models broke out of their containment sandbox and attacked another AI company. The <a href=\"https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html\">story</a> is kind of <a href=\"https://simonwillison.net/2026/Jul/22/openai-cyberattack/\">wild</a>. OpenAI was running security tests ",
-      "source": "Schneier on Security",
-      "published": "2026-08-03T12:49:12.681130+00:00",
-      "raw_score": 1.5807233308094533,
-      "score": 33,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.53
     }
   ],
-  "updated": "2026-08-10T12:44:29.080676+00:00",
+  "updated": "2026-08-10T14:13:08.022614+00:00",
   "stats": {
     "total": 23,
     "relevant": 6,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
