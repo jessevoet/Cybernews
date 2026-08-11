@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "AI Genie in the Wild",
+      "url": "https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html",
+      "summary": "<p>When I give talks about <a href=\"https://www.theguardian.com/commentisfree/2026/jul/28/rogue-ai-agent-instructions\">AI</a> <a href=\"https://spectrum.ieee.org/ai-agent-benchmark\">genies</a>, I use this sort of example as a hypothetical. It&#8217;s <a href=\"https://www.theregister.com/ai-and-ml/2026/08/10/gym-rat-asks-ai-agent-to-book-him-a-class-it-hacks-a-waitlist-api-to-bump-him-up-the-list/5285591\">happened</a>.</p>\n<p>The story is from Australia. Someone named Andrew tasked OpenClaw to boo",
+      "source": "Schneier on Security",
+      "published": "2026-08-11T16:46:28.964216+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.53
+    },
+    {
       "title": "Some Claude Chats Are Searchable on Google",
       "url": "https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html",
       "summary": "<p>And it&#8217;s <a href=\"https://www.404media.co/tons-of-peoples-claude-chats-and-creations-are-exposed-on-google/\">personal information</a> (alternate <a href=\"https://archive.ph/sl7rU\">link</a>):</p>\n<blockquote><p>The exposed data includes an AI-powered therapy app that someone appears to have vibe-coded, notes on meetings, and a dashboard someone made apparently to analyze medical billing data. Exposed chats reportedly include private cryptocurrency wallet keys and personal information lik",
@@ -362,12 +377,12 @@
       "threshold": 9.75
     }
   ],
-  "updated": "2026-08-11T15:49:58.444074+00:00",
+  "updated": "2026-08-11T16:46:41.235452+00:00",
   "stats": {
-    "total": 24,
+    "total": 25,
     "relevant": 6,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
