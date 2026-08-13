@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Adversarial Clothing Designed to Fool Facial Recognition Systems",
+      "url": "https://www.schneier.com/blog/archives/2026/08/adversarial-clothing-designed-to-fool-facial-recognition-systems.html",
+      "summary": "<p>There are many companies manufacturing <a href=\"https://www.theguardian.com/fashion/2026/jul/17/adversarial-clothing-are-garments-designed-to-confuse-facial-recognition-systems-about-to-go-mainstream\">adversarial clothing</a>  designed to confuse facial recognition systems.</p>\n<p>It&#8217;s a cool idea, but I worry that it&#8217;s mostly security theater:</p>\n<blockquote><p>&#8220;Our patterns play with that chaos, confuse algorithms and make it way harder to pin you down,&#8221; he said.</p",
+      "source": "Schneier on Security",
+      "published": "2026-08-13T14:15:00.282570+00:00",
+      "raw_score": 1.6722489277682635,
+      "score": 35,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.26
+    },
+    {
       "title": "Separating AI’s Technological Problems from Its Capitalism Problems",
       "url": "https://www.schneier.com/blog/archives/2026/08/separating-ais-technological-problems-from-its-capitalism-problems.html",
       "summary": "<p><em>This essay was written with Nathan E. Sanders, and originally appeared in <a href=\"https://www.techpolicy.press/separating-ais-technological-problems-from-its-capitalism-problems/\">Tech Policy Press</a>.</em></p>\n<p>AI represents the first time we humans can do cognitive work outside of our bodies at scale. The only comparable moment is the early years of the industrial revolution, when new technologies like the steam engine provided a quantum leap in our ability to do mechanical work out",
@@ -390,29 +405,14 @@
         "Advisory"
       ],
       "threshold": 9.53
-    },
-    {
-      "title": "Adversarial Clothing Designed to Fool Facial Recognition Systems",
-      "url": "https://www.schneier.com/blog/archives/2026/08/adversarial-clothing-designed-to-fool-facial-recognition-systems.html",
-      "summary": "<p>There are many companies manufacturing <a href=\"https://www.theguardian.com/fashion/2026/jul/17/adversarial-clothing-are-garments-designed-to-confuse-facial-recognition-systems-about-to-go-mainstream\">adversarial clothing</a>  designed to confuse facial recognition systems.</p>\n<p>It&#8217;s a cool idea, but I worry that it&#8217;s mostly security theater:</p>\n<blockquote><p>&#8220;Our patterns play with that chaos, confuse algorithms and make it way harder to pin you down,&#8221; he said.</p",
-      "source": "Schneier on Security",
-      "published": "2026-08-06T12:50:35.864498+00:00",
-      "raw_score": 1.6722489277682635,
-      "score": 34,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.53
     }
   ],
-  "updated": "2026-08-13T12:45:33.263427+00:00",
+  "updated": "2026-08-13T14:15:12.952083+00:00",
   "stats": {
     "total": 27,
     "relevant": 7,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
