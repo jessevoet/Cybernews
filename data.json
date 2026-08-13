@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Separating AI’s Technological Problems from Its Capitalism Problems",
+      "url": "https://www.schneier.com/blog/archives/2026/08/separating-ais-technological-problems-from-its-capitalism-problems.html",
+      "summary": "<p><em>This essay was written with Nathan E. Sanders, and originally appeared in <a href=\"https://www.techpolicy.press/separating-ais-technological-problems-from-its-capitalism-problems/\">Tech Policy Press</a>.</em></p>\n<p>AI represents the first time we humans can do cognitive work outside of our bodies at scale. The only comparable moment is the early years of the industrial revolution, when new technologies like the steam engine provided a quantum leap in our ability to do mechanical work out",
+      "source": "Schneier on Security",
+      "published": "2026-08-13T11:38:48.798838+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.26
+    },
+    {
       "title": "Vulnerabilities in Car Anti-Theft Device",
       "url": "https://www.schneier.com/blog/archives/2026/08/vulnerabilities-in-car-anti-theft-device.html",
       "summary": "<p><a href=\"https://www.wired.com/story/a-device-hidden-in-cars-across-the-us-leaves-them-vulnerable-to-hacking-and-paralysis-patch-it-now/\">This</a> is disturbing:</p>\n<blockquote><p>&#8230;a team of security researchers at UC San Diego, who found that a model of aftermarket car alarm known as the KARR Security System, installed in more than 2 million vehicles across the US by their estimate, can let any hacker within Bluetooth range send radio commands to silently unlock the car at will, turn ",
@@ -392,12 +407,12 @@
       "threshold": 9.53
     }
   ],
-  "updated": "2026-08-13T10:53:07.740691+00:00",
+  "updated": "2026-08-13T11:39:02.961639+00:00",
   "stats": {
-    "total": 26,
+    "total": 27,
     "relevant": 7,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
