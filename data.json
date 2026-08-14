@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Upcoming Speaking Engagements",
+      "url": "https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html",
+      "summary": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m speaking, signing books, and participating in panel discussions at <a href=\"https://www.lacon.org/\">LAcon V</a> in Anaheim, California, USA. My full schedule is <a href=\"https://guide.lacon.org/people/d58aec20/bruce-schneier\">here</a>.</li>\n<li>I&#8217;m speaking online (via Zoom) at a <a href=\"https://www.lwvme.org/civicrm-event/2400?a0=events-month&#38;a1=202609\">League of Women Voters event</a> on Tuesday, S",
+      "source": "Schneier on Security",
+      "published": "2026-08-14T16:40:01.066874+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Malware"
+      ],
+      "threshold": 9.42
+    },
+    {
       "title": "If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them",
       "url": "https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html",
       "summary": "<p><em>This essay was written with Nathan E. Sanders, and originally appeared in <a href=\"https://www.theguardian.com/commentisfree/2026/aug/12/openai-anthropic-ai-models\">The Guardian</a>.</em></p>\n<p>OpenAI, and then <a href=\"https://www.theguardian.com/technology/anthropic\">Anthropic</a>, were each formed by AI developers who feared unrestrained corporate AI development&#8212;specifically, that companies like Google and Meta would steer the technology towards deleterious, maybe even catastrop",
@@ -392,12 +407,12 @@
       "threshold": 9.53
     }
   ],
-  "updated": "2026-08-14T15:41:23.196877+00:00",
+  "updated": "2026-08-14T16:40:12.994412+00:00",
   "stats": {
-    "total": 26,
+    "total": 27,
     "relevant": 7,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
