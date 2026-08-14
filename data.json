@@ -390,29 +390,14 @@
         "General"
       ],
       "threshold": 9.27
-    },
-    {
-      "title": "Friday Squid Blogging: Squid Helps Discover New Marine Species",
-      "url": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-helps-discover-new-marine-species.html",
-      "summary": "<p>The Squid is a new <a href=\"https://www.theguardian.com/environment/2026/jun/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil\">scientific machine</a>:</p>\n<blockquote><p>One of the technological breakthroughs was the onboard use of a spinning wheel confocal microscope, nicknamed the Squid, which uses lasers to scan microscopic details of how organisms are put together. &#8220;That opens up a whole new world of exploring. We could see cells interacting with each other, exchanging ",
-      "source": "Schneier on Security",
-      "published": "2026-08-07T22:24:33.632391+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.27
     }
   ],
-  "updated": "2026-08-14T22:12:23.590267+00:00",
+  "updated": "2026-08-14T23:12:21.415107+00:00",
   "stats": {
-    "total": 27,
+    "total": 26,
     "relevant": 7,
     "critical": 2,
-    "new_this_run": 1,
+    "new_this_run": 0,
     "sources": 2
   }
 }
