@@ -407,12 +407,12 @@
       "threshold": 9.27
     }
   ],
-  "updated": "2026-08-17T12:22:33.183344+00:00",
+  "updated": "2026-08-17T13:32:12.750539+00:00",
   "stats": {
     "total": 27,
     "relevant": 7,
     "critical": 2,
-    "new_this_run": 2,
+    "new_this_run": 0,
     "sources": 2
   }
 }
