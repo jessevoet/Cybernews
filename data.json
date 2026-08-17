@@ -390,26 +390,11 @@
         "Vulnerability"
       ],
       "threshold": 9.27
-    },
-    {
-      "title": "The OpenAI Hack Shows the Genie Is Out of the Bottle",
-      "url": "https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html",
-      "summary": "<p><em>This essay originally appeared in <a href=\"https://foreignpolicy.com/2026/07/30/openai-hack-genie-bottle-defense/\">Foreign Policy</a>.</em></p>\n<p>Earlier this month, two of OpenAI&#8217;s models broke out of their containment sandbox and attacked another AI company. The <a href=\"https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html\">story</a> is kind of <a href=\"https://simonwillison.net/2026/Jul/22/openai-cyberattack/\">wild</a>. OpenAI was running security tests ",
-      "source": "Schneier on Security",
-      "published": "2026-08-10T14:12:55.960188+00:00",
-      "raw_score": 1.5807233308094533,
-      "score": 34,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.27
     }
   ],
-  "updated": "2026-08-17T13:32:12.750539+00:00",
+  "updated": "2026-08-17T14:17:56.781751+00:00",
   "stats": {
-    "total": 27,
+    "total": 26,
     "relevant": 7,
     "critical": 2,
     "new_this_run": 0,
