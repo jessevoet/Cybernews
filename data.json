@@ -375,26 +375,11 @@
         "General"
       ],
       "threshold": 9.27
-    },
-    {
-      "title": "More on the OpenAI Agent’s Attack on Hugging Face",
-      "url": "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
-      "summary": "<p>Hugging Face has <a href=\"https://huggingface.co/blog/agent-intrusion-technical-timeline\">published</a> a detailed timeline of the attack. From the summary:</p>\n<blockquote><p>The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software vulnerabilities. OpenAI ran this on its own infrastructure, and the ExploitGym maintainers and their infrastructure had no involvement in the deployment or ",
-      "source": "Schneier on Security",
-      "published": "2026-08-10T18:42:00.500741+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 9.27
     }
   ],
-  "updated": "2026-08-17T18:23:04.880916+00:00",
+  "updated": "2026-08-17T19:20:38.165240+00:00",
   "stats": {
-    "total": 26,
+    "total": 25,
     "relevant": 7,
     "critical": 2,
     "new_this_run": 0,
