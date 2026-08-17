@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Python Now Has a Post-Quantum Encryption Library",
+      "url": "https://www.schneier.com/blog/archives/2026/08/python-now-has-a-post-quantum-encryption-library.html",
+      "summary": "<p><a href=\"https://blog.trailofbits.com/2026/06/30/shipping-post-quantum-cryptography-to-python/\">This is good</a>:</p>\n<blockquote><p>Post-quantum cryptography is now one pip-install away for the entire Python ecosystem. With funding from the <a href=\"https://www.sovereign.tech/\">Sovereign Tech Agency</a>, we implemented support for ML-KEM, the NIST-standard key-establishment primitive, and ML-DSA, the NIST-standard digital-signature primitive, in pyca/cryptography.</p></blockquote>\n<p>Remembe",
+      "source": "Schneier on Security",
+      "published": "2026-08-17T12:22:19.253819+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Law Enforcement"
+      ],
+      "threshold": 9.42
+    },
+    {
+      "title": "Hacking Public Wi-Fi DNS to Steal Credentials",
+      "url": "https://www.schneier.com/blog/archives/2026/08/hacking-public-wi-fi-dns-to-steal-credentials.html",
+      "summary": "<p>Criminals are <a href=\"https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/\">hacking</a> into public Wi-Fi devices&#8212;at hotels, conference centers, and so on&#8212;around the world and changing their DNS settings. The goal is to redirect users to fake login pages and steal their credentials.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-08-17T12:22:19.252426+00:00",
+      "raw_score": 1.8168995558583103,
+      "score": 36,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.42
+    },
+    {
       "title": "Welcome to the new Project Zero Blog",
       "url": "https://projectzero.google/2025/12/welcome.html",
       "summary": "While on Project Zero, we aim for our research to be leading-edge, our blog design was … not so much. We welcome readers to our shiny new blog! For the occasion, we asked members of Project Zero to dust off old blog posts that never quite saw the light of day. And while we wish we could say the techniques they cover are no longer relevant, there is still a lot of work that needs to be done to protect users against zero days. Our new blog will continue to shine a light on the capabilities of atta",
@@ -375,29 +405,14 @@
         "General"
       ],
       "threshold": 9.27
-    },
-    {
-      "title": "Python Now Has a Post-Quantum Encryption Library",
-      "url": "https://www.schneier.com/blog/archives/2026/08/python-now-has-a-post-quantum-encryption-library.html",
-      "summary": "<p><a href=\"https://blog.trailofbits.com/2026/06/30/shipping-post-quantum-cryptography-to-python/\">This is good</a>:</p>\n<blockquote><p>Post-quantum cryptography is now one pip-install away for the entire Python ecosystem. With funding from the <a href=\"https://www.sovereign.tech/\">Sovereign Tech Agency</a>, we implemented support for ML-KEM, the NIST-standard key-establishment primitive, and ML-DSA, the NIST-standard digital-signature primitive, in pyca/cryptography.</p></blockquote>\n<p>Remembe",
-      "source": "Schneier on Security",
-      "published": "2026-08-10T11:43:53.478698+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Law Enforcement"
-      ],
-      "threshold": 9.27
     }
   ],
-  "updated": "2026-08-17T11:16:27.174405+00:00",
+  "updated": "2026-08-17T12:22:33.183344+00:00",
   "stats": {
-    "total": 26,
+    "total": 27,
     "relevant": 7,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
