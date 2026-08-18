@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "AI for Military Support",
+      "url": "https://www.schneier.com/blog/archives/2026/08/ai-for-military-support.html",
+      "summary": "<p>Interesting empirical research: &#8220;<a href=\"https://journals.sagepub.com/doi/10.1177/00220027261463443\">Black Box Warfare: Human Judgment and Military Decision-Making in the Age of AI</a>.&#8221;</p>\n<blockquote><p><b>Abstract:</b> How is AI transforming decision-making in modern conflict? This study provides a unique empirical window into that question by deploying a high-fidelity replica of an AI decision-support system (DSS) used in military targeting. After reconstructing the interfac",
+      "source": "Schneier on Security",
+      "published": "2026-08-18T12:23:56.183663+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.73
+    },
+    {
       "title": "LLMs and Contextual Integrity",
       "url": "https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html",
       "summary": "<p>I have been thinking a lot about AI and integrity. Part of that is contextual integrity. I recently found two papers on the topic.</p>\n<p>&#8220;<a href=\"https://arxiv.org/abs/2511.14937\">CIMemories: A Compositional Benchmark for Contextual Integrity of Persistent Memory in LLMs</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> Large Language Models (LLMs) increasingly use persistent memory from past interactions to enhance personalization and task performance. However, this memory introduces c",
@@ -375,24 +390,9 @@
         "General"
       ],
       "threshold": 9.27
-    },
-    {
-      "title": "AI for Military Support",
-      "url": "https://www.schneier.com/blog/archives/2026/08/ai-for-military-support.html",
-      "summary": "<p>Interesting empirical research: &#8220;<a href=\"https://journals.sagepub.com/doi/10.1177/00220027261463443\">Black Box Warfare: Human Judgment and Military Decision-Making in the Age of AI</a>.&#8221;</p>\n<blockquote><p><b>Abstract:</b> How is AI transforming decision-making in modern conflict? This study provides a unique empirical window into that question by deploying a high-fidelity replica of an AI decision-support system (DSS) used in military targeting. After reconstructing the interfac",
-      "source": "Schneier on Security",
-      "published": "2026-08-11T11:36:54.999532+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.27
     }
   ],
-  "updated": "2026-08-18T11:15:34.537518+00:00",
+  "updated": "2026-08-18T12:24:08.244439+00:00",
   "stats": {
     "total": 26,
     "relevant": 7,
