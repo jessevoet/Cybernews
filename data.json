@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "LLMs and Contextual Integrity",
+      "url": "https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html",
+      "summary": "<p>I have been thinking a lot about AI and integrity. Part of that is contextual integrity. I recently found two papers on the topic.</p>\n<p>&#8220;<a href=\"https://arxiv.org/abs/2511.14937\">CIMemories: A Compositional Benchmark for Contextual Integrity of Persistent Memory in LLMs</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> Large Language Models (LLMs) increasingly use persistent memory from past interactions to enhance personalization and task performance. However, this memory introduces c",
+      "source": "Schneier on Security",
+      "published": "2026-08-18T11:15:23.651184+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.73
+    },
+    {
       "title": "Python Now Has a Post-Quantum Encryption Library",
       "url": "https://www.schneier.com/blog/archives/2026/08/python-now-has-a-post-quantum-encryption-library.html",
       "summary": "<p><a href=\"https://blog.trailofbits.com/2026/06/30/shipping-post-quantum-cryptography-to-python/\">This is good</a>:</p>\n<blockquote><p>Post-quantum cryptography is now one pip-install away for the entire Python ecosystem. With funding from the <a href=\"https://www.sovereign.tech/\">Sovereign Tech Agency</a>, we implemented support for ML-KEM, the NIST-standard key-establishment primitive, and ML-DSA, the NIST-standard digital-signature primitive, in pyca/cryptography.</p></blockquote>\n<p>Remembe",
@@ -377,12 +392,12 @@
       "threshold": 9.27
     }
   ],
-  "updated": "2026-08-18T10:17:43.542603+00:00",
+  "updated": "2026-08-18T11:15:34.537518+00:00",
   "stats": {
-    "total": 25,
+    "total": 26,
     "relevant": 7,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
