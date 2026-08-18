@@ -375,29 +375,14 @@
         "General"
       ],
       "threshold": 9.53
-    },
-    {
-      "title": "Some Claude Chats Are Searchable on Google",
-      "url": "https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html",
-      "summary": "<p>And it&#8217;s <a href=\"https://www.404media.co/tons-of-peoples-claude-chats-and-creations-are-exposed-on-google/\">personal information</a> (alternate <a href=\"https://archive.ph/sl7rU\">link</a>):</p>\n<blockquote><p>The exposed data includes an AI-powered therapy app that someone appears to have vibe-coded, notes on meetings, and a dashboard someone made apparently to analyze medical billing data. Exposed chats reportedly include private cryptocurrency wallet keys and personal information lik",
-      "source": "Schneier on Security",
-      "published": "2026-08-11T12:41:02.071225+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.27
     }
   ],
-  "updated": "2026-08-18T12:24:08.244439+00:00",
+  "updated": "2026-08-18T13:34:55.653587+00:00",
   "stats": {
-    "total": 26,
+    "total": 25,
     "relevant": 7,
     "critical": 2,
-    "new_this_run": 1,
+    "new_this_run": 0,
     "sources": 2
   }
 }
