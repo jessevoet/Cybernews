@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Police Are Hiding Their Use of Flock Surveillance Cameras",
+      "url": "https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html",
+      "summary": "<p>A usage policy for Flock license plate reader cameras <a href=\"https://www.404media.co/do-not-mention-alpr-usage-how-cops-are-trying-to-hide-the-existence-of-flock/\">tells</a> police not to talk about the cameras:</p>\n<blockquote><p>When cops use Flock to arrest someone in Wapello County, Iowa, they don&#8217;t want them to know. A usage policy for the automated license plate reader cameras in the county tells police, in no uncertain terms, to keep them a secret: &#8220;DO NOT MENTION ALPR US",
+      "source": "Schneier on Security",
+      "published": "2026-08-20T10:19:40.824752+00:00",
+      "raw_score": 4.807957321803088,
+      "score": 49,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Law Enforcement"
+      ],
+      "threshold": 9.49
+    },
+    {
       "title": "Prompt Injections for Defense",
       "url": "https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html",
       "summary": "<p>This seems to <a href=\"https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/\">work</a>:</p>\n<blockquote><p>Researchers from <a href=\"https://tracebit.com/\">Tracebit</a> on Monday <a href=\"https://agentic.tracebit.com/context-bombs/\">said</a> they found that placing prompt injections alongside passwords, cryptographic keys, and other secrets stored on Amazon Web Services was often all that was needed to shut down attacks from AI hacking agents. The prom",
@@ -362,12 +377,12 @@
       "threshold": 9.26
     }
   ],
-  "updated": "2026-08-20T09:23:39.355537+00:00",
+  "updated": "2026-08-20T10:19:53.943215+00:00",
   "stats": {
-    "total": 24,
+    "total": 25,
     "relevant": 6,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
