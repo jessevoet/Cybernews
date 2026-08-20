@@ -360,26 +360,11 @@
         "Advisory"
       ],
       "threshold": 9.26
-    },
-    {
-      "title": "Adversarial Clothing Designed to Fool Facial Recognition Systems",
-      "url": "https://www.schneier.com/blog/archives/2026/08/adversarial-clothing-designed-to-fool-facial-recognition-systems.html",
-      "summary": "<p>There are many companies manufacturing <a href=\"https://www.theguardian.com/fashion/2026/jul/17/adversarial-clothing-are-garments-designed-to-confuse-facial-recognition-systems-about-to-go-mainstream\">adversarial clothing</a>  designed to confuse facial recognition systems.</p>\n<p>It&#8217;s a cool idea, but I worry that it&#8217;s mostly security theater:</p>\n<blockquote><p>&#8220;Our patterns play with that chaos, confuse algorithms and make it way harder to pin you down,&#8221; he said.</p",
-      "source": "Schneier on Security",
-      "published": "2026-08-13T14:15:00.282570+00:00",
-      "raw_score": 1.6722489277682635,
-      "score": 35,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.26
     }
   ],
-  "updated": "2026-08-20T13:38:06.457957+00:00",
+  "updated": "2026-08-20T14:25:30.347577+00:00",
   "stats": {
-    "total": 25,
+    "total": 24,
     "relevant": 6,
     "critical": 2,
     "new_this_run": 0,
