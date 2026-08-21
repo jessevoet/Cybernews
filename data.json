@@ -375,29 +375,14 @@
         "General"
       ],
       "threshold": 9.26
-    },
-    {
-      "title": "ICE Is Buying Access to Credit Card Records",
-      "url": "https://www.schneier.com/blog/archives/2026/08/ice-is-buying-access-to-credit-card-records.html",
-      "summary": "<p>Through data brokers, ICE is <a href=\"https://www.404media.co/you-opened-a-credit-card-ice-now-knows-where-you-live/\">buying</a> <a href=\"https://boingboing.net/2026/07/23/credit-header-data-ice.html\">the</a> <a href=\"https://mastodon.social/@heidilifeldman/116981503852352281\">information</a> you provided to open a credit card.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-08-14T10:57:01.834153+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.26
     }
   ],
-  "updated": "2026-08-21T10:19:47.686983+00:00",
+  "updated": "2026-08-21T11:16:52.680266+00:00",
   "stats": {
-    "total": 26,
+    "total": 25,
     "relevant": 6,
     "critical": 2,
-    "new_this_run": 1,
+    "new_this_run": 0,
     "sources": 2
   }
 }
