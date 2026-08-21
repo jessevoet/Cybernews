@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "More Incidents of AIs Going Rogue in Cybersecurity Challenges",
+      "url": "https://www.schneier.com/blog/archives/2026/08/more-incidents-of-ais-going-rogue-in-cybersecurity-challenges.html",
+      "summary": "<p>The AI Security Institute has a <a href=\"https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing\">new report</a> of AI systems engaging in &#8220;unsanctioned behavior&#8221;&#8212;what I have been calling &#8220;<a href=\"https://spectrum.ieee.org/ai-agent-benchmark\">genie behavior</a>&#8212;while being tested on their cybersecurity capabilities.</p>\n<blockquote><p>The incident stemmed from a single evaluation where agents were given a task of solving a ",
+      "source": "Schneier on Security",
+      "published": "2026-08-21T10:19:23.593153+00:00",
+      "raw_score": 3.6091913066724333,
+      "score": 42,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.46
+    },
+    {
       "title": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
       "url": "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
       "summary": "<p>OpenAI <a href=\"https://www.youtube.com/watch?v=87DyyMV0kCY\">presented</a> details of its AI&#8217;s model&#8217;s cyberattack on Hugging Face at Black Hat last week. Simon Willison <a href=\"https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything\">details</a> the timeline. It&#8217;s really interesting to read through&#8212;and really impressive cyberoffense work.</p>",
@@ -377,12 +392,12 @@
       "threshold": 9.26
     }
   ],
-  "updated": "2026-08-21T09:25:59.155289+00:00",
+  "updated": "2026-08-21T10:19:47.686983+00:00",
   "stats": {
-    "total": 25,
+    "total": 26,
     "relevant": 6,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
