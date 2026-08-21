@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: Neon Flying Squid",
+      "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html",
+      "summary": "<p>The neon flying squid can <a href=\"https://www.theguardian.com/environment/2026/aug/12/like-an-alien-invasion-the-neon-flying-squid-that-can-fly-in-formation-above-the-ocean\">fly</a> in formation.</p>\n<blockquote><p>The shoal of about 100 squid rose unexpectedly from a patch of the Pacific Ocean around 370 miles from Tokyo and glided near the boat for about 30 metres. The astonished researchers were the first to capture photographs of such a thing, which looked like the early stages of an ali",
+      "source": "Schneier on Security",
+      "published": "2026-08-21T21:13:54.592437+00:00",
+      "raw_score": 3.344497855536527,
+      "score": 41,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "APT / Nation State",
+        "Advisory"
+      ],
+      "threshold": 9.19
+    },
+    {
       "title": "Upcoming Speaking Engagements",
       "url": "https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html",
       "summary": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m speaking, signing books, and participating in panel discussions at <a href=\"https://www.lacon.org/\">LAcon V</a> in Anaheim, California, USA. My full schedule is <a href=\"https://guide.lacon.org/people/d58aec20/bruce-schneier\">here</a>.</li>\n<li>I&#8217;m speaking online (via Zoom) at a <a href=\"https://www.lwvme.org/civicrm-event/2400?a0=events-month&#38;a1=202609\">League of Women Voters event</a> on Tuesday, S",
@@ -392,12 +408,12 @@
       "threshold": 9.73
     }
   ],
-  "updated": "2026-08-21T20:14:25.847728+00:00",
+  "updated": "2026-08-21T21:14:06.134625+00:00",
   "stats": {
-    "total": 26,
+    "total": 27,
     "relevant": 6,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
