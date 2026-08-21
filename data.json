@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: Searching for the Colossal Squid",
+      "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html",
+      "summary": "<p>Fascinating <a href=\"https://www.youtube.com/watch?v=-W1Mwd0BWT4\">video</a> about searching for life undersea. The video basically makes the point that our bright white searchlights are scaring everything away, and that red light is more neutral. That, plus bait to attract sea creatures, is teaching us a lot about what&#8217;s going on down there. Lots of footage of giant squid, and speculation about the colossal squid. Worth watching.</p>\n<p>As usual, you can also use this squid post to talk",
+      "source": "Schneier on Security",
+      "published": "2026-08-21T22:13:11.600490+00:00",
+      "raw_score": 0.0,
+      "score": 23,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.19
+    },
+    {
       "title": "Friday Squid Blogging: Neon Flying Squid",
       "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html",
       "summary": "<p>The neon flying squid can <a href=\"https://www.theguardian.com/environment/2026/aug/12/like-an-alien-invasion-the-neon-flying-squid-that-can-fly-in-formation-above-the-ocean\">fly</a> in formation.</p>\n<blockquote><p>The shoal of about 100 squid rose unexpectedly from a patch of the Pacific Ocean around 370 miles from Tokyo and glided near the boat for about 30 metres. The astonished researchers were the first to capture photographs of such a thing, which looked like the early stages of an ali",
@@ -376,41 +391,11 @@
         "General"
       ],
       "threshold": 9.73
-    },
-    {
-      "title": "Friday Squid Blogging: Arctic Bobtail Squid Video",
-      "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-arctic-bobtail-squid-video.html",
-      "summary": "<p>Nice <a href=\"https://petapixel.com/2026/07/23/rare-arctic-bobtail-squid-filmed-in-its-natural-habitat-for-the-first-time/\">video</a> of the Arctic bobtail squid.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
-      "source": "Schneier on Security",
-      "published": "2026-08-14T22:12:10.154689+00:00",
-      "raw_score": 1.7285465849375194,
-      "score": 34,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.73
-    },
-    {
-      "title": "Friday Squid Blogging: Searching for the Colossal Squid",
-      "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html",
-      "summary": "<p>Fascinating <a href=\"https://www.youtube.com/watch?v=-W1Mwd0BWT4\">video</a> about searching for life undersea. The video basically makes the point that our bright white searchlights are scaring everything away, and that red light is more neutral. That, plus bait to attract sea creatures, is teaching us a lot about what&#8217;s going on down there. Lots of footage of giant squid, and speculation about the colossal squid. Worth watching.</p>\n<p>As usual, you can also use this squid post to talk",
-      "source": "Schneier on Security",
-      "published": "2026-08-14T21:15:37.711584+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.73
     }
   ],
-  "updated": "2026-08-21T21:14:06.134625+00:00",
+  "updated": "2026-08-21T22:13:22.165341+00:00",
   "stats": {
-    "total": 27,
+    "total": 26,
     "relevant": 6,
     "critical": 2,
     "new_this_run": 1,
