@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Hacking Public Wi-Fi DNS to Steal Credentials",
+      "url": "https://www.schneier.com/blog/archives/2026/08/hacking-public-wi-fi-dns-to-steal-credentials.html",
+      "summary": "<p>Criminals are <a href=\"https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/\">hacking</a> into public Wi-Fi devices&#8212;at hotels, conference centers, and so on&#8212;around the world and changing their DNS settings. The goal is to redirect users to fake login pages and steal their credentials.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-08-24T12:27:04.123061+00:00",
+      "raw_score": 1.8168995558583103,
+      "score": 33,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.19
+    },
+    {
       "title": "Criminal Deception in Silicon Valley",
       "url": "https://www.schneier.com/blog/archives/2026/08/criminal-deception-in-silicon-valley.html",
       "summary": "<p>Interesting <a href=\"https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981\">paper</a>:</p>\n<blockquote><p><b>Abstract:</b> With entrepreneurial fraud cases on the rise, we investigate how entrepreneurs carry out <i>criminal deception</i>, employing deceptive means to defraud audiences. Analyzing court data from Silicon Valley ventures and their founders prosecuted for fraud between 2000 and 2023, our findings reveal that entrepreneurs carry out criminal deception through a process o",
@@ -376,41 +391,11 @@
         "General"
       ],
       "threshold": 9.73
-    },
-    {
-      "title": "Python Now Has a Post-Quantum Encryption Library",
-      "url": "https://www.schneier.com/blog/archives/2026/08/python-now-has-a-post-quantum-encryption-library.html",
-      "summary": "<p><a href=\"https://blog.trailofbits.com/2026/06/30/shipping-post-quantum-cryptography-to-python/\">This is good</a>:</p>\n<blockquote><p>Post-quantum cryptography is now one pip-install away for the entire Python ecosystem. With funding from the <a href=\"https://www.sovereign.tech/\">Sovereign Tech Agency</a>, we implemented support for ML-KEM, the NIST-standard key-establishment primitive, and ML-DSA, the NIST-standard digital-signature primitive, in pyca/cryptography.</p></blockquote>\n<p>Remembe",
-      "source": "Schneier on Security",
-      "published": "2026-08-17T12:22:19.253819+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Law Enforcement"
-      ],
-      "threshold": 9.42
-    },
-    {
-      "title": "Hacking Public Wi-Fi DNS to Steal Credentials",
-      "url": "https://www.schneier.com/blog/archives/2026/08/hacking-public-wi-fi-dns-to-steal-credentials.html",
-      "summary": "<p>Criminals are <a href=\"https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/\">hacking</a> into public Wi-Fi devices&#8212;at hotels, conference centers, and so on&#8212;around the world and changing their DNS settings. The goal is to redirect users to fake login pages and steal their credentials.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-08-17T12:22:19.252426+00:00",
-      "raw_score": 1.8168995558583103,
-      "score": 36,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.42
     }
   ],
-  "updated": "2026-08-24T11:18:02.284022+00:00",
+  "updated": "2026-08-24T12:27:16.978045+00:00",
   "stats": {
-    "total": 27,
+    "total": 26,
     "relevant": 6,
     "critical": 2,
     "new_this_run": 1,
