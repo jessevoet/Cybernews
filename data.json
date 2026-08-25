@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "LLMs and Contextual Integrity",
+      "url": "https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html",
+      "summary": "<p>I have been thinking a lot about AI and integrity. Part of that is contextual integrity. I recently found two papers on the topic.</p>\n<p>&#8220;<a href=\"https://arxiv.org/abs/2511.14937\">CIMemories: A Compositional Benchmark for Contextual Integrity of Persistent Memory in LLMs</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> Large Language Models (LLMs) increasingly use persistent memory from past interactions to enhance personalization and task performance. However, this memory introduces c",
+      "source": "Schneier on Security",
+      "published": "2026-08-25T11:17:18.666704+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.0
+    },
+    {
+      "title": "Black Hat State of Security Vendors",
+      "url": "https://www.schneier.com/blog/archives/2026/08/black-hat-state-of-security-vendors.html",
+      "summary": "<p>Andy Ellis has a <a href=\"https://www.duha.co/reports/state-of-security-vendors-blackhat-2026/\">roundup</a> of the security vendors at Black Hat this year.</p>\n<blockquote><p>Key Takeaways: We have entered into an AI world.  While nearly half of booths didn&#8217;t directly mention AI or agents in their taglines, the effects of AI are everywhere.  Multiple spaces (Identity, SaaS, AppSec, Data) have almost every vendor leading with AI; existing unsolved problem areas just got worse.</p>\n<p>At ",
+      "source": "Schneier on Security",
+      "published": "2026-08-25T11:17:18.665397+00:00",
+      "raw_score": 1.314986757679386,
+      "score": 32,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.0
+    },
+    {
       "title": "Hacking Public Wi-Fi DNS to Steal Credentials",
       "url": "https://www.schneier.com/blog/archives/2026/08/hacking-public-wi-fi-dns-to-steal-credentials.html",
       "summary": "<p>Criminals are <a href=\"https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/\">hacking</a> into public Wi-Fi devices&#8212;at hotels, conference centers, and so on&#8212;around the world and changing their DNS settings. The goal is to redirect users to fake login pages and steal their credentials.</p>",
@@ -376,29 +406,14 @@
         "General"
       ],
       "threshold": 9.73
-    },
-    {
-      "title": "LLMs and Contextual Integrity",
-      "url": "https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html",
-      "summary": "<p>I have been thinking a lot about AI and integrity. Part of that is contextual integrity. I recently found two papers on the topic.</p>\n<p>&#8220;<a href=\"https://arxiv.org/abs/2511.14937\">CIMemories: A Compositional Benchmark for Contextual Integrity of Persistent Memory in LLMs</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> Large Language Models (LLMs) increasingly use persistent memory from past interactions to enhance personalization and task performance. However, this memory introduces c",
-      "source": "Schneier on Security",
-      "published": "2026-08-18T11:15:23.651184+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.73
     }
   ],
-  "updated": "2026-08-25T10:21:30.073762+00:00",
+  "updated": "2026-08-25T11:17:29.280582+00:00",
   "stats": {
-    "total": 26,
+    "total": 27,
     "relevant": 6,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
