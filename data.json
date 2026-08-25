@@ -391,29 +391,14 @@
         "General"
       ],
       "threshold": 9.73
-    },
-    {
-      "title": "AI for Military Support",
-      "url": "https://www.schneier.com/blog/archives/2026/08/ai-for-military-support.html",
-      "summary": "<p>Interesting empirical research: &#8220;<a href=\"https://journals.sagepub.com/doi/10.1177/00220027261463443\">Black Box Warfare: Human Judgment and Military Decision-Making in the Age of AI</a>.&#8221;</p>\n<blockquote><p><b>Abstract:</b> How is AI transforming decision-making in modern conflict? This study provides a unique empirical window into that question by deploying a high-fidelity replica of an AI decision-support system (DSS) used in military targeting. After reconstructing the interfac",
-      "source": "Schneier on Security",
-      "published": "2026-08-18T12:23:56.183663+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.73
     }
   ],
-  "updated": "2026-08-25T11:17:29.280582+00:00",
+  "updated": "2026-08-25T12:27:34.366107+00:00",
   "stats": {
-    "total": 27,
+    "total": 26,
     "relevant": 6,
     "critical": 2,
-    "new_this_run": 2,
+    "new_this_run": 0,
     "sources": 2
   }
 }
