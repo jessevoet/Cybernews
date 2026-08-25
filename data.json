@@ -376,26 +376,11 @@
         "Law Enforcement"
       ],
       "threshold": 9.73
-    },
-    {
-      "title": "AI Genie in the Wild",
-      "url": "https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html",
-      "summary": "<p>When I give talks about <a href=\"https://www.theguardian.com/commentisfree/2026/jul/28/rogue-ai-agent-instructions\">AI</a> <a href=\"https://spectrum.ieee.org/ai-agent-benchmark\">genies</a>, I use this sort of example as a hypothetical. It&#8217;s <a href=\"https://www.theregister.com/ai-and-ml/2026/08/10/gym-rat-asks-ai-agent-to-book-him-a-class-it-hacks-a-waitlist-api-to-bump-him-up-the-list/5285591\">happened</a>.</p>\n<p>The story is from Australia. Someone named Andrew tasked OpenClaw to boo",
-      "source": "Schneier on Security",
-      "published": "2026-08-18T17:18:01.849759+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.73
     }
   ],
-  "updated": "2026-08-25T16:24:29.648986+00:00",
+  "updated": "2026-08-25T17:22:44.528721+00:00",
   "stats": {
-    "total": 26,
+    "total": 25,
     "relevant": 6,
     "critical": 2,
     "new_this_run": 0,
