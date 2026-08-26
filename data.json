@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "ICE Collecting DNA Samples",
+      "url": "https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html",
+      "summary": "<p>ICE collected nearly a <a href=\"https://www.wired.com/story/ice-dna-collection-fbi-codis/\">million</a> DNA samples last year.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-08-26T11:19:42.084197+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Law Enforcement"
+      ],
+      "threshold": 9.0
+    },
+    {
       "title": "LLMs and Contextual Integrity",
       "url": "https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html",
       "summary": "<p>I have been thinking a lot about AI and integrity. Part of that is contextual integrity. I recently found two papers on the topic.</p>\n<p>&#8220;<a href=\"https://arxiv.org/abs/2511.14937\">CIMemories: A Compositional Benchmark for Contextual Integrity of Persistent Memory in LLMs</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> Large Language Models (LLMs) increasingly use persistent memory from past interactions to enhance personalization and task performance. However, this memory introduces c",
@@ -346,44 +361,14 @@
         "Law Enforcement"
       ],
       "threshold": 9.49
-    },
-    {
-      "title": "Prompt Injections for Defense",
-      "url": "https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html",
-      "summary": "<p>This seems to <a href=\"https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/\">work</a>:</p>\n<blockquote><p>Researchers from <a href=\"https://tracebit.com/\">Tracebit</a> on Monday <a href=\"https://agentic.tracebit.com/context-bombs/\">said</a> they found that placing prompt injections alongside passwords, cryptographic keys, and other secrets stored on Amazon Web Services was often all that was needed to shut down attacks from AI hacking agents. The prom",
-      "source": "Schneier on Security",
-      "published": "2026-08-19T11:16:03.683934+00:00",
-      "raw_score": 1.7285465849375194,
-      "score": 34,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.73
-    },
-    {
-      "title": "ICE Collecting DNA Samples",
-      "url": "https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html",
-      "summary": "<p>ICE collected nearly a <a href=\"https://www.wired.com/story/ice-dna-collection-fbi-codis/\">million</a> DNA samples last year.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-08-19T11:16:03.682640+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Law Enforcement"
-      ],
-      "threshold": 9.73
     }
   ],
-  "updated": "2026-08-26T10:24:25.744753+00:00",
+  "updated": "2026-08-26T11:19:54.527638+00:00",
   "stats": {
-    "total": 25,
+    "total": 24,
     "relevant": 6,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
