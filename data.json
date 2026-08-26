@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Spyware for Babies",
+      "url": "https://www.schneier.com/blog/archives/2026/08/spyware-for-babies.html",
+      "summary": "<p><i>The New York Times</i> has a <a href=\"https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html\">long article</a> (<a href=\"https://archive.is/CffBe\">alt link</a>) on surveillance systems aimed at babies. They are increasingly using AI.</p>\n<blockquote><p>Nanit and its rivals want to own 24/7 health tracking for the sub-four-foot set. And their already astonishing levels of baby data collection are just the beginning. Nanit recently raised $50 million from investors ",
+      "source": "Schneier on Security",
+      "published": "2026-08-26T12:30:10.128887+00:00",
+      "raw_score": 5.99578718089707,
+      "score": 55,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Malware"
+      ],
+      "threshold": 9.16
+    },
+    {
       "title": "ICE Collecting DNA Samples",
       "url": "https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html",
       "summary": "<p>ICE collected nearly a <a href=\"https://www.wired.com/story/ice-dna-collection-fbi-codis/\">million</a> DNA samples last year.</p>",
@@ -363,10 +378,10 @@
       "threshold": 9.49
     }
   ],
-  "updated": "2026-08-26T11:19:54.527638+00:00",
+  "updated": "2026-08-26T12:30:24.200611+00:00",
   "stats": {
-    "total": 24,
-    "relevant": 6,
+    "total": 25,
+    "relevant": 7,
     "critical": 2,
     "new_this_run": 1,
     "sources": 2
