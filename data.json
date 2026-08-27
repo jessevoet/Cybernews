@@ -1,6 +1,37 @@
 {
   "items": [
     {
+      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
+      "source": "Google Project Zero",
+      "published": "2026-08-27T23:21:38.504686+00:00",
+      "raw_score": 7.092005476157869,
+      "score": 61,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 9.16
+    },
+    {
+      "title": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
+      "url": "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
+      "summary": "<p>OpenAI <a href=\"https://www.youtube.com/watch?v=87DyyMV0kCY\">presented</a> details of its AI&#8217;s model&#8217;s cyberattack on Hugging Face at Black Hat last week. Simon Willison <a href=\"https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything\">details</a> the timeline. It&#8217;s really interesting to read through&#8212;and really impressive cyberoffense work.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-08-27T23:21:33.494782+00:00",
+      "raw_score": 0.0,
+      "score": 22,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.16
+    },
+    {
       "title": "Police Are Hiding Their Use of Flock Surveillance Cameras",
       "url": "https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html",
       "summary": "<p>A usage policy for Flock license plate reader cameras <a href=\"https://www.404media.co/do-not-mention-alpr-usage-how-cops-are-trying-to-hide-the-existence-of-flock/\">tells</a> police not to talk about the cameras:</p>\n<blockquote><p>When cops use Flock to arrest someone in Wapello County, Iowa, they don&#8217;t want them to know. A usage policy for the automated license plate reader cameras in the county tells police, in no uncertain terms, to keep them a secret: &#8220;DO NOT MENTION ALPR US",
@@ -345,40 +376,9 @@
         "General"
       ],
       "threshold": 9.46
-    },
-    {
-      "title": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
-      "url": "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
-      "summary": "<p>OpenAI <a href=\"https://www.youtube.com/watch?v=87DyyMV0kCY\">presented</a> details of its AI&#8217;s model&#8217;s cyberattack on Hugging Face at Black Hat last week. Simon Willison <a href=\"https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything\">details</a> the timeline. It&#8217;s really interesting to read through&#8212;and really impressive cyberoffense work.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-08-20T18:23:21.983253+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.49
-    },
-    {
-      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
-      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
-      "source": "Google Project Zero",
-      "published": "2026-08-20T16:22:11.553160+00:00",
-      "raw_score": 7.092005476157869,
-      "score": 60,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 9.49
     }
   ],
-  "updated": "2026-08-27T13:20:45.332859+00:00",
+  "updated": "2026-08-27T23:21:44.996736+00:00",
   "stats": {
     "total": 25,
     "relevant": 7,
