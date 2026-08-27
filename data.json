@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Police Are Hiding Their Use of Flock Surveillance Cameras",
+      "url": "https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html",
+      "summary": "<p>A usage policy for Flock license plate reader cameras <a href=\"https://www.404media.co/do-not-mention-alpr-usage-how-cops-are-trying-to-hide-the-existence-of-flock/\">tells</a> police not to talk about the cameras:</p>\n<blockquote><p>When cops use Flock to arrest someone in Wapello County, Iowa, they don&#8217;t want them to know. A usage policy for the automated license plate reader cameras in the county tells police, in no uncertain terms, to keep them a secret: &#8220;DO NOT MENTION ALPR US",
+      "source": "Schneier on Security",
+      "published": "2026-08-27T13:20:22.765920+00:00",
+      "raw_score": 4.807957321803088,
+      "score": 48,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Law Enforcement"
+      ],
+      "threshold": 9.16
+    },
+    {
+      "title": "LLM-Based Social Engineering Scams",
+      "url": "https://www.schneier.com/blog/archives/2026/08/llm-based-social-engineering-scams.html",
+      "summary": "<p>OpenAI <a href=\"https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation/\">disrupted</a> a social engineering group from Cambodia that used ChatGPT. Its scope is impressive:</p>\n<blockquote><p>The network simultaneously conducted multiple types of scams, often blending elements from different schemes. For instance, operators used dating personas to build trust before introducing fraudulent investment opportunities involving cryptocurrencies and spot gold trading. Other",
+      "source": "Schneier on Security",
+      "published": "2026-08-27T13:20:22.764262+00:00",
+      "raw_score": 0.0,
+      "score": 22,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.16
+    },
+    {
       "title": "Spyware for Babies",
       "url": "https://www.schneier.com/blog/archives/2026/08/spyware-for-babies.html",
       "summary": "<p><i>The New York Times</i> has a <a href=\"https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html\">long article</a> (<a href=\"https://archive.is/CffBe\">alt link</a>) on surveillance systems aimed at babies. They are increasingly using AI.</p>\n<blockquote><p>Nanit and its rivals want to own 24/7 health tracking for the sub-four-foot set. And their already astonishing levels of baby data collection are just the beginning. Nanit recently raised $50 million from investors ",
@@ -346,44 +376,14 @@
         "Advisory"
       ],
       "threshold": 9.49
-    },
-    {
-      "title": "Separating AI’s Technological Problems from Its Capitalism Problems",
-      "url": "https://www.schneier.com/blog/archives/2026/08/separating-ais-technological-problems-from-its-capitalism-problems.html",
-      "summary": "<p><em>This essay was written with Nathan E. Sanders, and originally appeared in <a href=\"https://www.techpolicy.press/separating-ais-technological-problems-from-its-capitalism-problems/\">Tech Policy Press</a>.</em></p>\n<p>AI represents the first time we humans can do cognitive work outside of our bodies at scale. The only comparable moment is the early years of the industrial revolution, when new technologies like the steam engine provided a quantum leap in our ability to do mechanical work out",
-      "source": "Schneier on Security",
-      "published": "2026-08-20T12:26:40.904925+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.49
-    },
-    {
-      "title": "Police Are Hiding Their Use of Flock Surveillance Cameras",
-      "url": "https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html",
-      "summary": "<p>A usage policy for Flock license plate reader cameras <a href=\"https://www.404media.co/do-not-mention-alpr-usage-how-cops-are-trying-to-hide-the-existence-of-flock/\">tells</a> police not to talk about the cameras:</p>\n<blockquote><p>When cops use Flock to arrest someone in Wapello County, Iowa, they don&#8217;t want them to know. A usage policy for the automated license plate reader cameras in the county tells police, in no uncertain terms, to keep them a secret: &#8220;DO NOT MENTION ALPR US",
-      "source": "Schneier on Security",
-      "published": "2026-08-20T10:19:40.824752+00:00",
-      "raw_score": 4.807957321803088,
-      "score": 49,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Law Enforcement"
-      ],
-      "threshold": 9.49
     }
   ],
-  "updated": "2026-08-27T02:24:53.223556+00:00",
+  "updated": "2026-08-27T13:20:45.332859+00:00",
   "stats": {
     "total": 25,
     "relevant": 7,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
