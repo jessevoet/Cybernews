@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "More Incidents of AIs Going Rogue in Cybersecurity Challenges",
+      "url": "https://www.schneier.com/blog/archives/2026/08/more-incidents-of-ais-going-rogue-in-cybersecurity-challenges.html",
+      "summary": "<p>The AI Security Institute has a <a href=\"https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing\">new report</a> of AI systems engaging in &#8220;unsanctioned behavior&#8221;&#8212;what I have been calling &#8220;<a href=\"https://spectrum.ieee.org/ai-agent-benchmark\">genie behavior</a>&#8212;while being tested on their cybersecurity capabilities.</p>\n<blockquote><p>The incident stemmed from a single evaluation where agents were given a task of solving a ",
+      "source": "Schneier on Security",
+      "published": "2026-08-28T19:51:04.605809+00:00",
+      "raw_score": 3.6091913066724333,
+      "score": 42,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.16
+    },
+    {
+      "title": "AI Is Learning to Write Genetic Code",
+      "url": "https://www.schneier.com/blog/archives/2026/08/ai-is-learning-to-write-genetic-code.html",
+      "summary": "<p>This sort of <a href=\"https://www.abc.net.au/news/2026-08-07/ai-models-design-viruses-not-found-in-nature-for-first-time/107007854\">research</a> is both exciting and terrifying:</p>\n<blockquote><p>The two models in question were told to generate complete genomes for a viable bacteriophage&#8212;a type of virus able to infect and replicate itself inside bacteria, destroying them from the inside.</p>\n<p>Using an existing bacteriophage as an example&#8212;ΦX174 (pronounced &#8220;fie-ex-1-7-4&#8",
+      "source": "Schneier on Security",
+      "published": "2026-08-28T19:51:04.605695+00:00",
+      "raw_score": 0.0,
+      "score": 22,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.16
+    },
+    {
+      "title": "AI Doesn’t Mean the End of Mathematics—at Least Not Yet",
+      "url": "https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html",
+      "summary": "<p><em>This essay was written with Kasra Rafi, and originally appeared in The Guardian.</em></p>\n<p>Earlier this month, about 40 top mathematicians <a href=\"https://www.washingtonpost.com/technology/2026/08/19/mathematicians-ask-whats-left-humans-when-ai-can-do-math-research/\">gathered</a> at OpenAI&#8217;s offices to discuss the future of their profession. The meeting was off-the-record, but if <a href=\"https://spectrum.ieee.org/ai-in-mathematics\">recent</a> <a href=\"https://arxiv.org/pdf/2608.",
+      "source": "Schneier on Security",
+      "published": "2026-08-28T19:51:04.604840+00:00",
+      "raw_score": 0.0,
+      "score": 22,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "ICS / OT"
+      ],
+      "threshold": 9.16
+    },
+    {
       "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
@@ -316,74 +361,14 @@
         "Advisory"
       ],
       "threshold": 9.19
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "url": "https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html",
-      "summary": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m speaking, signing books, and participating in panel discussions at <a href=\"https://www.lacon.org/\">LAcon V</a> in Anaheim, California, USA. My full schedule is <a href=\"https://guide.lacon.org/people/d58aec20/bruce-schneier\">here</a>.</li>\n<li>I&#8217;m speaking online (via Zoom) at a <a href=\"https://www.lwvme.org/civicrm-event/2400?a0=events-month&#38;a1=202609\">League of Women Voters event</a> on Tuesday, S",
-      "source": "Schneier on Security",
-      "published": "2026-08-21T17:19:07.525195+00:00",
-      "raw_score": 0.0,
-      "score": 23,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Malware"
-      ],
-      "threshold": 9.46
-    },
-    {
-      "title": "AI Is Learning to Write Genetic Code",
-      "url": "https://www.schneier.com/blog/archives/2026/08/ai-is-learning-to-write-genetic-code.html",
-      "summary": "<p>This sort of <a href=\"https://www.abc.net.au/news/2026-08-07/ai-models-design-viruses-not-found-in-nature-for-first-time/107007854\">research</a> is both exciting and terrifying:</p>\n<blockquote><p>The two models in question were told to generate complete genomes for a viable bacteriophage&#8212;a type of virus able to infect and replicate itself inside bacteria, destroying them from the inside.</p>\n<p>Using an existing bacteriophage as an example&#8212;ΦX174 (pronounced &#8220;fie-ex-1-7-4&#8",
-      "source": "Schneier on Security",
-      "published": "2026-08-21T17:19:07.523902+00:00",
-      "raw_score": 0.0,
-      "score": 23,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.46
-    },
-    {
-      "title": "If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them",
-      "url": "https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html",
-      "summary": "<p><em>This essay was written with Nathan E. Sanders, and originally appeared in <a href=\"https://www.theguardian.com/commentisfree/2026/aug/12/openai-anthropic-ai-models\">The Guardian</a>.</em></p>\n<p>OpenAI, and then <a href=\"https://www.theguardian.com/technology/anthropic\">Anthropic</a>, were each formed by AI developers who feared unrestrained corporate AI development&#8212;specifically, that companies like Google and Meta would steer the technology towards deleterious, maybe even catastrop",
-      "source": "Schneier on Security",
-      "published": "2026-08-21T12:25:36.528730+00:00",
-      "raw_score": 0.0,
-      "score": 23,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.46
-    },
-    {
-      "title": "More Incidents of AIs Going Rogue in Cybersecurity Challenges",
-      "url": "https://www.schneier.com/blog/archives/2026/08/more-incidents-of-ais-going-rogue-in-cybersecurity-challenges.html",
-      "summary": "<p>The AI Security Institute has a <a href=\"https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing\">new report</a> of AI systems engaging in &#8220;unsanctioned behavior&#8221;&#8212;what I have been calling &#8220;<a href=\"https://spectrum.ieee.org/ai-agent-benchmark\">genie behavior</a>&#8212;while being tested on their cybersecurity capabilities.</p>\n<blockquote><p>The incident stemmed from a single evaluation where agents were given a task of solving a ",
-      "source": "Schneier on Security",
-      "published": "2026-08-21T10:19:23.593153+00:00",
-      "raw_score": 3.6091913066724333,
-      "score": 42,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.46
     }
   ],
-  "updated": "2026-08-28T07:57:21.200195+00:00",
+  "updated": "2026-08-28T19:51:18.425118+00:00",
   "stats": {
-    "total": 25,
+    "total": 24,
     "relevant": 7,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 3,
     "sources": 2
   }
 }
