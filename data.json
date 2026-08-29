@@ -1,6 +1,37 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: Neon Flying Squid",
+      "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html",
+      "summary": "<p>The neon flying squid can <a href=\"https://www.theguardian.com/environment/2026/aug/12/like-an-alien-invasion-the-neon-flying-squid-that-can-fly-in-formation-above-the-ocean\">fly</a> in formation.</p>\n<blockquote><p>The shoal of about 100 squid rose unexpectedly from a patch of the Pacific Ocean around 370 miles from Tokyo and glided near the boat for about 30 metres. The astonished researchers were the first to capture photographs of such a thing, which looked like the early stages of an ali",
+      "source": "Schneier on Security",
+      "published": "2026-08-29T02:36:27.592655+00:00",
+      "raw_score": 3.344497855536527,
+      "score": 41,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "APT / Nation State",
+        "Advisory"
+      ],
+      "threshold": 9.34
+    },
+    {
+      "title": "Friday Squid Blogging: Truckload of Squid Spills in Rhode Island",
+      "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html",
+      "summary": "<p><a href=\"https://www.huffpost.com/entry/squid-spill-rhode-island-street_n_6a863090e4b0e9f1dd275d79\">Ugh</a>:</p>\n<blockquote><p>A tractor-trailer rollover sent a truckload of squid spilling into a Rhode Island roadway, leaving a stench as they sat in the road for hours in the summer heat. Local authorities have dubbed it the &#8220;Squidpocalypse of &#8217;26.&#8221;</p></blockquote>\n<p>That would be <a href=\"https://www.theguardian.com/us-news/2026/aug/19/squid-spill-rhode-island-highway\">tw",
+      "source": "Schneier on Security",
+      "published": "2026-08-29T02:36:27.591678+00:00",
+      "raw_score": 0.0,
+      "score": 23,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 9.34
+    },
+    {
       "title": "More Incidents of AIs Going Rogue in Cybersecurity Challenges",
       "url": "https://www.schneier.com/blog/archives/2026/08/more-incidents-of-ais-going-rogue-in-cybersecurity-challenges.html",
       "summary": "<p>The AI Security Institute has a <a href=\"https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing\">new report</a> of AI systems engaging in &#8220;unsanctioned behavior&#8221;&#8212;what I have been calling &#8220;<a href=\"https://spectrum.ieee.org/ai-agent-benchmark\">genie behavior</a>&#8212;while being tested on their cybersecurity capabilities.</p>\n<blockquote><p>The incident stemmed from a single evaluation where agents were given a task of solving a ",
@@ -330,45 +361,14 @@
         "General"
       ],
       "threshold": 9.19
-    },
-    {
-      "title": "Friday Squid Blogging: Searching for the Colossal Squid",
-      "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html",
-      "summary": "<p>Fascinating <a href=\"https://www.youtube.com/watch?v=-W1Mwd0BWT4\">video</a> about searching for life undersea. The video basically makes the point that our bright white searchlights are scaring everything away, and that red light is more neutral. That, plus bait to attract sea creatures, is teaching us a lot about what&#8217;s going on down there. Lots of footage of giant squid, and speculation about the colossal squid. Worth watching.</p>\n<p>As usual, you can also use this squid post to talk",
-      "source": "Schneier on Security",
-      "published": "2026-08-21T22:13:11.600490+00:00",
-      "raw_score": 0.0,
-      "score": 23,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.19
-    },
-    {
-      "title": "Friday Squid Blogging: Neon Flying Squid",
-      "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html",
-      "summary": "<p>The neon flying squid can <a href=\"https://www.theguardian.com/environment/2026/aug/12/like-an-alien-invasion-the-neon-flying-squid-that-can-fly-in-formation-above-the-ocean\">fly</a> in formation.</p>\n<blockquote><p>The shoal of about 100 squid rose unexpectedly from a patch of the Pacific Ocean around 370 miles from Tokyo and glided near the boat for about 30 metres. The astonished researchers were the first to capture photographs of such a thing, which looked like the early stages of an ali",
-      "source": "Schneier on Security",
-      "published": "2026-08-21T21:13:54.592437+00:00",
-      "raw_score": 3.344497855536527,
-      "score": 41,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "APT / Nation State",
-        "Advisory"
-      ],
-      "threshold": 9.19
     }
   ],
-  "updated": "2026-08-28T19:51:18.425118+00:00",
+  "updated": "2026-08-29T02:36:38.447689+00:00",
   "stats": {
     "total": 24,
     "relevant": 7,
     "critical": 2,
-    "new_this_run": 3,
+    "new_this_run": 2,
     "sources": 2
   }
 }
