@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Rewiring Democracy Series on The Renovator",
+      "url": "https://www.schneier.com/blog/archives/2026/09/rewiring-democracy-series-on-the-renovator.html",
+      "summary": "<p>Nathan E. Sanders and I are writing a series of essays on real-world examples of democratic technologies for <cite>The Renovator</cite>. I haven&#8217;t been posting the full text on the blog because they&#8217;re a bit long, but here are links.</p>\n<p><a href=\"https://therenovator.substack.com/p/rewiring-democracy-now\">Part 1</a> is about the Japanese digital democracy party, Team Mirai.</p>\n<p><a href=\"https://therenovator.substack.com/p/rewiring-democracy-now-switzerland\">Part 2</a> is abo",
+      "source": "Schneier on Security",
+      "published": "2026-09-01T10:46:23.669903+00:00",
+      "raw_score": 0.0,
+      "score": 24,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.62
+    },
+    {
       "title": "Is Someone Hacking DoD Refrigerators?",
       "url": "https://www.schneier.com/blog/archives/2026/08/is-someone-hacking-dod-refrigerators.html",
       "summary": "<p>It sure <a href=\"https://www.militarytimes.com/news/your-military/2026/08/28/dod-confirms-refrigeration-disruption-at-military-commissaries/\">seems</a> <a>like</a> it.</p>\n<blockquote><p>The stores confirmed to be affected include <a href=\"https://www.facebook.com/FTirwin/posts/pfbid0bkY1LoQRDustXmQjfLGXYhaDGTXHU6VxBB6or9nL78FE14CeVFQUJHyAkmKWBTi9l\">Fort Irwin</a>, Calif.; <a href=\"https://www.facebook.com/FEWarrenAirForceBase/posts/pfbid0fm9piUzNegdz97zDwT7FtgkDCojLFUXwXiWzUYu2Wc3vhGh1YYtoLd",
@@ -379,12 +394,12 @@
       "threshold": 9.0
     }
   ],
-  "updated": "2026-09-01T05:52:22.965068+00:00",
+  "updated": "2026-09-01T10:46:37.090408+00:00",
   "stats": {
-    "total": 25,
+    "total": 26,
     "relevant": 8,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
