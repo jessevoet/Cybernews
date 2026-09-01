@@ -1,6 +1,37 @@
 {
   "items": [
     {
+      "title": "Leaked Russian Cyber-Operations Training Materials",
+      "url": "https://www.schneier.com/blog/archives/2026/09/leaked-russian-cyber-operations-training-materials.html",
+      "summary": "<p><a href=\"https://gbhackers.com/leaked-university-files/\">This</a> is interesting:</p>\n<blockquote><p>The records describe a force-generation mechanism for several General Staff components, including the GRU, Main Operational Directorate, and 8th Directorate, which is associated with protected communications, cryptography, and information security.</p>\n<p>[&#8230;]</p>\n<p>The reporting also linked a 2024 Department No. 4 graduate, Aleksei Kondrashov, to Military Unit 74455, widely known as San",
+      "source": "Schneier on Security",
+      "published": "2026-09-01T18:59:54.280277+00:00",
+      "raw_score": 1.7285465849375194,
+      "score": 34,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability",
+        "Data Breach"
+      ],
+      "threshold": 9.65
+    },
+    {
+      "title": "What’s the Scam?",
+      "url": "https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html",
+      "summary": "<p>To subscribe to my monthly email newsletter, you have to enter your information on the webpage, and then reply to an automatically generated email. This is, of course, to prevent people from subscribing addresses other than their own.</p>\n<p>Starting last weekend, I have been receiving a lot of individual responses to those emails. Always one line:</p>\n<blockquote><p>Thank you for the positive impact your emails have had on my life.<br />\nYour emails are a game-changer.<br />\nYour emails are ",
+      "source": "Schneier on Security",
+      "published": "2026-09-01T18:59:54.280121+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.65
+    },
+    {
       "title": "Black Hat State of Security Vendors",
       "url": "https://www.schneier.com/blog/archives/2026/08/black-hat-state-of-security-vendors.html",
       "summary": "<p>Andy Ellis has a <a href=\"https://www.duha.co/reports/state-of-security-vendors-blackhat-2026/\">roundup</a> of the security vendors at Black Hat this year.</p>\n<blockquote><p>Key Takeaways: We have entered into an AI world.  While nearly half of booths didn&#8217;t directly mention AI or agents in their taglines, the effects of AI are everywhere.  Multiple spaces (Identity, SaaS, AppSec, Data) have almost every vendor leading with AI; existing unsolved problem areas just got worse.</p>\n<p>At ",
@@ -379,12 +410,12 @@
       "threshold": 9.0
     }
   ],
-  "updated": "2026-09-01T15:18:28.966904+00:00",
+  "updated": "2026-09-01T19:00:07.752343+00:00",
   "stats": {
-    "total": 25,
-    "relevant": 8,
-    "critical": 3,
-    "new_this_run": 1,
+    "total": 27,
+    "relevant": 9,
+    "critical": 4,
+    "new_this_run": 2,
     "sources": 2
   }
 }
