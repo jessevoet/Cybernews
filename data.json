@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Black Hat State of Security Vendors",
+      "url": "https://www.schneier.com/blog/archives/2026/08/black-hat-state-of-security-vendors.html",
+      "summary": "<p>Andy Ellis has a <a href=\"https://www.duha.co/reports/state-of-security-vendors-blackhat-2026/\">roundup</a> of the security vendors at Black Hat this year.</p>\n<blockquote><p>Key Takeaways: We have entered into an AI world.  While nearly half of booths didn&#8217;t directly mention AI or agents in their taglines, the effects of AI are everywhere.  Multiple spaces (Identity, SaaS, AppSec, Data) have almost every vendor leading with AI; existing unsolved problem areas just got worse.</p>\n<p>At ",
+      "source": "Schneier on Security",
+      "published": "2026-09-01T15:18:14.059677+00:00",
+      "raw_score": 1.314986757679386,
+      "score": 30,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.62
+    },
+    {
       "title": "Rewiring Democracy Series on The Renovator",
       "url": "https://www.schneier.com/blog/archives/2026/09/rewiring-democracy-series-on-the-renovator.html",
       "summary": "<p>Nathan E. Sanders and I are writing a series of essays on real-world examples of democratic technologies for <cite>The Renovator</cite>. I haven&#8217;t been posting the full text on the blog because they&#8217;re a bit long, but here are links.</p>\n<p><a href=\"https://therenovator.substack.com/p/rewiring-democracy-now\">Part 1</a> is about the Japanese digital democracy party, Team Mirai.</p>\n<p><a href=\"https://therenovator.substack.com/p/rewiring-democracy-now-switzerland\">Part 2</a> is abo",
@@ -362,41 +377,11 @@
         "Law Enforcement"
       ],
       "threshold": 9.0
-    },
-    {
-      "title": "LLMs and Contextual Integrity",
-      "url": "https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html",
-      "summary": "<p>I have been thinking a lot about AI and integrity. Part of that is contextual integrity. I recently found two papers on the topic.</p>\n<p>&#8220;<a href=\"https://arxiv.org/abs/2511.14937\">CIMemories: A Compositional Benchmark for Contextual Integrity of Persistent Memory in LLMs</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> Large Language Models (LLMs) increasingly use persistent memory from past interactions to enhance personalization and task performance. However, this memory introduces c",
-      "source": "Schneier on Security",
-      "published": "2026-08-25T11:17:18.666704+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.0
-    },
-    {
-      "title": "Black Hat State of Security Vendors",
-      "url": "https://www.schneier.com/blog/archives/2026/08/black-hat-state-of-security-vendors.html",
-      "summary": "<p>Andy Ellis has a <a href=\"https://www.duha.co/reports/state-of-security-vendors-blackhat-2026/\">roundup</a> of the security vendors at Black Hat this year.</p>\n<blockquote><p>Key Takeaways: We have entered into an AI world.  While nearly half of booths didn&#8217;t directly mention AI or agents in their taglines, the effects of AI are everywhere.  Multiple spaces (Identity, SaaS, AppSec, Data) have almost every vendor leading with AI; existing unsolved problem areas just got worse.</p>\n<p>At ",
-      "source": "Schneier on Security",
-      "published": "2026-08-25T11:17:18.665397+00:00",
-      "raw_score": 1.314986757679386,
-      "score": 32,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.0
     }
   ],
-  "updated": "2026-09-01T10:46:37.090408+00:00",
+  "updated": "2026-09-01T15:18:28.966904+00:00",
   "stats": {
-    "total": 26,
+    "total": 25,
     "relevant": 8,
     "critical": 3,
     "new_this_run": 1,
