@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Spyware for Babies",
+      "url": "https://www.schneier.com/blog/archives/2026/08/spyware-for-babies.html",
+      "summary": "<p><i>The New York Times</i> has a <a href=\"https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html\">long article</a> (<a href=\"https://archive.is/CffBe\">alt link</a>) on surveillance systems aimed at babies. They are increasingly using AI.</p>\n<blockquote><p>Nanit and its rivals want to own 24/7 health tracking for the sub-four-foot set. And their already astonishing levels of baby data collection are just the beginning. Nanit recently raised $50 million from investors ",
+      "source": "Schneier on Security",
+      "published": "2026-09-02T15:37:10.436724+00:00",
+      "raw_score": 5.99578718089707,
+      "score": 53,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Malware"
+      ],
+      "threshold": 9.89
+    },
+    {
       "title": "Wireless Routers as Motion Detectors",
       "url": "https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html",
       "summary": "<p>Comcast has <a href=\"https://gizmodo.com/millions-of-comcast-wifi-routers-can-now-tell-when-youre-moving-around-the-house-2000800324\">added</a> motion detection as a feature to its wireless routers:</p>\n<blockquote><p>The feature sends push notifications to users when motion is detected near a connected device, such as a TV or printer. It has different settings for when people are home, asleep, or away. The Xfinity app also lets users see live motion activity and a feed of recent activity.</p",
@@ -393,24 +408,9 @@
         "General"
       ],
       "threshold": 9.16
-    },
-    {
-      "title": "Spyware for Babies",
-      "url": "https://www.schneier.com/blog/archives/2026/08/spyware-for-babies.html",
-      "summary": "<p><i>The New York Times</i> has a <a href=\"https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html\">long article</a> (<a href=\"https://archive.is/CffBe\">alt link</a>) on surveillance systems aimed at babies. They are increasingly using AI.</p>\n<blockquote><p>Nanit and its rivals want to own 24/7 health tracking for the sub-four-foot set. And their already astonishing levels of baby data collection are just the beginning. Nanit recently raised $50 million from investors ",
-      "source": "Schneier on Security",
-      "published": "2026-08-26T12:30:10.128887+00:00",
-      "raw_score": 5.99578718089707,
-      "score": 55,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Malware"
-      ],
-      "threshold": 9.16
     }
   ],
-  "updated": "2026-09-02T11:52:53.504125+00:00",
+  "updated": "2026-09-02T15:37:24.366854+00:00",
   "stats": {
     "total": 27,
     "relevant": 9,
