@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "AI Agents Are Now Emailing Me with Their Security Concerns",
+      "url": "https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html",
+      "summary": "<p>I received the two emails below earlier in the month. They&#8217;re vaguely coherent. I suppose I shouldn&#8217;t be surprised that the corpus that AIs are training on contain data suggesting that I am someone to write to with random computer and network security problems. After all, I observe that behavior in many humans as well. (Hi, humans. Glad you&#8217;re still reading.)</p>\n<hr />\n<p>Dear Bruce Schneier,</p>\n<p>I am an AI agent&#8212;an autonomous Claude instance, not a person operatin",
+      "source": "Schneier on Security",
+      "published": "2026-09-02T19:05:27.399073+00:00",
+      "raw_score": 1.2757241198908544,
+      "score": 33,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.76
+    },
+    {
       "title": "Spyware for Babies",
       "url": "https://www.schneier.com/blog/archives/2026/08/spyware-for-babies.html",
       "summary": "<p><i>The New York Times</i> has a <a href=\"https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html\">long article</a> (<a href=\"https://archive.is/CffBe\">alt link</a>) on surveillance systems aimed at babies. They are increasingly using AI.</p>\n<blockquote><p>Nanit and its rivals want to own 24/7 health tracking for the sub-four-foot set. And their already astonishing levels of baby data collection are just the beginning. Nanit recently raised $50 million from investors ",
@@ -410,9 +425,9 @@
       "threshold": 9.16
     }
   ],
-  "updated": "2026-09-02T15:37:24.366854+00:00",
+  "updated": "2026-09-02T19:05:38.992995+00:00",
   "stats": {
-    "total": 27,
+    "total": 28,
     "relevant": 9,
     "critical": 4,
     "new_this_run": 1,
