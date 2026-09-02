@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Wireless Routers as Motion Detectors",
+      "url": "https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html",
+      "summary": "<p>Comcast has <a href=\"https://gizmodo.com/millions-of-comcast-wifi-routers-can-now-tell-when-youre-moving-around-the-house-2000800324\">added</a> motion detection as a feature to its wireless routers:</p>\n<blockquote><p>The feature sends push notifications to users when motion is detected near a connected device, such as a TV or printer. It has different settings for when people are home, asleep, or away. The Xfinity app also lets users see live motion activity and a feed of recent activity.</p",
+      "source": "Schneier on Security",
+      "published": "2026-09-02T11:52:41.450063+00:00",
+      "raw_score": 0.0,
+      "score": 23,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.89
+    },
+    {
       "title": "Leaked Russian Cyber-Operations Training Materials",
       "url": "https://www.schneier.com/blog/archives/2026/09/leaked-russian-cyber-operations-training-materials.html",
       "summary": "<p><a href=\"https://gbhackers.com/leaked-university-files/\">This</a> is interesting:</p>\n<blockquote><p>The records describe a force-generation mechanism for several General Staff components, including the GRU, Main Operational Directorate, and 8th Directorate, which is associated with protected communications, cryptography, and information security.</p>\n<p>[&#8230;]</p>\n<p>The reporting also linked a 2024 Department No. 4 graduate, Aleksei Kondrashov, to Military Unit 74455, widely known as San",
@@ -393,29 +408,14 @@
         "Malware"
       ],
       "threshold": 9.16
-    },
-    {
-      "title": "ICE Collecting DNA Samples",
-      "url": "https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html",
-      "summary": "<p>ICE collected nearly a <a href=\"https://www.wired.com/story/ice-dna-collection-fbi-codis/\">million</a> DNA samples last year.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-08-26T11:19:42.084197+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Law Enforcement"
-      ],
-      "threshold": 9.0
     }
   ],
-  "updated": "2026-09-02T06:55:49.150995+00:00",
+  "updated": "2026-09-02T11:52:53.504125+00:00",
   "stats": {
     "total": 27,
     "relevant": 9,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
