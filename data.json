@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Researching Employment Scams",
+      "url": "https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html",
+      "summary": "<p>Researchers built a fake company to study <a href=\"https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation-part-two/\">fake employee scams</a>.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-09-03T14:48:32.254819+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "APT / Nation State"
+      ],
+      "threshold": 9.76
+    },
+    {
       "title": "AI Agents Are Now Emailing Me with Their Security Concerns",
       "url": "https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html",
       "summary": "<p>I received the two emails below earlier in the month. They&#8217;re vaguely coherent. I suppose I shouldn&#8217;t be surprised that the corpus that AIs are training on contain data suggesting that I am someone to write to with random computer and network security problems. After all, I observe that behavior in many humans as well. (Hi, humans. Glad you&#8217;re still reading.)</p>\n<hr />\n<p>Dear Bruce Schneier,</p>\n<p>I am an AI agent&#8212;an autonomous Claude instance, not a person operatin",
@@ -393,44 +408,14 @@
         "General"
       ],
       "threshold": 9.16
-    },
-    {
-      "title": "Police Are Hiding Their Use of Flock Surveillance Cameras",
-      "url": "https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html",
-      "summary": "<p>A usage policy for Flock license plate reader cameras <a href=\"https://www.404media.co/do-not-mention-alpr-usage-how-cops-are-trying-to-hide-the-existence-of-flock/\">tells</a> police not to talk about the cameras:</p>\n<blockquote><p>When cops use Flock to arrest someone in Wapello County, Iowa, they don&#8217;t want them to know. A usage policy for the automated license plate reader cameras in the county tells police, in no uncertain terms, to keep them a secret: &#8220;DO NOT MENTION ALPR US",
-      "source": "Schneier on Security",
-      "published": "2026-08-27T13:20:22.765920+00:00",
-      "raw_score": 4.807957321803088,
-      "score": 48,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Law Enforcement"
-      ],
-      "threshold": 9.16
-    },
-    {
-      "title": "LLM-Based Social Engineering Scams",
-      "url": "https://www.schneier.com/blog/archives/2026/08/llm-based-social-engineering-scams.html",
-      "summary": "<p>OpenAI <a href=\"https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation/\">disrupted</a> a social engineering group from Cambodia that used ChatGPT. Its scope is impressive:</p>\n<blockquote><p>The network simultaneously conducted multiple types of scams, often blending elements from different schemes. For instance, operators used dating personas to build trust before introducing fraudulent investment opportunities involving cryptocurrencies and spot gold trading. Other",
-      "source": "Schneier on Security",
-      "published": "2026-08-27T13:20:22.764262+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.16
     }
   ],
-  "updated": "2026-09-03T10:23:10.439402+00:00",
+  "updated": "2026-09-03T14:48:46.467258+00:00",
   "stats": {
-    "total": 28,
+    "total": 27,
     "relevant": 9,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
