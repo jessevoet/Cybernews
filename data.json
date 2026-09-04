@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Using a VM to Contain an AI Agent",
+      "url": "https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html",
+      "summary": "<p>It <a href=\"https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/\">won&#8217;t work</a>:</p>\n<blockquote><p>My suspicion was that GPT 5.6-Cyber would succeed, but the frequency and manner of its success removed all doubt. We have to reassess sandboxing quality for capable AI agents, and in general the software stack with which they interact.</p>\n<p>An off-the-shelf VM is not enough to contain a modern, cyber-capable AI agent. There is simply too much attack surface. E",
+      "source": "Schneier on Security",
+      "published": "2026-09-04T16:39:16.074313+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Law Enforcement"
+      ],
+      "threshold": 9.22
+    },
+    {
       "title": "AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks",
       "url": "https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html",
       "summary": "<p>We cannot forget that AI coding agents are <a href=\"https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/\">not yet trustworthy</a>:</p>\n<blockquote><p>Researchers at a stealth startup in Israel scanned 6,214 live domains belonging to defense contractors, Fortune 500, and Big Tech companies. Of the 8,265 llms.txt and llms-full.txt files they found (many sites hosted both an llms.txt and an llms-full.txt file), 120 of them, each on a ",
@@ -425,12 +440,12 @@
       "threshold": 9.16
     }
   ],
-  "updated": "2026-09-04T12:22:00.827618+00:00",
+  "updated": "2026-09-04T16:39:28.085897+00:00",
   "stats": {
-    "total": 28,
+    "total": 29,
     "relevant": 9,
     "critical": 4,
-    "new_this_run": 2,
+    "new_this_run": 1,
     "sources": 2
   }
 }
