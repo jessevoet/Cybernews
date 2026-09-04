@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: Squid on a Stick at the New York State Fair",
+      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-squid-on-a-stick-at-the-new-york-state-fair.html",
+      "summary": "<p>Looks <a href=\"https://www.syracuse.com/statefair/2026/08/day-2-at-the-nys-fair-todays-handpicked-menu-starts-with-a-whole-squid-on-a-stick-and-gets-messier.html\">tasty</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
+      "source": "Schneier on Security",
+      "published": "2026-09-04T21:56:53.675340+00:00",
+      "raw_score": 1.6367111701533539,
+      "score": 36,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.97
+    },
+    {
       "title": "Using a VM to Contain an AI Agent",
       "url": "https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html",
       "summary": "<p>It <a href=\"https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/\">won&#8217;t work</a>:</p>\n<blockquote><p>My suspicion was that GPT 5.6-Cyber would succeed, but the frequency and manner of its success removed all doubt. We have to reassess sandboxing quality for capable AI agents, and in general the software stack with which they interact.</p>\n<p>An off-the-shelf VM is not enough to contain a modern, cyber-capable AI agent. There is simply too much attack surface. E",
@@ -393,59 +408,14 @@
         "Vulnerability"
       ],
       "threshold": 9.34
-    },
-    {
-      "title": "More Incidents of AIs Going Rogue in Cybersecurity Challenges",
-      "url": "https://www.schneier.com/blog/archives/2026/08/more-incidents-of-ais-going-rogue-in-cybersecurity-challenges.html",
-      "summary": "<p>The AI Security Institute has a <a href=\"https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing\">new report</a> of AI systems engaging in &#8220;unsanctioned behavior&#8221;&#8212;what I have been calling &#8220;<a href=\"https://spectrum.ieee.org/ai-agent-benchmark\">genie behavior</a>&#8212;while being tested on their cybersecurity capabilities.</p>\n<blockquote><p>The incident stemmed from a single evaluation where agents were given a task of solving a ",
-      "source": "Schneier on Security",
-      "published": "2026-08-28T19:51:04.605809+00:00",
-      "raw_score": 3.6091913066724333,
-      "score": 42,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.16
-    },
-    {
-      "title": "AI Is Learning to Write Genetic Code",
-      "url": "https://www.schneier.com/blog/archives/2026/08/ai-is-learning-to-write-genetic-code.html",
-      "summary": "<p>This sort of <a href=\"https://www.abc.net.au/news/2026-08-07/ai-models-design-viruses-not-found-in-nature-for-first-time/107007854\">research</a> is both exciting and terrifying:</p>\n<blockquote><p>The two models in question were told to generate complete genomes for a viable bacteriophage&#8212;a type of virus able to infect and replicate itself inside bacteria, destroying them from the inside.</p>\n<p>Using an existing bacteriophage as an example&#8212;ΦX174 (pronounced &#8220;fie-ex-1-7-4&#8",
-      "source": "Schneier on Security",
-      "published": "2026-08-28T19:51:04.605695+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.16
-    },
-    {
-      "title": "AI Doesn’t Mean the End of Mathematics—at Least Not Yet",
-      "url": "https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html",
-      "summary": "<p><em>This essay was written with Kasra Rafi, and originally appeared in The Guardian.</em></p>\n<p>Earlier this month, about 40 top mathematicians <a href=\"https://www.washingtonpost.com/technology/2026/08/19/mathematicians-ask-whats-left-humans-when-ai-can-do-math-research/\">gathered</a> at OpenAI&#8217;s offices to discuss the future of their profession. The meeting was off-the-record, but if <a href=\"https://spectrum.ieee.org/ai-in-mathematics\">recent</a> <a href=\"https://arxiv.org/pdf/2608.",
-      "source": "Schneier on Security",
-      "published": "2026-08-28T19:51:04.604840+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "ICS / OT"
-      ],
-      "threshold": 9.16
     }
   ],
-  "updated": "2026-09-04T19:12:52.190082+00:00",
+  "updated": "2026-09-04T21:57:07.235706+00:00",
   "stats": {
-    "total": 29,
+    "total": 27,
     "relevant": 9,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
