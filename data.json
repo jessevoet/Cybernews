@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks",
+      "url": "https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html",
+      "summary": "<p>We cannot forget that AI coding agents are <a href=\"https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/\">not yet trustworthy</a>:</p>\n<blockquote><p>Researchers at a stealth startup in Israel scanned 6,214 live domains belonging to defense contractors, Fortune 500, and Big Tech companies. Of the 8,265 llms.txt and llms-full.txt files they found (many sites hosted both an llms.txt and an llms-full.txt file), 120 of them, each on a ",
+      "source": "Schneier on Security",
+      "published": "2026-09-04T12:21:49.266546+00:00",
+      "raw_score": 1.5753345012726028,
+      "score": 35,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.22
+    },
+    {
+      "title": "Security Vulnerability in a Voting System",
+      "url": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
+      "summary": "<p>It&#8217;s a vulnerability that allows someone to recover the order of ballots cast, <a href=\"https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/\">newly exploited</a> with AI tools.</p>\n<blockquote><p>Nearly four years since the original vulnerability was disclosed, I was still able to use it to analyze voter behavior in Georgia (one of the 21 states that uses affected scanners) in the recent May 2026 primary.</p>\n<p><em>Notably, I never touched a voti",
+      "source": "Schneier on Security",
+      "published": "2026-09-04T12:21:49.266345+00:00",
+      "raw_score": 4.409949926487563,
+      "score": 49,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 9.22
+    },
+    {
       "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
@@ -395,12 +425,12 @@
       "threshold": 9.16
     }
   ],
-  "updated": "2026-09-04T07:31:36.775812+00:00",
+  "updated": "2026-09-04T12:22:00.827618+00:00",
   "stats": {
-    "total": 26,
+    "total": 28,
     "relevant": 9,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 2
   }
 }
