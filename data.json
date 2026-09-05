@@ -377,42 +377,11 @@
         "General"
       ],
       "threshold": 9.34
-    },
-    {
-      "title": "Friday Squid Blogging: Neon Flying Squid",
-      "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html",
-      "summary": "<p>The neon flying squid can <a href=\"https://www.theguardian.com/environment/2026/aug/12/like-an-alien-invasion-the-neon-flying-squid-that-can-fly-in-formation-above-the-ocean\">fly</a> in formation.</p>\n<blockquote><p>The shoal of about 100 squid rose unexpectedly from a patch of the Pacific Ocean around 370 miles from Tokyo and glided near the boat for about 30 metres. The astonished researchers were the first to capture photographs of such a thing, which looked like the early stages of an ali",
-      "source": "Schneier on Security",
-      "published": "2026-08-29T02:36:27.592655+00:00",
-      "raw_score": 3.344497855536527,
-      "score": 41,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "APT / Nation State",
-        "Advisory"
-      ],
-      "threshold": 9.34
-    },
-    {
-      "title": "Friday Squid Blogging: Truckload of Squid Spills in Rhode Island",
-      "url": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html",
-      "summary": "<p><a href=\"https://www.huffpost.com/entry/squid-spill-rhode-island-street_n_6a863090e4b0e9f1dd275d79\">Ugh</a>:</p>\n<blockquote><p>A tractor-trailer rollover sent a truckload of squid spilling into a Rhode Island roadway, leaving a stench as they sat in the road for hours in the summer heat. Local authorities have dubbed it the &#8220;Squidpocalypse of &#8217;26.&#8221;</p></blockquote>\n<p>That would be <a href=\"https://www.theguardian.com/us-news/2026/aug/19/squid-spill-rhode-island-highway\">tw",
-      "source": "Schneier on Security",
-      "published": "2026-08-29T02:36:27.591678+00:00",
-      "raw_score": 0.0,
-      "score": 23,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 9.34
     }
   ],
-  "updated": "2026-09-05T02:01:17.172876+00:00",
+  "updated": "2026-09-05T07:12:50.510704+00:00",
   "stats": {
-    "total": 27,
+    "total": 25,
     "relevant": 9,
     "critical": 4,
     "new_this_run": 0,
