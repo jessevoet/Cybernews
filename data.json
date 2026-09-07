@@ -362,44 +362,14 @@
         "Law Enforcement"
       ],
       "threshold": 9.62
-    },
-    {
-      "title": "Criminal Deception in Silicon Valley",
-      "url": "https://www.schneier.com/blog/archives/2026/08/criminal-deception-in-silicon-valley.html",
-      "summary": "<p>Interesting <a href=\"https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981\">paper</a>:</p>\n<blockquote><p><b>Abstract:</b> With entrepreneurial fraud cases on the rise, we investigate how entrepreneurs carry out <i>criminal deception</i>, employing deceptive means to defraud audiences. Analyzing court data from Silicon Valley ventures and their founders prosecuted for fraud between 2000 and 2023, our findings reveal that entrepreneurs carry out criminal deception through a process o",
-      "source": "Schneier on Security",
-      "published": "2026-08-31T14:36:02.475437+00:00",
-      "raw_score": 0.0,
-      "score": 23,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.34
-    },
-    {
-      "title": "Hiding Prompt Injection in Legal Filing",
-      "url": "https://www.schneier.com/blog/archives/2026/08/hiding-prompt-injection-in-legal-filing.html",
-      "summary": "<p>Someone <a href=\"https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/\">hid</a> AI instructions into a legal filing.</p>\n<p>Alternate <a href=\"https://archive.ph/NHf32\">link</a>.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-08-31T14:36:02.474450+00:00",
-      "raw_score": 0.0,
-      "score": 23,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.34
     }
   ],
-  "updated": "2026-09-07T13:08:33.862363+00:00",
+  "updated": "2026-09-07T18:29:37.619015+00:00",
   "stats": {
-    "total": 26,
+    "total": 24,
     "relevant": 9,
     "critical": 4,
-    "new_this_run": 1,
+    "new_this_run": 0,
     "sources": 2
   }
 }
