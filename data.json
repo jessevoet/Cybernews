@@ -346,29 +346,13 @@
         "General"
       ],
       "threshold": 9.62
-    },
-    {
-      "title": "Is Someone Hacking DoD Refrigerators?",
-      "url": "https://www.schneier.com/blog/archives/2026/08/is-someone-hacking-dod-refrigerators.html",
-      "summary": "<p>It sure <a href=\"https://www.militarytimes.com/news/your-military/2026/08/28/dod-confirms-refrigeration-disruption-at-military-commissaries/\">seems</a> <a>like</a> it.</p>\n<blockquote><p>The stores confirmed to be affected include <a href=\"https://www.facebook.com/FTirwin/posts/pfbid0bkY1LoQRDustXmQjfLGXYhaDGTXHU6VxBB6or9nL78FE14CeVFQUJHyAkmKWBTi9l\">Fort Irwin</a>, Calif.; <a href=\"https://www.facebook.com/FEWarrenAirForceBase/posts/pfbid0fm9piUzNegdz97zDwT7FtgkDCojLFUXwXiWzUYu2Wc3vhGh1YYtoLd",
-      "source": "Schneier on Security",
-      "published": "2026-08-31T20:28:51.655901+00:00",
-      "raw_score": 0.0,
-      "score": 24,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability",
-        "Law Enforcement"
-      ],
-      "threshold": 9.62
     }
   ],
-  "updated": "2026-09-07T18:29:37.619015+00:00",
+  "updated": "2026-09-07T21:50:34.454057+00:00",
   "stats": {
-    "total": 24,
-    "relevant": 9,
-    "critical": 4,
+    "total": 23,
+    "relevant": 8,
+    "critical": 3,
     "new_this_run": 0,
     "sources": 2
   }
