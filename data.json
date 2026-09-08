@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Testing race conditions with memory access tracing and stack-based delay injection",
+      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+      "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static analysis. Regression tests: After fixing a race condition bug, there is often no good way to write a regression test that reliably triggers the bug as part of a test suite. Automatic bug discovery, such as fuzzing: It is hard for",
+      "source": "Google Project Zero",
+      "published": "2026-09-08T19:40:00.745870+00:00",
+      "raw_score": 1.5541416604483076,
+      "score": 37,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.64
+    },
+    {
+      "title": "AIs as Modern Genies",
+      "url": "https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html",
+      "summary": "<p><em>This essay was written with Barath Raghavan, and originally appeared in <a href=\"https://www.lawfaremedia.org/article/ais-as-modern-genies\">Lawfare</a>.</em></p>\n<p>In April, an artificial intelligence (AI) agent <a href=\"https://www.theregister.com/software/2026/04/27/cursor-opus-agent-snuffs-out-startups-production-database/5224442\">conducting</a> a routine task at a company hit a snag, tried to solve it, and soon ended up deleting the company’s database along with all of its backups. I",
+      "source": "Schneier on Security",
+      "published": "2026-09-08T19:39:54.519044+00:00",
+      "raw_score": 0.0,
+      "score": 30,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.64
+    },
+    {
       "title": "Stealing AI Reasoning Traces",
       "url": "https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html",
       "summary": "<p>Interesting research: &#8220;<a href=\"https://arxiv.org/abs/2608.09867\">Stealing Reasoning Traces from Proprietary LLM APIs</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> Leading large language model providers now conceal their models&#8217; step-by-step reasoning, or chain-of-thought, to protect intellectual property and limit information leakage. Rather than storing these traces server-side, providers return them to the client as blocks of encrypted text, which the client passes back with ",
@@ -300,45 +330,14 @@
         "General"
       ],
       "threshold": 9.89
-    },
-    {
-      "title": "Leaked Russian Cyber-Operations Training Materials",
-      "url": "https://www.schneier.com/blog/archives/2026/09/leaked-russian-cyber-operations-training-materials.html",
-      "summary": "<p><a href=\"https://gbhackers.com/leaked-university-files/\">This</a> is interesting:</p>\n<blockquote><p>The records describe a force-generation mechanism for several General Staff components, including the GRU, Main Operational Directorate, and 8th Directorate, which is associated with protected communications, cryptography, and information security.</p>\n<p>[&#8230;]</p>\n<p>The reporting also linked a 2024 Department No. 4 graduate, Aleksei Kondrashov, to Military Unit 74455, widely known as San",
-      "source": "Schneier on Security",
-      "published": "2026-09-01T18:59:54.280277+00:00",
-      "raw_score": 1.7285465849375194,
-      "score": 34,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability",
-        "Data Breach"
-      ],
-      "threshold": 9.65
-    },
-    {
-      "title": "What’s the Scam?",
-      "url": "https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html",
-      "summary": "<p>To subscribe to my monthly email newsletter, you have to enter your information on the webpage, and then reply to an automatically generated email. This is, of course, to prevent people from subscribing addresses other than their own.</p>\n<p>Starting last weekend, I have been receiving a lot of individual responses to those emails. Always one line:</p>\n<blockquote><p>Thank you for the positive impact your emails have had on my life.<br />\nYour emails are a game-changer.<br />\nYour emails are ",
-      "source": "Schneier on Security",
-      "published": "2026-09-01T18:59:54.280121+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.65
     }
   ],
-  "updated": "2026-09-08T16:54:51.974198+00:00",
+  "updated": "2026-09-08T19:40:06.983851+00:00",
   "stats": {
     "total": 22,
-    "relevant": 8,
-    "critical": 3,
-    "new_this_run": 0,
+    "relevant": 7,
+    "critical": 2,
+    "new_this_run": 2,
     "sources": 2
   }
 }
