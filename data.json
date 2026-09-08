@@ -331,29 +331,14 @@
         "General"
       ],
       "threshold": 9.65
-    },
-    {
-      "title": "Black Hat State of Security Vendors",
-      "url": "https://www.schneier.com/blog/archives/2026/08/black-hat-state-of-security-vendors.html",
-      "summary": "<p>Andy Ellis has a <a href=\"https://www.duha.co/reports/state-of-security-vendors-blackhat-2026/\">roundup</a> of the security vendors at Black Hat this year.</p>\n<blockquote><p>Key Takeaways: We have entered into an AI world.  While nearly half of booths didn&#8217;t directly mention AI or agents in their taglines, the effects of AI are everywhere.  Multiple spaces (Identity, SaaS, AppSec, Data) have almost every vendor leading with AI; existing unsolved problem areas just got worse.</p>\n<p>At ",
-      "source": "Schneier on Security",
-      "published": "2026-09-01T15:18:14.059677+00:00",
-      "raw_score": 1.314986757679386,
-      "score": 30,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.62
     }
   ],
-  "updated": "2026-09-08T12:23:51.893860+00:00",
+  "updated": "2026-09-08T16:54:51.974198+00:00",
   "stats": {
-    "total": 23,
+    "total": 22,
     "relevant": 8,
     "critical": 3,
-    "new_this_run": 1,
+    "new_this_run": 0,
     "sources": 2
   }
 }
