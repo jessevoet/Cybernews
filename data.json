@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Stealing AI Reasoning Traces",
+      "url": "https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html",
+      "summary": "<p>Interesting research: &#8220;<a href=\"https://arxiv.org/abs/2608.09867\">Stealing Reasoning Traces from Proprietary LLM APIs</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> Leading large language model providers now conceal their models&#8217; step-by-step reasoning, or chain-of-thought, to protect intellectual property and limit information leakage. Rather than storing these traces server-side, providers return them to the client as blocks of encrypted text, which the client passes back with ",
+      "source": "Schneier on Security",
+      "published": "2026-09-08T12:23:36.928707+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Data Breach"
+      ],
+      "threshold": 9.23
+    },
+    {
       "title": "Automobile Camouflage to Hide from Flock Cameras",
       "url": "https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html",
       "summary": "<p>Not sure it&#8217;s practical, but it&#8217;s certainly <a href=\"https://www.bitdefender.com/en-us/blog/hotforsecurity/invisible-car-machine-learning-hide-vehicle-flock-cameras\">striking</a>.</p>",
@@ -331,29 +346,14 @@
         "General"
       ],
       "threshold": 9.62
-    },
-    {
-      "title": "Rewiring Democracy Series on The Renovator",
-      "url": "https://www.schneier.com/blog/archives/2026/09/rewiring-democracy-series-on-the-renovator.html",
-      "summary": "<p>Nathan E. Sanders and I are writing a series of essays on real-world examples of democratic technologies for <cite>The Renovator</cite>. I haven&#8217;t been posting the full text on the blog because they&#8217;re a bit long, but here are links.</p>\n<p><a href=\"https://therenovator.substack.com/p/rewiring-democracy-now\">Part 1</a> is about the Japanese digital democracy party, Team Mirai.</p>\n<p><a href=\"https://therenovator.substack.com/p/rewiring-democracy-now-switzerland\">Part 2</a> is abo",
-      "source": "Schneier on Security",
-      "published": "2026-09-01T10:46:23.669903+00:00",
-      "raw_score": 0.0,
-      "score": 24,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.62
     }
   ],
-  "updated": "2026-09-08T07:33:26.462906+00:00",
+  "updated": "2026-09-08T12:23:51.893860+00:00",
   "stats": {
     "total": 23,
     "relevant": 8,
     "critical": 3,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
