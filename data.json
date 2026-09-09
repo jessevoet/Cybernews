@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Driver’s License Data for Sale",
+      "url": "https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html",
+      "summary": "<p>A database of 153 million drivers licenses is <a href=\"https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/\">for sale</a> on the dark web. Brian Krebs has more <a href=\"https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/\">detail</a>.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-09-09T18:10:07.984773+00:00",
+      "raw_score": 6.701699259557483,
+      "score": 60,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Law Enforcement"
+      ],
+      "threshold": 9.03
+    },
+    {
       "title": "Claude Fable Solves a Historical Cipher",
       "url": "https://www.schneier.com/blog/archives/2026/09/claude-fable-solves-a-historical-cipher.html",
       "summary": "<p>Claude Fable 5.1 <a href=\"https://www.vals.ai/blogs/fable-solves-cyphral-distich\">solved</a> a 370-year-old cipher in forty-four minutes.</p>\n<p>This tracks with what I <a href=\"https://www.theguardian.com/commentisfree/2026/aug/25/ai-mathematics-careers\">wrote</a> about AIs doing mathematics: It&#8217;s good at things that involve lots of searching and testing.</p>",
@@ -315,24 +330,9 @@
         "General"
       ],
       "threshold": 9.76
-    },
-    {
-      "title": "Spyware for Babies",
-      "url": "https://www.schneier.com/blog/archives/2026/08/spyware-for-babies.html",
-      "summary": "<p><i>The New York Times</i> has a <a href=\"https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html\">long article</a> (<a href=\"https://archive.is/CffBe\">alt link</a>) on surveillance systems aimed at babies. They are increasingly using AI.</p>\n<blockquote><p>Nanit and its rivals want to own 24/7 health tracking for the sub-four-foot set. And their already astonishing levels of baby data collection are just the beginning. Nanit recently raised $50 million from investors ",
-      "source": "Schneier on Security",
-      "published": "2026-09-02T15:37:10.436724+00:00",
-      "raw_score": 5.99578718089707,
-      "score": 53,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Malware"
-      ],
-      "threshold": 9.89
     }
   ],
-  "updated": "2026-09-09T14:54:41.628756+00:00",
+  "updated": "2026-09-09T18:10:21.235542+00:00",
   "stats": {
     "total": 22,
     "relevant": 7,
