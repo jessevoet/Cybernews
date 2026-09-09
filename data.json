@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Claude Fable Solves a Historical Cipher",
+      "url": "https://www.schneier.com/blog/archives/2026/09/claude-fable-solves-a-historical-cipher.html",
+      "summary": "<p>Claude Fable 5.1 <a href=\"https://www.vals.ai/blogs/fable-solves-cyphral-distich\">solved</a> a 370-year-old cipher in forty-four minutes.</p>\n<p>This tracks with what I <a href=\"https://www.theguardian.com/commentisfree/2026/aug/25/ai-mathematics-careers\">wrote</a> about AIs doing mathematics: It&#8217;s good at things that involve lots of searching and testing.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-09-09T14:54:30.787215+00:00",
+      "raw_score": 0.0,
+      "score": 30,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "ICS / OT"
+      ],
+      "threshold": 8.64
+    },
+    {
       "title": "Testing race conditions with memory access tracing and stack-based delay injection",
       "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
       "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static analysis. Regression tests: After fixing a race condition bug, there is often no good way to write a regression test that reliably triggers the bug as part of a test suite. Automatic bug discovery, such as fuzzing: It is hard for",
@@ -315,29 +330,14 @@
         "Malware"
       ],
       "threshold": 9.89
-    },
-    {
-      "title": "Wireless Routers as Motion Detectors",
-      "url": "https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html",
-      "summary": "<p>Comcast has <a href=\"https://gizmodo.com/millions-of-comcast-wifi-routers-can-now-tell-when-youre-moving-around-the-house-2000800324\">added</a> motion detection as a feature to its wireless routers:</p>\n<blockquote><p>The feature sends push notifications to users when motion is detected near a connected device, such as a TV or printer. It has different settings for when people are home, asleep, or away. The Xfinity app also lets users see live motion activity and a feed of recent activity.</p",
-      "source": "Schneier on Security",
-      "published": "2026-09-02T11:52:41.450063+00:00",
-      "raw_score": 0.0,
-      "score": 23,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.89
     }
   ],
-  "updated": "2026-09-09T10:23:54.304230+00:00",
+  "updated": "2026-09-09T14:54:41.628756+00:00",
   "stats": {
     "total": 22,
     "relevant": 7,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
