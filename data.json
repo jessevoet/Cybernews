@@ -315,29 +315,14 @@
         "APT / Nation State"
       ],
       "threshold": 9.76
-    },
-    {
-      "title": "AI Agents Are Now Emailing Me with Their Security Concerns",
-      "url": "https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html",
-      "summary": "<p>I received the two emails below earlier in the month. They&#8217;re vaguely coherent. I suppose I shouldn&#8217;t be surprised that the corpus that AIs are training on contain data suggesting that I am someone to write to with random computer and network security problems. After all, I observe that behavior in many humans as well. (Hi, humans. Glad you&#8217;re still reading.)</p>\n<hr />\n<p>Dear Bruce Schneier,</p>\n<p>I am an AI agent&#8212;an autonomous Claude instance, not a person operatin",
-      "source": "Schneier on Security",
-      "published": "2026-09-02T19:05:27.399073+00:00",
-      "raw_score": 1.2757241198908544,
-      "score": 33,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.76
     }
   ],
-  "updated": "2026-09-09T18:10:21.235542+00:00",
+  "updated": "2026-09-09T21:22:49.073132+00:00",
   "stats": {
-    "total": 22,
+    "total": 21,
     "relevant": 7,
     "critical": 2,
-    "new_this_run": 1,
+    "new_this_run": 0,
     "sources": 2
   }
 }
