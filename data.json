@@ -316,29 +316,14 @@
         "Advisory"
       ],
       "threshold": 9.76
-    },
-    {
-      "title": "Researching Employment Scams",
-      "url": "https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html",
-      "summary": "<p>Researchers built a fake company to study <a href=\"https://any.run/cybersecurity-blog/lazarus-group-it-workers-investigation-part-two/\">fake employee scams</a>.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-09-03T14:48:32.254819+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "APT / Nation State"
-      ],
-      "threshold": 9.76
     }
   ],
-  "updated": "2026-09-10T12:29:35.070089+00:00",
+  "updated": "2026-09-10T16:45:19.312339+00:00",
   "stats": {
-    "total": 22,
+    "total": 21,
     "relevant": 8,
     "critical": 2,
-    "new_this_run": 1,
+    "new_this_run": 0,
     "sources": 2
   }
 }
