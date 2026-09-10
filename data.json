@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "AIs Compress Exploit Timeline",
+      "url": "https://www.schneier.com/blog/archives/2026/09/ais-compress-exploit-timeline.html",
+      "summary": "<p>Give an AI agent a mere <a href=\"https://anil.recoil.org/notes/rumour-is-the-exploit\">rumor</a> of an exploit, and it&#8217;s enough for them to find it.</p>\n<blockquote><p>What&#8217;s worse, I found I could use my own agents to find the exploit <i>just by knowing roughly what it was about</i> and so could have been exploiting it well before the public patch was available! Given that just the <i>rumour</i> of a security issue seems enough to give attackers enough info to find new exploits, w",
+      "source": "Schneier on Security",
+      "published": "2026-09-10T12:29:23.747117+00:00",
+      "raw_score": 9.409734003034803,
+      "score": 71,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 9.65
+    },
+    {
       "title": "Driver’s License Data for Sale",
       "url": "https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html",
       "summary": "<p>A database of 153 million drivers licenses is <a href=\"https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/\">for sale</a> on the dark web. Brian Krebs has more <a href=\"https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/\">detail</a>.</p>",
@@ -317,12 +333,12 @@
       "threshold": 9.76
     }
   ],
-  "updated": "2026-09-10T07:37:55.554738+00:00",
+  "updated": "2026-09-10T12:29:35.070089+00:00",
   "stats": {
-    "total": 21,
-    "relevant": 7,
+    "total": 22,
+    "relevant": 8,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
