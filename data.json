@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
+      "source": "Google Project Zero",
+      "published": "2026-09-11T00:40:30.223786+00:00",
+      "raw_score": 7.092005476157869,
+      "score": 60,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 9.65
+    },
+    {
       "title": "AIs Compress Exploit Timeline",
       "url": "https://www.schneier.com/blog/archives/2026/09/ais-compress-exploit-timeline.html",
       "summary": "<p>Give an AI agent a mere <a href=\"https://anil.recoil.org/notes/rumour-is-the-exploit\">rumor</a> of an exploit, and it&#8217;s enough for them to find it.</p>\n<blockquote><p>What&#8217;s worse, I found I could use my own agents to find the exploit <i>just by knowing roughly what it was about</i> and so could have been exploiting it well before the public patch was available! Given that just the <i>rumour</i> of a security issue seems enough to give attackers enough info to find new exploits, w",
@@ -300,30 +316,14 @@
         "Vulnerability"
       ],
       "threshold": 9.22
-    },
-    {
-      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
-      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
-      "source": "Google Project Zero",
-      "published": "2026-09-03T23:41:26.902551+00:00",
-      "raw_score": 7.092005476157869,
-      "score": 60,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 9.76
     }
   ],
-  "updated": "2026-09-10T22:04:49.587644+00:00",
+  "updated": "2026-09-11T00:40:38.756102+00:00",
   "stats": {
     "total": 21,
     "relevant": 8,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 2
   }
 }
