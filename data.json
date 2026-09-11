@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Using a VM to Contain an AI Agent",
+      "url": "https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html",
+      "summary": "<p>It <a href=\"https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/\">won&#8217;t work</a>:</p>\n<blockquote><p>My suspicion was that GPT 5.6-Cyber would succeed, but the frequency and manner of its success removed all doubt. We have to reassess sandboxing quality for capable AI agents, and in general the software stack with which they interact.</p>\n<p>An off-the-shelf VM is not enough to contain a modern, cyber-capable AI agent. There is simply too much attack surface. E",
+      "source": "Schneier on Security",
+      "published": "2026-09-11T17:59:54.629237+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Law Enforcement"
+      ],
+      "threshold": 9.64
+    },
+    {
       "title": "Security Vulnerability in a Voting System",
       "url": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
       "summary": "<p>It&#8217;s a vulnerability that allows someone to recover the order of ballots cast, <a href=\"https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/\">newly exploited</a> with AI tools.</p>\n<blockquote><p>Nearly four years since the original vulnerability was disclosed, I was still able to use it to analyze voter behavior in Georgia (one of the 21 states that uses affected scanners) in the recent May 2026 primary.</p>\n<p><em>Notably, I never touched a voti",
@@ -301,29 +316,14 @@
         "General"
       ],
       "threshold": 8.97
-    },
-    {
-      "title": "Using a VM to Contain an AI Agent",
-      "url": "https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html",
-      "summary": "<p>It <a href=\"https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/\">won&#8217;t work</a>:</p>\n<blockquote><p>My suspicion was that GPT 5.6-Cyber would succeed, but the frequency and manner of its success removed all doubt. We have to reassess sandboxing quality for capable AI agents, and in general the software stack with which they interact.</p>\n<p>An off-the-shelf VM is not enough to contain a modern, cyber-capable AI agent. There is simply too much attack surface. E",
-      "source": "Schneier on Security",
-      "published": "2026-09-04T16:39:16.074313+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Law Enforcement"
-      ],
-      "threshold": 9.22
     }
   ],
-  "updated": "2026-09-11T14:42:22.943634+00:00",
+  "updated": "2026-09-11T18:00:06.312429+00:00",
   "stats": {
     "total": 21,
     "relevant": 8,
     "critical": 2,
-    "new_this_run": 2,
+    "new_this_run": 1,
     "sources": 2
   }
 }
