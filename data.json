@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "How Cisco is confronting the security crisis of agentic AI",
+      "url": "https://www.zdnet.com/paid-content/article/how-cisco-is-confronting-the-security-crisis-of-agentic-ai/",
+      "summary": "“There are shadow agents running in almost every environment we look at,” warns Cisco’s VP of product for identity, who oversees the company’s Duo Agentic Identity product designed to solve the problem.",
+      "source": "ZDNet Security",
+      "published": "2026-09-15T20:45:47.012900+00:00",
+      "raw_score": 1.5776852455570598,
+      "score": 32,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.53
+    },
+    {
+      "title": "Testing race conditions with memory access tracing and stack-based delay injection",
+      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+      "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static analysis. Regression tests: After fixing a race condition bug, there is often no good way to write a regression test that reliably triggers the bug as part of a test suite. Automatic bug discovery, such as fuzzing: It is hard for",
+      "source": "Google Project Zero",
+      "published": "2026-09-15T20:45:42.781600+00:00",
+      "raw_score": 1.5541416604483076,
+      "score": 32,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.53
+    },
+    {
       "title": "iOS 27 is finally here, with the new Siri AI beta – and 120 security patches",
       "url": "https://www.zdnet.com/business/ios-27-siri-ai-beta-how-to-try/",
       "summary": "Even if you’re not ready for iOS 27, there’s an important new update for you too. Here’s what’s new.",
@@ -767,44 +797,14 @@
         "ICS / OT"
       ],
       "threshold": 8.64
-    },
-    {
-      "title": "Testing race conditions with memory access tracing and stack-based delay injection",
-      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
-      "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static analysis. Regression tests: After fixing a race condition bug, there is often no good way to write a regression test that reliably triggers the bug as part of a test suite. Automatic bug discovery, such as fuzzing: It is hard for",
-      "source": "Google Project Zero",
-      "published": "2026-09-08T19:40:00.745870+00:00",
-      "raw_score": 1.5541416604483076,
-      "score": 37,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.64
-    },
-    {
-      "title": "AIs as Modern Genies",
-      "url": "https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html",
-      "summary": "<p><em>This essay was written with Barath Raghavan, and originally appeared in <a href=\"https://www.lawfaremedia.org/article/ais-as-modern-genies\">Lawfare</a>.</em></p>\n<p>In April, an artificial intelligence (AI) agent <a href=\"https://www.theregister.com/software/2026/04/27/cursor-opus-agent-snuffs-out-startups-production-database/5224442\">conducting</a> a routine task at a company hit a snag, tried to solve it, and soon ended up deleting the company’s database along with all of its backups. I",
-      "source": "Schneier on Security",
-      "published": "2026-09-08T19:39:54.519044+00:00",
-      "raw_score": 0.0,
-      "score": 30,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.64
     }
   ],
-  "updated": "2026-09-15T17:56:44.362595+00:00",
+  "updated": "2026-09-15T20:45:48.429422+00:00",
   "stats": {
     "total": 53,
     "relevant": 11,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 3
   }
 }
