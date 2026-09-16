@@ -859,29 +859,14 @@
         "Advisory"
       ],
       "threshold": 9.65
-    },
-    {
-      "title": "Driver’s License Data for Sale",
-      "url": "https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html",
-      "summary": "<p>A database of 153 million drivers licenses is <a href=\"https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/\">for sale</a> on the dark web. Brian Krebs has more <a href=\"https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/\">detail</a>.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-09-09T18:10:07.984773+00:00",
-      "raw_score": 6.701699259557483,
-      "score": 60,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Law Enforcement"
-      ],
-      "threshold": 9.03
     }
   ],
-  "updated": "2026-09-16T17:51:02.489019+00:00",
+  "updated": "2026-09-16T20:38:14.943137+00:00",
   "stats": {
-    "total": 58,
-    "relevant": 11,
+    "total": 57,
+    "relevant": 10,
     "critical": 2,
-    "new_this_run": 3,
+    "new_this_run": 0,
     "sources": 3
   }
 }
