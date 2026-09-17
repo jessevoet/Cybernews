@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Roku rolls out over 30 subscription bundles for up to 30% off, plus a new Labs feature",
+      "url": "https://www.zdnet.com/home-and-office/roku-streaming-premium-bundles-labs-feature/",
+      "summary": "Roku’s money-saving bundles include channels like HBO Max, Starz, and Fox One.",
+      "source": "ZDNet Security",
+      "published": "2026-09-17T20:45:03.171201+00:00",
+      "raw_score": 0.0,
+      "score": 24,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.11
+    },
+    {
       "title": "Claude Code’s revised projects adds AI orchestration, but local developers must wait",
       "url": "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/",
       "summary": "Claude Code Projects could change how developers manage complex AI coding workflows by coordinating threads, sharing memory, and spanning repos, but its biggest benefits are still cloud-only for now.",
@@ -890,9 +905,9 @@
       "threshold": 9.65
     }
   ],
-  "updated": "2026-09-17T17:53:20.827073+00:00",
+  "updated": "2026-09-17T20:45:04.543504+00:00",
   "stats": {
-    "total": 59,
+    "total": 60,
     "relevant": 9,
     "critical": 2,
     "new_this_run": 1,
