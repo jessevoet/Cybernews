@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Claude Code’s revised projects adds AI orchestration, but local developers must wait",
+      "url": "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/",
+      "summary": "Claude Code Projects could change how developers manage complex AI coding workflows by coordinating threads, sharing memory, and spanning repos, but its biggest benefits are still cloud-only for now.",
+      "source": "ZDNet Security",
+      "published": "2026-09-17T17:53:19.120362+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.98
+    },
+    {
       "title": "Bose returns with new open earbuds (and a refreshed favorite)",
       "url": "https://www.zdnet.com/tech/bose-ultra-earbuds-sport-open-earbuds/",
       "summary": "Bose announces the Ultra Open (2nd Gen) and the Sport Open Earbuds, offering more options for aware listeners.",
@@ -875,12 +890,12 @@
       "threshold": 9.65
     }
   ],
-  "updated": "2026-09-17T13:56:28.648495+00:00",
+  "updated": "2026-09-17T17:53:20.827073+00:00",
   "stats": {
-    "total": 58,
+    "total": 59,
     "relevant": 9,
     "critical": 2,
-    "new_this_run": 2,
+    "new_this_run": 1,
     "sources": 3
   }
 }
