@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Bose returns with new open earbuds (and a refreshed favorite)",
+      "url": "https://www.zdnet.com/tech/bose-ultra-earbuds-sport-open-earbuds/",
+      "summary": "Bose announces the Ultra Open (2nd Gen) and the Sport Open Earbuds, offering more options for aware listeners.",
+      "source": "ZDNet Security",
+      "published": "2026-09-17T13:56:27.316894+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.98
+    },
+    {
+      "title": "How Candidates Could Use AI for Good",
+      "url": "https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html",
+      "summary": "<p><em>This essay was written with Nathan E. Sanders, and originally appeared in <a href=\"https://www.theguardian.com/commentisfree/2026/aug/31/ai-politics-voters\">The Guardian</a>.</em></p>\n<p>There are plenty of signs that AI will make all of our experiences of the US midterm elections worse. Voters have <a href=\"https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/\">anxiety</a> about AI&#8217;s impacts on the country",
+      "source": "Schneier on Security",
+      "published": "2026-09-17T13:56:16.997458+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "ICS / OT"
+      ],
+      "threshold": 8.98
+    },
+    {
       "title": "How September’s Pixel Drop changes the way you call and message important contacts",
       "url": "https://www.zdnet.com/tech/september-pixel-drop-call-message-important-contacts/",
       "summary": "The update lets you contact VIPs with a tap and adds scam protection.",
@@ -843,30 +873,14 @@
         "Advisory"
       ],
       "threshold": 9.65
-    },
-    {
-      "title": "AIs Compress Exploit Timeline",
-      "url": "https://www.schneier.com/blog/archives/2026/09/ais-compress-exploit-timeline.html",
-      "summary": "<p>Give an AI agent a mere <a href=\"https://anil.recoil.org/notes/rumour-is-the-exploit\">rumor</a> of an exploit, and it&#8217;s enough for them to find it.</p>\n<blockquote><p>What&#8217;s worse, I found I could use my own agents to find the exploit <i>just by knowing roughly what it was about</i> and so could have been exploiting it well before the public patch was available! Given that just the <i>rumour</i> of a security issue seems enough to give attackers enough info to find new exploits, w",
-      "source": "Schneier on Security",
-      "published": "2026-09-10T12:29:23.747117+00:00",
-      "raw_score": 9.409734003034803,
-      "score": 71,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 9.65
     }
   ],
-  "updated": "2026-09-17T08:09:42.639464+00:00",
+  "updated": "2026-09-17T13:56:28.648495+00:00",
   "stats": {
-    "total": 57,
-    "relevant": 10,
+    "total": 58,
+    "relevant": 9,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 3
   }
 }
