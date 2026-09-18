@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Fake calendar invites can infect your system, and they’re surging – how to protect yourself",
+      "url": "https://www.zdnet.com/tech/fake-calendar-invites-malware/",
+      "summary": "These invites sneak past your security software to embed themselves in your calendar. But you can thwart them before they do any damage.",
+      "source": "ZDNet Security",
+      "published": "2026-09-18T16:48:37.761385+00:00",
+      "raw_score": 1.8385866858353983,
+      "score": 35,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.11
+    },
+    {
+      "title": "Businesses finally seeing AI ROI, but 62% can’t handle the storage demands",
+      "url": "https://www.zdnet.com/business/ai-storage-demand-seagate-study/",
+      "summary": "A Seagate study finds that 99% of IT leaders expect AI to drive increased data storage needs, but only 38% are prepared to meet them, revealing a significant readiness gap.",
+      "source": "ZDNet Security",
+      "published": "2026-09-18T16:48:37.761177+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.11
+    },
+    {
       "title": "Are AIs Still Struggling with CAPTCHAs?",
       "url": "https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html",
       "summary": "<p>Anthropic&#8217;s recent security-incident <a href=\"https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf\">document</a> contains a bit about how CAPTCHAs are still <a href=\"https://gizmodo.com/ai-models-can-crack-everything-but-captchas-2000810126\">frustrating</a> Claude.</p>\n<blockquote><p>In the transcript, the Claude model that is so powerful that Anthropic is gatekeeping access to it appeared to slam its virtual head against t",
@@ -888,44 +918,14 @@
         "Law Enforcement"
       ],
       "threshold": 9.64
-    },
-    {
-      "title": "Security Vulnerability in a Voting System",
-      "url": "https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html",
-      "summary": "<p>It&#8217;s a vulnerability that allows someone to recover the order of ballots cast, <a href=\"https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/\">newly exploited</a> with AI tools.</p>\n<blockquote><p>Nearly four years since the original vulnerability was disclosed, I was still able to use it to analyze voter behavior in Georgia (one of the 21 states that uses affected scanners) in the recent May 2026 primary.</p>\n<p><em>Notably, I never touched a voti",
-      "source": "Schneier on Security",
-      "published": "2026-09-11T14:42:10.947510+00:00",
-      "raw_score": 4.409949926487563,
-      "score": 46,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 9.64
-    },
-    {
-      "title": "Cliff Stoll’s DEF CON Talk",
-      "url": "https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html",
-      "summary": "<p>In August, Cliff Stoll gave a <a href=\"https://www.youtube.com/watch?v=656058JxTM0\">talk</a> at DEF CON, remembering the wily hacker he stalked forty years ago.</p>\n<p>Great fun.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-09-11T14:42:10.946118+00:00",
-      "raw_score": 3.9105623726936267,
-      "score": 44,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.64
     }
   ],
-  "updated": "2026-09-18T12:29:15.213349+00:00",
+  "updated": "2026-09-18T16:48:39.070938+00:00",
   "stats": {
     "total": 61,
     "relevant": 9,
     "critical": 2,
-    "new_this_run": 1,
+    "new_this_run": 2,
     "sources": 3
   }
 }
