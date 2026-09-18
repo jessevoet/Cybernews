@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Are AIs Still Struggling with CAPTCHAs?",
+      "url": "https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html",
+      "summary": "<p>Anthropic&#8217;s recent security-incident <a href=\"https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf\">document</a> contains a bit about how CAPTCHAs are still <a href=\"https://gizmodo.com/ai-models-can-crack-everything-but-captchas-2000810126\">frustrating</a> Claude.</p>\n<blockquote><p>In the transcript, the Claude model that is so powerful that Anthropic is gatekeeping access to it appeared to slam its virtual head against t",
+      "source": "Schneier on Security",
+      "published": "2026-09-18T12:29:03.738229+00:00",
+      "raw_score": 0.0,
+      "score": 24,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "APT / Nation State"
+      ],
+      "threshold": 9.27
+    },
+    {
       "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
@@ -905,12 +920,12 @@
       "threshold": 9.64
     }
   ],
-  "updated": "2026-09-18T07:45:29.682199+00:00",
+  "updated": "2026-09-18T12:29:15.213349+00:00",
   "stats": {
-    "total": 60,
+    "total": 61,
     "relevant": 9,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 3
   }
 }
