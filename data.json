@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: On Squid Egg Sacs",
+      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html",
+      "summary": "<p>Short <a href=\"https://harpswellanchor.org/2026/08/intertidal-squid-courtship-is-unusual-and-colorful/\">essay</a> about squid egg sacs.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
+      "source": "Schneier on Security",
+      "published": "2026-09-18T22:03:34.631113+00:00",
+      "raw_score": 1.7415758305526265,
+      "score": 35,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.12
+    },
+    {
       "title": "Fake calendar invites can infect your system, and they’re surging – how to protect yourself",
       "url": "https://www.zdnet.com/tech/fake-calendar-invites-malware/",
       "summary": "These invites sneak past your security software to embed themselves in your calendar. But you can thwart them before they do any damage.",
@@ -888,29 +903,14 @@
         "General"
       ],
       "threshold": 9.6
-    },
-    {
-      "title": "My Talk at DEF CON",
-      "url": "https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html",
-      "summary": "<p>Last month, I gave a <a href=\"https://www.youtube.com/watch?v=eEBv0STiYhI\">talk</a> at DEF CON on AI hacking: what happens when AIs become hackers. It&#8217;s a combination of the potentialities I raised in my 2022 book <a href=\"https://www.schneier.com/books/a-hackers-mind/\"><i>A Hacker&#8217;s Mind</i></a> and the lessons we&#8217;re learning from current AI models engaging in hacking behavior. I&#8217;m really proud of the talk, and the fact that it gained over 100K views on YouTube in jus",
-      "source": "Schneier on Security",
-      "published": "2026-09-11T20:41:27.805776+00:00",
-      "raw_score": 3.1506690025452055,
-      "score": 41,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.6
     }
   ],
-  "updated": "2026-09-18T19:18:16.682102+00:00",
+  "updated": "2026-09-18T22:03:47.356073+00:00",
   "stats": {
     "total": 60,
     "relevant": 9,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 3
   }
 }
