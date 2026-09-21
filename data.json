@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "title": "The latest Windows 11 update may mess with your device’s audio – here’s the workaround",
+      "url": "https://www.zdnet.com/business/windows-11-sept-update-audio-glitch-fix/",
+      "summary": "The September Patch Tuesday update is causing audio problems with certain USB devices, but you may be able to resolve it yourself.",
+      "source": "ZDNet Security",
+      "published": "2026-09-21T21:24:36.577939+00:00",
+      "raw_score": 10.032393402841313,
+      "score": 76,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 9.2
+    },
+    {
+      "title": "Using AI for Weapons Development",
+      "url": "https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html",
+      "summary": "<p>Last week, Anthropic released a long and detailed <a href=\"https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf\">document</a> describing current misuses of their Claude models. I&#8217;m still reading it, but I wanted to flag this:</p>\n<blockquote><p>We identified a cell of threat actors based in northern Yemen running three weapons development programs: a guided rocket that used a commodity phone-class flight computer with final",
+      "source": "Schneier on Security",
+      "published": "2026-09-21T21:24:26.289585+00:00",
+      "raw_score": 6.027366787477784,
+      "score": 56,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.2
+    },
+    {
+      "title": "Upcoming Speaking Engagements",
+      "url": "https://www.schneier.com/blog/archives/2026/09/upcoming-speaking-engagements-60.html",
+      "summary": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m speaking online (via Zoom) at a <a href=\"https://www.lwvme.org/civicrm-event/2400?a0=events-month&#38;a1=202609\">League of Women Voters event</a> on Tuesday, September 22, 2026 at 5 PM ET.</li>\n<li>I’m speaking at <a href=\"https://www.secwest.net/\">CanSecWest 2026</a> in Vancouver, Canada. The conference runs September 30–October 1, 2026; the time of my talk is TBD.</li>\n<li>I’m giving a talk on “<a href=\"https",
+      "source": "Schneier on Security",
+      "published": "2026-09-21T21:24:26.289452+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.2
+    },
+    {
       "title": "This LG TV jailbreak turns smart devices into spies, say researchers",
       "url": "https://www.zdnet.com/uncategorized/lg-tv-can-spy-on-you-say-researchers-how-to-prevent-it/",
       "summary": "Researchers say LG TV’s behavior ‘parallels malware’ – with user data logged even when TVs are on standby.",
@@ -662,60 +708,14 @@
         "General"
       ],
       "threshold": 9.66
-    },
-    {
-      "title": "The latest Windows 11 update may mess with your device’s audio – here’s the workaround",
-      "url": "https://www.zdnet.com/business/windows-11-sept-update-audio-glitch-fix-2/",
-      "summary": "The September Patch Tuesday update is causing audio problems with certain USB devices, but you may be able to resolve it yourself.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T20:02:37.430746+00:00",
-      "raw_score": 10.032393402841313,
-      "score": 72,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 9.95
-    },
-    {
-      "title": "Using AI for Weapons Development",
-      "url": "https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html",
-      "summary": "<p>Last week, Anthropic released a long and detailed <a href=\"https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf\">document</a> describing current misuses of their Claude models. I&#8217;m still reading it, but I wanted to flag this:</p>\n<blockquote><p>We identified a cell of threat actors based in northern Yemen running three weapons development programs: a guided rocket that used a commodity phone-class flight computer with final",
-      "source": "Schneier on Security",
-      "published": "2026-09-14T20:02:25.975662+00:00",
-      "raw_score": 6.027366787477784,
-      "score": 52,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.95
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "url": "https://www.schneier.com/blog/archives/2026/09/upcoming-speaking-engagements-60.html",
-      "summary": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m speaking online (via Zoom) at a <a href=\"https://www.lwvme.org/civicrm-event/2400?a0=events-month&#38;a1=202609\">League of Women Voters event</a> on Tuesday, September 22, 2026 at 5 PM ET.</li>\n<li>I’m speaking at <a href=\"https://www.secwest.net/\">CanSecWest 2026</a> in Vancouver, Canada. The conference runs September 30–October 1, 2026; the time of my talk is TBD.</li>\n<li>I’m giving a talk on “<a href=\"https",
-      "source": "Schneier on Security",
-      "published": "2026-09-14T20:02:25.975524+00:00",
-      "raw_score": 0.0,
-      "score": 21,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.95
     }
   ],
-  "updated": "2026-09-21T17:25:54.596380+00:00",
+  "updated": "2026-09-21T21:24:38.079823+00:00",
   "stats": {
     "total": 47,
     "relevant": 11,
     "critical": 2,
-    "new_this_run": 15,
+    "new_this_run": 3,
     "sources": 3
   }
 }
