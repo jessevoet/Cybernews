@@ -1,6 +1,231 @@
 {
   "items": [
     {
+      "title": "This LG TV jailbreak turns smart devices into spies, say researchers",
+      "url": "https://www.zdnet.com/uncategorized/lg-tv-can-spy-on-you-say-researchers-how-to-prevent-it/",
+      "summary": "Researchers say LG TV’s behavior ‘parallels malware’ – with user data logged even when TVs are on standby.",
+      "source": "ZDNet Security",
+      "published": "2026-09-21T17:25:53.062507+00:00",
+      "raw_score": 7.887876876926831,
+      "score": 65,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Malware"
+      ],
+      "threshold": 9.2
+    },
+    {
+      "title": "5 biggest Apple announcements from the iPhone Duo event",
+      "url": "https://www.zdnet.com/business/everything-apple-announced-at-its-iphone-18-event-duo/",
+      "summary": "Apple announced a new foldable called the iPhone Duo, the iPhone 18 Pro, AirPods 5, and new Apple Watches at its Surprise and Shine event in Cupertino. Here’s the rundown.",
+      "source": "ZDNet Security",
+      "published": "2026-09-21T17:25:53.062366+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.2
+    },
+    {
+      "title": "The iPhone 17 and other older models just got a surprise $100 price hike",
+      "url": "https://www.zdnet.com/business/iphone-17-older-models-100-price-hike/",
+      "summary": "Apple quietly increased prices across its existing lineup after revealing its latest devices. Here’s why.",
+      "source": "ZDNet Security",
+      "published": "2026-09-21T17:25:53.062221+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.2
+    },
+    {
+      "title": "T-Mobile will give you the iPhone 18 Pro for free – here’s how to preorder",
+      "url": "https://www.zdnet.com/business/tmobile-iphone-18-deal/",
+      "summary": "The iPhone 18 Pro and Pro Max offer an impressive battery and professional-quality camera system – and you can get one on T-Mobile.",
+      "source": "ZDNet Security",
+      "published": "2026-09-21T17:25:53.062076+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.2
+    },
+    {
+      "title": "Your friend with ‘nothing to hide’ is more likely to spy on you, study shows",
+      "url": "https://www.zdnet.com/tech/partner-has-nothing-to-hide-theyre-more-likely-to-spy-on-you/",
+      "summary": "New research explores behavioral trends behind that ‘nothing to hide’ phrase. Plus: 6 ways to improve your phone privacy.",
+      "source": "ZDNet Security",
+      "published": "2026-09-21T17:25:53.061886+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.2
+    },
+    {
+      "title": "Eager to try iOS 27’s cool AI features and upgraded Siri? Get ready for usage limits",
+      "url": "https://www.zdnet.com/innovation/how-apple-will-limit-your-ai-use/",
+      "summary": "A new Apple support page explains how Siri AI and other AI-powered tools in the new OS will be controlled.",
+      "source": "ZDNet Security",
+      "published": "2026-09-21T17:25:53.061738+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.2
+    },
+    {
+      "title": "I’ve been an Android user all my life, but I’m jealous of 3 things Apple just announced",
+      "url": "https://www.zdnet.com/tech/apple-event-features-android-users-want/",
+      "summary": "I hate to admit it, but I wish Android would do what Apple just did.",
+      "source": "ZDNet Security",
+      "published": "2026-09-21T17:25:53.061585+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.2
+    },
+    {
+      "title": "This CIO doesn’t ‘hire engineers to write code’: 3 AI fundamentals he prioritizes instead",
+      "url": "https://www.zdnet.com/innovation/chase-cio-ai-fundamentals/",
+      "summary": "Gill Haus explains Chase’s approach to AI – and getting the core fundamentals right.",
+      "source": "ZDNet Security",
+      "published": "2026-09-21T17:25:53.061442+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.2
+    },
+    {
+      "title": "Your older iPhone just got free satellite service for another year – here’s why",
+      "url": "https://www.zdnet.com/business/apple-extends-free-satellite-service-to-older-iphones/",
+      "summary": "This isn’t the first time that Apple has extended the free two-year trial.",
+      "source": "ZDNet Security",
+      "published": "2026-09-21T17:25:53.061293+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.2
+    },
+    {
+      "title": "Switzerland takes a Swiss Army knife to Microsoft 365",
+      "url": "https://www.zdnet.com/business/switzerland-replaces-microsoft-365-open-source-opendesk/",
+      "summary": "Two divisions of Switzerland’s government are shifting from Microsoft 365 to open-source openDesk. Here’s why.",
+      "source": "ZDNet Security",
+      "published": "2026-09-21T17:25:53.061156+00:00",
+      "raw_score": 6.098069037184269,
+      "score": 57,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 9.2
+    },
+    {
+      "title": "The AI models that cheat the most, according to new CAIS benchmark",
+      "url": "https://www.zdnet.com/innovation/ai-model-cheating-benchmark-cheatbench/",
+      "summary": "We know models cheat. A new benchmark measures how much, and on what tasks.",
+      "source": "ZDNet Security",
+      "published": "2026-09-21T17:25:53.059005+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.2
+    },
+    {
+      "title": "Claim up to $95 today from Apple’s Siri AI settlement – here’s how",
+      "url": "https://www.zdnet.com/business/claim-your-payout-now-from-apple-siri-ai-settlement/",
+      "summary": "Got an iPhone 15 Pro, Pro Max, or 16? Apple is doling out $250 million – here’s how to qualify and file a claim to get your cut.",
+      "source": "ZDNet Security",
+      "published": "2026-09-21T17:25:53.058877+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.2
+    },
+    {
+      "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
+      "url": "https://projectzero.google/2026/09/windows-dangling-com.html",
+      "summary": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed “Dark Elevator” by Calif. The root cause of the bug was a dangling COM object registration for the CrossDevice COM object with the CLSID {E9F83CF2-E0C0-4CA7-AF01-E90C70BEF496}. A COM registration typically needs two parts: a server executable, which for in-process components is a ",
+      "source": "Google Project Zero",
+      "published": "2026-09-21T17:25:46.123269+00:00",
+      "raw_score": 6.593552252651085,
+      "score": 59,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 9.2
+    },
+    {
+      "title": "Microsoft’s Patching",
+      "url": "https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html",
+      "summary": "<p>Once a month, Microsoft pushes a security update to all Windows users. Tomorrow&#8217;s is a <a href=\"https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/\">new record</a>:</p>\n<blockquote><p>Microsoft&#8217;s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold.</p>\n<p>It was only two months ago that Microsoft patched a then-record 570 vuln",
+      "source": "Schneier on Security",
+      "published": "2026-09-21T17:25:39.624558+00:00",
+      "raw_score": 5.1570120509598665,
+      "score": 52,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Advisory"
+      ],
+      "threshold": 9.2
+    },
+    {
+      "title": "Reverse-Engineering Flock Cameras",
+      "url": "https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html",
+      "summary": "<p>Hackers captured a Flock camera and got a <a href=\"https://www.404media.co/hackers-stole-flocks-camera-software-revealing-how-the-company-tracks-cars-and-people-2/\">look</a> (alternate <a href=\"https://archive.ph/gQoMs\">link</a>) at the software:</p>\n<blockquote><p>While much of the automatic license plate reader&#8217;s (ALPR) most sensitive storage remained encrypted and inaccessible, the joint analysis of the recovered data shows that software running on the device explicitly detects peopl",
+      "source": "Schneier on Security",
+      "published": "2026-09-21T17:25:39.623153+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "APT / Nation State"
+      ],
+      "threshold": 9.2
+    },
+    {
       "title": "A 0-click exploit chain for the Pixel 9 Part 1: Decoding Dolby",
       "url": "https://projectzero.google/2026/01/pixel-0-click-part-1.html",
       "summary": "Over the past few years, several AI-powered features have been added to mobile phones that allow users to better search and understand their messages. One effect of this change is increased 0-click attack surface, as efficient analysis often requires message media to be decoded before the message is opened by the user. One such feature is audio transcription. Incoming SMS and RCS audio attachments received by Google Messages are now automatically decoded with no user interaction. As a result, au",
@@ -483,419 +708,14 @@
         "General"
       ],
       "threshold": 9.95
-    },
-    {
-      "title": "Roborock’s first robotic pool cleaner makes a splash at IFA 2026",
-      "url": "https://www.zdnet.com/home-and-office/roborock-robot-pool-cleaner-ifa-2026/",
-      "summary": "The robot vacuum and mop brand launched multiple new products this week in Germany.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.763331+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "The moment a business outgrows DIY payroll and what to do next",
-      "url": "https://www.zdnet.com/paid-content/article/the-moment-a-business-outgrows-diy-payroll-and-what-to-do-next/",
-      "summary": "Relying on spreadsheets for payroll works — until it doesn’t. Here are the operational signs that it is time to migrate to dedicated HR tech, along with a roadmap for making the switch.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.763195+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "The payroll errors costing small businesses thousands, and how to avoid them",
-      "url": "https://www.zdnet.com/paid-content/article/the-payroll-errors-costing-small-businesses-thousands-and-how-to-avoid-them/",
-      "summary": "Three small business owners share how OnPay eliminates anxiety and prevents costly compliance mistakes.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.763030+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "I went hands-on with Lenovo’s latest rollable laptop – is it finally practical?",
-      "url": "https://www.zdnet.com/tech/lenovo-rollable-display-laptop-ifa-2026/",
-      "summary": "Unveiled at IFA, the 17-inch rollable horizontal display hits a middle ground that is more usable than its predecessors.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.762940+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "APT / Nation State"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "OpenAI’s new Astra model is finally here – why safety experts are worried",
-      "url": "https://www.zdnet.com/innovation/openai-astra-finally-here-experts-worried/",
-      "summary": "The frontier model is now live for a select group. Here’s what Astra can do, when to expect broader availability, and why it’s setting off alarms.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.762783+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "This AI tool found 6 Curl vulnerabilities Mythos and Codex missed – even Greg KH is impressed",
-      "url": "https://www.zdnet.com/innovation/aisle-ai-vulnerability-management-curl-bugs/",
-      "summary": "Aisle found six Curl flaws after Mythos and Codex reported none.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.762610+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "Save almost 50% on this 85-inch Hisense TV at Amazon for Labor Day",
-      "url": "https://www.zdnet.com/home-and-office/save-almost-50-on-this-85-inch-hisense-tv-at-amazon-for-labor-day/",
-      "summary": "The Hisense U7 is a solid Mini LED TV for streaming, gaming, and more – especially at this price.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.762458+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "The 5 coolest phones I saw at IFA 2026 – including a new foldable",
-      "url": "https://www.zdnet.com/tech/the-5-coolest-phones-i-saw-at-ifa-2026/",
-      "summary": "There are many amazing devices at IFA 2026, but these five phones were the perfect combination of practical and fun design.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.762317+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "Apple will announce the iPhone 18 this week – here’s how ZDNET readers think it’ll go down",
-      "url": "https://www.zdnet.com/business/apple-guessing-game-round-3-answers/",
-      "summary": "In the final round of our Big Guessing Game, you shared your predictions on the iPhone event to win a new Apple Watch. Here are the final results.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.762169+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "I demoed Sony’s new 2026 budget over-ear headphones – including a WH-1000XM4 refresh",
-      "url": "https://www.zdnet.com/tech/sony-budget-over-ear-headphones-2026-demo/",
-      "summary": "Sony’s budget headphone lineup starts at $70 and includes the WH-1000XM4, WH-CH730N, and WH-CH530 models.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.761993+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "Latest Windows 11 update restores your taskbar control, patches 995 security flaws",
-      "url": "https://www.zdnet.com/uncategorized/windows-11-september-2026-update/",
-      "summary": "The September Windows 11 update set a new patching record with almost 1,000 security flaws fixed.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.761836+00:00",
-      "raw_score": 1.4100460413670526,
-      "score": 30,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Advisory"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "Apple event 2026 live updates: The first foldable iPhone and more in real time",
-      "url": "https://www.zdnet.com/business/apple-september-event-live-blog-2026/",
-      "summary": "ZDNET editors are on the ground in Cupertino to cover the ‘Surprise and shine’ event live.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.761741+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "Want iOS 27 on day one? Don’t skip this last-minute iPhone update",
-      "url": "https://www.zdnet.com/business/iphone-update-fixes-cellular-download-bug-before-ios-27-releases/",
-      "summary": "iOS 26.6.2 squashes a bug that could prevent users without Wi-Fi from downloading software updates, including iOS 27.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.761583+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "You can doodle in ChatGPT now, and it’ll transform your drawings into polished images – how to try it",
-      "url": "https://www.zdnet.com/innovation/chatgpt-sketch-ai-image-generator-tutorial/",
-      "summary": "With ChatGPT’s new Sketch tool, you can draw directly in the chat window and then watch as your drawing is transformed into a final image.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.761435+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "iOS 27 release date confirmed: 9 things your iPhone can do once you update",
-      "url": "https://www.zdnet.com/business/ios-27-release-date-new-iphone-features/",
-      "summary": "The Apple event revealed much more than a new lineup of iPhones. iOS 27 has a release date now.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.761247+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "This LG TV jailbreak turns smart devices into spies, say researchers",
-      "url": "https://www.zdnet.com/uncategorized/lg-tv-can-spy-on-you-say-researchers-how-to-prevent-it/",
-      "summary": "Researchers say LG TV’s behavior ‘parallels malware’ – with user data logged even when TVs are on standby.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.761152+00:00",
-      "raw_score": 7.887876876926831,
-      "score": 63,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Malware"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "5 biggest Apple announcements from the iPhone Duo event",
-      "url": "https://www.zdnet.com/business/everything-apple-announced-at-its-iphone-18-event-duo/",
-      "summary": "Apple announced a new foldable called the iPhone Duo, the iPhone 18 Pro, AirPods 5, and new Apple Watches at its Surprise and Shine event in Cupertino. Here’s the rundown.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.761000+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "The iPhone 17 and other older models just got a surprise $100 price hike",
-      "url": "https://www.zdnet.com/business/iphone-17-older-models-100-price-hike/",
-      "summary": "Apple quietly increased prices across its existing lineup after revealing its latest devices. Here’s why.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.760845+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "T-Mobile will give you the iPhone 18 Pro for free – here’s how to preorder",
-      "url": "https://www.zdnet.com/business/tmobile-iphone-18-deal/",
-      "summary": "The iPhone 18 Pro and Pro Max offer an impressive battery and professional-quality camera system – and you can get one on T-Mobile.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.760694+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "Your friend with ‘nothing to hide’ is more likely to spy on you, study shows",
-      "url": "https://www.zdnet.com/tech/partner-has-nothing-to-hide-theyre-more-likely-to-spy-on-you/",
-      "summary": "New research explores behavioral trends behind that ‘nothing to hide’ phrase. Plus: 6 ways to improve your phone privacy.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.760528+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "Eager to try iOS 27’s cool AI features and upgraded Siri? Get ready for usage limits",
-      "url": "https://www.zdnet.com/innovation/how-apple-will-limit-your-ai-use/",
-      "summary": "A new Apple support page explains how Siri AI and other AI-powered tools in the new OS will be controlled.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.760373+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "I’ve been an Android user all my life, but I’m jealous of 3 things Apple just announced",
-      "url": "https://www.zdnet.com/tech/apple-event-features-android-users-want/",
-      "summary": "I hate to admit it, but I wish Android would do what Apple just did.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.760210+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "This CIO doesn’t ‘hire engineers to write code’: 3 AI fundamentals he prioritizes instead",
-      "url": "https://www.zdnet.com/innovation/chase-cio-ai-fundamentals/",
-      "summary": "Gill Haus explains Chase’s approach to AI – and getting the core fundamentals right.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.760056+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "Your older iPhone just got free satellite service for another year – here’s why",
-      "url": "https://www.zdnet.com/business/apple-extends-free-satellite-service-to-older-iphones/",
-      "summary": "This isn’t the first time that Apple has extended the free two-year trial.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.759895+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "Switzerland takes a Swiss Army knife to Microsoft 365",
-      "url": "https://www.zdnet.com/business/switzerland-replaces-microsoft-365-open-source-opendesk/",
-      "summary": "Two divisions of Switzerland’s government are shifting from Microsoft 365 to open-source openDesk. Here’s why.",
-      "source": "ZDNet Security",
-      "published": "2026-09-14T15:26:08.759723+00:00",
-      "raw_score": 6.098069037184269,
-      "score": 54,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "Automobile Camouflage to Hide from Flock Cameras",
-      "url": "https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html",
-      "summary": "<p>Not sure it&#8217;s practical, but it&#8217;s certainly <a href=\"https://www.bitdefender.com/en-us/blog/hotforsecurity/invisible-car-machine-learning-hide-vehicle-flock-cameras\">striking</a>.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-09-14T15:25:55.836810+00:00",
-      "raw_score": 0.0,
-      "score": 22,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.56
-    },
-    {
-      "title": "Microsoft’s Patching",
-      "url": "https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html",
-      "summary": "<p>Once a month, Microsoft pushes a security update to all Windows users. Tomorrow&#8217;s is a <a href=\"https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/\">new record</a>:</p>\n<blockquote><p>Microsoft&#8217;s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold.</p>\n<p>It was only two months ago that Microsoft patched a then-record 570 vuln",
-      "source": "Schneier on Security",
-      "published": "2026-09-14T15:25:55.835452+00:00",
-      "raw_score": 5.1570120509598665,
-      "score": 49,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Advisory"
-      ],
-      "threshold": 9.56
     }
   ],
-  "updated": "2026-09-21T11:26:49.602122+00:00",
+  "updated": "2026-09-21T17:25:54.596380+00:00",
   "stats": {
-    "total": 59,
-    "relevant": 9,
+    "total": 47,
+    "relevant": 11,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 15,
     "sources": 3
   }
 }
