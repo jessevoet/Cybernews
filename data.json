@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "How Cisco is confronting the security crisis of agentic AI",
+      "url": "https://www.zdnet.com/paid-content/article/how-cisco-is-confronting-the-security-crisis-of-agentic-ai/",
+      "summary": "“There are shadow agents running in almost every environment we look at,” warns Cisco’s VP of product for identity, who oversees the company’s Duo Agentic Identity product designed to solve the problem.",
+      "source": "ZDNet Security",
+      "published": "2026-09-22T22:31:40.701609+00:00",
+      "raw_score": 1.5776852455570598,
+      "score": 35,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.09
+    },
+    {
+      "title": "Testing race conditions with memory access tracing and stack-based delay injection",
+      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+      "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static analysis. Regression tests: After fixing a race condition bug, there is often no good way to write a regression test that reliably triggers the bug as part of a test suite. Automatic bug discovery, such as fuzzing: It is hard for",
+      "source": "Google Project Zero",
+      "published": "2026-09-22T22:31:35.857490+00:00",
+      "raw_score": 1.5541416604483076,
+      "score": 35,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.09
+    },
+    {
       "title": "Claude Opus 5.5 delivers Fable 5.1 performance – and costs 40% less",
       "url": "https://www.zdnet.com/innovation/anthropic-claude-opus-5-5-fable-5-1-performance-costs-less/",
       "summary": "Anthropic’s newest Claude model aims to make frontier AI cheaper, faster, and safer, while giving subscribers more breathing room before those frustrating usage limits kick in.",
@@ -708,44 +738,14 @@
         "ICS / OT"
       ],
       "threshold": 9.37
-    },
-    {
-      "title": "How Cisco is confronting the security crisis of agentic AI",
-      "url": "https://www.zdnet.com/paid-content/article/how-cisco-is-confronting-the-security-crisis-of-agentic-ai/",
-      "summary": "“There are shadow agents running in almost every environment we look at,” warns Cisco’s VP of product for identity, who oversees the company’s Duo Agentic Identity product designed to solve the problem.",
-      "source": "ZDNet Security",
-      "published": "2026-09-15T20:45:47.012900+00:00",
-      "raw_score": 1.5776852455570598,
-      "score": 32,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.53
-    },
-    {
-      "title": "Testing race conditions with memory access tracing and stack-based delay injection",
-      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
-      "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static analysis. Regression tests: After fixing a race condition bug, there is often no good way to write a regression test that reliably triggers the bug as part of a test suite. Automatic bug discovery, such as fuzzing: It is hard for",
-      "source": "Google Project Zero",
-      "published": "2026-09-15T20:45:42.781600+00:00",
-      "raw_score": 1.5541416604483076,
-      "score": 32,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.53
     }
   ],
-  "updated": "2026-09-22T19:23:49.874502+00:00",
+  "updated": "2026-09-22T22:31:42.309836+00:00",
   "stats": {
     "total": 49,
     "relevant": 11,
     "critical": 2,
-    "new_this_run": 1,
+    "new_this_run": 2,
     "sources": 3
   }
 }
