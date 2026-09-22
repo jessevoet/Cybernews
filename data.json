@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Claude Opus 5.5 delivers Fable 5.1 performance – and costs 40% less",
+      "url": "https://www.zdnet.com/innovation/anthropic-claude-opus-5-5-fable-5-1-performance-costs-less/",
+      "summary": "Anthropic’s newest Claude model aims to make frontier AI cheaper, faster, and safer, while giving subscribers more breathing room before those frustrating usage limits kick in.",
+      "source": "ZDNet Security",
+      "published": "2026-09-22T19:23:48.347068+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.09
+    },
+    {
       "title": "iOS 27 is finally here, with the new Siri AI beta – and 120 security patches",
       "url": "https://www.zdnet.com/business/ios-27-siri-ai-beta-how-to-try/",
       "summary": "Even if you’re not ready for iOS 27, there’s an important new update for you too. Here’s what’s new.",
@@ -725,12 +740,12 @@
       "threshold": 9.53
     }
   ],
-  "updated": "2026-09-22T15:15:45.269621+00:00",
+  "updated": "2026-09-22T19:23:49.874502+00:00",
   "stats": {
-    "total": 48,
+    "total": 49,
     "relevant": 11,
     "critical": 2,
-    "new_this_run": 4,
+    "new_this_run": 1,
     "sources": 3
   }
 }
