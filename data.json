@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "iOS 27 is finally here, with the new Siri AI beta – and 120 security patches",
+      "url": "https://www.zdnet.com/business/ios-27-siri-ai-beta-how-to-try/",
+      "summary": "Even if you’re not ready for iOS 27, there’s an important new update for you too. Here’s what’s new.",
+      "source": "ZDNet Security",
+      "published": "2026-09-22T15:15:43.774019+00:00",
+      "raw_score": 1.5655023479079706,
+      "score": 34,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Advisory"
+      ],
+      "threshold": 9.3
+    },
+    {
+      "title": "On the NSA’s Supercomputer from the 1960s",
+      "url": "https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html",
+      "summary": "<p>Really interesting <a href=\"https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm\">story</a> about Harvest, a specialized code breaking computer built in the 1960s by IBM for the NSA.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-09-22T15:15:32.571403+00:00",
+      "raw_score": 3.525115103417632,
+      "score": 44,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.3
+    },
+    {
+      "title": "25 Years of Mass Surveillance Is Enough",
+      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+      "summary": "<p><em>This essay was written with Cindy Cohn, and originally appeared in <a href=\"https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough\">Lawfare</a>.</em></p>\n<p>One of the many legacies of the terrorist attacks of Sept. 11 is the government-wide shift from targeted surveillance&#8212;such as individual wiretaps or pen register/trap and trace orders&#8212;to mass surveillance techniques&#8212;such as tapping into the internet backbone or mass collection of telephone or in",
+      "source": "Schneier on Security",
+      "published": "2026-09-22T15:15:32.571246+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.3
+    },
+    {
+      "title": "GPT-6 Astra Breaks an Old Enigma Message",
+      "url": "https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html",
+      "summary": "<p><a href=\"https://www.cryptocellar.org/bgac/the-mvueh-break.html\">This</a> is pretty amazing:</p>\n<blockquote><p>However, the most astonishing thing about this break is that the GPT­6 Astra did it entirely on its own. Carter Leffer only directed GPT­6 Astra to see if it could break any of the unbroken Enigma messages published on the Crypto Cellar Research web page. After analysing the unbroken messages on the website, it decided that the most promising message was Nr. 172, MVUEH and it also q",
+      "source": "Schneier on Security",
+      "published": "2026-09-22T15:15:32.570449+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.3
+    },
+    {
       "title": "The latest Windows 11 update may mess with your device’s audio – here’s the workaround",
       "url": "https://www.zdnet.com/business/windows-11-sept-update-audio-glitch-fix/",
       "summary": "The September Patch Tuesday update is causing audio problems with certain USB devices, but you may be able to resolve it yourself.",
@@ -663,59 +723,14 @@
         "General"
       ],
       "threshold": 9.53
-    },
-    {
-      "title": "iOS 27 is finally here, with the new Siri AI beta – and 120 security patches",
-      "url": "https://www.zdnet.com/business/ios-27-siri-ai-beta-how-to-try/",
-      "summary": "Even if you’re not ready for iOS 27, there’s an important new update for you too. Here’s what’s new.",
-      "source": "ZDNet Security",
-      "published": "2026-09-15T13:58:51.269839+00:00",
-      "raw_score": 1.5655023479079706,
-      "score": 31,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Advisory"
-      ],
-      "threshold": 9.66
-    },
-    {
-      "title": "On the NSA’s Supercomputer from the 1960s",
-      "url": "https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html",
-      "summary": "<p>Really interesting <a href=\"https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm\">story</a> about Harvest, a specialized code breaking computer built in the 1960s by IBM for the NSA.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-09-15T13:58:38.391242+00:00",
-      "raw_score": 3.525115103417632,
-      "score": 41,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.66
-    },
-    {
-      "title": "25 Years of Mass Surveillance Is Enough",
-      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-      "summary": "<p><em>This essay was written with Cindy Cohn, and originally appeared in <a href=\"https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough\">Lawfare</a>.</em></p>\n<p>One of the many legacies of the terrorist attacks of Sept. 11 is the government-wide shift from targeted surveillance&#8212;such as individual wiretaps or pen register/trap and trace orders&#8212;to mass surveillance techniques&#8212;such as tapping into the internet backbone or mass collection of telephone or in",
-      "source": "Schneier on Security",
-      "published": "2026-09-15T13:58:38.391072+00:00",
-      "raw_score": 0.0,
-      "score": 23,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.66
     }
   ],
-  "updated": "2026-09-22T10:34:55.930824+00:00",
+  "updated": "2026-09-22T15:15:45.269621+00:00",
   "stats": {
-    "total": 47,
+    "total": 48,
     "relevant": 11,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 4,
     "sources": 3
   }
 }
