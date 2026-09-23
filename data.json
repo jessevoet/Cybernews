@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "How September’s Pixel Drop changes the way you call and message important contacts",
+      "url": "https://www.zdnet.com/tech/september-pixel-drop-call-message-important-contacts/",
+      "summary": "The update lets you contact VIPs with a tap and adds scam protection.",
+      "source": "ZDNet Security",
+      "published": "2026-09-23T20:51:08.901357+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.78
+    },
+    {
+      "title": "Anthropic merges Claude chat and Cowork into one",
+      "url": "https://www.zdnet.com/innovation/claude-chat-absorbs-cowork-anthropic/",
+      "summary": "From Claude to Cowork and back again – plus, Anthropic’s all-new Claude Docs.",
+      "source": "ZDNet Security",
+      "published": "2026-09-23T20:51:08.901203+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.78
+    },
+    {
+      "title": "I recommend you don’t run these appliances on your power station – even if you can",
+      "url": "https://www.zdnet.com/home-and-office/do-not-run-these-appliances-on-power-stations/",
+      "summary": "Using a power station for backup is ideal, but not with these appliances.",
+      "source": "ZDNet Security",
+      "published": "2026-09-23T20:51:08.901056+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.78
+    },
+    {
       "title": "Windows 11 out-of-band update fixes audio glitch and other bugs – grab it now",
       "url": "https://www.zdnet.com/business/windows-11-out-of-band-update-fixes-audio-glitch/",
       "summary": "The latest out-of-band update resolves a few problems in Windows 11, including one that cut off the sound for certain USB audio devices.",
@@ -739,59 +784,14 @@
         "ICS / OT"
       ],
       "threshold": 8.98
-    },
-    {
-      "title": "How September’s Pixel Drop changes the way you call and message important contacts",
-      "url": "https://www.zdnet.com/tech/september-pixel-drop-call-message-important-contacts/",
-      "summary": "The update lets you contact VIPs with a tap and adds scam protection.",
-      "source": "ZDNet Security",
-      "published": "2026-09-16T17:51:01.165237+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.37
-    },
-    {
-      "title": "Goodbye, Claude Cowork: Anthropic merges its two Claudes into one",
-      "url": "https://www.zdnet.com/innovation/claude-chat-absorbs-cowork-anthropic/",
-      "summary": "From Claude to Cowork and back again – plus, Anthropic’s all-new Claude Docs.",
-      "source": "ZDNet Security",
-      "published": "2026-09-16T17:51:01.165117+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.37
-    },
-    {
-      "title": "I recommend you don’t run these appliances on your power station – even if you can",
-      "url": "https://www.zdnet.com/home-and-office/do-not-run-these-appliances-on-power-stations/",
-      "summary": "Using a power station for backup is ideal, but not with these appliances.",
-      "source": "ZDNet Security",
-      "published": "2026-09-16T17:51:01.164991+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.37
     }
   ],
-  "updated": "2026-09-23T17:35:01.320571+00:00",
+  "updated": "2026-09-23T20:51:10.211636+00:00",
   "stats": {
     "total": 52,
     "relevant": 12,
     "critical": 2,
-    "new_this_run": 5,
+    "new_this_run": 3,
     "sources": 3
   }
 }
