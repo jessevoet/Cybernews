@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Research on Models Engaging in Genie-Like Behavior",
+      "url": "https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html",
+      "summary": "<p>New paper: &#8220;<a href=\"https://arxiv.org/abs/2510.20956\">Self-Jailbreaking: Language Models Can Reason Themselves Out of Safety Alignment After Benign Reasoning Training</a>.&#8221;</p>\n<blockquote><p><b>Abstract:</b> We discover a novel and surprising phenomenon of unintentional misalignment in reasoning language models (RLMs), which we call self-jailbreaking. Specifically, after benign reasoning training on math or code domains, RLMs will use multiple strategies to circumvent their own ",
+      "source": "Schneier on Security",
+      "published": "2026-09-23T12:34:38.608983+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.09
+    },
+    {
       "title": "How Cisco is confronting the security crisis of agentic AI",
       "url": "https://www.zdnet.com/paid-content/article/how-cisco-is-confronting-the-security-crisis-of-agentic-ai/",
       "summary": "“There are shadow agents running in almost every environment we look at,” warns Cisco’s VP of product for identity, who oversees the company’s Duo Agentic Identity product designed to solve the problem.",
@@ -740,12 +755,12 @@
       "threshold": 9.37
     }
   ],
-  "updated": "2026-09-23T06:58:45.840041+00:00",
+  "updated": "2026-09-23T12:34:51.355805+00:00",
   "stats": {
-    "total": 49,
+    "total": 50,
     "relevant": 11,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 3
   }
 }
