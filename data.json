@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title": "Windows 11 out-of-band update fixes audio glitch and other bugs – grab it now",
+      "url": "https://www.zdnet.com/business/windows-11-out-of-band-update-fixes-audio-glitch/",
+      "summary": "The latest out-of-band update resolves a few problems in Windows 11, including one that cut off the sound for certain USB audio devices.",
+      "source": "ZDNet Security",
+      "published": "2026-09-23T17:34:59.800568+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.78
+    },
+    {
+      "title": "I’ve used both iPhone 18 Pro models – here’s how my buying advice is changing in 2026",
+      "url": "https://www.zdnet.com/business/iphone-18-pro-vs-pro-max-buying-advice-2026/",
+      "summary": "Can’t decide between the iPhone 18 Pro and 18 Pro Max? Absolute feature parity makes this year’s decision a little easier for me.",
+      "source": "ZDNet Security",
+      "published": "2026-09-23T17:34:59.800441+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.78
+    },
+    {
+      "title": "Nearly 70% of workers use AI regularly now – but many get no time to upskill",
+      "url": "https://www.zdnet.com/innovation/workera-study-ai-skills-upskilling-2026/",
+      "summary": "ZDNET Exclusive: A new Workera report shows businesses and employees aren’t on the same page about AI upskilling. Here’s what organizations need to know.",
+      "source": "ZDNet Security",
+      "published": "2026-09-23T17:34:59.799058+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.78
+    },
+    {
+      "title": "How to fix your Windows File History if the September update broke it",
+      "url": "https://www.zdnet.com/business/windows-update-break-file-history-fix-available/",
+      "summary": "A bug in the Windows Sept patch Tuesday update may stop File History from working. But a new optional update fixes it.",
+      "source": "ZDNet Security",
+      "published": "2026-09-23T17:34:59.798879+00:00",
+      "raw_score": 10.401935861063299,
+      "score": 75,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 9.78
+    },
+    {
+      "title": "Fake CAPTCHA Scams",
+      "url": "https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html",
+      "summary": "<p>New <a href=\"https://www.malwarebytes.com/cybersecurity/basics/fake-captcha-scams\">variant</a> of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-09-23T17:34:49.934568+00:00",
+      "raw_score": 3.035681082744286,
+      "score": 42,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "APT / Nation State",
+        "Malware",
+        "ICS / OT"
+      ],
+      "threshold": 9.78
+    },
+    {
       "title": "Research on Models Engaging in Genie-Like Behavior",
       "url": "https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html",
       "summary": "<p>New paper: &#8220;<a href=\"https://arxiv.org/abs/2510.20956\">Self-Jailbreaking: Language Models Can Reason Themselves Out of Safety Alignment After Benign Reasoning Training</a>.&#8221;</p>\n<blockquote><p><b>Abstract:</b> We discover a novel and surprising phenomenon of unintentional misalignment in reasoning language models (RLMs), which we call self-jailbreaking. Specifically, after benign reasoning training on math or code domains, RLMs will use multiple strategies to circumvent their own ",
@@ -706,61 +784,14 @@
         "General"
       ],
       "threshold": 9.37
-    },
-    {
-      "title": "Windows 11 out-of-band update fixes audio glitch and other bugs – grab it now",
-      "url": "https://www.zdnet.com/business/windows-11-out-of-band-update-fixes-audio-glitch/",
-      "summary": "The latest out-of-band update resolves a few problems in Windows 11, including one that cut off the sound for certain USB audio devices.",
-      "source": "ZDNet Security",
-      "published": "2026-09-16T13:52:52.426479+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.37
-    },
-    {
-      "title": "I’ve used both iPhone 18 Pro models – here’s how my buying advice is changing in 2026",
-      "url": "https://www.zdnet.com/business/iphone-18-pro-vs-pro-max-buying-advice-2026/",
-      "summary": "Can’t decide between the iPhone 18 Pro and 18 Pro Max? Absolute feature parity makes this year’s decision a little easier for me.",
-      "source": "ZDNet Security",
-      "published": "2026-09-16T13:52:52.426275+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.37
-    },
-    {
-      "title": "Fake CAPTCHA Scams",
-      "url": "https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html",
-      "summary": "<p>New <a href=\"https://www.malwarebytes.com/cybersecurity/basics/fake-captcha-scams\">variant</a> of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-09-16T13:52:41.198981+00:00",
-      "raw_score": 3.035681082744286,
-      "score": 40,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "APT / Nation State",
-        "Malware",
-        "ICS / OT"
-      ],
-      "threshold": 9.37
     }
   ],
-  "updated": "2026-09-23T12:34:51.355805+00:00",
+  "updated": "2026-09-23T17:35:01.320571+00:00",
   "stats": {
-    "total": 50,
-    "relevant": 11,
+    "total": 52,
+    "relevant": 12,
     "critical": 2,
-    "new_this_run": 1,
+    "new_this_run": 5,
     "sources": 3
   }
 }
