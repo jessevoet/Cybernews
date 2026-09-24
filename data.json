@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "title": "Bose returns with new open earbuds (and a refreshed favorite)",
+      "url": "https://www.zdnet.com/tech/bose-ultra-earbuds-sport-open-earbuds/",
+      "summary": "Bose announces the Ultra Open (2nd Gen) and the Sport Open Earbuds, offering more options for aware listeners.",
+      "source": "ZDNet Security",
+      "published": "2026-09-24T18:03:52.416173+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.21
+    },
+    {
+      "title": "Claude Code’s revised projects adds AI orchestration, but local developers must wait",
+      "url": "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/",
+      "summary": "Claude Code Projects could change how developers manage complex AI coding workflows by coordinating threads, sharing memory, and spanning repos, but its biggest benefits are still cloud-only for now.",
+      "source": "ZDNet Security",
+      "published": "2026-09-24T18:03:52.416080+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.21
+    },
+    {
+      "title": "Is your Apple Watch 12 or Ultra 4 randomly restarting? Here’s the fix",
+      "url": "https://www.zdnet.com/tech/apple-watch-series-12-ultra-4-random-restarts-fix-update/",
+      "summary": "Some owners, including me, have reported sudden shutdowns while adjusting Apple Watch settings.",
+      "source": "ZDNet Security",
+      "published": "2026-09-24T18:03:52.414695+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.21
+    },
+    {
+      "title": "AI agent kill switch urged by Okta-led alliance – how businesses could make it work",
+      "url": "https://www.zdnet.com/innovation/okta-blueprint-alliance-ai-agents-oauth-kill-switch/",
+      "summary": "In response to the emerging threat of rogue and shadow AI agents, here’s how the newly formed Blueprint Alliance seeks to help businesses secure their systems against anomalous AI activity.",
+      "source": "ZDNet Security",
+      "published": "2026-09-24T18:03:52.414473+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.21
+    },
+    {
+      "title": "Microsoft’s Surface Mouse is back, now with haptic feedback – and I need it",
+      "url": "https://www.zdnet.com/home-and-office/microsoft-surface-mouse-haptic-feedback-customizable/",
+      "summary": "Due October 13, the $80 Surface mouse packs an impressive array of features. I want one.",
+      "source": "ZDNet Security",
+      "published": "2026-09-24T18:03:52.414191+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "APT / Nation State"
+      ],
+      "threshold": 10.21
+    },
+    {
+      "title": "How Candidates Could Use AI for Good",
+      "url": "https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html",
+      "summary": "<p><em>This essay was written with Nathan E. Sanders, and originally appeared in <a href=\"https://www.theguardian.com/commentisfree/2026/aug/31/ai-politics-voters\">The Guardian</a>.</em></p>\n<p>There are plenty of signs that AI will make all of our experiences of the US midterm elections worse. Voters have <a href=\"https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/\">anxiety</a> about AI&#8217;s impacts on the country",
+      "source": "Schneier on Security",
+      "published": "2026-09-24T18:03:42.811046+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "ICS / OT"
+      ],
+      "threshold": 10.21
+    },
+    {
       "title": "Malicious npm Packages That Evade Defenses",
       "url": "https://www.schneier.com/blog/archives/2026/09/malicious-npm-packages-that-evade-defenses.html",
       "summary": "<p>This is an impressive piece of <a href=\"https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/\">malware</a>. Its sophistication says nation-state to me, but there is no direct evidence and certainly no attribution.</p>",
@@ -754,59 +844,14 @@
         "General"
       ],
       "threshold": 9.11
-    },
-    {
-      "title": "Claude Code’s revised projects adds AI orchestration, but local developers must wait",
-      "url": "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/",
-      "summary": "Claude Code Projects could change how developers manage complex AI coding workflows by coordinating threads, sharing memory, and spanning repos, but its biggest benefits are still cloud-only for now.",
-      "source": "ZDNet Security",
-      "published": "2026-09-17T17:53:19.120362+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.98
-    },
-    {
-      "title": "Bose returns with new open earbuds (and a refreshed favorite)",
-      "url": "https://www.zdnet.com/tech/bose-ultra-earbuds-sport-open-earbuds/",
-      "summary": "Bose announces the Ultra Open (2nd Gen) and the Sport Open Earbuds, offering more options for aware listeners.",
-      "source": "ZDNet Security",
-      "published": "2026-09-17T13:56:27.316894+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.98
-    },
-    {
-      "title": "How Candidates Could Use AI for Good",
-      "url": "https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html",
-      "summary": "<p><em>This essay was written with Nathan E. Sanders, and originally appeared in <a href=\"https://www.theguardian.com/commentisfree/2026/aug/31/ai-politics-voters\">The Guardian</a>.</em></p>\n<p>There are plenty of signs that AI will make all of our experiences of the US midterm elections worse. Voters have <a href=\"https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/\">anxiety</a> about AI&#8217;s impacts on the country",
-      "source": "Schneier on Security",
-      "published": "2026-09-17T13:56:16.997458+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "ICS / OT"
-      ],
-      "threshold": 8.98
     }
   ],
-  "updated": "2026-09-24T13:08:38.941234+00:00",
+  "updated": "2026-09-24T18:03:53.803750+00:00",
   "stats": {
-    "total": 53,
+    "total": 56,
     "relevant": 13,
     "critical": 2,
-    "new_this_run": 1,
+    "new_this_run": 6,
     "sources": 3
   }
 }
