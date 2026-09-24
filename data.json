@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Malicious npm Packages That Evade Defenses",
+      "url": "https://www.schneier.com/blog/archives/2026/09/malicious-npm-packages-that-evade-defenses.html",
+      "summary": "<p>This is an impressive piece of <a href=\"https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/\">malware</a>. Its sophistication says nation-state to me, but there is no direct evidence and certainly no attribution.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-09-24T13:08:25.992534+00:00",
+      "raw_score": 9.776405931734066,
+      "score": 70,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Malware"
+      ],
+      "threshold": 10.21
+    },
+    {
       "title": "How September’s Pixel Drop changes the way you call and message important contacts",
       "url": "https://www.zdnet.com/tech/september-pixel-drop-call-message-important-contacts/",
       "summary": "The update lets you contact VIPs with a tap and adds scam protection.",
@@ -786,12 +801,12 @@
       "threshold": 8.98
     }
   ],
-  "updated": "2026-09-24T07:57:40.702511+00:00",
+  "updated": "2026-09-24T13:08:38.941234+00:00",
   "stats": {
-    "total": 52,
-    "relevant": 12,
+    "total": 53,
+    "relevant": 13,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 3
   }
 }
