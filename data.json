@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Roku rolls out over 30 subscription bundles for up to 30% off, plus a new Labs feature",
+      "url": "https://www.zdnet.com/home-and-office/roku-streaming-premium-bundles-labs-feature/",
+      "summary": "Roku’s money-saving bundles include channels like HBO Max, Starz, and Fox One.",
+      "source": "ZDNet Security",
+      "published": "2026-09-24T21:53:40.486734+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.21
+    },
+    {
+      "title": "Google Wallet got a lot of new tricks in 2026 – these 5 are my favorites",
+      "url": "https://www.zdnet.com/tech/new-google-wallet-features-2026/",
+      "summary": "You can do a whole lot more than tap to pay with Google’s Wallet app.",
+      "source": "ZDNet Security",
+      "published": "2026-09-24T21:53:40.485413+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.21
+    },
+    {
       "title": "Bose returns with new open earbuds (and a refreshed favorite)",
       "url": "https://www.zdnet.com/tech/bose-ultra-earbuds-sport-open-earbuds/",
       "summary": "Bose announces the Ultra Open (2nd Gen) and the Sport Open Earbuds, offering more options for aware listeners.",
@@ -829,29 +859,14 @@
         "Advisory"
       ],
       "threshold": 9.11
-    },
-    {
-      "title": "Roku rolls out over 30 subscription bundles for up to 30% off, plus a new Labs feature",
-      "url": "https://www.zdnet.com/home-and-office/roku-streaming-premium-bundles-labs-feature/",
-      "summary": "Roku’s money-saving bundles include channels like HBO Max, Starz, and Fox One.",
-      "source": "ZDNet Security",
-      "published": "2026-09-17T20:45:03.171201+00:00",
-      "raw_score": 0.0,
-      "score": 24,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.11
     }
   ],
-  "updated": "2026-09-24T18:03:53.803750+00:00",
+  "updated": "2026-09-24T21:53:41.906622+00:00",
   "stats": {
-    "total": 56,
+    "total": 57,
     "relevant": 13,
     "critical": 2,
-    "new_this_run": 6,
+    "new_this_run": 2,
     "sources": 3
   }
 }
