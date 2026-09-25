@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "Fake calendar invites can infect your system, and they’re surging – how to protect yourself",
+      "url": "https://www.zdnet.com/tech/fake-calendar-invites-malware/",
+      "summary": "These invites sneak past your security software to embed themselves in your calendar. But you can thwart them before they do any damage.",
+      "source": "ZDNet Security",
+      "published": "2026-09-25T19:42:04.244196+00:00",
+      "raw_score": 1.8385866858353983,
+      "score": 36,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.51
+    },
+    {
+      "title": "Businesses finally seeing AI ROI, but 62% can’t handle the storage demands",
+      "url": "https://www.zdnet.com/business/ai-storage-demand-seagate-study/",
+      "summary": "A Seagate study finds that 99% of IT leaders expect AI to drive increased data storage needs, but only 38% are prepared to meet them, revealing a significant readiness gap.",
+      "source": "ZDNet Security",
+      "published": "2026-09-25T19:42:04.244015+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.51
+    },
+    {
+      "title": "This one WatchOS 27 feature just solved my biggest issue with Apple Watch",
+      "url": "https://www.zdnet.com/uncategorized/watchos-27-update-fix-apple-watch/",
+      "summary": "Sometimes less is more, and the most helpful software update is the simplest.",
+      "source": "ZDNet Security",
+      "published": "2026-09-25T19:42:04.242073+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.51
+    },
+    {
       "title": "Microsoft’s new Copilot app puts everything in one place – but the price is ‘evolving’",
       "url": "https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/",
       "summary": "Microsoft says Copilot has gotten ‘actually really good.’ The new app has AI agents and can write code. So how much is all this going to cost?",
@@ -874,44 +919,14 @@
         "General"
       ],
       "threshold": 9.12
-    },
-    {
-      "title": "Fake calendar invites can infect your system, and they’re surging – how to protect yourself",
-      "url": "https://www.zdnet.com/tech/fake-calendar-invites-malware/",
-      "summary": "These invites sneak past your security software to embed themselves in your calendar. But you can thwart them before they do any damage.",
-      "source": "ZDNet Security",
-      "published": "2026-09-18T16:48:37.761385+00:00",
-      "raw_score": 1.8385866858353983,
-      "score": 35,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.11
-    },
-    {
-      "title": "Businesses finally seeing AI ROI, but 62% can’t handle the storage demands",
-      "url": "https://www.zdnet.com/business/ai-storage-demand-seagate-study/",
-      "summary": "A Seagate study finds that 99% of IT leaders expect AI to drive increased data storage needs, but only 38% are prepared to meet them, revealing a significant readiness gap.",
-      "source": "ZDNet Security",
-      "published": "2026-09-18T16:48:37.761177+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.11
     }
   ],
-  "updated": "2026-09-25T15:40:19.822256+00:00",
+  "updated": "2026-09-25T19:42:05.568515+00:00",
   "stats": {
-    "total": 60,
+    "total": 61,
     "relevant": 13,
     "critical": 2,
-    "new_this_run": 4,
+    "new_this_run": 3,
     "sources": 3
   }
 }
