@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "Microsoft’s new Copilot app puts everything in one place – but the price is ‘evolving’",
+      "url": "https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/",
+      "summary": "Microsoft says Copilot has gotten ‘actually really good.’ The new app has AI agents and can write code. So how much is all this going to cost?",
+      "source": "ZDNet Security",
+      "published": "2026-09-25T15:40:18.485028+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.42
+    },
+    {
+      "title": "Your LG TV is constantly collecting your data – here’s how to stop it",
+      "url": "https://www.zdnet.com/home-and-office/lg-tv-data-collection-how-to-factory-reset-and-why-you-need-to/",
+      "summary": "Factory resetting your LG TV is the only way to remove certain data logs from its hardware.",
+      "source": "ZDNet Security",
+      "published": "2026-09-25T15:40:18.484834+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.42
+    },
+    {
+      "title": "Are AIs Still Struggling with CAPTCHAs?",
+      "url": "https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html",
+      "summary": "<p>Anthropic&#8217;s recent security-incident <a href=\"https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf\">document</a> contains a bit about how CAPTCHAs are still <a href=\"https://gizmodo.com/ai-models-can-crack-everything-but-captchas-2000810126\">frustrating</a> Claude.</p>\n<blockquote><p>In the transcript, the Claude model that is so powerful that Anthropic is gatekeeping access to it appeared to slam its virtual head against t",
+      "source": "Schneier on Security",
+      "published": "2026-09-25T15:40:04.702253+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "APT / Nation State"
+      ],
+      "threshold": 10.42
+    },
+    {
+      "title": "On Anthropic’s AI Misuse Report",
+      "url": "https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html",
+      "summary": "<p>Earlier this month, Anthropic <a href=\"https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf\">published</a> a long report detailing all of the Claude misuses it detected. Daniel Meissler usefully <a href=\"https://danielmiessler.com/blog/anthropic-misuse-report-september-2026\">summarized</a> the report into 117 findings.</p>\n<blockquote><p>A few of the highlights:</p>\n<ul>\n<li>AI agents increasingly handled reconnaissance, exploita",
+      "source": "Schneier on Security",
+      "published": "2026-09-25T15:40:04.701327+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 10.42
+    },
+    {
       "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
@@ -844,29 +904,14 @@
         "General"
       ],
       "threshold": 9.11
-    },
-    {
-      "title": "Are AIs Still Struggling with CAPTCHAs?",
-      "url": "https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html",
-      "summary": "<p>Anthropic&#8217;s recent security-incident <a href=\"https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf\">document</a> contains a bit about how CAPTCHAs are still <a href=\"https://gizmodo.com/ai-models-can-crack-everything-but-captchas-2000810126\">frustrating</a> Claude.</p>\n<blockquote><p>In the transcript, the Claude model that is so powerful that Anthropic is gatekeeping access to it appeared to slam its virtual head against t",
-      "source": "Schneier on Security",
-      "published": "2026-09-18T12:29:03.738229+00:00",
-      "raw_score": 0.0,
-      "score": 24,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "APT / Nation State"
-      ],
-      "threshold": 9.27
     }
   ],
-  "updated": "2026-09-25T10:49:28.597140+00:00",
+  "updated": "2026-09-25T15:40:19.822256+00:00",
   "stats": {
-    "total": 57,
+    "total": 60,
     "relevant": 13,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 4,
     "sources": 3
   }
 }
