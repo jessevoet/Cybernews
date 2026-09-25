@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: On Squid Egg Sacs",
+      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html",
+      "summary": "<p>Short <a href=\"https://harpswellanchor.org/2026/08/intertidal-squid-courtship-is-unusual-and-colorful/\">essay</a> about squid egg sacs.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
+      "source": "Schneier on Security",
+      "published": "2026-09-25T22:57:14.118598+00:00",
+      "raw_score": 1.7415758305526265,
+      "score": 36,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.51
+    },
+    {
+      "title": "Friday Squid Blogging: Participatory Squid Dissection in October in Tennessee",
+      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-participatory-squid-dissection-in-october-in-tennessee.html",
+      "summary": "<p>I feel like someone who reads this blog will want to go to <a href=\"https://www.tullahomanews.com/living/2026/09/23/get-hands-on-with-marine-biology-with-family-squid-dissection-saturday/\">this</a>:</p>\n<blockquote><p>Families are invited to dive into the fascinating world of marine biology during an exciting, hands-on Family Squid Dissection at the Hands-On Science Center. Designed for curious learners of all ages, this unique experience combines an interactive lesson with the opportunity to",
+      "source": "Schneier on Security",
+      "published": "2026-09-25T22:57:14.117583+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.51
+    },
+    {
       "title": "Fake calendar invites can infect your system, and they’re surging – how to protect yourself",
       "url": "https://www.zdnet.com/tech/fake-calendar-invites-malware/",
       "summary": "These invites sneak past your security software to embed themselves in your calendar. But you can thwart them before they do any damage.",
@@ -904,29 +934,14 @@
         "General"
       ],
       "threshold": 9.12
-    },
-    {
-      "title": "Friday Squid Blogging: On Squid Egg Sacs",
-      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html",
-      "summary": "<p>Short <a href=\"https://harpswellanchor.org/2026/08/intertidal-squid-courtship-is-unusual-and-colorful/\">essay</a> about squid egg sacs.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
-      "source": "Schneier on Security",
-      "published": "2026-09-18T22:03:34.631113+00:00",
-      "raw_score": 1.7415758305526265,
-      "score": 35,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.12
     }
   ],
-  "updated": "2026-09-25T19:42:05.568515+00:00",
+  "updated": "2026-09-25T22:57:27.211895+00:00",
   "stats": {
-    "total": 61,
+    "total": 62,
     "relevant": 13,
     "critical": 2,
-    "new_this_run": 3,
+    "new_this_run": 2,
     "sources": 3
   }
 }
