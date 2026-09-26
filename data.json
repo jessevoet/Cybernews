@@ -919,29 +919,14 @@
         "General"
       ],
       "threshold": 9.12
-    },
-    {
-      "title": "Friday Squid Blogging: Rotting Squid on a Beached California Boat",
-      "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html",
-      "summary": "<p>Smells <a href=\"https://abc7news.com/post/tons-nasty-rotting-squid-creates-major-challenge-point-reyes-crews-prepare-salvage-operation-lake-bay-vessel/19771993/\">awful</a>:</p>\n<blockquote><p> But an estimated 30 to 50 tons of dead squid remain inside the boat&#8217;s catch tank, where they have been decomposing for days. &#8220;That is nasty. I wouldn&#8217;t want to do that,&#8221; said commercial fisherman Dick Ogg of the Bodega Bay Fishermen&#8217;s Marketing Association.</p>\n<p>Ogg said ",
-      "source": "Schneier on Security",
-      "published": "2026-09-19T00:46:53.228278+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.12
     }
   ],
-  "updated": "2026-09-25T22:57:27.211895+00:00",
+  "updated": "2026-09-26T01:09:02.906950+00:00",
   "stats": {
-    "total": 62,
+    "total": 61,
     "relevant": 13,
     "critical": 2,
-    "new_this_run": 2,
+    "new_this_run": 0,
     "sources": 3
   }
 }
