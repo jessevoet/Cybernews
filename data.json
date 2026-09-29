@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "Claude Opus 5.5 delivers Fable 5.1 performance – and costs 40% less",
+      "url": "https://www.zdnet.com/innovation/anthropic-claude-opus-5-5-fable-5-1-performance-costs-less/",
+      "summary": "Anthropic’s newest Claude model aims to make frontier AI cheaper, faster, and safer, while giving subscribers more breathing room before those frustrating usage limits kick in.",
+      "source": "ZDNet Security",
+      "published": "2026-09-29T21:09:47.503196+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.52
+    },
+    {
+      "title": "Get Kindle Unlimited free for 3 months with this early Prime Day deal",
+      "url": "https://www.zdnet.com/uncategorized/kindle-unlimited-amazon-october-prime-day-deal-2026/",
+      "summary": "Amazon’s free Kindle Unlimited deal only comes around a couple times a year – and I highly recommend it.",
+      "source": "ZDNet Security",
+      "published": "2026-09-29T21:09:47.501224+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.52
+    },
+    {
+      "title": "Is ChatGPT your new Google Workspace alternative? Meet Space, Pages, and slides",
+      "url": "https://www.zdnet.com/innovation/chatgpt-space-pages-slides-google-workspace-alternative/",
+      "summary": "OpenAI now lets teams create documents, build presentations, and work with AI agents inside ChatGPT",
+      "source": "ZDNet Security",
+      "published": "2026-09-29T21:09:47.501063+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.52
+    },
+    {
+      "title": "LLMjacking can run up your business’ AI bill fast – how to stop it",
+      "url": "https://www.zdnet.com/innovation/llmjacking-business-ai-bill-cost-how-to-stop/",
+      "summary": "Google analysts warn that stolen AI credentials are being sold underground, and businesses are footing the bill.",
+      "source": "ZDNet Security",
+      "published": "2026-09-29T21:09:47.500948+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.52
+    },
+    {
       "title": "GPT-6 Astra Breaks an Old Enigma Message",
       "url": "https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html",
       "summary": "<p><a href=\"https://www.cryptocellar.org/bgac/the-mvueh-break.html\">This</a> is pretty amazing:</p>\n<blockquote><p>However, the most astonishing thing about this break is that the GPT­6 Astra did it entirely on its own. Carter Leffer only directed GPT­6 Astra to see if it could break any of the unbroken Enigma messages published on the Crypto Cellar Research web page. After analysing the unbroken messages on the website, it decided that the most promising message was Nr. 172, MVUEH and it also q",
@@ -708,29 +768,14 @@
         "General"
       ],
       "threshold": 9.09
-    },
-    {
-      "title": "Claude Opus 5.5 delivers Fable 5.1 performance – and costs 40% less",
-      "url": "https://www.zdnet.com/innovation/anthropic-claude-opus-5-5-fable-5-1-performance-costs-less/",
-      "summary": "Anthropic’s newest Claude model aims to make frontier AI cheaper, faster, and safer, while giving subscribers more breathing room before those frustrating usage limits kick in.",
-      "source": "ZDNet Security",
-      "published": "2026-09-22T19:23:48.347068+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.09
     }
   ],
-  "updated": "2026-09-29T16:14:39.648114+00:00",
+  "updated": "2026-09-29T21:09:48.875462+00:00",
   "stats": {
-    "total": 48,
+    "total": 51,
     "relevant": 7,
     "critical": 1,
-    "new_this_run": 2,
+    "new_this_run": 4,
     "sources": 3
   }
 }
