@@ -1,6 +1,67 @@
 {
   "items": [
     {
+      "title": "Nearly 70% of workers use AI regularly now – but many get no time to upskill",
+      "url": "https://www.zdnet.com/innovation/workera-study-ai-skills-upskilling-2026/",
+      "summary": "ZDNET Exclusive: A new Workera report shows businesses and employees aren’t on the same page about AI upskilling. Here’s what organizations need to know.",
+      "source": "ZDNet Security",
+      "published": "2026-09-30T18:42:38.407990+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.25
+    },
+    {
+      "title": "How to fix your Windows File History if the September update broke it",
+      "url": "https://www.zdnet.com/business/windows-update-break-file-history-fix-available/",
+      "summary": "A bug in the Windows Sept patch Tuesday update may stop File History from working. But a new optional update fixes it.",
+      "source": "ZDNet Security",
+      "published": "2026-09-30T18:42:38.407862+00:00",
+      "raw_score": 10.401935861063299,
+      "score": 73,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 10.25
+    },
+    {
+      "title": "Your iPhone just got a hidden anti-scam upgrade in iOS 27: How to enable it",
+      "url": "https://www.zdnet.com/tech/ios-27-impersonation-risk-detection-security-feature/",
+      "summary": "New with iOS 27 (and iPadOS 27) is a setting called Impersonation Risk Detection that aims to warn you of suspicious activity that could trap you in a scam.",
+      "source": "ZDNet Security",
+      "published": "2026-09-30T18:42:38.406228+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.25
+    },
+    {
+      "title": "openSUSE Leap adds a new security layer: Immutable mode",
+      "url": "https://www.zdnet.com/tech/opensuse-leap-immutable-mode-security/",
+      "summary": "One of the more secure Linux distributions has added another feature to help further lock it down.",
+      "source": "ZDNet Security",
+      "published": "2026-09-30T18:42:38.406131+00:00",
+      "raw_score": 1.6415591421383173,
+      "score": 36,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.25
+    },
+    {
       "title": "Pearson’s Workera deal targets a big workplace problem: No time to AI upskill",
       "url": "https://www.zdnet.com/innovation/pearson-workera-acquisition-ai-upskilling/",
       "summary": "Pearson has agreed to acquire Workera to help businesses assess employees’ AI skills and target training where it’s needed most.",
@@ -705,92 +766,14 @@
         "General"
       ],
       "threshold": 9.78
-    },
-    {
-      "title": "Windows 11 out-of-band update fixes audio glitch and other bugs – grab it now",
-      "url": "https://www.zdnet.com/business/windows-11-out-of-band-update-fixes-audio-glitch/",
-      "summary": "The latest out-of-band update resolves a few problems in Windows 11, including one that cut off the sound for certain USB audio devices.",
-      "source": "ZDNet Security",
-      "published": "2026-09-23T17:34:59.800568+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.78
-    },
-    {
-      "title": "I’ve used both iPhone 18 Pro models – here’s how my buying advice is changing in 2026",
-      "url": "https://www.zdnet.com/business/iphone-18-pro-vs-pro-max-buying-advice-2026/",
-      "summary": "Can’t decide between the iPhone 18 Pro and 18 Pro Max? Absolute feature parity makes this year’s decision a little easier for me.",
-      "source": "ZDNet Security",
-      "published": "2026-09-23T17:34:59.800441+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.78
-    },
-    {
-      "title": "Nearly 70% of workers use AI regularly now – but many get no time to upskill",
-      "url": "https://www.zdnet.com/innovation/workera-study-ai-skills-upskilling-2026/",
-      "summary": "ZDNET Exclusive: A new Workera report shows businesses and employees aren’t on the same page about AI upskilling. Here’s what organizations need to know.",
-      "source": "ZDNet Security",
-      "published": "2026-09-23T17:34:59.799058+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.78
-    },
-    {
-      "title": "How to fix your Windows File History if the September update broke it",
-      "url": "https://www.zdnet.com/business/windows-update-break-file-history-fix-available/",
-      "summary": "A bug in the Windows Sept patch Tuesday update may stop File History from working. But a new optional update fixes it.",
-      "source": "ZDNet Security",
-      "published": "2026-09-23T17:34:59.798879+00:00",
-      "raw_score": 10.401935861063299,
-      "score": 75,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 9.78
-    },
-    {
-      "title": "Fake CAPTCHA Scams",
-      "url": "https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html",
-      "summary": "<p>New <a href=\"https://www.malwarebytes.com/cybersecurity/basics/fake-captcha-scams\">variant</a> of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-09-23T17:34:49.934568+00:00",
-      "raw_score": 3.035681082744286,
-      "score": 42,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "APT / Nation State",
-        "Malware",
-        "ICS / OT"
-      ],
-      "threshold": 9.78
     }
   ],
-  "updated": "2026-09-30T13:10:42.946844+00:00",
+  "updated": "2026-09-30T18:42:39.867719+00:00",
   "stats": {
-    "total": 52,
+    "total": 51,
     "relevant": 7,
     "critical": 1,
-    "new_this_run": 3,
+    "new_this_run": 4,
     "sources": 3
   }
 }
