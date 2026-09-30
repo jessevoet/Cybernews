@@ -721,59 +721,14 @@
         "Malware"
       ],
       "threshold": 10.21
-    },
-    {
-      "title": "How September’s Pixel Drop changes the way you call and message important contacts",
-      "url": "https://www.zdnet.com/tech/september-pixel-drop-call-message-important-contacts/",
-      "summary": "The update lets you contact VIPs with a tap and adds scam protection.",
-      "source": "ZDNet Security",
-      "published": "2026-09-23T20:51:08.901357+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.78
-    },
-    {
-      "title": "Anthropic merges Claude chat and Cowork into one",
-      "url": "https://www.zdnet.com/innovation/claude-chat-absorbs-cowork-anthropic/",
-      "summary": "From Claude to Cowork and back again – plus, Anthropic’s all-new Claude Docs.",
-      "source": "ZDNet Security",
-      "published": "2026-09-23T20:51:08.901203+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.78
-    },
-    {
-      "title": "I recommend you don’t run these appliances on your power station – even if you can",
-      "url": "https://www.zdnet.com/home-and-office/do-not-run-these-appliances-on-power-stations/",
-      "summary": "Using a power station for backup is ideal, but not with these appliances.",
-      "source": "ZDNet Security",
-      "published": "2026-09-23T20:51:08.901056+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.78
     }
   ],
-  "updated": "2026-09-30T18:42:39.867719+00:00",
+  "updated": "2026-09-30T22:43:48.867925+00:00",
   "stats": {
-    "total": 51,
+    "total": 48,
     "relevant": 7,
     "critical": 1,
-    "new_this_run": 4,
+    "new_this_run": 0,
     "sources": 3
   }
 }
