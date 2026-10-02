@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "How American Political Campaigns Are Using AI—and What They’re Spending on the Tools",
+      "url": "https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html",
+      "summary": "<p><em>This essay was written with Nathan E. Sanders, and originally appeared in <a href=\"https://www.theguardian.com/technology/2026/sep/29/political-campaigns-ai-tools-spending\">The Guardian</a>.</em></p>\n<p>New campaign finance disclosure data shines a light on which US political campaigns are using AI tools and how much they are spending on them.</p>\n<p>Candidates&#8217;, parties&#8217; and committees&#8217; <a href=\"https://github.com/nesanders/federal-campaign-disclosure-ai/tree/claude/cam",
+      "source": "Schneier on Security",
+      "published": "2026-10-02T13:21:21.947801+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.53
+    },
+    {
       "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
@@ -708,9 +723,9 @@
       "threshold": 10.42
     }
   ],
-  "updated": "2026-10-02T06:27:05.187140+00:00",
+  "updated": "2026-10-02T13:21:40.577349+00:00",
   "stats": {
-    "total": 47,
+    "total": 48,
     "relevant": 7,
     "critical": 1,
     "new_this_run": 1,
