@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
+      "source": "Google Project Zero",
+      "published": "2026-10-02T06:26:58.876695+00:00",
+      "raw_score": 7.092005476157869,
+      "score": 58,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 10.53
+    },
+    {
       "title": "Roku rolls out over 30 subscription bundles for up to 30% off, plus a new Labs feature",
       "url": "https://www.zdnet.com/home-and-office/roku-streaming-premium-bundles-labs-feature/",
       "summary": "Roku’s money-saving bundles include channels like HBO Max, Starz, and Fox One.",
@@ -690,30 +706,14 @@
         "Vulnerability"
       ],
       "threshold": 10.42
-    },
-    {
-      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
-      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
-      "source": "Google Project Zero",
-      "published": "2026-09-25T05:36:14.980434+00:00",
-      "raw_score": 7.092005476157869,
-      "score": 58,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 10.21
     }
   ],
-  "updated": "2026-10-02T00:20:38.329725+00:00",
+  "updated": "2026-10-02T06:27:05.187140+00:00",
   "stats": {
     "total": 47,
     "relevant": 7,
     "critical": 1,
-    "new_this_run": 2,
+    "new_this_run": 1,
     "sources": 3
   }
 }
