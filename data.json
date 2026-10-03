@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "iPhone 18 Pro Max can’t call or text on AT&#038;T? Apple will replace it for free",
+      "url": "https://www.zdnet.com/tech/iphone-18-pro-max-att-no-service-free-replacement/",
+      "summary": "Some iPhone 18 Pro Max phones on AT&#038;T are stuck in SOS mode. Two updates can prevent it, but affected phones need replacing.",
+      "source": "ZDNet Security",
+      "published": "2026-10-03T07:18:06.173010+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.29
+    },
+    {
       "title": "Friday Squid Blogging: Participatory Squid Dissection in October in Tennessee",
       "url": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-participatory-squid-dissection-in-october-in-tennessee.html",
       "summary": "<p>I feel like someone who reads this blog will want to go to <a href=\"https://www.tullahomanews.com/living/2026/09/23/get-hands-on-with-marine-biology-with-family-squid-dissection-saturday/\">this</a>:</p>\n<blockquote><p>Families are invited to dive into the fascinating world of marine biology during an exciting, hands-on Family Squid Dissection at the Hands-On Science Center. Designed for curious learners of all ages, this unique experience combines an interactive lesson with the opportunity to",
@@ -738,9 +753,9 @@
       "threshold": 10.51
     }
   ],
-  "updated": "2026-10-03T01:33:52.773217+00:00",
+  "updated": "2026-10-03T07:18:07.565862+00:00",
   "stats": {
-    "total": 49,
+    "total": 50,
     "relevant": 8,
     "critical": 1,
     "new_this_run": 1,
