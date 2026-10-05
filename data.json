@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "Claim up to $95 today from Apple’s Siri AI settlement – here’s how",
+      "url": "https://www.zdnet.com/business/claim-your-payout-now-from-apple-siri-ai-settlement/",
+      "summary": "Got an iPhone 15 Pro, Pro Max, or 16? Apple is doling out $250 million – here’s how to qualify and file a claim to get your cut.",
+      "source": "ZDNet Security",
+      "published": "2026-10-05T23:00:23.201739+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.78
+    },
+    {
+      "title": "Bose’s new wired earbuds aim for the same great sound and ANC – no charging needed",
+      "url": "https://www.zdnet.com/tech/bose-new-hybrid-wired-earbuds-anc/",
+      "summary": "The new wired USB-C earbuds mix old-school elements with modern audio features.",
+      "source": "ZDNet Security",
+      "published": "2026-10-05T23:00:23.199916+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.78
+    },
+    {
+      "title": "iOS 27.0.1 released: Apple fixes annoying iPhone 18 Pro restart and freezing issues",
+      "url": "https://www.zdnet.com/tech/iphone-18-pro-freeze-restart-ios-27-0-1-fix/",
+      "summary": "The first update to iOS 27 squashes a bug in which the iPhone 18 Pro and Pro Max would freeze or restart when you try to use Face ID.",
+      "source": "ZDNet Security",
+      "published": "2026-10-05T23:00:23.199762+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.78
+    },
+    {
+      "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
+      "url": "https://projectzero.google/2026/09/windows-dangling-com.html",
+      "summary": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed “Dark Elevator” by Calif. The root cause of the bug was a dangling COM object registration for the CrossDevice COM object with the CLSID {E9F83CF2-E0C0-4CA7-AF01-E90C70BEF496}. A COM registration typically needs two parts: a server executable, which for in-process components is a ",
+      "source": "Google Project Zero",
+      "published": "2026-10-05T23:00:17.665843+00:00",
+      "raw_score": 6.593552252651085,
+      "score": 58,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 9.78
+    },
+    {
       "title": "Your Bose headphones are getting a major Bluetooth upgrade – what to expect",
       "url": "https://www.zdnet.com/tech/your-bose-headphones-are-getting-a-major-bluetooth-upgrade-what-to-expect/",
       "summary": "Key Bluetooth technologies and upgrades to USB-C audio are coming to the company’s flagship over-ears.",
@@ -691,101 +751,11 @@
         "APT / Nation State"
       ],
       "threshold": 10.52
-    },
-    {
-      "title": "The AI models that cheat the most, according to new CAIS benchmark",
-      "url": "https://www.zdnet.com/innovation/ai-model-cheating-benchmark-cheatbench/",
-      "summary": "We know models cheat. A new benchmark measures how much, and on what tasks.",
-      "source": "ZDNet Security",
-      "published": "2026-09-28T22:20:54.157836+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.52
-    },
-    {
-      "title": "Claim up to $95 today from Apple’s Siri AI settlement – here’s how",
-      "url": "https://www.zdnet.com/business/claim-your-payout-now-from-apple-siri-ai-settlement/",
-      "summary": "Got an iPhone 15 Pro, Pro Max, or 16? Apple is doling out $250 million – here’s how to qualify and file a claim to get your cut.",
-      "source": "ZDNet Security",
-      "published": "2026-09-28T22:20:54.157727+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.52
-    },
-    {
-      "title": "Bose’s new wired earbuds aim for the same great sound and ANC – no charging needed",
-      "url": "https://www.zdnet.com/tech/bose-new-hybrid-wired-earbuds-anc/",
-      "summary": "The new wired USB-C earbuds mix old-school elements with modern audio features.",
-      "source": "ZDNet Security",
-      "published": "2026-09-28T22:20:54.155867+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.52
-    },
-    {
-      "title": "iOS 27.0.1 released: Apple fixes annoying iPhone 18 Pro restart and freezing issues",
-      "url": "https://www.zdnet.com/tech/iphone-18-pro-freeze-restart-ios-27-0-1-fix/",
-      "summary": "The first update to iOS 27 squashes a bug in which the iPhone 18 Pro and Pro Max would freeze or restart when you try to use Face ID.",
-      "source": "ZDNet Security",
-      "published": "2026-09-28T22:20:54.155663+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.52
-    },
-    {
-      "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
-      "url": "https://projectzero.google/2026/09/windows-dangling-com.html",
-      "summary": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed “Dark Elevator” by Calif. The root cause of the bug was a dangling COM object registration for the CrossDevice COM object with the CLSID {E9F83CF2-E0C0-4CA7-AF01-E90C70BEF496}. A COM registration typically needs two parts: a server executable, which for in-process components is a ",
-      "source": "Google Project Zero",
-      "published": "2026-09-28T22:20:49.181502+00:00",
-      "raw_score": 6.593552252651085,
-      "score": 56,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 10.52
-    },
-    {
-      "title": "Reverse-Engineering Flock Cameras",
-      "url": "https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html",
-      "summary": "<p>Hackers captured a Flock camera and got a <a href=\"https://www.404media.co/hackers-stole-flocks-camera-software-revealing-how-the-company-tracks-cars-and-people-2/\">look</a> (alternate <a href=\"https://archive.ph/gQoMs\">link</a>) at the software:</p>\n<blockquote><p>While much of the automatic license plate reader&#8217;s (ALPR) most sensitive storage remained encrypted and inaccessible, the joint analysis of the recovered data shows that software running on the device explicitly detects peopl",
-      "source": "Schneier on Security",
-      "published": "2026-09-28T22:20:43.799894+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "APT / Nation State"
-      ],
-      "threshold": 10.52
     }
   ],
-  "updated": "2026-10-05T16:38:59.189134+00:00",
+  "updated": "2026-10-05T23:00:24.813985+00:00",
   "stats": {
-    "total": 52,
+    "total": 50,
     "relevant": 7,
     "critical": 1,
     "new_this_run": 4,
