@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "Your Bose headphones are getting a major Bluetooth upgrade – what to expect",
+      "url": "https://www.zdnet.com/tech/your-bose-headphones-are-getting-a-major-bluetooth-upgrade-what-to-expect/",
+      "summary": "Key Bluetooth technologies and upgrades to USB-C audio are coming to the company’s flagship over-ears.",
+      "source": "ZDNet Security",
+      "published": "2026-10-05T16:38:57.804256+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.78
+    },
+    {
+      "title": "How I made a paid Mac app in 11 days with Claude – without writing a single line of code",
+      "url": "https://www.zdnet.com/innovation/claude-code-vibe-coding-mac-app/",
+      "summary": "Claude helped me vibe-code a Mac app and pass Apple’s review in less than two weeks. Come with me on my journey from idea to purchasable App Store product.",
+      "source": "ZDNet Security",
+      "published": "2026-10-05T16:38:57.802758+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.78
+    },
+    {
+      "title": "New Attack Against RSA",
+      "url": "https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html",
+      "summary": "<p>ArsTechnica is <a href=\"https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/\">reporting</a> on a &#8220;new&#8221; attack against RSA, one that bypasses factoring.</p>\n<p>First, this attack isn&#8217;t new. The original research is from <a href=\"https://eprint.iacr.org/2007/424\">2007</a>. What is new is the implementation.</p>\n<p>Second, it is a forgery attack. It allows an attacker to forge digital signatures. It does not recover",
+      "source": "Schneier on Security",
+      "published": "2026-10-05T16:38:43.464346+00:00",
+      "raw_score": 1.7030643257001112,
+      "score": 35,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.78
+    },
+    {
+      "title": "Another Historic Cipher Falls to AI",
+      "url": "https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html",
+      "summary": "<p><a href=\"https://carter.church/writeups/the-letter-to-marmont/#war\">This one</a> is from 1809, written by Napoleon&#8217;s nephew.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-10-05T16:38:43.463378+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.78
+    },
+    {
       "title": "A 0-click exploit chain for the Pixel 9 Part 2: Cracking the Sandbox with a Big Wave",
       "url": "https://projectzero.google/2026/01/pixel-0-click-part-2.html",
       "summary": "With the advent of a potential Dolby Unified Decoder RCE exploit, it seemed prudent to see what kind of Linux kernel drivers might be accessible from the resulting userland context, the mediacodec context. As per the AOSP documentation, the mediacodec SELinux context is intended to be a constrained (a.k.a sandboxed) context where non-secure software decoders are utilized. Nevertheless, using my DriverCartographer tool, I discovered an interesting device driver, /dev/bigwave that was accessible f",
@@ -721,44 +781,14 @@
         "APT / Nation State"
       ],
       "threshold": 10.52
-    },
-    {
-      "title": "Your Bose headphones are getting a major Bluetooth upgrade – what to expect",
-      "url": "https://www.zdnet.com/tech/your-bose-headphones-are-getting-a-major-bluetooth-upgrade-what-to-expect/",
-      "summary": "Key Bluetooth technologies and upgrades to USB-C audio are coming to the company’s flagship over-ears.",
-      "source": "ZDNet Security",
-      "published": "2026-09-28T16:26:42.484689+00:00",
-      "raw_score": 0.0,
-      "score": 30,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.99
-    },
-    {
-      "title": "New Attack Against RSA",
-      "url": "https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html",
-      "summary": "<p>ArsTechnica is <a href=\"https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/\">reporting</a> on a &#8220;new&#8221; attack against RSA, one that bypasses factoring.</p>\n<p>First, this attack isn&#8217;t new. The original research is from <a href=\"https://eprint.iacr.org/2007/424\">2007</a>. What is new is the implementation.</p>\n<p>Second, it is a forgery attack. It allows an attacker to forge digital signatures. It does not recover",
-      "source": "Schneier on Security",
-      "published": "2026-09-28T16:26:31.190904+00:00",
-      "raw_score": 1.7030643257001112,
-      "score": 37,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.99
     }
   ],
-  "updated": "2026-10-05T07:56:00.654058+00:00",
+  "updated": "2026-10-05T16:38:59.189134+00:00",
   "stats": {
-    "total": 50,
+    "total": 52,
     "relevant": 7,
     "critical": 1,
-    "new_this_run": 0,
+    "new_this_run": 4,
     "sources": 3
   }
 }
