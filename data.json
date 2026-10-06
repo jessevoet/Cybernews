@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "title": "Mistral’s new Le Chonk model brings AI cybersecurity to your business – and you control it",
+      "url": "https://www.zdnet.com/innovation/mistral-le-chonk-ai-cybersecurity-business/",
+      "summary": "Open models are vying to become the everyman defense solution for a growing swarm of agent breaches.",
+      "source": "ZDNet Security",
+      "published": "2026-10-06T16:23:37.333707+00:00",
+      "raw_score": 2.361932668591249,
+      "score": 38,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Data Breach"
+      ],
+      "threshold": 10.44
+    },
+    {
+      "title": "Using Device Linking to Eavesdrop on WhatsApp and Signal",
+      "url": "https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html",
+      "summary": "<p>Modern messaging apps allow users to link their phone accounts to their computer desktop. Eavesdroppers are <a href=\"https://cybernews.com/privacy/police-telegram-whatsapp-signal-surveillance-linked-devices/\">taking advantage</a> of this capability:</p>\n<blockquote><p>Apps such as WhatsApp Web and Signal Desktop allow people to use their accounts on other devices, such as laptops or desktop computers.</p>\n<p>Germany&#8217;s Customs Office has been using these features to connect a police-cont",
+      "source": "Schneier on Security",
+      "published": "2026-10-06T16:23:28.679738+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "APT / Nation State"
+      ],
+      "threshold": 10.44
+    },
+    {
+      "title": "Possible Vulnerability in Apple’s Automatic Reboot",
+      "url": "https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html",
+      "summary": "<p>404Media is <a href=\"https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/\">reporting</a> (alternate <a href=\"https://archive.ph/4qncQ\">link</a>) that a cyber-weapons arms manufacturer is exploiting a vulnerability in iOS to bypass its automatic reboot security feature. This is the feature that automatically puts an iPhone into a more secure state if it hasn&#8217;t been used for 72 hours.</p>\n<blockquote><p>The new technology to get around inactivity reboot was ",
+      "source": "Schneier on Security",
+      "published": "2026-10-06T16:23:28.678888+00:00",
+      "raw_score": 11.573430726449967,
+      "score": 77,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "ICS / OT"
+      ],
+      "threshold": 10.44
+    },
+    {
       "title": "Claim up to $95 today from Apple’s Siri AI settlement – here’s how",
       "url": "https://www.zdnet.com/business/claim-your-payout-now-from-apple-siri-ai-settlement/",
       "summary": "Got an iPhone 15 Pro, Pro Max, or 16? Apple is doling out $250 million – here’s how to qualify and file a claim to get your cut.",
@@ -721,44 +767,14 @@
         "General"
       ],
       "threshold": 10.52
-    },
-    {
-      "title": "GPT-6 Astra Breaks an Old Enigma Message",
-      "url": "https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html",
-      "summary": "<p><a href=\"https://www.cryptocellar.org/bgac/the-mvueh-break.html\">This</a> is pretty amazing:</p>\n<blockquote><p>However, the most astonishing thing about this break is that the GPT­6 Astra did it entirely on its own. Carter Leffer only directed GPT­6 Astra to see if it could break any of the unbroken Enigma messages published on the Crypto Cellar Research web page. After analysing the unbroken messages on the website, it decided that the most promising message was Nr. 172, MVUEH and it also q",
-      "source": "Schneier on Security",
-      "published": "2026-09-29T16:14:26.308935+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.52
-    },
-    {
-      "title": "Using Device Linking to Eavesdrop on WhatsApp and Signal",
-      "url": "https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html",
-      "summary": "<p>Modern messaging apps allow users to link their phone accounts to their computer desktop. Eavesdroppers are <a href=\"https://cybernews.com/privacy/police-telegram-whatsapp-signal-surveillance-linked-devices/\">taking advantage</a> of this capability:</p>\n<blockquote><p>Apps such as WhatsApp Web and Signal Desktop allow people to use their accounts on other devices, such as laptops or desktop computers.</p>\n<p>Germany&#8217;s Customs Office has been using these features to connect a police-cont",
-      "source": "Schneier on Security",
-      "published": "2026-09-29T16:14:26.307860+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "APT / Nation State"
-      ],
-      "threshold": 10.52
     }
   ],
-  "updated": "2026-10-06T09:36:27.016455+00:00",
+  "updated": "2026-10-06T16:23:38.660218+00:00",
   "stats": {
-    "total": 50,
-    "relevant": 7,
+    "total": 51,
+    "relevant": 8,
     "critical": 1,
-    "new_this_run": 0,
+    "new_this_run": 3,
     "sources": 3
   }
 }
