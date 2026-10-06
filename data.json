@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title": "Get Kindle Unlimited free for 3 months with this early Prime Day deal",
+      "url": "https://www.zdnet.com/uncategorized/kindle-unlimited-amazon-october-prime-day-deal-2026/",
+      "summary": "Amazon’s free Kindle Unlimited deal only comes around a couple times a year – and I highly recommend it.",
+      "source": "ZDNet Security",
+      "published": "2026-10-06T21:23:29.786144+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.27
+    },
+    {
+      "title": "Is ChatGPT your new Google Workspace alternative? Meet Space, Pages, and slides",
+      "url": "https://www.zdnet.com/innovation/chatgpt-space-pages-slides-google-workspace-alternative/",
+      "summary": "OpenAI now lets teams create documents, build presentations, and work with AI agents inside ChatGPT",
+      "source": "ZDNet Security",
+      "published": "2026-10-06T21:23:29.786032+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.27
+    },
+    {
+      "title": "LLMjacking can run up your business’ AI bill fast – how to stop it",
+      "url": "https://www.zdnet.com/innovation/llmjacking-business-ai-bill-cost-how-to-stop/",
+      "summary": "Google analysts warn that stolen AI credentials are being sold underground, and businesses are footing the bill.",
+      "source": "ZDNet Security",
+      "published": "2026-10-06T21:23:29.785964+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.27
+    },
+    {
+      "title": "Office 2021 support ends this month – you have 5 options",
+      "url": "https://www.zdnet.com/tech/microsoft-office-2021-support-ends-your-options/",
+      "summary": "Microsoft is ending support and updates for Office 2021 on October 13. What does that mean, and what are your alternatives?",
+      "source": "ZDNet Security",
+      "published": "2026-10-06T21:23:29.784805+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.27
+    },
+    {
+      "title": "Use Gemini for free? You’ll soon be limited to its weakest AI model",
+      "url": "https://www.zdnet.com/innovation/google-ai-free-model-access-limited/",
+      "summary": "Google is cutting off free users from the Flash and Pro models. AI Plus subscribers are losing out too",
+      "source": "ZDNet Security",
+      "published": "2026-10-06T21:23:29.784674+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.27
+    },
+    {
+      "title": "How to fix a bug in a fix",
+      "url": "https://projectzero.google/2026/10/emergency-patching.html",
+      "summary": "Project Zero often works with software vendors to remediate the vulnerabilities we report and provide broader guidance on making software more secure. Some vendors express concern about potential scenarios in which they are unable to fix vulnerabilities that are causing immediate user harm, due to limitations in their patch delivery systems. Since Project Zero encounters a wide array of systems designed to protect users in the case of exceptional exploitation scenarios, both through vendor discu",
+      "source": "Google Project Zero",
+      "published": "2026-10-06T21:23:24.661427+00:00",
+      "raw_score": 3.2734223403067078,
+      "score": 43,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 9.27
+    },
+    {
       "title": "Mistral’s new Le Chonk model brings AI cybersecurity to your business – and you control it",
       "url": "https://www.zdnet.com/innovation/mistral-le-chonk-ai-cybersecurity-business/",
       "summary": "Open models are vying to become the everyman defense solution for a growing swarm of agent breaches.",
@@ -707,74 +798,14 @@
         "General"
       ],
       "threshold": 10.52
-    },
-    {
-      "title": "Claude Opus 5.5 delivers Fable 5.1 performance – and costs 40% less",
-      "url": "https://www.zdnet.com/innovation/anthropic-claude-opus-5-5-fable-5-1-performance-costs-less/",
-      "summary": "Anthropic’s newest Claude model aims to make frontier AI cheaper, faster, and safer, while giving subscribers more breathing room before those frustrating usage limits kick in.",
-      "source": "ZDNet Security",
-      "published": "2026-09-29T21:09:47.503196+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.52
-    },
-    {
-      "title": "Get Kindle Unlimited free for 3 months with this early Prime Day deal",
-      "url": "https://www.zdnet.com/uncategorized/kindle-unlimited-amazon-october-prime-day-deal-2026/",
-      "summary": "Amazon’s free Kindle Unlimited deal only comes around a couple times a year – and I highly recommend it.",
-      "source": "ZDNet Security",
-      "published": "2026-09-29T21:09:47.501224+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.52
-    },
-    {
-      "title": "Is ChatGPT your new Google Workspace alternative? Meet Space, Pages, and slides",
-      "url": "https://www.zdnet.com/innovation/chatgpt-space-pages-slides-google-workspace-alternative/",
-      "summary": "OpenAI now lets teams create documents, build presentations, and work with AI agents inside ChatGPT",
-      "source": "ZDNet Security",
-      "published": "2026-09-29T21:09:47.501063+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.52
-    },
-    {
-      "title": "LLMjacking can run up your business’ AI bill fast – how to stop it",
-      "url": "https://www.zdnet.com/innovation/llmjacking-business-ai-bill-cost-how-to-stop/",
-      "summary": "Google analysts warn that stolen AI credentials are being sold underground, and businesses are footing the bill.",
-      "source": "ZDNet Security",
-      "published": "2026-09-29T21:09:47.500948+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.52
     }
   ],
-  "updated": "2026-10-06T16:23:38.660218+00:00",
+  "updated": "2026-10-06T21:23:31.067352+00:00",
   "stats": {
-    "total": 51,
+    "total": 53,
     "relevant": 8,
     "critical": 1,
-    "new_this_run": 3,
+    "new_this_run": 6,
     "sources": 3
   }
 }
