@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "Pearson’s Workera deal targets a big workplace problem: No time to AI upskill",
+      "url": "https://www.zdnet.com/innovation/pearson-workera-acquisition-ai-upskilling/",
+      "summary": "Pearson has agreed to acquire Workera to help businesses assess employees’ AI skills and target training where it’s needed most.",
+      "source": "ZDNet Security",
+      "published": "2026-10-07T14:55:10.755388+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.07
+    },
+    {
+      "title": "I Want Better Reporting on AI Genie Behavior",
+      "url": "https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html",
+      "summary": "<p>AI systems are regularly completing tasks in ways that their prompters don&#8217;t want or intend. Some of them are disturbing, and some of them are dangerous. This is something I&#8217;ve been calling &#8220;<a href=\"https://www.lawfaremedia.org/article/ais-as-modern-genies\">genie</a> <a href=\"https://www.theguardian.com/commentisfree/2026/jul/28/rogue-ai-agent-instructions\">behavior</a>,&#8221; because I think that really gets at the core of what&#8217;s happening.</p>\n<p>I wish the popular",
+      "source": "Schneier on Security",
+      "published": "2026-10-07T14:55:02.297801+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.07
+    },
+    {
+      "title": "Apple’s Verified Photography System",
+      "url": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
+      "summary": "<p>Apple just <a href=\"https://security.apple.com/blog/apple-reference-image/\">released</a> a system called &#8220;Reference Image.&#8221; It can verify the image is exactly as taken by an iPhone&#8212;new models only&#8212;without tying it to a specific iPhone or photographer. It can also verify that multiple images came from the same iPhone.</p>\n<blockquote><p>Other industry solutions require a photographer or institution to vouch for an image using their own credentials. We are concerned this",
+      "source": "Schneier on Security",
+      "published": "2026-10-07T14:55:02.296463+00:00",
+      "raw_score": 1.6483880631627712,
+      "score": 36,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.07
+    },
+    {
       "title": "Testing race conditions with memory access tracing and stack-based delay injection",
       "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
       "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static analysis. Regression tests: After fixing a race condition bug, there is often no good way to write a regression test that reliably triggers the bug as part of a test suite. Automatic bug discovery, such as fuzzing: It is hard for",
@@ -753,59 +798,14 @@
         "General"
       ],
       "threshold": 10.25
-    },
-    {
-      "title": "Pearson’s Workera deal targets a big workplace problem: No time to AI upskill",
-      "url": "https://www.zdnet.com/innovation/pearson-workera-acquisition-ai-upskilling/",
-      "summary": "Pearson has agreed to acquire Workera to help businesses assess employees’ AI skills and target training where it’s needed most.",
-      "source": "ZDNet Security",
-      "published": "2026-09-30T13:10:41.539574+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.52
-    },
-    {
-      "title": "Research on Models Engaging in Genie-Like Behavior",
-      "url": "https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html",
-      "summary": "<p>New paper: &#8220;<a href=\"https://arxiv.org/abs/2510.20956\">Self-Jailbreaking: Language Models Can Reason Themselves Out of Safety Alignment After Benign Reasoning Training</a>.&#8221;</p>\n<blockquote><p><b>Abstract:</b> We discover a novel and surprising phenomenon of unintentional misalignment in reasoning language models (RLMs), which we call self-jailbreaking. Specifically, after benign reasoning training on math or code domains, RLMs will use multiple strategies to circumvent their own ",
-      "source": "Schneier on Security",
-      "published": "2026-09-30T13:10:31.423453+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.52
-    },
-    {
-      "title": "I Want Better Reporting on AI Genie Behavior",
-      "url": "https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html",
-      "summary": "<p>AI systems are regularly completing tasks in ways that their prompters don&#8217;t want or intend. Some of them are disturbing, and some of them are dangerous. This is something I&#8217;ve been calling &#8220;<a href=\"https://www.lawfaremedia.org/article/ais-as-modern-genies\">genie</a> <a href=\"https://www.theguardian.com/commentisfree/2026/jul/28/rogue-ai-agent-instructions\">behavior</a>,&#8221; because I think that really gets at the core of what&#8217;s happening.</p>\n<p>I wish the popular",
-      "source": "Schneier on Security",
-      "published": "2026-09-30T13:10:31.422479+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.52
     }
   ],
-  "updated": "2026-10-07T07:55:23.689824+00:00",
+  "updated": "2026-10-07T14:55:12.152517+00:00",
   "stats": {
     "total": 53,
     "relevant": 8,
     "critical": 1,
-    "new_this_run": 0,
+    "new_this_run": 3,
     "sources": 3
   }
 }
