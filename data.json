@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "Who owns AI risk at work? Business and tech leaders can’t agree, PwC survey finds",
+      "url": "https://www.zdnet.com/innovation/pwc-digital-trust-insights-2027-ai-risk-responsibility/",
+      "summary": "PwC research highlights a growing need for someone to own AI. Is an AI chief the answer?",
+      "source": "ZDNet Security",
+      "published": "2026-10-08T20:21:18.677378+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.44
+    },
+    {
+      "title": "Can AI fix legacy IT? The ‘economics don’t hold up,’ says former IBM strategist",
+      "url": "https://www.zdnet.com/innovation/ai-legacy-it-modernization/",
+      "summary": "Vendors are pitching AI as a cure-all for legacy IT systems, but is it?",
+      "source": "ZDNet Security",
+      "published": "2026-10-08T20:21:18.672111+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "ICS / OT"
+      ],
+      "threshold": 8.44
+    },
+    {
+      "title": "Regulators are trying to protect you from being fired by AI – here’s how",
+      "url": "https://www.zdnet.com/innovation/how-state-regulators-protect-you-fired-by-ai/",
+      "summary": "Regulating AI at work is happening slowly, but it’s still stuck at the state level.",
+      "source": "ZDNet Security",
+      "published": "2026-10-08T20:21:18.671702+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.44
+    },
+    {
+      "title": "Got a Microsoft 365 subscription? Your storage is about to shrink",
+      "url": "https://www.zdnet.com/tech/microsoft-365-subscription-storage-limits/",
+      "summary": "Today, shared Microsoft 365 plans include 1 TB of OneDrive cloud storage for every family member. Microsoft is about to shrink that allotment dramatically.",
+      "source": "ZDNet Security",
+      "published": "2026-10-08T20:21:18.671257+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.44
+    },
+    {
+      "title": "Connected Cars Are a Surveillance Platform",
+      "url": "https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html",
+      "summary": "<p>Researchers at Northeastern University, in collaboration with <i>Consumer Reports</i>, <a href=\"https://www.consumerreports.org/electronics/personal-information/your-car-is-sharing-data-with-big-tech-companies-study-finds-a4474820962/\">evaluated</a> how much modern cars spy in their drivers:</p>\n<blockquote><p>The new Northeastern study shows, for the first time, data flowing among the vehicles, the vehicle apps you download when you buy your car, and third-party companies, documenting exactl",
+      "source": "Schneier on Security",
+      "published": "2026-10-08T20:21:08.976526+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "ICS / OT"
+      ],
+      "threshold": 8.44
+    },
+    {
       "title": "Yelp, who? 4 ways Google Maps can help you find your next meal – and order it",
       "url": "https://www.zdnet.com/tech/google-maps-features-restaurants-dining-food-ordering/",
       "summary": "There’s more to Google Maps’ dining tools than reviews and directions – and a few are worth a look before your next night out.",
@@ -798,59 +873,14 @@
         "APT / Nation State"
       ],
       "threshold": 10.53
-    },
-    {
-      "title": "Who owns AI risk at work? Business and tech leaders can’t agree, PwC survey finds",
-      "url": "https://www.zdnet.com/innovation/pwc-digital-trust-insights-2027-ai-risk-responsibility/",
-      "summary": "PwC research highlights a growing need for someone to own AI. Is an AI chief the answer?",
-      "source": "ZDNet Security",
-      "published": "2026-10-01T15:49:43.980438+00:00",
-      "raw_score": 0.0,
-      "score": 29,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.53
-    },
-    {
-      "title": "Malicious npm Packages That Evade Defenses",
-      "url": "https://www.schneier.com/blog/archives/2026/09/malicious-npm-packages-that-evade-defenses.html",
-      "summary": "<p>This is an impressive piece of <a href=\"https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/\">malware</a>. Its sophistication says nation-state to me, but there is no direct evidence and certainly no attribution.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-10-01T15:49:30.170365+00:00",
-      "raw_score": 9.776405931734066,
-      "score": 69,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Malware"
-      ],
-      "threshold": 10.53
-    },
-    {
-      "title": "Connected Cars Are a Surveillance Platform",
-      "url": "https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html",
-      "summary": "<p>Researchers at Northeastern University, in collaboration with <i>Consumer Reports</i>, <a href=\"https://www.consumerreports.org/electronics/personal-information/how-to-stop-your-car-from-collecting-sharing-driving-data-a1233378612/\">evaluated</a> how much modern cars spy in their drivers:</p>\n<blockquote><p>To determine this, CR dug through thousands of pages of automakers’ privacy policies and asked questions of 15 different automakers­BMW, Ford, General Motors, Honda, Hyundai, Kia, Mazda, M",
-      "source": "Schneier on Security",
-      "published": "2026-10-01T15:49:30.169524+00:00",
-      "raw_score": 0.0,
-      "score": 29,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "ICS / OT"
-      ],
-      "threshold": 10.53
     }
   ],
-  "updated": "2026-10-08T14:12:30.063280+00:00",
+  "updated": "2026-10-08T20:21:19.920289+00:00",
   "stats": {
-    "total": 56,
-    "relevant": 8,
+    "total": 58,
+    "relevant": 7,
     "critical": 1,
-    "new_this_run": 3,
+    "new_this_run": 5,
     "sources": 3
   }
 }
