@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Managers are using AI to write performance reviews – and it shows",
+      "url": "https://www.zdnet.com/innovation/manager-ai-use-highwire-survey/",
+      "summary": "Does AI use help or hurt feedback at work? Here’s what one survey found.",
+      "source": "ZDNet Security",
+      "published": "2026-10-08T00:34:35.916517+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.25
+    },
+    {
       "title": "How to fix your Windows File History if the September update broke it",
       "url": "https://www.zdnet.com/business/windows-update-break-file-history-fix-available/",
       "summary": "A bug in the Windows Sept patch Tuesday update may stop File History from working. But a new optional update fixes it.",
@@ -785,12 +800,12 @@
       "threshold": 10.53
     }
   ],
-  "updated": "2026-10-07T20:19:26.268289+00:00",
+  "updated": "2026-10-08T00:34:37.257055+00:00",
   "stats": {
-    "total": 52,
+    "total": 53,
     "relevant": 8,
     "critical": 1,
-    "new_this_run": 3,
+    "new_this_run": 1,
     "sources": 3
   }
 }
