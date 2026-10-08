@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "Yelp, who? 4 ways Google Maps can help you find your next meal – and order it",
+      "url": "https://www.zdnet.com/tech/google-maps-features-restaurants-dining-food-ordering/",
+      "summary": "There’s more to Google Maps’ dining tools than reviews and directions – and a few are worth a look before your next night out.",
+      "source": "ZDNet Security",
+      "published": "2026-10-08T14:12:28.388734+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.44
+    },
+    {
+      "title": "Microsoft’s new Surface Laptop Ultra finally has a starting price (you should sit down)",
+      "url": "https://www.zdnet.com/tech/microsoft-surface-laptop-ultra-preorder-starting-price/",
+      "summary": "The Surface Laptop Ultra is an AI powerhouse, with Nvidia’s new RTX Spark chip and up to 128GB of unified memory – and it’s priced for power users.",
+      "source": "ZDNet Security",
+      "published": "2026-10-08T14:12:28.388513+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "APT / Nation State"
+      ],
+      "threshold": 8.44
+    },
+    {
+      "title": "How Technology Empowers—and Imperils—Dictators",
+      "url": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
+      "summary": "<p><em>This essay was written with Seva Gunitsky, and originally appeared in <a href=\"https://www.foreignaffairs.com/united-states/artificial-intelligence-autocrat-technology-empowers-dictators\">Foreign Affairs</a>.</em></p>\n<p>Two weeks after Moscow&#8217;s full-scale invasion of Ukraine in March 2022, the Russian TV Channel One editor Marina Ovsyannikova burst onto the set of the evening newscast. She held up a hand-drawn sign behind the anchor&#8217;s head that read: &#8220;Stop the war. Don&",
+      "source": "Schneier on Security",
+      "published": "2026-10-08T14:12:17.176591+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.44
+    },
+    {
       "title": "Managers are using AI to write performance reviews – and it shows",
       "url": "https://www.zdnet.com/innovation/manager-ai-use-highwire-survey/",
       "summary": "Does AI use help or hurt feedback at work? Here’s what one survey found.",
@@ -800,12 +845,12 @@
       "threshold": 10.53
     }
   ],
-  "updated": "2026-10-08T06:49:35.040197+00:00",
+  "updated": "2026-10-08T14:12:30.063280+00:00",
   "stats": {
-    "total": 53,
+    "total": 56,
     "relevant": 8,
     "critical": 1,
-    "new_this_run": 0,
+    "new_this_run": 3,
     "sources": 3
   }
 }
