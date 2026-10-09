@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "Google Wallet not working on your Pixel? 4 ways to fix tap-to-pay",
+      "url": "https://www.zdnet.com/tech/tap-to-pay-trouble-pixel-phones-google-wallet-nfc/",
+      "summary": "Some Pixel users are having tap-to-pay problems,  and there’s no fix from  Google  yet. But here a few things that helped others.",
+      "source": "ZDNet Security",
+      "published": "2026-10-09T19:54:15.752717+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.44
+    },
+    {
+      "title": "This new ChatGPT scam tricks you into installing malware – how to spot the trap",
+      "url": "https://www.zdnet.com/innovation/chatgpt-scam-malware-trap/",
+      "summary": "This authentic-looking scam starts with a sponsored Google link – and it’s catching people off-guard.",
+      "source": "ZDNet Security",
+      "published": "2026-10-09T19:54:15.752570+00:00",
+      "raw_score": 6.397871528333955,
+      "score": 61,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Malware"
+      ],
+      "threshold": 8.44
+    },
+    {
+      "title": "‘I use AI to do the things that I’m bad at’: Linus Torvalds on why it works for him",
+      "url": "https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/",
+      "summary": "The Linux creator calls vibe coding ‘a wonderful way to find joy in programming,’ but not for running Linux development. (Finding bugs is OK.)",
+      "source": "ZDNet Security",
+      "published": "2026-10-09T19:54:15.750594+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.44
+    },
+    {
+      "title": "4 ways Amazon’s new Alexa tablets eclipse the Fire line – starting with Google Play",
+      "url": "https://www.zdnet.com/tech/amazon-new-alexa-tablets-google-play-store/",
+      "summary": "Amazon just upped its game with new Android tablets for entertainment and work.",
+      "source": "ZDNet Security",
+      "published": "2026-10-09T19:54:15.750390+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.44
+    },
+    {
+      "title": "Unidentified Flock Cameras in Florida",
+      "url": "https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html",
+      "summary": "<p>St. Lucie County in Florida <a href=\"https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/\">discovered</a> (<a href=\"https://archive.is/c5utX\">alt link</a>) a dozen Flock cameras whose ownership it can&#8217;t identify, and that the county government had not permitted.</p>\n<p>I am reminded of the decade-old <a href=\"https://www.washingtonpost.com/world/national-security/dhs-says-it-has-detected-possible-cellphone-surveillance",
+      "source": "Schneier on Security",
+      "published": "2026-10-09T19:54:03.890976+00:00",
+      "raw_score": 5.284476598932239,
+      "score": 55,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.44
+    },
+    {
       "title": "How American Political Campaigns Are Using AI—and What They’re Spending on the Tools",
       "url": "https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html",
       "summary": "<p><em>This essay was written with Nathan E. Sanders, and originally appeared in <a href=\"https://www.theguardian.com/technology/2026/sep/29/political-campaigns-ai-tools-spending\">The Guardian</a>.</em></p>\n<p>New campaign finance disclosure data shines a light on which US political campaigns are using AI tools and how much they are spending on them.</p>\n<p>Candidates&#8217;, parties&#8217; and committees&#8217; <a href=\"https://github.com/nesanders/federal-campaign-disclosure-ai/tree/claude/cam",
@@ -708,104 +783,14 @@
         "General"
       ],
       "threshold": 10.29
-    },
-    {
-      "title": "Microsoft’s new Copilot app puts everything in one place – but the price is ‘evolving’",
-      "url": "https://www.zdnet.com/innovation/microsoft-new-copilot-unified-ai-app/",
-      "summary": "Microsoft says Copilot has gotten ‘actually really good.’ The new app has AI agents and can write code. So how much is all this going to cost?",
-      "source": "ZDNet Security",
-      "published": "2026-10-02T18:48:41.169320+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.51
-    },
-    {
-      "title": "Your LG TV is constantly collecting your data – here’s how to stop it",
-      "url": "https://www.zdnet.com/home-and-office/lg-tv-data-collection-how-to-factory-reset-and-why-you-need-to/",
-      "summary": "Factory resetting your LG TV is the only way to remove certain data logs from its hardware.",
-      "source": "ZDNet Security",
-      "published": "2026-10-02T18:48:41.169183+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.51
-    },
-    {
-      "title": "Google Wallet not working on your Pixel? 4 ways to fix tap-to-pay",
-      "url": "https://www.zdnet.com/tech/tap-to-pay-trouble-pixel-phones-google-wallet-nfc/",
-      "summary": "Some Pixel users are having tap-to-pay problems,  and there’s no fix from  Google  yet. But here a few things that helped others.",
-      "source": "ZDNet Security",
-      "published": "2026-10-02T18:48:41.167884+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.51
-    },
-    {
-      "title": "This new ChatGPT scam tricks you into installing malware – how to spot the trap",
-      "url": "https://www.zdnet.com/innovation/chatgpt-scam-malware-trap/",
-      "summary": "This authentic-looking scam starts with a sponsored Google link – and it’s catching people off-guard.",
-      "source": "ZDNet Security",
-      "published": "2026-10-02T18:48:41.167736+00:00",
-      "raw_score": 6.397871528333955,
-      "score": 54,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Malware"
-      ],
-      "threshold": 10.51
-    },
-    {
-      "title": "On Anthropic’s AI Misuse Report",
-      "url": "https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html",
-      "summary": "<p>Earlier this month, Anthropic <a href=\"https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf\">published</a> a long report detailing all of the Claude misuses it detected. Daniel Meissler usefully <a href=\"https://danielmiessler.com/blog/anthropic-misuse-report-september-2026\">summarized</a> the report into 117 findings.</p>\n<blockquote><p>A few of the highlights:</p>\n<ul>\n<li>AI agents increasingly handled reconnaissance, exploita",
-      "source": "Schneier on Security",
-      "published": "2026-10-02T18:48:29.310018+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 10.51
-    },
-    {
-      "title": "Unidentified Flock Cameras in Florida",
-      "url": "https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html",
-      "summary": "<p>St. Lucie County in Florida <a href=\"https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/\">discovered</a> (<a href=\"https://archive.is/c5utX\">alt link</a>) a dozen Flock cameras whose ownership it can&#8217;t identify, and that the county government had not permitted.</p>\n<p>I am reminded of the decade-old <a href=\"https://www.washingtonpost.com/world/national-security/dhs-says-it-has-detected-possible-cellphone-surveillance",
-      "source": "Schneier on Security",
-      "published": "2026-10-02T18:48:29.308920+00:00",
-      "raw_score": 5.284476598932239,
-      "score": 49,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.51
     }
   ],
-  "updated": "2026-10-09T14:07:34.767041+00:00",
+  "updated": "2026-10-09T19:54:17.303747+00:00",
   "stats": {
-    "total": 53,
-    "relevant": 7,
+    "total": 52,
+    "relevant": 8,
     "critical": 1,
-    "new_this_run": 1,
+    "new_this_run": 5,
     "sources": 3
   }
 }
