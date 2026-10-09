@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing",
+      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html",
+      "summary": "<p>The EU is <a href=\"https://thefishingdaily.com/latest-news/eu-outlines-measures-to-tackle-unregulated-squid-fishing/\">recommending</a> import controls to combat unregulated squid fishing in the Southwest Atlantic. I&#8217;m not optimistic.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
+      "source": "Schneier on Security",
+      "published": "2026-10-09T23:41:54.047547+00:00",
+      "raw_score": 1.5916123549022851,
+      "score": 36,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.44
+    },
+    {
+      "title": "Friday Squid Blogging: I Caught a Squid",
+      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
+      "summary": "<p>On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And&#8230;I caught a squid! Near as I can tell, it&#8217;s a longfin squid, sometimes called a Boston squid (<i>Doryteuthis (Amerigo) pealeii</i>).</p>\n<p>That night I cooked it over a barbecue grill&#8212;hot and fast. Delicious.</p>\n<p><a href=\"https://www.schneier.com/wp-content/uploads/2026/10/IMG_5299-6",
+      "source": "Schneier on Security",
+      "published": "2026-10-09T23:41:54.046520+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.44
+    },
+    {
       "title": "Google Wallet not working on your Pixel? 4 ways to fix tap-to-pay",
       "url": "https://www.zdnet.com/tech/tap-to-pay-trouble-pixel-phones-google-wallet-nfc/",
       "summary": "Some Pixel users are having tap-to-pay problems,  and there’s no fix from  Google  yet. But here a few things that helped others.",
@@ -738,59 +768,14 @@
         "General"
       ],
       "threshold": 10.29
-    },
-    {
-      "title": "This one WatchOS 27 feature just solved my biggest issue with Apple Watch",
-      "url": "https://www.zdnet.com/uncategorized/watchos-27-update-fix-apple-watch/",
-      "summary": "Sometimes less is more, and the most helpful software update is the simplest.",
-      "source": "ZDNet Security",
-      "published": "2026-10-02T22:41:21.938331+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.29
-    },
-    {
-      "title": "iPhone 18 Pro Max stuck in SOS mode? Try AT&#038;T’s urgent fix ASAP",
-      "url": "https://www.zdnet.com/tech/iphone-18-pro-max-att-call-text-sos-issue-update-fix/",
-      "summary": "Some iPhone 18 Pro Max users can’t call or text. AT&#038;T is telling them to update immediately.",
-      "source": "ZDNet Security",
-      "published": "2026-10-02T22:41:21.936528+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.29
-    },
-    {
-      "title": "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html",
-      "summary": "<p>The EU is <a href=\"https://thefishingdaily.com/latest-news/eu-outlines-measures-to-tackle-unregulated-squid-fishing/\">recommending</a> import controls to combat unregulated squid fishing in the Southwest Atlantic. I&#8217;m not optimistic.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
-      "source": "Schneier on Security",
-      "published": "2026-10-02T22:41:11.334725+00:00",
-      "raw_score": 1.5916123549022851,
-      "score": 34,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.29
     }
   ],
-  "updated": "2026-10-09T19:54:17.303747+00:00",
+  "updated": "2026-10-09T23:42:09.181613+00:00",
   "stats": {
-    "total": 52,
+    "total": 51,
     "relevant": 8,
     "critical": 1,
-    "new_this_run": 5,
+    "new_this_run": 2,
     "sources": 3
   }
 }
