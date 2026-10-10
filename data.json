@@ -770,12 +770,12 @@
       "threshold": 10.29
     }
   ],
-  "updated": "2026-10-10T10:15:05.833701+00:00",
+  "updated": "2026-10-10T16:00:43.429946+00:00",
   "stats": {
     "total": 51,
     "relevant": 8,
     "critical": 1,
-    "new_this_run": 2,
+    "new_this_run": 0,
     "sources": 3
   }
 }
