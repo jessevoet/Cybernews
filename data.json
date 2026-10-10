@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "iPhone 18 Pro Max can’t call or text on AT&#038;T? Apple will replace it for free",
+      "url": "https://www.zdnet.com/tech/iphone-18-pro-max-att-no-service-free-replacement/",
+      "summary": "Some iPhone 18 Pro Max phones on AT&#038;T are stuck in SOS mode. Two updates can prevent it, but affected phones need replacing.",
+      "source": "ZDNet Security",
+      "published": "2026-10-10T10:15:04.317056+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.44
+    },
+    {
+      "title": "Ring’s new smart lock has a manual fallback that can’t lock you out – how it works",
+      "url": "https://www.zdnet.com/uncategorized/ring-smart-lock-manual-power-dial/",
+      "summary": "The brand just announced a smart lock with a manual ‘power dial’ that charges the device in case it dies.",
+      "source": "ZDNet Security",
+      "published": "2026-10-10T10:15:04.314626+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.44
+    },
+    {
       "title": "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing",
       "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html",
       "summary": "<p>The EU is <a href=\"https://thefishingdaily.com/latest-news/eu-outlines-measures-to-tackle-unregulated-squid-fishing/\">recommending</a> import controls to combat unregulated squid fishing in the Southwest Atlantic. I&#8217;m not optimistic.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
@@ -738,29 +768,14 @@
         "General"
       ],
       "threshold": 10.29
-    },
-    {
-      "title": "iPhone 18 Pro Max can’t call or text on AT&#038;T? Apple will replace it for free",
-      "url": "https://www.zdnet.com/tech/iphone-18-pro-max-att-no-service-free-replacement/",
-      "summary": "Some iPhone 18 Pro Max phones on AT&#038;T are stuck in SOS mode. Two updates can prevent it, but affected phones need replacing.",
-      "source": "ZDNet Security",
-      "published": "2026-10-03T07:18:06.173010+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.29
     }
   ],
-  "updated": "2026-10-10T03:22:36.568203+00:00",
+  "updated": "2026-10-10T10:15:05.833701+00:00",
   "stats": {
-    "total": 50,
+    "total": 51,
     "relevant": 8,
     "critical": 1,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 3
   }
 }
