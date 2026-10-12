@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "title": "Google’s new Fitbit Edge solves my biggest gripe with the Pixel Watch",
+      "url": "https://www.zdnet.com/tech/googles-new-fitbit-edge-solves-my-biggest-gripe-with-the-pixel-watch/",
+      "summary": "Google’s watches are too dang chunky.",
+      "source": "ZDNet Security",
+      "published": "2026-10-12T16:18:41.435069+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.25
+    },
+    {
+      "title": "FBI Arrests Suspect in FBI-Hacking Case",
+      "url": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
+      "summary": "<p>In September, hackers from a group called ShinyHunters <a href=\"https://www.reuters.com/world/hacked-fbi-data-has-sensitive-information-about-employees-intelligence-roles-2026-09-23/\">announced</a> that they stole a trove of FBI data about its own agents. It was an <a href=\"https://www.lawfaremedia.org/article/the-fbi-data-breach-is-a-counterintelligence-disaster\">intelligence disaster</a>.</p>\n<p>Last week, the FBI <a href=\"https://www.nytimes.com/2026/10/09/us/politics/fbi-hack-shinyhunters",
+      "source": "Schneier on Security",
+      "published": "2026-10-12T16:18:26.896611+00:00",
+      "raw_score": 3.0054541626805356,
+      "score": 44,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Data Breach",
+        "ICS / OT",
+        "Law Enforcement"
+      ],
+      "threshold": 8.25
+    },
+    {
       "title": "A 0-click exploit chain for the Pixel 9 Part 3: Where do we go from here?",
       "url": "https://projectzero.google/2026/01/pixel-0-click-part-3.html",
       "summary": "While our previous two blog posts provided technical recommendations for increasing the effort required by attackers to develop 0-click exploit chains, our experience finding, reporting and exploiting these vulnerabilities highlighted some broader issues in the Android ecosystem. This post describes the problems we encountered and recommendations for improvement. Audio Attack Surface The Dolby UDC is part of the 0-click attack surface of most Android devices because of audio transcription in the",
@@ -755,12 +787,12 @@
       "threshold": 9.78
     }
   ],
-  "updated": "2026-10-12T06:46:17.500044+00:00",
+  "updated": "2026-10-12T16:18:43.121168+00:00",
   "stats": {
-    "total": 50,
+    "total": 52,
     "relevant": 8,
     "critical": 0,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 3
   }
 }
