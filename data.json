@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "How I made a paid Mac app in 11 days with Claude – without writing a single line of code",
+      "url": "https://www.zdnet.com/innovation/claude-code-vibe-coding-mac-app/",
+      "summary": "Claude helped me vibe-code a Mac app and pass Apple’s review in less than two weeks. Come with me on my journey from idea to purchasable App Store product.",
+      "source": "ZDNet Security",
+      "published": "2026-10-12T23:21:40.882617+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.25
+    },
+    {
+      "title": "Claude sent a false homicide tip to police – and it’s part of a troubling AI pattern",
+      "url": "https://www.zdnet.com/innovation/claude-false-homicide-tip/",
+      "summary": "Models routinely take shortcuts to pass evaluations. Who gets to decide what incidents are innocuous?",
+      "source": "ZDNet Security",
+      "published": "2026-10-12T23:21:40.880328+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.25
+    },
+    {
+      "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
+      "url": "https://projectzero.google/2026/09/windows-dangling-com.html",
+      "summary": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed “Dark Elevator” by Calif. The root cause of the bug was a dangling COM object registration for the CrossDevice COM object with the CLSID {E9F83CF2-E0C0-4CA7-AF01-E90C70BEF496}. A COM registration typically needs two parts: a server executable, which for in-process components is a ",
+      "source": "Google Project Zero",
+      "published": "2026-10-12T23:21:36.122913+00:00",
+      "raw_score": 6.593552252651085,
+      "score": 63,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 8.25
+    },
+    {
+      "title": "Another Historic Cipher Falls to AI",
+      "url": "https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html",
+      "summary": "<p><a href=\"https://carter.church/writeups/the-letter-to-marmont/#war\">This one</a> is from 1809, written by Napoleon&#8217;s nephew.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-10-12T23:21:29.504287+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.25
+    },
+    {
       "title": "Google’s new Fitbit Edge solves my biggest gripe with the Pixel Watch",
       "url": "https://www.zdnet.com/tech/googles-new-fitbit-edge-solves-my-biggest-gripe-with-the-pixel-watch/",
       "summary": "Google’s watches are too dang chunky.",
@@ -665,134 +725,14 @@
         "ICS / OT"
       ],
       "threshold": 10.44
-    },
-    {
-      "title": "Claim up to $95 today from Apple’s Siri AI settlement – here’s how",
-      "url": "https://www.zdnet.com/business/claim-your-payout-now-from-apple-siri-ai-settlement/",
-      "summary": "Got an iPhone 15 Pro, Pro Max, or 16? Apple is doling out $250 million – here’s how to qualify and file a claim to get your cut.",
-      "source": "ZDNet Security",
-      "published": "2026-10-05T23:00:23.201739+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.78
-    },
-    {
-      "title": "Bose’s new wired earbuds aim for the same great sound and ANC – no charging needed",
-      "url": "https://www.zdnet.com/tech/bose-new-hybrid-wired-earbuds-anc/",
-      "summary": "The new wired USB-C earbuds mix old-school elements with modern audio features.",
-      "source": "ZDNet Security",
-      "published": "2026-10-05T23:00:23.199916+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.78
-    },
-    {
-      "title": "iOS 27.0.1 released: Apple fixes annoying iPhone 18 Pro restart and freezing issues",
-      "url": "https://www.zdnet.com/tech/iphone-18-pro-freeze-restart-ios-27-0-1-fix/",
-      "summary": "The first update to iOS 27 squashes a bug in which the iPhone 18 Pro and Pro Max would freeze or restart when you try to use Face ID.",
-      "source": "ZDNet Security",
-      "published": "2026-10-05T23:00:23.199762+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.78
-    },
-    {
-      "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
-      "url": "https://projectzero.google/2026/09/windows-dangling-com.html",
-      "summary": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed “Dark Elevator” by Calif. The root cause of the bug was a dangling COM object registration for the CrossDevice COM object with the CLSID {E9F83CF2-E0C0-4CA7-AF01-E90C70BEF496}. A COM registration typically needs two parts: a server executable, which for in-process components is a ",
-      "source": "Google Project Zero",
-      "published": "2026-10-05T23:00:17.665843+00:00",
-      "raw_score": 6.593552252651085,
-      "score": 58,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 9.78
-    },
-    {
-      "title": "Your Bose headphones are getting a major Bluetooth upgrade – what to expect",
-      "url": "https://www.zdnet.com/tech/your-bose-headphones-are-getting-a-major-bluetooth-upgrade-what-to-expect/",
-      "summary": "Key Bluetooth technologies and upgrades to USB-C audio are coming to the company’s flagship over-ears.",
-      "source": "ZDNet Security",
-      "published": "2026-10-05T16:38:57.804256+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.78
-    },
-    {
-      "title": "How I made a paid Mac app in 11 days with Claude – without writing a single line of code",
-      "url": "https://www.zdnet.com/innovation/claude-code-vibe-coding-mac-app/",
-      "summary": "Claude helped me vibe-code a Mac app and pass Apple’s review in less than two weeks. Come with me on my journey from idea to purchasable App Store product.",
-      "source": "ZDNet Security",
-      "published": "2026-10-05T16:38:57.802758+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.78
-    },
-    {
-      "title": "New Attack Against RSA",
-      "url": "https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html",
-      "summary": "<p>ArsTechnica is <a href=\"https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/\">reporting</a> on a &#8220;new&#8221; attack against RSA, one that bypasses factoring.</p>\n<p>First, this attack isn&#8217;t new. The original research is from <a href=\"https://eprint.iacr.org/2007/424\">2007</a>. What is new is the implementation.</p>\n<p>Second, it is a forgery attack. It allows an attacker to forge digital signatures. It does not recover",
-      "source": "Schneier on Security",
-      "published": "2026-10-05T16:38:43.464346+00:00",
-      "raw_score": 1.7030643257001112,
-      "score": 35,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.78
-    },
-    {
-      "title": "Another Historic Cipher Falls to AI",
-      "url": "https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html",
-      "summary": "<p><a href=\"https://carter.church/writeups/the-letter-to-marmont/#war\">This one</a> is from 1809, written by Napoleon&#8217;s nephew.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-10-05T16:38:43.463378+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.78
     }
   ],
-  "updated": "2026-10-12T16:18:43.121168+00:00",
+  "updated": "2026-10-12T23:21:42.240796+00:00",
   "stats": {
-    "total": 52,
+    "total": 48,
     "relevant": 8,
     "critical": 0,
-    "new_this_run": 2,
+    "new_this_run": 4,
     "sources": 3
   }
 }
