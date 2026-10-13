@@ -1,6 +1,112 @@
 {
   "items": [
     {
+      "title": "Mistral’s new Le Chonk model brings AI cybersecurity to your business – and you control it",
+      "url": "https://www.zdnet.com/innovation/mistral-le-chonk-ai-cybersecurity-business/",
+      "summary": "Open models are vying to become the everyman defense solution for a growing swarm of agent breaches.",
+      "source": "ZDNet Security",
+      "published": "2026-10-13T19:39:01.057578+00:00",
+      "raw_score": 2.361932668591249,
+      "score": 39,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Data Breach"
+      ],
+      "threshold": 8.44
+    },
+    {
+      "title": "Apple’s $299 HomeView smart hub is here: 8 highlights, including the wall model",
+      "url": "https://www.zdnet.com/home-and-office/apple-homeview-smart-home-hub-features-price/",
+      "summary": "As an Apple Home user, here’s what stands out about Apple’s new smart home hub – and what I want to test firsthand.",
+      "source": "ZDNet Security",
+      "published": "2026-10-13T19:39:01.054825+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.44
+    },
+    {
+      "title": "4 upgrades HomePod Mini 2 has over its 6-year-old predecessor",
+      "url": "https://www.zdnet.com/home-and-office/upgrades-homepod-mini-2026-has-over-predecessor/",
+      "summary": "HomePod mini 2 is here, and there are four major upgrades that separate it from the first generation.",
+      "source": "ZDNet Security",
+      "published": "2026-10-13T19:39:01.054655+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.44
+    },
+    {
+      "title": "Apple’s smart home event: All 7 devices, prices, and release dates",
+      "url": "https://www.zdnet.com/uncategorized/apple-smart-home-event-homeview-homepod-mini-new-apple-tv/",
+      "summary": "Apple’s “Welcome Home” event featured all the new smart home hardware coming to the Apple lineup.",
+      "source": "ZDNet Security",
+      "published": "2026-10-13T19:39:01.054552+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.44
+    },
+    {
+      "title": "Google lets you make personal Android apps for free now – with just prompts",
+      "url": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/",
+      "summary": "It just got a whole lot easier to vibe code the exact Android app you need – no developer experience required.",
+      "source": "ZDNet Security",
+      "published": "2026-10-13T19:39:01.054348+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.44
+    },
+    {
+      "title": "Linus Torvalds is using AI to develop Linux kernel code now",
+      "url": "https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/",
+      "summary": "The move is a turning point in the developer’s relationship with AI and Linux.",
+      "source": "ZDNet Security",
+      "published": "2026-10-13T19:39:01.054155+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.44
+    },
+    {
+      "title": "Possible Vulnerability in Apple’s Automatic Reboot",
+      "url": "https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html",
+      "summary": "<p>404Media is <a href=\"https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/\">reporting</a> (alternate <a href=\"https://archive.ph/4qncQ\">link</a>) that a cyber-weapons arms manufacturer is exploiting a vulnerability in iOS to bypass its automatic reboot security feature. This is the feature that automatically puts an iPhone into a more secure state if it hasn&#8217;t been used for 72 hours.</p>\n<blockquote><p>The new technology to get around inactivity reboot was ",
+      "source": "Schneier on Security",
+      "published": "2026-10-13T19:38:50.087671+00:00",
+      "raw_score": 11.573430726449967,
+      "score": 89,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "ICS / OT"
+      ],
+      "threshold": 8.44
+    },
+    {
       "title": "Dutch tax authorities cancel Microsoft 365 cloud rollout – and turn toward open source",
       "url": "https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/",
       "summary": "Another European move toward digital sovereignty has curtailed adopting the US workplace suite.",
@@ -694,60 +800,14 @@
         "Advisory"
       ],
       "threshold": 9.27
-    },
-    {
-      "title": "Mistral’s new Le Chonk model brings AI cybersecurity to your business – and you control it",
-      "url": "https://www.zdnet.com/innovation/mistral-le-chonk-ai-cybersecurity-business/",
-      "summary": "Open models are vying to become the everyman defense solution for a growing swarm of agent breaches.",
-      "source": "ZDNet Security",
-      "published": "2026-10-06T16:23:37.333707+00:00",
-      "raw_score": 2.361932668591249,
-      "score": 38,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Data Breach"
-      ],
-      "threshold": 10.44
-    },
-    {
-      "title": "Using Device Linking to Eavesdrop on WhatsApp and Signal",
-      "url": "https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html",
-      "summary": "<p>Modern messaging apps allow users to link their phone accounts to their computer desktop. Eavesdroppers are <a href=\"https://cybernews.com/privacy/police-telegram-whatsapp-signal-surveillance-linked-devices/\">taking advantage</a> of this capability:</p>\n<blockquote><p>Apps such as WhatsApp Web and Signal Desktop allow people to use their accounts on other devices, such as laptops or desktop computers.</p>\n<p>Germany&#8217;s Customs Office has been using these features to connect a police-cont",
-      "source": "Schneier on Security",
-      "published": "2026-10-06T16:23:28.679738+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "APT / Nation State"
-      ],
-      "threshold": 10.44
-    },
-    {
-      "title": "Possible Vulnerability in Apple’s Automatic Reboot",
-      "url": "https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html",
-      "summary": "<p>404Media is <a href=\"https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/\">reporting</a> (alternate <a href=\"https://archive.ph/4qncQ\">link</a>) that a cyber-weapons arms manufacturer is exploiting a vulnerability in iOS to bypass its automatic reboot security feature. This is the feature that automatically puts an iPhone into a more secure state if it hasn&#8217;t been used for 72 hours.</p>\n<blockquote><p>The new technology to get around inactivity reboot was ",
-      "source": "Schneier on Security",
-      "published": "2026-10-06T16:23:28.678888+00:00",
-      "raw_score": 11.573430726449967,
-      "score": 77,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability",
-        "ICS / OT"
-      ],
-      "threshold": 10.44
     }
   ],
-  "updated": "2026-10-13T12:20:04.526552+00:00",
+  "updated": "2026-10-13T19:39:02.794169+00:00",
   "stats": {
-    "total": 49,
+    "total": 53,
     "relevant": 9,
     "critical": 1,
-    "new_this_run": 1,
+    "new_this_run": 7,
     "sources": 3
   }
 }
