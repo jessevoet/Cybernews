@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Dutch tax authorities cancel Microsoft 365 cloud rollout – and turn toward open source",
+      "url": "https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/",
+      "summary": "Another European move toward digital sovereignty has curtailed adopting the US workplace suite.",
+      "source": "ZDNet Security",
+      "published": "2026-10-13T12:20:03.224811+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 8.25
+    },
+    {
       "title": "How I made a paid Mac app in 11 days with Claude – without writing a single line of code",
       "url": "https://www.zdnet.com/innovation/claude-code-vibe-coding-mac-app/",
       "summary": "Claude helped me vibe-code a Mac app and pass Apple’s review in less than two weeks. Come with me on my journey from idea to purchasable App Store product.",
@@ -727,12 +742,12 @@
       "threshold": 10.44
     }
   ],
-  "updated": "2026-10-13T04:33:58.275596+00:00",
+  "updated": "2026-10-13T12:20:04.526552+00:00",
   "stats": {
-    "total": 48,
-    "relevant": 8,
-    "critical": 0,
-    "new_this_run": 0,
+    "total": 49,
+    "relevant": 9,
+    "critical": 1,
+    "new_this_run": 1,
     "sources": 3
   }
 }
