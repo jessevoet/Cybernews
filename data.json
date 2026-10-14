@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "Apple’s Verified Photography System",
+      "url": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
+      "summary": "<p>Apple just <a href=\"https://security.apple.com/blog/apple-reference-image/\">released</a> a system called &#8220;Reference Image.&#8221; It can verify the image is exactly as taken by an iPhone&#8212;new models only&#8212;without tying it to a specific iPhone or photographer. It can also verify that multiple images came from the same iPhone.</p>\n<blockquote><p>Other industry solutions require a photographer or institution to vouch for an image using their own credentials. We are concerned this",
+      "source": "Schneier on Security",
+      "published": "2026-10-14T19:03:15.087700+00:00",
+      "raw_score": 1.6483880631627712,
+      "score": 36,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.1
+    },
+    {
+      "title": "The Future of AI Cryptanalysis",
+      "url": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
+      "summary": "<p>Matthew Green <a href=\"https://x.com/matthew_d_green/status/2107992246360649879\">has</a> <a href=\"https://x.com/matthew_d_green/status/2108278850555674975?s=46\">been</a> <a href=\"https://x.com/matthew_d_green/status/2108552414978564418\">writing</a> a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers.</p>\n<p>I am more optimistic than he is. That is, I have stronger faith in the over-engine",
+      "source": "Schneier on Security",
+      "published": "2026-10-14T19:03:15.086721+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.1
+    },
+    {
+      "title": "Upcoming Speaking Engagements",
+      "url": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
+      "summary": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m speaking at <a href=\"https://www.attentionconferences.com/conferences/2026-forum\">ATTENTION: Democracy, Rebuilt</a> in Montreal, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21.</li>\n<li>I’m speaking at the <a href=\"https://www.eventbrite.ca/e/conversations-in-computing-bruce-schneier-on-hacking-ai-tickets-1998780074007\">University of Toronto</a> in Toronto, Ontario, Canada, ",
+      "source": "Schneier on Security",
+      "published": "2026-10-14T19:03:15.086537+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.1
+    },
+    {
       "title": "‘So perfect, they are literally identical’ – Your AI-polished resumes are recruiters’ new top stressor",
       "url": "https://www.zdnet.com/education/employ-report-ai-hr-hiring/",
       "summary": "Exclusive: A new Employ report shows how AI is both helping and hurting the hiring industry.",
@@ -771,54 +816,9 @@
         "General"
       ],
       "threshold": 9.07
-    },
-    {
-      "title": "Pearson’s Workera deal targets a big workplace problem: No time to AI upskill",
-      "url": "https://www.zdnet.com/innovation/pearson-workera-acquisition-ai-upskilling/",
-      "summary": "Pearson has agreed to acquire Workera to help businesses assess employees’ AI skills and target training where it’s needed most.",
-      "source": "ZDNet Security",
-      "published": "2026-10-07T14:55:10.755388+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.07
-    },
-    {
-      "title": "I Want Better Reporting on AI Genie Behavior",
-      "url": "https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html",
-      "summary": "<p>AI systems are regularly completing tasks in ways that their prompters don&#8217;t want or intend. Some of them are disturbing, and some of them are dangerous. This is something I&#8217;ve been calling &#8220;<a href=\"https://www.lawfaremedia.org/article/ais-as-modern-genies\">genie</a> <a href=\"https://www.theguardian.com/commentisfree/2026/jul/28/rogue-ai-agent-instructions\">behavior</a>,&#8221; because I think that really gets at the core of what&#8217;s happening.</p>\n<p>I wish the popular",
-      "source": "Schneier on Security",
-      "published": "2026-10-07T14:55:02.297801+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.07
-    },
-    {
-      "title": "Apple’s Verified Photography System",
-      "url": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
-      "summary": "<p>Apple just <a href=\"https://security.apple.com/blog/apple-reference-image/\">released</a> a system called &#8220;Reference Image.&#8221; It can verify the image is exactly as taken by an iPhone&#8212;new models only&#8212;without tying it to a specific iPhone or photographer. It can also verify that multiple images came from the same iPhone.</p>\n<blockquote><p>Other industry solutions require a photographer or institution to vouch for an image using their own credentials. We are concerned this",
-      "source": "Schneier on Security",
-      "published": "2026-10-07T14:55:02.296463+00:00",
-      "raw_score": 1.6483880631627712,
-      "score": 36,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.07
     }
   ],
-  "updated": "2026-10-14T14:11:13.371481+00:00",
+  "updated": "2026-10-14T19:03:27.193602+00:00",
   "stats": {
     "total": 54,
     "relevant": 10,
