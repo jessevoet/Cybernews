@@ -770,60 +770,14 @@
         "General"
       ],
       "threshold": 8.25
-    },
-    {
-      "title": "How to fix your Windows File History if the September update broke it",
-      "url": "https://www.zdnet.com/business/windows-update-break-file-history-fix-available/",
-      "summary": "A bug in the Windows Sept patch Tuesday update may stop File History from working. But a new optional update fixes it.",
-      "source": "ZDNet Security",
-      "published": "2026-10-07T20:19:24.885422+00:00",
-      "raw_score": 10.401935861063299,
-      "score": 78,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 9.07
-    },
-    {
-      "title": "Your iPhone just got a hidden anti-scam upgrade in iOS 27: How to enable it",
-      "url": "https://www.zdnet.com/tech/ios-27-impersonation-risk-detection-security-feature/",
-      "summary": "New with iOS 27 (and iPadOS 27) is a setting called Impersonation Risk Detection that aims to warn you of suspicious activity that could trap you in a scam.",
-      "source": "ZDNet Security",
-      "published": "2026-10-07T20:19:24.883245+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.07
-    },
-    {
-      "title": "openSUSE Leap adds a new security layer: Immutable mode",
-      "url": "https://www.zdnet.com/tech/opensuse-leap-immutable-mode-security/",
-      "summary": "One of the more secure Linux distributions has added another feature to help further lock it down.",
-      "source": "ZDNet Security",
-      "published": "2026-10-07T20:19:24.883144+00:00",
-      "raw_score": 1.6415591421383173,
-      "score": 36,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.07
     }
   ],
-  "updated": "2026-10-14T19:03:27.193602+00:00",
+  "updated": "2026-10-14T22:50:57.205928+00:00",
   "stats": {
-    "total": 54,
-    "relevant": 10,
+    "total": 51,
+    "relevant": 9,
     "critical": 2,
-    "new_this_run": 3,
+    "new_this_run": 0,
     "sources": 3
   }
 }
