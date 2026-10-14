@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "title": "‘So perfect, they are literally identical’ – Your AI-polished resumes are recruiters’ new top stressor",
+      "url": "https://www.zdnet.com/education/employ-report-ai-hr-hiring/",
+      "summary": "Exclusive: A new Employ report shows how AI is both helping and hurting the hiring industry.",
+      "source": "ZDNet Security",
+      "published": "2026-10-14T14:11:11.994728+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.02
+    },
+    {
+      "title": "Windows update patches a whopping 1,400 security bugs –  including 2 zero days",
+      "url": "https://www.zdnet.com/tech/windows-october-update-patches-file-explorer-bluetooth/",
+      "summary": "This month’s update also marks the first official one for Windows 11 26H2 and the end of support for Windows 11 24H2 Home and Pro.",
+      "source": "ZDNet Security",
+      "published": "2026-10-14T14:11:11.994534+00:00",
+      "raw_score": 9.447730674364996,
+      "score": 74,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 9.02
+    },
+    {
+      "title": "Cyberattack on Connected Fridges in France",
+      "url": "https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html",
+      "summary": "<p>Another IoT <a href=\"https://www.bbc.com/news/articles/crq5nzxv9q4yo\">cyberattack</a>, this one in France:</p>\n<blockquote><p>Hackers gained control of the software that regulates the temperatures of the refrigeration units, forcing some to warm to 50C (120F) overnight, according to one supermarket chain affected.</p>\n<p>[&#8230;]</p>\n<p>Normally, supermarket freezers go through a short period of defrosting overnight, in which temperatures rise slightly. But the hackers ordered the units to h",
+      "source": "Schneier on Security",
+      "published": "2026-10-14T14:10:59.350188+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.02
+    },
+    {
       "title": "Testing race conditions with memory access tracing and stack-based delay injection",
       "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
       "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static analysis. Regression tests: After fixing a race condition bug, there is often no good way to write a regression test that reliably triggers the bug as part of a test suite. Automatic bug discovery, such as fuzzing: It is hard for",
@@ -772,12 +818,12 @@
       "threshold": 9.07
     }
   ],
-  "updated": "2026-10-14T08:11:10.898512+00:00",
+  "updated": "2026-10-14T14:11:13.371481+00:00",
   "stats": {
-    "total": 51,
-    "relevant": 9,
-    "critical": 1,
-    "new_this_run": 0,
+    "total": 54,
+    "relevant": 10,
+    "critical": 2,
+    "new_this_run": 3,
     "sources": 3
   }
 }
