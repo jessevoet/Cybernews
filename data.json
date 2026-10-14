@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Testing race conditions with memory access tracing and stack-based delay injection",
+      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+      "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static analysis. Regression tests: After fixing a race condition bug, there is often no good way to write a regression test that reliably triggers the bug as part of a test suite. Automatic bug discovery, such as fuzzing: It is hard for",
+      "source": "Google Project Zero",
+      "published": "2026-10-14T02:43:19.042379+00:00",
+      "raw_score": 1.5541416604483076,
+      "score": 35,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.44
+    },
+    {
       "title": "Office 2021 support ends this month – you have 5 options",
       "url": "https://www.zdnet.com/tech/microsoft-office-2021-support-ends-your-options/",
       "summary": "Microsoft is ending support and updates for Office 2021 on October 13. What does that mean, and what are your alternatives?",
@@ -755,29 +770,14 @@
         "General"
       ],
       "threshold": 9.07
-    },
-    {
-      "title": "Testing race conditions with memory access tracing and stack-based delay injection",
-      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
-      "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static analysis. Regression tests: After fixing a race condition bug, there is often no good way to write a regression test that reliably triggers the bug as part of a test suite. Automatic bug discovery, such as fuzzing: It is hard for",
-      "source": "Google Project Zero",
-      "published": "2026-10-07T01:07:59.860730+00:00",
-      "raw_score": 1.5541416604483076,
-      "score": 35,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.27
     }
   ],
-  "updated": "2026-10-13T23:31:06.773293+00:00",
+  "updated": "2026-10-14T02:43:24.666461+00:00",
   "stats": {
     "total": 51,
     "relevant": 9,
     "critical": 1,
-    "new_this_run": 4,
+    "new_this_run": 1,
     "sources": 3
   }
 }
