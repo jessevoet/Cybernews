@@ -1,6 +1,126 @@
 {
   "items": [
     {
+      "title": "Yelp, who? 4 ways Google Maps can help you find your next meal – and order it",
+      "url": "https://www.zdnet.com/tech/google-maps-features-restaurants-dining-food-ordering/",
+      "summary": "There’s more to Google Maps’ dining tools than reviews and directions – and a few are worth a look before your next night out.",
+      "source": "ZDNet Security",
+      "published": "2026-10-15T17:29:37.592629+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.62
+    },
+    {
+      "title": "Microsoft’s new Surface Laptop Ultra finally has a starting price (you should sit down)",
+      "url": "https://www.zdnet.com/tech/microsoft-surface-laptop-ultra-preorder-starting-price/",
+      "summary": "The Surface Laptop Ultra is an AI powerhouse, with Nvidia’s new RTX Spark chip and up to 128GB of unified memory – and it’s priced for power users.",
+      "source": "ZDNet Security",
+      "published": "2026-10-15T17:29:37.592438+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "APT / Nation State"
+      ],
+      "threshold": 9.62
+    },
+    {
+      "title": "Google’s new Universal Cart tracks prices on items you want now – plus 3 other tricks",
+      "url": "https://www.zdnet.com/tech/google-universal-cart-when-to-buy-guide/",
+      "summary": "Google unveiled two new shopping tools ahead of the holiday buying season. Here’s what to know.",
+      "source": "ZDNet Security",
+      "published": "2026-10-15T17:29:37.589831+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.62
+    },
+    {
+      "title": "Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI",
+      "url": "https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/",
+      "summary": "Nvidia’s new models join a wave of open-weight releases from US labs on the heels of the Hugging Face hack.",
+      "source": "ZDNet Security",
+      "published": "2026-10-15T17:29:37.589663+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.62
+    },
+    {
+      "title": "Apple’s first touchscreen MacBook is days away – with another OLED surprise",
+      "url": "https://www.zdnet.com/tech/apple-touchscreen-macbook-oled-ipad-mini-october-event/",
+      "summary": "Apple reportedly set a date to unveil its new touchscreen MacBooks. Here’s what else we expect.",
+      "source": "ZDNet Security",
+      "published": "2026-10-15T17:29:37.589303+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.62
+    },
+    {
+      "title": "Renting? These 2 new Apple smart home devices are worth your money (and these 5 are not)",
+      "url": "https://www.zdnet.com/home-and-office/is-the-apple-home-collection-right-for-renters/",
+      "summary": "Eyeing Apple’s new Home Collection products? Renters should check their lease agreement before installing.",
+      "source": "ZDNet Security",
+      "published": "2026-10-15T17:29:37.589127+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.62
+    },
+    {
+      "title": "How Technology Empowers—and Imperils—Dictators",
+      "url": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
+      "summary": "<p><em>This essay was written with Seva Gunitsky, and originally appeared in <a href=\"https://www.foreignaffairs.com/united-states/artificial-intelligence-autocrat-technology-empowers-dictators\">Foreign Affairs</a>.</em></p>\n<p>Two weeks after Moscow&#8217;s full-scale invasion of Ukraine in March 2022, the Russian TV Channel One editor Marina Ovsyannikova burst onto the set of the evening newscast. She held up a hand-drawn sign behind the anchor&#8217;s head that read: &#8220;Stop the war. Don&",
+      "source": "Schneier on Security",
+      "published": "2026-10-15T17:29:23.007405+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.62
+    },
+    {
+      "title": "Measuring Human Cryptanalysis Effort",
+      "url": "https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html",
+      "summary": "<p>Matthew Green has a <a href=\"https://bitsofwork.org/\">new site</a> that tries to estimate the number of cryptanalyst-hours that have been spent analyzing different public-key algorithms:</p>\n<blockquote><p><b>Abstract:</b> We estimate how much public cryptanalysis each public-key assumption has received, using the literature itself as the instrument. From roughly sixteen thousand candidate papers we classify cryptanalytic work on ECDLP, structured and plain lattices, syndrome decoding and the",
+      "source": "Schneier on Security",
+      "published": "2026-10-15T17:29:23.006245+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.62
+    },
+    {
       "title": "Managers are using AI to write performance reviews – and it shows",
       "url": "https://www.zdnet.com/innovation/manager-ai-use-highwire-survey/",
       "summary": "Does AI use help or hurt feedback at work? Here’s what one survey found.",
@@ -725,59 +845,14 @@
         "ICS / OT"
       ],
       "threshold": 8.44
-    },
-    {
-      "title": "Yelp, who? 4 ways Google Maps can help you find your next meal – and order it",
-      "url": "https://www.zdnet.com/tech/google-maps-features-restaurants-dining-food-ordering/",
-      "summary": "There’s more to Google Maps’ dining tools than reviews and directions – and a few are worth a look before your next night out.",
-      "source": "ZDNet Security",
-      "published": "2026-10-08T14:12:28.388734+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.44
-    },
-    {
-      "title": "Microsoft’s new Surface Laptop Ultra finally has a starting price (you should sit down)",
-      "url": "https://www.zdnet.com/tech/microsoft-surface-laptop-ultra-preorder-starting-price/",
-      "summary": "The Surface Laptop Ultra is an AI powerhouse, with Nvidia’s new RTX Spark chip and up to 128GB of unified memory – and it’s priced for power users.",
-      "source": "ZDNet Security",
-      "published": "2026-10-08T14:12:28.388513+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "APT / Nation State"
-      ],
-      "threshold": 8.44
-    },
-    {
-      "title": "How Technology Empowers—and Imperils—Dictators",
-      "url": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
-      "summary": "<p><em>This essay was written with Seva Gunitsky, and originally appeared in <a href=\"https://www.foreignaffairs.com/united-states/artificial-intelligence-autocrat-technology-empowers-dictators\">Foreign Affairs</a>.</em></p>\n<p>Two weeks after Moscow&#8217;s full-scale invasion of Ukraine in March 2022, the Russian TV Channel One editor Marina Ovsyannikova burst onto the set of the evening newscast. She held up a hand-drawn sign behind the anchor&#8217;s head that read: &#8220;Stop the war. Don&",
-      "source": "Schneier on Security",
-      "published": "2026-10-08T14:12:17.176591+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.44
     }
   ],
-  "updated": "2026-10-15T12:17:30.446623+00:00",
+  "updated": "2026-10-15T17:29:38.874266+00:00",
   "stats": {
-    "total": 51,
+    "total": 56,
     "relevant": 9,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 8,
     "sources": 3
   }
 }
