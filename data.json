@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Managers are using AI to write performance reviews – and it shows",
+      "url": "https://www.zdnet.com/innovation/manager-ai-use-highwire-survey/",
+      "summary": "Does AI use help or hurt feedback at work? Here’s what one survey found.",
+      "source": "ZDNet Security",
+      "published": "2026-10-15T01:05:51.363626+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.1
+    },
+    {
       "title": "Apple’s Verified Photography System",
       "url": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
       "summary": "<p>Apple just <a href=\"https://security.apple.com/blog/apple-reference-image/\">released</a> a system called &#8220;Reference Image.&#8221; It can verify the image is exactly as taken by an iPhone&#8212;new models only&#8212;without tying it to a specific iPhone or photographer. It can also verify that multiple images came from the same iPhone.</p>\n<blockquote><p>Other industry solutions require a photographer or institution to vouch for an image using their own credentials. We are concerned this",
@@ -755,29 +770,14 @@
         "General"
       ],
       "threshold": 8.44
-    },
-    {
-      "title": "Managers are using AI to write performance reviews – and it shows",
-      "url": "https://www.zdnet.com/innovation/manager-ai-use-highwire-survey/",
-      "summary": "Does AI use help or hurt feedback at work? Here’s what one survey found.",
-      "source": "ZDNet Security",
-      "published": "2026-10-08T00:34:35.916517+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.25
     }
   ],
-  "updated": "2026-10-14T22:50:57.205928+00:00",
+  "updated": "2026-10-15T01:05:52.948714+00:00",
   "stats": {
     "total": 51,
     "relevant": 9,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 3
   }
 }
