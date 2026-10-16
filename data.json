@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact",
+      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html",
+      "summary": "<p><a href=\"https://eos.org/articles/squid-were-on-the-move-before-the-chicxulub-impact\">New</a> <a href=\"https://pubs.geoscienceworld.org/gsa/geology/article/54/9/938/732212/Squids-radiated-globally-prior-to-the-Cretaceous\">research</a> shows that squid lived all around the globe even before the Cretaceous-Paleogene mass extinction event.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.sch",
+      "source": "Schneier on Security",
+      "published": "2026-10-16T23:08:00.068624+00:00",
+      "raw_score": 1.6251985476200357,
+      "score": 34,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.07
+    },
+    {
       "title": "‘I use AI to do the things that I’m bad at’: Linus Torvalds on why it works for him",
       "url": "https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/",
       "summary": "The Linux creator calls vibe coding ‘a wonderful way to find joy in programming,’ but not for running Linux development. (Finding bugs is OK.)",
@@ -848,12 +863,12 @@
       "threshold": 8.44
     }
   ],
-  "updated": "2026-10-16T20:15:17.515903+00:00",
+  "updated": "2026-10-16T23:08:12.682426+00:00",
   "stats": {
-    "total": 56,
+    "total": 57,
     "relevant": 9,
     "critical": 4,
-    "new_this_run": 6,
+    "new_this_run": 1,
     "sources": 3
   }
 }
