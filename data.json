@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "title": "‘I use AI to do the things that I’m bad at’: Linus Torvalds on why it works for him",
+      "url": "https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/",
+      "summary": "The Linux creator calls vibe coding ‘a wonderful way to find joy in programming,’ but not for running Linux development. (Finding bugs is OK.)",
+      "source": "ZDNet Security",
+      "published": "2026-10-16T20:15:16.082133+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.65
+    },
+    {
+      "title": "4 ways Amazon’s new Alexa tablets eclipse the Fire line – starting with Google Play",
+      "url": "https://www.zdnet.com/tech/amazon-new-alexa-tablets-google-play-store/",
+      "summary": "Amazon just upped its game with new Android tablets for entertainment and work.",
+      "source": "ZDNet Security",
+      "published": "2026-10-16T20:15:16.081952+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.65
+    },
+    {
+      "title": "Want an iPhone Duo before 2027? Don’t preorder from Apple – try this instead",
+      "url": "https://www.zdnet.com/tech/iphone-duo-preorders-delay-supply/",
+      "summary": "Estimates for Duo preorders are now showing a ship date of late January, marking a new wait time record for Apple and its customers.",
+      "source": "ZDNet Security",
+      "published": "2026-10-16T20:15:16.079172+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.65
+    },
+    {
+      "title": "Anthropic gives third-party auditors ’employee-like access’ in AI industry first",
+      "url": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/",
+      "summary": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks.",
+      "source": "ZDNet Security",
+      "published": "2026-10-16T20:15:16.078982+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.65
+    },
+    {
+      "title": "Munich dumps proprietary for open source (again) – but no Linux desktop",
+      "url": "https://www.zdnet.com/business/munich-proprietary-open-source-no-linux-desktop/",
+      "summary": "Open source in the public sector doesn’t fail because of technical issues. It  fails because it’s not aligned with the political agenda",
+      "source": "ZDNet Security",
+      "published": "2026-10-16T20:15:16.078806+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 9.65
+    },
+    {
+      "title": "Have a Meta business account? You’re consenting to AI scraping now, legal experts say",
+      "url": "https://www.zdnet.com/uncategorized/meta-business-account-data-ai-scraping-terms/",
+      "summary": "And there’s no opt-out available.",
+      "source": "ZDNet Security",
+      "published": "2026-10-16T20:15:16.078583+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.65
+    },
+    {
       "title": "How many jobs is your state losing to AI? This dashboard tracks the cuts – and the cost",
       "url": "https://www.zdnet.com/innovation/ai-job-cuts-wage-loss-by-state-tracker/",
       "summary": "CAIS’ Wage Loss Dashboard puts AI-related job cuts into dollars and cents.",
@@ -756,89 +846,14 @@
         "General"
       ],
       "threshold": 8.44
-    },
-    {
-      "title": "Google Wallet not working on your Pixel? 4 ways to fix tap-to-pay",
-      "url": "https://www.zdnet.com/tech/tap-to-pay-trouble-pixel-phones-google-wallet-nfc/",
-      "summary": "Some Pixel users are having tap-to-pay problems,  and there’s no fix from  Google  yet. But here a few things that helped others.",
-      "source": "ZDNet Security",
-      "published": "2026-10-09T19:54:15.752717+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.44
-    },
-    {
-      "title": "This new ChatGPT scam tricks you into installing malware – how to spot the trap",
-      "url": "https://www.zdnet.com/innovation/chatgpt-scam-malware-trap/",
-      "summary": "This authentic-looking scam starts with a sponsored Google link – and it’s catching people off-guard.",
-      "source": "ZDNet Security",
-      "published": "2026-10-09T19:54:15.752570+00:00",
-      "raw_score": 6.397871528333955,
-      "score": 61,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Malware"
-      ],
-      "threshold": 8.44
-    },
-    {
-      "title": "‘I use AI to do the things that I’m bad at’: Linus Torvalds on why it works for him",
-      "url": "https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/",
-      "summary": "The Linux creator calls vibe coding ‘a wonderful way to find joy in programming,’ but not for running Linux development. (Finding bugs is OK.)",
-      "source": "ZDNet Security",
-      "published": "2026-10-09T19:54:15.750594+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.44
-    },
-    {
-      "title": "4 ways Amazon’s new Alexa tablets eclipse the Fire line – starting with Google Play",
-      "url": "https://www.zdnet.com/tech/amazon-new-alexa-tablets-google-play-store/",
-      "summary": "Amazon just upped its game with new Android tablets for entertainment and work.",
-      "source": "ZDNet Security",
-      "published": "2026-10-09T19:54:15.750390+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.44
-    },
-    {
-      "title": "Unidentified Flock Cameras in Florida",
-      "url": "https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html",
-      "summary": "<p>St. Lucie County in Florida <a href=\"https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/\">discovered</a> (<a href=\"https://archive.is/c5utX\">alt link</a>) a dozen Flock cameras whose ownership it can&#8217;t identify, and that the county government had not permitted.</p>\n<p>I am reminded of the decade-old <a href=\"https://www.washingtonpost.com/world/national-security/dhs-says-it-has-detected-possible-cellphone-surveillance",
-      "source": "Schneier on Security",
-      "published": "2026-10-09T19:54:03.890976+00:00",
-      "raw_score": 5.284476598932239,
-      "score": 55,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.44
     }
   ],
-  "updated": "2026-10-16T17:04:24.042996+00:00",
+  "updated": "2026-10-16T20:15:17.515903+00:00",
   "stats": {
-    "total": 55,
-    "relevant": 10,
-    "critical": 3,
-    "new_this_run": 0,
+    "total": 56,
+    "relevant": 9,
+    "critical": 4,
+    "new_this_run": 6,
     "sources": 3
   }
 }
