@@ -1,6 +1,37 @@
 {
   "items": [
     {
+      "title": "How many jobs is your state losing to AI? This dashboard tracks the cuts – and the cost",
+      "url": "https://www.zdnet.com/innovation/ai-job-cuts-wage-loss-by-state-tracker/",
+      "summary": "CAIS’ Wage Loss Dashboard puts AI-related job cuts into dollars and cents.",
+      "source": "ZDNet Security",
+      "published": "2026-10-16T12:51:05.555437+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.65
+    },
+    {
+      "title": "Backdooring Open-Weight AI Models",
+      "url": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
+      "summary": "<p><a href=\"https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned\">This</a> is a problem:</p>\n<blockquote><p>Any open model whose weights have been edited can carry a backdoor, whether it&#8217;s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it&#8217;s the most popular reason people download modified weights without verifying what&#8217;s inside. Abliteration is a cheap fine-tune that takes away a mode",
+      "source": "Schneier on Security",
+      "published": "2026-10-16T12:50:53.799372+00:00",
+      "raw_score": 6.7872428940998315,
+      "score": 58,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "APT / Nation State",
+        "Malware"
+      ],
+      "threshold": 9.65
+    },
+    {
       "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
@@ -817,12 +848,12 @@
       "threshold": 8.44
     }
   ],
-  "updated": "2026-10-16T07:40:19.753561+00:00",
+  "updated": "2026-10-16T12:51:07.079059+00:00",
   "stats": {
-    "total": 54,
-    "relevant": 9,
-    "critical": 2,
-    "new_this_run": 1,
+    "total": 56,
+    "relevant": 10,
+    "critical": 3,
+    "new_this_run": 2,
     "sources": 3
   }
 }
