@@ -831,29 +831,14 @@
         "General"
       ],
       "threshold": 8.44
-    },
-    {
-      "title": "How American Political Campaigns Are Using AI—and What They’re Spending on the Tools",
-      "url": "https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html",
-      "summary": "<p><em>This essay was written with Nathan E. Sanders, and originally appeared in <a href=\"https://www.theguardian.com/technology/2026/sep/29/political-campaigns-ai-tools-spending\">The Guardian</a>.</em></p>\n<p>New campaign finance disclosure data shines a light on which US political campaigns are using AI tools and how much they are spending on them.</p>\n<p>Candidates&#8217;, parties&#8217; and committees&#8217; <a href=\"https://github.com/nesanders/federal-campaign-disclosure-ai/tree/claude/cam",
-      "source": "Schneier on Security",
-      "published": "2026-10-09T14:07:21.422650+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.44
     }
   ],
-  "updated": "2026-10-16T12:51:07.079059+00:00",
+  "updated": "2026-10-16T17:04:24.042996+00:00",
   "stats": {
-    "total": 56,
+    "total": 55,
     "relevant": 10,
     "critical": 3,
-    "new_this_run": 2,
+    "new_this_run": 0,
     "sources": 3
   }
 }
