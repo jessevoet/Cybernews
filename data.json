@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Ring’s new smart lock has a manual fallback that can’t lock you out – how it works",
+      "url": "https://www.zdnet.com/uncategorized/ring-smart-lock-manual-power-dial/",
+      "summary": "The brand just announced a smart lock with a manual ‘power dial’ that charges the device in case it dies.",
+      "source": "ZDNet Security",
+      "published": "2026-10-17T11:50:54.847884+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.07
+    },
+    {
       "title": "Friday Squid Blogging: I Caught a Squid",
       "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
       "summary": "<p>On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And&#8230;I caught a squid! Near as I can tell, it&#8217;s a longfin squid, sometimes called a Boston squid (<i>Doryteuthis (Amerigo) pealeii</i>).</p>\n<p>That night I cooked it over a barbecue grill&#8212;hot and fast. Delicious.</p>\n<p><a href=\"https://www.schneier.com/wp-content/uploads/2026/10/IMG_5299-6",
@@ -816,44 +831,14 @@
         "General"
       ],
       "threshold": 8.44
-    },
-    {
-      "title": "iPhone 18 Pro Max can’t call or text on AT&#038;T? Apple will replace it for free",
-      "url": "https://www.zdnet.com/tech/iphone-18-pro-max-att-no-service-free-replacement/",
-      "summary": "Some iPhone 18 Pro Max phones on AT&#038;T are stuck in SOS mode. Two updates can prevent it, but affected phones need replacing.",
-      "source": "ZDNet Security",
-      "published": "2026-10-10T10:15:04.317056+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.44
-    },
-    {
-      "title": "Ring’s new smart lock has a manual fallback that can’t lock you out – how it works",
-      "url": "https://www.zdnet.com/uncategorized/ring-smart-lock-manual-power-dial/",
-      "summary": "The brand just announced a smart lock with a manual ‘power dial’ that charges the device in case it dies.",
-      "source": "ZDNet Security",
-      "published": "2026-10-10T10:15:04.314626+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.44
     }
   ],
-  "updated": "2026-10-17T07:18:49.598444+00:00",
+  "updated": "2026-10-17T11:50:56.606658+00:00",
   "stats": {
-    "total": 56,
+    "total": 55,
     "relevant": 9,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 3
   }
 }
