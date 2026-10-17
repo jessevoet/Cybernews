@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Plug-in solar is legal in these 10 states now – how it could save you money",
+      "url": "https://www.zdnet.com/uncategorized/plug-in-solar-balcony-solar-legalization-2026/",
+      "summary": "So-called balcony solar setups are becoming legal across the US. Here’s the latest.",
+      "source": "ZDNet Security",
+      "published": "2026-10-17T14:39:21.437772+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.07
+    },
+    {
       "title": "Ring’s new smart lock has a manual fallback that can’t lock you out – how it works",
       "url": "https://www.zdnet.com/uncategorized/ring-smart-lock-manual-power-dial/",
       "summary": "The brand just announced a smart lock with a manual ‘power dial’ that charges the device in case it dies.",
@@ -833,9 +848,9 @@
       "threshold": 8.44
     }
   ],
-  "updated": "2026-10-17T11:50:56.606658+00:00",
+  "updated": "2026-10-17T14:39:22.951590+00:00",
   "stats": {
-    "total": 55,
+    "total": 56,
     "relevant": 9,
     "critical": 4,
     "new_this_run": 1,
