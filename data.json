@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: I Caught a Squid",
+      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
+      "summary": "<p>On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And&#8230;I caught a squid! Near as I can tell, it&#8217;s a longfin squid, sometimes called a Boston squid (<i>Doryteuthis (Amerigo) pealeii</i>).</p>\n<p>That night I cooked it over a barbecue grill&#8212;hot and fast. Delicious.</p>\n<p><a href=\"https://www.schneier.com/wp-content/uploads/2026/10/IMG_5299-6",
+      "source": "Schneier on Security",
+      "published": "2026-10-17T02:08:41.507779+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.07
+    },
+    {
       "title": "Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact",
       "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html",
       "summary": "<p><a href=\"https://eos.org/articles/squid-were-on-the-move-before-the-chicxulub-impact\">New</a> <a href=\"https://pubs.geoscienceworld.org/gsa/geology/article/54/9/938/732212/Squids-radiated-globally-prior-to-the-Cretaceous\">research</a> shows that squid lived all around the globe even before the Cretaceous-Paleogene mass extinction event.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.sch",
@@ -831,41 +846,11 @@
         "General"
       ],
       "threshold": 8.44
-    },
-    {
-      "title": "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html",
-      "summary": "<p>The EU is <a href=\"https://thefishingdaily.com/latest-news/eu-outlines-measures-to-tackle-unregulated-squid-fishing/\">recommending</a> import controls to combat unregulated squid fishing in the Southwest Atlantic. I&#8217;m not optimistic.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
-      "source": "Schneier on Security",
-      "published": "2026-10-09T23:41:54.047547+00:00",
-      "raw_score": 1.5916123549022851,
-      "score": 36,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.44
-    },
-    {
-      "title": "Friday Squid Blogging: I Caught a Squid",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
-      "summary": "<p>On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And&#8230;I caught a squid! Near as I can tell, it&#8217;s a longfin squid, sometimes called a Boston squid (<i>Doryteuthis (Amerigo) pealeii</i>).</p>\n<p>That night I cooked it over a barbecue grill&#8212;hot and fast. Delicious.</p>\n<p><a href=\"https://www.schneier.com/wp-content/uploads/2026/10/IMG_5299-6",
-      "source": "Schneier on Security",
-      "published": "2026-10-09T23:41:54.046520+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.44
     }
   ],
-  "updated": "2026-10-16T23:08:12.682426+00:00",
+  "updated": "2026-10-17T02:08:54.091557+00:00",
   "stats": {
-    "total": 57,
+    "total": 56,
     "relevant": 9,
     "critical": 4,
     "new_this_run": 1,
