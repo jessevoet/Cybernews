@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "title": "Google’s new Fitbit Edge solves my biggest gripe with the Pixel Watch",
+      "url": "https://www.zdnet.com/tech/googles-new-fitbit-edge-solves-my-biggest-gripe-with-the-pixel-watch/",
+      "summary": "Google’s watches are too dang chunky.",
+      "source": "ZDNet Security",
+      "published": "2026-10-19T17:57:34.095249+00:00",
+      "raw_score": 0.0,
+      "score": 24,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.27
+    },
+    {
+      "title": "How to find Flock cameras near you with MapQuest’s new ‘surveillance layer’",
+      "url": "https://www.zdnet.com/tech/how-to-find-flock-cameras-nearby-mapquest-surveillance-layer/",
+      "summary": "A name from the past is emerging again to help you stay out of sight of surveillance cameras.",
+      "source": "ZDNet Security",
+      "published": "2026-10-19T17:57:34.093248+00:00",
+      "raw_score": 0.0,
+      "score": 24,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.27
+    },
+    {
+      "title": "FBI Arrests Suspect in FBI-Hacking Case",
+      "url": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
+      "summary": "<p>In September, hackers from a group called ShinyHunters <a href=\"https://www.reuters.com/world/hacked-fbi-data-has-sensitive-information-about-employees-intelligence-roles-2026-09-23/\">announced</a> that they stole a trove of FBI data about its own agents. It was an <a href=\"https://www.lawfaremedia.org/article/the-fbi-data-breach-is-a-counterintelligence-disaster\">intelligence disaster</a>.</p>\n<p>Last week, the FBI <a href=\"https://www.nytimes.com/2026/10/09/us/politics/fbi-hack-shinyhunters",
+      "source": "Schneier on Security",
+      "published": "2026-10-19T17:57:21.624665+00:00",
+      "raw_score": 3.0054541626805356,
+      "score": 41,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Data Breach",
+        "ICS / OT",
+        "Law Enforcement"
+      ],
+      "threshold": 8.27
+    },
+    {
       "title": "Training AIs to Solve CAPTCHAs",
       "url": "https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html",
       "summary": "<p>Interesting <a href=\"https://arxiv.org/abs/2609.02393\">research</a>:</p>\n<blockquote><p><b>Abstract</b>: Vision-language models (VLMs) can solve visual CAPTCHAs without task-specific training, but the agents built on them approach every challenge from scratch. For such an agent, the hundredth instance of a familiar puzzle costs as much time and compute as the first. Specialized detectors invert the trade-off, answering in milliseconds but only for categories they were trained on. Neither impr",
@@ -829,46 +876,14 @@
         "General"
       ],
       "threshold": 8.25
-    },
-    {
-      "title": "Google’s new Fitbit Edge solves my biggest gripe with the Pixel Watch",
-      "url": "https://www.zdnet.com/tech/googles-new-fitbit-edge-solves-my-biggest-gripe-with-the-pixel-watch/",
-      "summary": "Google’s watches are too dang chunky.",
-      "source": "ZDNet Security",
-      "published": "2026-10-12T16:18:41.435069+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.25
-    },
-    {
-      "title": "FBI Arrests Suspect in FBI-Hacking Case",
-      "url": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
-      "summary": "<p>In September, hackers from a group called ShinyHunters <a href=\"https://www.reuters.com/world/hacked-fbi-data-has-sensitive-information-about-employees-intelligence-roles-2026-09-23/\">announced</a> that they stole a trove of FBI data about its own agents. It was an <a href=\"https://www.lawfaremedia.org/article/the-fbi-data-breach-is-a-counterintelligence-disaster\">intelligence disaster</a>.</p>\n<p>Last week, the FBI <a href=\"https://www.nytimes.com/2026/10/09/us/politics/fbi-hack-shinyhunters",
-      "source": "Schneier on Security",
-      "published": "2026-10-12T16:18:26.896611+00:00",
-      "raw_score": 3.0054541626805356,
-      "score": 44,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Data Breach",
-        "ICS / OT",
-        "Law Enforcement"
-      ],
-      "threshold": 8.25
     }
   ],
-  "updated": "2026-10-19T11:34:25.013494+00:00",
+  "updated": "2026-10-19T17:57:35.792230+00:00",
   "stats": {
-    "total": 57,
+    "total": 58,
     "relevant": 9,
     "critical": 4,
-    "new_this_run": 1,
+    "new_this_run": 3,
     "sources": 3
   }
 }
