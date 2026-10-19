@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Training AIs to Solve CAPTCHAs",
+      "url": "https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html",
+      "summary": "<p>Interesting <a href=\"https://arxiv.org/abs/2609.02393\">research</a>:</p>\n<blockquote><p><b>Abstract</b>: Vision-language models (VLMs) can solve visual CAPTCHAs without task-specific training, but the agents built on them approach every challenge from scratch. For such an agent, the hundredth instance of a familiar puzzle costs as much time and compute as the first. Specialized detectors invert the trade-off, answering in milliseconds but only for categories they were trained on. Neither impr",
+      "source": "Schneier on Security",
+      "published": "2026-10-19T11:34:10.924963+00:00",
+      "raw_score": 0.0,
+      "score": 24,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "APT / Nation State"
+      ],
+      "threshold": 8.27
+    },
+    {
       "title": "A 0-click exploit chain for the Pixel 9 Part 3: Where do we go from here?",
       "url": "https://projectzero.google/2026/01/pixel-0-click-part-3.html",
       "summary": "While our previous two blog posts provided technical recommendations for increasing the effort required by attackers to develop 0-click exploit chains, our experience finding, reporting and exploiting these vulnerabilities highlighted some broader issues in the Android ecosystem. This post describes the problems we encountered and recommendations for improvement. Audio Attack Surface The Dolby UDC is part of the 0-click attack surface of most Android devices because of audio transcription in the",
@@ -848,12 +863,12 @@
       "threshold": 8.25
     }
   ],
-  "updated": "2026-10-19T05:29:16.094485+00:00",
+  "updated": "2026-10-19T11:34:25.013494+00:00",
   "stats": {
-    "total": 56,
+    "total": 57,
     "relevant": 9,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 3
   }
 }
