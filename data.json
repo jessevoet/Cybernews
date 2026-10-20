@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Claude sent a false homicide tip to police – and it’s part of a troubling AI pattern",
+      "url": "https://www.zdnet.com/innovation/claude-false-homicide-tip/",
+      "summary": "Models routinely take shortcuts to pass evaluations. Who gets to decide what incidents are innocuous?",
+      "source": "ZDNet Security",
+      "published": "2026-10-20T00:53:19.664407+00:00",
+      "raw_score": 0.0,
+      "score": 24,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.27
+    },
+    {
+      "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
+      "url": "https://projectzero.google/2026/09/windows-dangling-com.html",
+      "summary": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed “Dark Elevator” by Calif. The root cause of the bug was a dangling COM object registration for the CrossDevice COM object with the CLSID {E9F83CF2-E0C0-4CA7-AF01-E90C70BEF496}. A COM registration typically needs two parts: a server executable, which for in-process components is a ",
+      "source": "Google Project Zero",
+      "published": "2026-10-20T00:53:13.042198+00:00",
+      "raw_score": 6.593552252651085,
+      "score": 62,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 8.27
+    },
+    {
       "title": "Google’s new Fitbit Edge solves my biggest gripe with the Pixel Watch",
       "url": "https://www.zdnet.com/tech/googles-new-fitbit-edge-solves-my-biggest-gripe-with-the-pixel-watch/",
       "summary": "Google’s watches are too dang chunky.",
@@ -816,74 +846,14 @@
         "Vulnerability"
       ],
       "threshold": 8.25
-    },
-    {
-      "title": "How I made a paid Mac app in 11 days with Claude – without writing a single line of code",
-      "url": "https://www.zdnet.com/innovation/claude-code-vibe-coding-mac-app/",
-      "summary": "Claude helped me vibe-code a Mac app and pass Apple’s review in less than two weeks. Come with me on my journey from idea to purchasable App Store product.",
-      "source": "ZDNet Security",
-      "published": "2026-10-12T23:21:40.882617+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.25
-    },
-    {
-      "title": "Claude sent a false homicide tip to police – and it’s part of a troubling AI pattern",
-      "url": "https://www.zdnet.com/innovation/claude-false-homicide-tip/",
-      "summary": "Models routinely take shortcuts to pass evaluations. Who gets to decide what incidents are innocuous?",
-      "source": "ZDNet Security",
-      "published": "2026-10-12T23:21:40.880328+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.25
-    },
-    {
-      "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
-      "url": "https://projectzero.google/2026/09/windows-dangling-com.html",
-      "summary": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed “Dark Elevator” by Calif. The root cause of the bug was a dangling COM object registration for the CrossDevice COM object with the CLSID {E9F83CF2-E0C0-4CA7-AF01-E90C70BEF496}. A COM registration typically needs two parts: a server executable, which for in-process components is a ",
-      "source": "Google Project Zero",
-      "published": "2026-10-12T23:21:36.122913+00:00",
-      "raw_score": 6.593552252651085,
-      "score": 63,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 8.25
-    },
-    {
-      "title": "Another Historic Cipher Falls to AI",
-      "url": "https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html",
-      "summary": "<p><a href=\"https://carter.church/writeups/the-letter-to-marmont/#war\">This one</a> is from 1809, written by Napoleon&#8217;s nephew.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-10-12T23:21:29.504287+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.25
     }
   ],
-  "updated": "2026-10-19T21:57:24.791175+00:00",
+  "updated": "2026-10-20T00:53:20.983851+00:00",
   "stats": {
-    "total": 58,
+    "total": 56,
     "relevant": 9,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 3
   }
 }
