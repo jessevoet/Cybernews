@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly)",
+      "url": "https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/",
+      "summary": "The latest Android Auto update lets the AI assistant tap into your Google services for context-based responses.",
+      "source": "ZDNet Security",
+      "published": "2026-10-20T22:49:16.321777+00:00",
+      "raw_score": 0.0,
+      "score": 24,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.4
+    },
+    {
       "title": "Apple’s $299 HomeView smart hub is here: 8 highlights, including the wall model",
       "url": "https://www.zdnet.com/home-and-office/apple-homeview-smart-home-hub-features-price/",
       "summary": "As an Apple Home user, here’s what stands out about Apple’s new smart home hub – and what I want to test firsthand.",
@@ -863,12 +878,12 @@
       "threshold": 8.44
     }
   ],
-  "updated": "2026-10-20T19:44:30.055142+00:00",
+  "updated": "2026-10-20T22:49:18.082509+00:00",
   "stats": {
-    "total": 57,
+    "total": 58,
     "relevant": 9,
     "critical": 5,
-    "new_this_run": 5,
+    "new_this_run": 1,
     "sources": 3
   }
 }
