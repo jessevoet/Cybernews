@@ -1,6 +1,67 @@
 {
   "items": [
     {
+      "title": "Dutch tax authorities cancel Microsoft 365 cloud rollout – and turn toward open source",
+      "url": "https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/",
+      "summary": "Another European move toward digital sovereignty has curtailed adopting the US workplace suite.",
+      "source": "ZDNet Security",
+      "published": "2026-10-20T15:28:23.048281+00:00",
+      "raw_score": 0.0,
+      "score": 24,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 8.4
+    },
+    {
+      "title": "TechPulse puts ZDNET and 4 other tech sites in one feed – for free",
+      "url": "https://www.zdnet.com/tech/techpulse-free-tech-news-app-zdnet/",
+      "summary": "Choose which CNET Group publications appear in your feed, then catch up on news, reviews, and videos – without an algorithm deciding what you see.",
+      "source": "ZDNet Security",
+      "published": "2026-10-20T15:28:23.046540+00:00",
+      "raw_score": 0.0,
+      "score": 24,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.4
+    },
+    {
+      "title": "Latest Windows update disables key security setting – but there’s a workaround",
+      "url": "https://www.zdnet.com/tech/microsoft-october-windows-update-disables-security-setting-workaround/",
+      "summary": "A bug in Microsoft’s October Windows update prevents you from turning on a security setting that blocks malicious or suspicious apps. A Registry hack fixes the glitch.",
+      "source": "ZDNet Security",
+      "published": "2026-10-20T15:28:23.046428+00:00",
+      "raw_score": 1.3860854237743063,
+      "score": 32,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.4
+    },
+    {
+      "title": "Possible new Cellebrite iPhone Radio Zero-Day",
+      "url": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
+      "summary": "<p>Justin.sh is <a href=\"https://justin.sh/blog/2026/10/cellebrite-advanced-unlocks/\">reporting</a> on a confidential Cellebrite document that has been leaked to him:</p>\n<blockquote><p>Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the &#8220;advanced unlocking services&#8221; they&#8217;ve marketed for years. A <a href=\"https://web.archive.org/web/20260814034529/https://www.prnewswire.com/news-releases/cellebrite-appoints-shiven-ramji-chief-executive-officer-su",
+      "source": "Schneier on Security",
+      "published": "2026-10-20T15:28:10.475538+00:00",
+      "raw_score": 7.536526173014209,
+      "score": 67,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability",
+        "Data Breach"
+      ],
+      "threshold": 8.4
+    },
+    {
       "title": "Claude sent a false homicide tip to police – and it’s part of a troubling AI pattern",
       "url": "https://www.zdnet.com/innovation/claude-false-homicide-tip/",
       "summary": "Models routinely take shortcuts to pass evaluations. Who gets to decide what incidents are innocuous?",
@@ -831,29 +892,14 @@
         "ICS / OT"
       ],
       "threshold": 8.44
-    },
-    {
-      "title": "Dutch tax authorities cancel Microsoft 365 cloud rollout – and turn toward open source",
-      "url": "https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/",
-      "summary": "Another European move toward digital sovereignty has curtailed adopting the US workplace suite.",
-      "source": "ZDNet Security",
-      "published": "2026-10-13T12:20:03.224811+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 8.25
     }
   ],
-  "updated": "2026-10-20T10:39:02.461588+00:00",
+  "updated": "2026-10-20T15:28:24.513817+00:00",
   "stats": {
-    "total": 56,
-    "relevant": 9,
-    "critical": 4,
-    "new_this_run": 0,
+    "total": 59,
+    "relevant": 10,
+    "critical": 5,
+    "new_this_run": 4,
     "sources": 3
   }
 }
