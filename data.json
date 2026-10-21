@@ -1,6 +1,82 @@
 {
   "items": [
     {
+      "title": "‘So perfect, they are literally identical’ – Your AI-polished resumes are recruiters’ new top stressor",
+      "url": "https://www.zdnet.com/education/employ-report-ai-hr-hiring/",
+      "summary": "Exclusive: A new Employ report shows how AI is both helping and hurting the hiring industry.",
+      "source": "ZDNet Security",
+      "published": "2026-10-21T17:46:44.282367+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.05
+    },
+    {
+      "title": "Windows update patches a whopping 1,400 security bugs –  including 2 zero days",
+      "url": "https://www.zdnet.com/tech/windows-october-update-patches-file-explorer-bluetooth/",
+      "summary": "This month’s update also marks the first official one for Windows 11 26H2 and the end of support for Windows 11 24H2 Home and Pro.",
+      "source": "ZDNet Security",
+      "published": "2026-10-21T17:46:44.282270+00:00",
+      "raw_score": 9.447730674364996,
+      "score": 80,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 8.05
+    },
+    {
+      "title": "Amazon unveiled 5 new Blink cameras, including a 4K model that caught my eye",
+      "url": "https://www.zdnet.com/home-and-office/new-amazon-blink-cameras-worth-the-upgrade/",
+      "summary": "Five new Blink cameras are coming to the market, and the extended-range model has all my attention.",
+      "source": "ZDNet Security",
+      "published": "2026-10-21T17:46:44.280641+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.05
+    },
+    {
+      "title": "Chrome warns you about suspicious websites now – how to turn on Google’s new scam protection",
+      "url": "https://www.zdnet.com/business/chrome-browser-warns-suspicious-websites-scam-protection/",
+      "summary": "Google’s browser will flash two  types of warnings based on whether the site is deemed dangerous or just suspicious.",
+      "source": "ZDNet Security",
+      "published": "2026-10-21T17:46:44.280531+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.05
+    },
+    {
+      "title": "Cyberattack on Connected Fridges in France",
+      "url": "https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html",
+      "summary": "<p>Another IoT <a href=\"https://www.bbc.com/news/articles/crq5nzxv9q4yo\">cyberattack</a>, this one in France:</p>\n<blockquote><p>Hackers gained control of the software that regulates the temperatures of the refrigeration units, forcing some to warm to 50C (120F) overnight, according to one supermarket chain affected.</p>\n<p>[&#8230;]</p>\n<p>Normally, supermarket freezers go through a short period of defrosting overnight, in which temperatures rise slightly. But the hackers ordered the units to h",
+      "source": "Schneier on Security",
+      "published": "2026-10-21T17:46:32.196900+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.05
+    },
+    {
       "title": "Exclusive: ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
       "url": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/",
       "summary": "The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.",
@@ -816,60 +892,14 @@
         "General"
       ],
       "threshold": 9.1
-    },
-    {
-      "title": "‘So perfect, they are literally identical’ – Your AI-polished resumes are recruiters’ new top stressor",
-      "url": "https://www.zdnet.com/education/employ-report-ai-hr-hiring/",
-      "summary": "Exclusive: A new Employ report shows how AI is both helping and hurting the hiring industry.",
-      "source": "ZDNet Security",
-      "published": "2026-10-14T14:11:11.994728+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.02
-    },
-    {
-      "title": "Windows update patches a whopping 1,400 security bugs –  including 2 zero days",
-      "url": "https://www.zdnet.com/tech/windows-october-update-patches-file-explorer-bluetooth/",
-      "summary": "This month’s update also marks the first official one for Windows 11 26H2 and the end of support for Windows 11 24H2 Home and Pro.",
-      "source": "ZDNet Security",
-      "published": "2026-10-14T14:11:11.994534+00:00",
-      "raw_score": 9.447730674364996,
-      "score": 74,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 9.02
-    },
-    {
-      "title": "Cyberattack on Connected Fridges in France",
-      "url": "https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html",
-      "summary": "<p>Another IoT <a href=\"https://www.bbc.com/news/articles/crq5nzxv9q4yo\">cyberattack</a>, this one in France:</p>\n<blockquote><p>Hackers gained control of the software that regulates the temperatures of the refrigeration units, forcing some to warm to 50C (120F) overnight, according to one supermarket chain affected.</p>\n<p>[&#8230;]</p>\n<p>Normally, supermarket freezers go through a short period of defrosting overnight, in which temperatures rise slightly. But the hackers ordered the units to h",
-      "source": "Schneier on Security",
-      "published": "2026-10-14T14:10:59.350188+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.02
     }
   ],
-  "updated": "2026-10-21T12:34:34.703343+00:00",
+  "updated": "2026-10-21T17:46:45.808957+00:00",
   "stats": {
-    "total": 57,
+    "total": 59,
     "relevant": 10,
     "critical": 6,
-    "new_this_run": 2,
+    "new_this_run": 5,
     "sources": 3
   }
 }
