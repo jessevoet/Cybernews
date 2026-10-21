@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Testing race conditions with memory access tracing and stack-based delay injection",
+      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+      "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static analysis. Regression tests: After fixing a race condition bug, there is often no good way to write a regression test that reliably triggers the bug as part of a test suite. Automatic bug discovery, such as fuzzing: It is hard for",
+      "source": "Google Project Zero",
+      "published": "2026-10-21T06:47:23.230587+00:00",
+      "raw_score": 1.5541416604483076,
+      "score": 33,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.4
+    },
+    {
       "title": "How to fix a bug in a fix",
       "url": "https://projectzero.google/2026/10/emergency-patching.html",
       "summary": "Project Zero often works with software vendors to remediate the vulnerabilities we report and provide broader guidance on making software more secure. Some vendors express concern about potential scenarios in which they are unable to fix vulnerabilities that are causing immediate user harm, due to limitations in their patch delivery systems. Since Project Zero encounters a wide array of systems designed to protect users in the case of exceptional exploitation scenarios, both through vendor discu",
@@ -816,24 +831,9 @@
         "General"
       ],
       "threshold": 9.02
-    },
-    {
-      "title": "Testing race conditions with memory access tracing and stack-based delay injection",
-      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
-      "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static analysis. Regression tests: After fixing a race condition bug, there is often no good way to write a regression test that reliably triggers the bug as part of a test suite. Automatic bug discovery, such as fuzzing: It is hard for",
-      "source": "Google Project Zero",
-      "published": "2026-10-14T02:43:19.042379+00:00",
-      "raw_score": 1.5541416604483076,
-      "score": 35,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.44
     }
   ],
-  "updated": "2026-10-21T01:07:48.200940+00:00",
+  "updated": "2026-10-21T06:47:30.692930+00:00",
   "stats": {
     "total": 55,
     "relevant": 9,
