@@ -1,6 +1,37 @@
 {
   "items": [
     {
+      "title": "Exclusive: ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
+      "url": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/",
+      "summary": "The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.",
+      "source": "ZDNet Security",
+      "published": "2026-10-21T12:34:33.364165+00:00",
+      "raw_score": 1.8325582915371859,
+      "score": 37,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.05
+    },
+    {
+      "title": "Workshop on Economics and Information Security (WEIS) Archive",
+      "url": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
+      "summary": "<p>There&#8217;s a new <a href=\"https://papers.econinfosec.org\">archive</a> of all the papers from twenty-five years of the Workshop on Economics and Information Security (WEIS).</p>\n<p>Really nice resource. It&#8217;s fun to reread my <a href=\"https://papers.econinfosec.org/papers/weis2002/weis2002_02_computer-security-its-the-economics-stupid-position-paper.doc\">2002</a> essay on the economics of information security.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-10-21T12:34:22.000494+00:00",
+      "raw_score": 1.194692991909389,
+      "score": 33,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability",
+        "ICS / OT"
+      ],
+      "threshold": 8.05
+    },
+    {
       "title": "Testing race conditions with memory access tracing and stack-based delay injection",
       "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
       "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static analysis. Regression tests: After fixing a race condition bug, there is often no good way to write a regression test that reliably triggers the bug as part of a test suite. Automatic bug discovery, such as fuzzing: It is hard for",
@@ -833,12 +864,12 @@
       "threshold": 9.02
     }
   ],
-  "updated": "2026-10-21T06:47:30.692930+00:00",
+  "updated": "2026-10-21T12:34:34.703343+00:00",
   "stats": {
-    "total": 55,
-    "relevant": 9,
-    "critical": 5,
-    "new_this_run": 1,
+    "total": 57,
+    "relevant": 10,
+    "critical": 6,
+    "new_this_run": 2,
     "sources": 3
   }
 }
