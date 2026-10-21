@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "OpenAI’s most powerful AI models turned off safety monitoring – then lied about it",
+      "url": "https://www.zdnet.com/innovation/openai-astra-sol-models-disable-safety-monitoring/",
+      "summary": "The models Astra and Sol misinterpreted instructions during internal use, which has serious implications for alignment monitoring.",
+      "source": "ZDNet Security",
+      "published": "2026-10-21T21:01:39.128604+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.05
+    },
+    {
+      "title": "Hold onto your old HomePod – an upgrade is on the way",
+      "url": "https://www.zdnet.com/home-and-office/keep-old-apple-homepod-upgrades/",
+      "summary": "An upcoming update will bring new features to existing HomePods. Here’s what to know.",
+      "source": "ZDNet Security",
+      "published": "2026-10-21T21:01:39.128453+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.05
+    },
+    {
+      "title": "The Future of AI Cryptanalysis",
+      "url": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
+      "summary": "<p>Matthew Green <a href=\"https://x.com/matthew_d_green/status/2107992246360649879\">has</a> <a href=\"https://x.com/matthew_d_green/status/2108278850555674975?s=46\">been</a> <a href=\"https://x.com/matthew_d_green/status/2108552414978564418\">writing</a> a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers.</p>\n<p>I am more optimistic than he is. That is, I have stronger faith in the over-engine",
+      "source": "Schneier on Security",
+      "published": "2026-10-21T21:01:29.214113+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.05
+    },
+    {
+      "title": "Upcoming Speaking Engagements",
+      "url": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
+      "summary": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m speaking at <a href=\"https://www.attentionconferences.com/conferences/2026-forum\">ATTENTION: Democracy, Rebuilt</a> in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21.</li>\n<li>I’m speaking at the <a href=\"https://www.eventbrite.ca/e/conversations-in-computing-bruce-schneier-on-hacking-ai-tickets-1998780074007\">University of Toronto</a> in Toronto, Ontario, ",
+      "source": "Schneier on Security",
+      "published": "2026-10-21T21:01:29.214010+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.05
+    },
+    {
       "title": "‘So perfect, they are literally identical’ – Your AI-polished resumes are recruiters’ new top stressor",
       "url": "https://www.zdnet.com/education/employ-report-ai-hr-hiring/",
       "summary": "Exclusive: A new Employ report shows how AI is both helping and hurting the hiring industry.",
@@ -847,59 +907,14 @@
         "General"
       ],
       "threshold": 9.1
-    },
-    {
-      "title": "Apple’s Verified Photography System",
-      "url": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
-      "summary": "<p>Apple just <a href=\"https://security.apple.com/blog/apple-reference-image/\">released</a> a system called &#8220;Reference Image.&#8221; It can verify the image is exactly as taken by an iPhone&#8212;new models only&#8212;without tying it to a specific iPhone or photographer. It can also verify that multiple images came from the same iPhone.</p>\n<blockquote><p>Other industry solutions require a photographer or institution to vouch for an image using their own credentials. We are concerned this",
-      "source": "Schneier on Security",
-      "published": "2026-10-14T19:03:15.087700+00:00",
-      "raw_score": 1.6483880631627712,
-      "score": 36,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.1
-    },
-    {
-      "title": "The Future of AI Cryptanalysis",
-      "url": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
-      "summary": "<p>Matthew Green <a href=\"https://x.com/matthew_d_green/status/2107992246360649879\">has</a> <a href=\"https://x.com/matthew_d_green/status/2108278850555674975?s=46\">been</a> <a href=\"https://x.com/matthew_d_green/status/2108552414978564418\">writing</a> a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers.</p>\n<p>I am more optimistic than he is. That is, I have stronger faith in the over-engine",
-      "source": "Schneier on Security",
-      "published": "2026-10-14T19:03:15.086721+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.1
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "url": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
-      "summary": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m speaking at <a href=\"https://www.attentionconferences.com/conferences/2026-forum\">ATTENTION: Democracy, Rebuilt</a> in Montreal, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21.</li>\n<li>I’m speaking at the <a href=\"https://www.eventbrite.ca/e/conversations-in-computing-bruce-schneier-on-hacking-ai-tickets-1998780074007\">University of Toronto</a> in Toronto, Ontario, Canada, ",
-      "source": "Schneier on Security",
-      "published": "2026-10-14T19:03:15.086537+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.1
     }
   ],
-  "updated": "2026-10-21T17:46:45.808957+00:00",
+  "updated": "2026-10-21T21:01:40.629685+00:00",
   "stats": {
-    "total": 59,
+    "total": 60,
     "relevant": 10,
     "critical": 6,
-    "new_this_run": 5,
+    "new_this_run": 4,
     "sources": 3
   }
 }
