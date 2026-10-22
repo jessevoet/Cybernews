@@ -878,59 +878,14 @@
         "Advisory"
       ],
       "threshold": 9.62
-    },
-    {
-      "title": "Can AI fix legacy IT? The ‘economics don’t hold up,’ says former IBM strategist",
-      "url": "https://www.zdnet.com/innovation/ai-legacy-it-modernization/",
-      "summary": "Vendors are pitching AI as a cure-all for legacy IT systems, but is it?",
-      "source": "ZDNet Security",
-      "published": "2026-10-15T20:42:42.613853+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "ICS / OT"
-      ],
-      "threshold": 9.62
-    },
-    {
-      "title": "Regulators are trying to protect you from being fired by AI – here’s how",
-      "url": "https://www.zdnet.com/innovation/how-state-regulators-protect-you-fired-by-ai/",
-      "summary": "Regulating AI at work is happening slowly, but it’s still stuck at the state level.",
-      "source": "ZDNet Security",
-      "published": "2026-10-15T20:42:42.613742+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.62
-    },
-    {
-      "title": "Got a Microsoft 365 subscription? Your storage is about to shrink",
-      "url": "https://www.zdnet.com/tech/microsoft-365-subscription-storage-limits/",
-      "summary": "Today, shared Microsoft 365 plans include 1 TB of OneDrive cloud storage for every family member. Microsoft is about to shrink that allotment dramatically.",
-      "source": "ZDNet Security",
-      "published": "2026-10-15T20:42:42.613633+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.62
     }
   ],
-  "updated": "2026-10-22T19:38:18.525874+00:00",
+  "updated": "2026-10-22T22:52:11.115818+00:00",
   "stats": {
-    "total": 61,
+    "total": 58,
     "relevant": 12,
     "critical": 8,
-    "new_this_run": 6,
+    "new_this_run": 0,
     "sources": 3
   }
 }
