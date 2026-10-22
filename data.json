@@ -1,6 +1,37 @@
 {
   "items": [
     {
+      "title": "The latest PowerToys gives your mouse 2 new tricks for free – how to use them",
+      "url": "https://www.zdnet.com/tech/powertoys-102-windows-mouse-control/",
+      "summary": "PowerToys is one of my favorite free Windows utilities. With more than 30 tools, it offers something for everyone from beginners to power users. Here’s what’s new for mousing.",
+      "source": "ZDNet Security",
+      "published": "2026-10-22T15:44:05.582120+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.46
+    },
+    {
+      "title": "New Serious PHP Vulnerabilities Released and Patched",
+      "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
+      "summary": "<p>PHP maintainers have <a href=\"https://www.php.net/archive/2026.php#2026-10-20-1\">released</a> fixes for two critical vulnerabilities:</p>\n<blockquote><p>PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. </p>\n<p>Who is at risk: all PHP installations serving web requests, including PHP-FPM, Apache with mod_php, php-cgi, FrankenPHP and LiteSpeed. We consider the",
+      "source": "Schneier on Security",
+      "published": "2026-10-22T15:43:53.767875+00:00",
+      "raw_score": 7.262310390034352,
+      "score": 65,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 8.46
+    },
+    {
       "title": "Not impressed with Google Maps? Make Waze your default on Pixel – here’s how",
       "url": "https://www.zdnet.com/tech/waze-your-way-to-a-different-default-map-app-on-pixel/",
       "summary": "If you’re tired of Google Maps failing to get you where you need to go, set Waze as the default on your Pixel. I’ve finally figured out how.",
@@ -924,12 +955,12 @@
       "threshold": 9.62
     }
   ],
-  "updated": "2026-10-22T10:51:03.256220+00:00",
+  "updated": "2026-10-22T15:44:07.190142+00:00",
   "stats": {
-    "total": 61,
-    "relevant": 11,
-    "critical": 7,
-    "new_this_run": 0,
+    "total": 63,
+    "relevant": 12,
+    "critical": 8,
+    "new_this_run": 2,
     "sources": 3
   }
 }
