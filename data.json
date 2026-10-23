@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "Want an iPhone Duo before 2027? Don’t preorder from Apple – try this instead",
+      "url": "https://www.zdnet.com/tech/iphone-duo-preorders-delay-supply/",
+      "summary": "Estimates for Duo preorders are now showing a ship date of late January, marking a new wait time record for Apple and its customers.",
+      "source": "ZDNet Security",
+      "published": "2026-10-23T20:48:16.246213+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.2
+    },
+    {
+      "title": "Anthropic gives third-party auditors ’employee-like access’ in AI industry first",
+      "url": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/",
+      "summary": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks.",
+      "source": "ZDNet Security",
+      "published": "2026-10-23T20:48:16.246037+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.2
+    },
+    {
+      "title": "Munich dumps proprietary for open source (again) – but no Linux desktop",
+      "url": "https://www.zdnet.com/business/munich-proprietary-open-source-no-linux-desktop/",
+      "summary": "Open source in the public sector doesn’t fail because of technical issues. It  fails because it’s not aligned with the political agenda",
+      "source": "ZDNet Security",
+      "published": "2026-10-23T20:48:16.245830+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 8.2
+    },
+    {
+      "title": "Have a Meta business account? You’re consenting to AI scraping now, legal experts say",
+      "url": "https://www.zdnet.com/business/meta-business-account-data-ai-scraping-terms/",
+      "summary": "And there’s no opt-out available.",
+      "source": "ZDNet Security",
+      "published": "2026-10-23T20:48:16.245667+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.2
+    },
+    {
       "title": "How many jobs is your state losing to AI? This dashboard tracks the cuts – and the cost",
       "url": "https://www.zdnet.com/innovation/ai-job-cuts-wage-loss-by-state-tracker/",
       "summary": "CAIS’ Wage Loss Dashboard puts AI-related job cuts into dollars and cents.",
@@ -834,101 +894,11 @@
         "General"
       ],
       "threshold": 8.07
-    },
-    {
-      "title": "‘I use AI to do the things that I’m bad at’: Linus Torvalds on why it works for him",
-      "url": "https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/",
-      "summary": "The Linux creator calls vibe coding ‘a wonderful way to find joy in programming,’ but not for running Linux development. (Finding bugs is OK.)",
-      "source": "ZDNet Security",
-      "published": "2026-10-16T20:15:16.082133+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.65
-    },
-    {
-      "title": "4 ways Amazon’s new Alexa tablets eclipse the Fire line – starting with Google Play",
-      "url": "https://www.zdnet.com/tech/amazon-new-alexa-tablets-google-play-store/",
-      "summary": "Amazon just upped its game with new Android tablets for entertainment and work.",
-      "source": "ZDNet Security",
-      "published": "2026-10-16T20:15:16.081952+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.65
-    },
-    {
-      "title": "Want an iPhone Duo before 2027? Don’t preorder from Apple – try this instead",
-      "url": "https://www.zdnet.com/tech/iphone-duo-preorders-delay-supply/",
-      "summary": "Estimates for Duo preorders are now showing a ship date of late January, marking a new wait time record for Apple and its customers.",
-      "source": "ZDNet Security",
-      "published": "2026-10-16T20:15:16.079172+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.65
-    },
-    {
-      "title": "Anthropic gives third-party auditors ’employee-like access’ in AI industry first",
-      "url": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/",
-      "summary": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks.",
-      "source": "ZDNet Security",
-      "published": "2026-10-16T20:15:16.078982+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.65
-    },
-    {
-      "title": "Munich dumps proprietary for open source (again) – but no Linux desktop",
-      "url": "https://www.zdnet.com/business/munich-proprietary-open-source-no-linux-desktop/",
-      "summary": "Open source in the public sector doesn’t fail because of technical issues. It  fails because it’s not aligned with the political agenda",
-      "source": "ZDNet Security",
-      "published": "2026-10-16T20:15:16.078806+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 9.65
-    },
-    {
-      "title": "Have a Meta business account? You’re consenting to AI scraping now, legal experts say",
-      "url": "https://www.zdnet.com/uncategorized/meta-business-account-data-ai-scraping-terms/",
-      "summary": "And there’s no opt-out available.",
-      "source": "ZDNet Security",
-      "published": "2026-10-16T20:15:16.078583+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.65
     }
   ],
-  "updated": "2026-10-23T17:35:58.366573+00:00",
+  "updated": "2026-10-23T20:48:17.585658+00:00",
   "stats": {
-    "total": 61,
+    "total": 59,
     "relevant": 13,
     "critical": 9,
     "new_this_run": 4,
