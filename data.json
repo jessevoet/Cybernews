@@ -894,29 +894,14 @@
         "General"
       ],
       "threshold": 8.07
-    },
-    {
-      "title": "Friday Squid Blogging: I Caught a Squid",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
-      "summary": "<p>On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And&#8230;I caught a squid! Near as I can tell, it&#8217;s a longfin squid, sometimes called a Boston squid (<i>Doryteuthis (Amerigo) pealeii</i>).</p>\n<p>That night I cooked it over a barbecue grill&#8212;hot and fast. Delicious.</p>\n<p><a href=\"https://www.schneier.com/wp-content/uploads/2026/10/IMG_5299-6",
-      "source": "Schneier on Security",
-      "published": "2026-10-17T02:08:41.507779+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.07
     }
   ],
-  "updated": "2026-10-23T23:40:02.326714+00:00",
+  "updated": "2026-10-24T02:32:10.691124+00:00",
   "stats": {
-    "total": 60,
+    "total": 59,
     "relevant": 13,
     "critical": 9,
-    "new_this_run": 2,
+    "new_this_run": 0,
     "sources": 3
   }
 }
