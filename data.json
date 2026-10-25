@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "As a home tech expert, I beg you: don’t run these appliances on a power station",
+      "url": "https://www.zdnet.com/home-and-office/do-not-run-these-appliances-on-power-stations/",
+      "summary": "Learn how to prioritize what to keep on during an outage.",
+      "source": "ZDNet Security",
+      "published": "2026-10-25T17:58:28.737923+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.88
+    },
+    {
       "title": "Your iPhone can spot scams for you with iOS 27 – but you have to opt in",
       "url": "https://www.zdnet.com/tech/ios-27-impersonation-risk-detection-security-feature/",
       "summary": "Impersonation Risk Detection tries to spot scams traditional security methods might miss.",
@@ -896,12 +911,12 @@
       "threshold": 8.27
     }
   ],
-  "updated": "2026-10-25T14:40:50.197165+00:00",
+  "updated": "2026-10-25T17:58:29.978404+00:00",
   "stats": {
-    "total": 59,
+    "total": 60,
     "relevant": 13,
     "critical": 9,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 3
   }
 }
