@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "iPhone Duo screens are already cracking: What buyers need to know",
+      "url": "https://www.zdnet.com/tech/iphone-duo-cracked-screen-hinge-what-to-do-crackgate/",
+      "summary": "A handful of first-hand reports show similar damage, suggesting a bad batch of hinges. Here’s what to do if your Duo screen fails.",
+      "source": "ZDNet Security",
+      "published": "2026-10-26T17:54:39.351790+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.92
+    },
+    {
+      "title": "Apple’s new OLED iPad Mini is the upgrade I’ve been waiting for – here’s why",
+      "url": "https://www.zdnet.com/tech/apple-launches-new-ipad-mini-with-oled-screen-why-im-getting-one/",
+      "summary": "Starting at $799, the 8th-generation iPad mini is up for preorder on October 27 and hits stores on November 6. It’s already on my shopping list.",
+      "source": "ZDNet Security",
+      "published": "2026-10-26T17:54:39.351699+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.92
+    },
+    {
+      "title": "Github competitor Entire is live now – how the agent-first platform works",
+      "url": "https://www.zdnet.com/innovation/enitre-github-competitor-trail-git-forge/",
+      "summary": "Now that agents are writing so much code, Entire is trying to reinvent the coding platform itself.",
+      "source": "ZDNet Security",
+      "published": "2026-10-26T17:54:39.351577+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.92
+    },
+    {
       "title": "Training AIs to Solve CAPTCHAs",
       "url": "https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html",
       "summary": "<p>Interesting <a href=\"https://arxiv.org/abs/2609.02393\">research</a>:</p>\n<blockquote><p><b>Abstract</b>: Vision-language models (VLMs) can solve visual CAPTCHAs without task-specific training, but the agents built on them approach every challenge from scratch. For such an agent, the hundredth instance of a familiar puzzle costs as much time and compute as the first. Specialized detectors invert the trade-off, answering in milliseconds but only for categories they were trained on. Neither impr",
@@ -926,12 +971,12 @@
       "threshold": 8.27
     }
   ],
-  "updated": "2026-10-26T11:52:20.287348+00:00",
+  "updated": "2026-10-26T17:54:41.025285+00:00",
   "stats": {
-    "total": 61,
+    "total": 64,
     "relevant": 14,
     "critical": 9,
-    "new_this_run": 2,
+    "new_this_run": 3,
     "sources": 3
   }
 }
