@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Training AIs to Solve CAPTCHAs",
+      "url": "https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html",
+      "summary": "<p>Interesting <a href=\"https://arxiv.org/abs/2609.02393\">research</a>:</p>\n<blockquote><p><b>Abstract</b>: Vision-language models (VLMs) can solve visual CAPTCHAs without task-specific training, but the agents built on them approach every challenge from scratch. For such an agent, the hundredth instance of a familiar puzzle costs as much time and compute as the first. Specialized detectors invert the trade-off, answering in milliseconds but only for categories they were trained on. Neither impr",
+      "source": "Schneier on Security",
+      "published": "2026-10-26T11:52:09.499814+00:00",
+      "raw_score": 0.0,
+      "score": 27,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "APT / Nation State"
+      ],
+      "threshold": 7.92
+    },
+    {
+      "title": "Bias in Qwen3-Coder Model",
+      "url": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
+      "summary": "<p>Interesting <a href=\"https://www.hirundo.io/blog/qwen3-coder-vulnerabilities\">research</a>:</p>\n<blockquote><p>TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model&#8217;s weights, and that removing the model&#8217;s CCP alignment removes it.</p>\n<ul>\n<li>One word tilts the code against Americans. As",
+      "source": "Schneier on Security",
+      "published": "2026-10-26T11:52:09.498809+00:00",
+      "raw_score": 5.7900122481141025,
+      "score": 60,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.92
+    },
+    {
       "title": "As a home tech expert, I beg you: don’t run these appliances on a power station",
       "url": "https://www.zdnet.com/home-and-office/do-not-run-these-appliances-on-power-stations/",
       "summary": "Learn how to prioritize what to keep on during an outage.",
@@ -894,29 +924,14 @@
         "Law Enforcement"
       ],
       "threshold": 8.27
-    },
-    {
-      "title": "Training AIs to Solve CAPTCHAs",
-      "url": "https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html",
-      "summary": "<p>Interesting <a href=\"https://arxiv.org/abs/2609.02393\">research</a>:</p>\n<blockquote><p><b>Abstract</b>: Vision-language models (VLMs) can solve visual CAPTCHAs without task-specific training, but the agents built on them approach every challenge from scratch. For such an agent, the hundredth instance of a familiar puzzle costs as much time and compute as the first. Specialized detectors invert the trade-off, answering in milliseconds but only for categories they were trained on. Neither impr",
-      "source": "Schneier on Security",
-      "published": "2026-10-19T11:34:10.924963+00:00",
-      "raw_score": 0.0,
-      "score": 24,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "APT / Nation State"
-      ],
-      "threshold": 8.27
     }
   ],
-  "updated": "2026-10-26T05:35:36.566792+00:00",
+  "updated": "2026-10-26T11:52:20.287348+00:00",
   "stats": {
-    "total": 60,
-    "relevant": 13,
+    "total": 61,
+    "relevant": 14,
     "critical": 9,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 3
   }
 }
