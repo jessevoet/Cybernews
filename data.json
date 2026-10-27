@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Why this new Fitbit feature takes us one step closer to non-invasive glucose tracking",
+      "url": "https://www.zdnet.com/tech/fitbit-glucose-patterns-blood-pressure-health-features/",
+      "summary": "Insulin resistance and blood pressure trends are now available on two new Fitbit devices.",
+      "source": "ZDNet Security",
+      "published": "2026-10-27T23:20:39.857405+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.17
+    },
+    {
       "title": "A fake TikTok shop is Surfshark’s most-blocked phishing scam – how to steer clear",
       "url": "https://www.zdnet.com/tech/fake-tiktok-shop-phishing-scam-surfshark/",
       "summary": "Blocked phishing attempts rose 83% in six months, according to Surfshark, largely due to one TikTok shop. Here’s how to spot the red flags.",
@@ -937,104 +952,14 @@
         "Advisory"
       ],
       "threshold": 8.4
-    },
-    {
-      "title": "Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly)",
-      "url": "https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/",
-      "summary": "The latest Android Auto update lets the AI assistant tap into your Google services for context-based responses.",
-      "source": "ZDNet Security",
-      "published": "2026-10-20T22:49:16.321777+00:00",
-      "raw_score": 0.0,
-      "score": 24,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.4
-    },
-    {
-      "title": "Apple’s $299 HomeView smart hub is here: 8 highlights, including the wall model",
-      "url": "https://www.zdnet.com/home-and-office/apple-homeview-smart-home-hub-features-price/",
-      "summary": "As an Apple Home user, here’s what stands out about Apple’s new smart home hub – and what I want to test firsthand.",
-      "source": "ZDNet Security",
-      "published": "2026-10-20T19:44:28.533494+00:00",
-      "raw_score": 0.0,
-      "score": 24,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.4
-    },
-    {
-      "title": "4 upgrades HomePod Mini 2 has over its 6-year-old predecessor",
-      "url": "https://www.zdnet.com/home-and-office/upgrades-homepod-mini-2026-has-over-predecessor/",
-      "summary": "HomePod mini 2 is here, and there are four major upgrades that separate it from the first generation.",
-      "source": "ZDNet Security",
-      "published": "2026-10-20T19:44:28.533402+00:00",
-      "raw_score": 0.0,
-      "score": 24,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.4
-    },
-    {
-      "title": "Apple’s smart home event: All 7 devices, prices, and release dates",
-      "url": "https://www.zdnet.com/uncategorized/apple-smart-home-event-homeview-homepod-mini-new-apple-tv/",
-      "summary": "Apple’s ‘Welcome Home’ event featured all the new smart home hardware coming to the Apple lineup.",
-      "source": "ZDNet Security",
-      "published": "2026-10-20T19:44:28.533343+00:00",
-      "raw_score": 0.0,
-      "score": 24,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.4
-    },
-    {
-      "title": "Google lets you make personal Android apps for free now – with just prompts",
-      "url": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/",
-      "summary": "It just got a whole lot easier to vibe code the exact Android app you need – no developer experience required.",
-      "source": "ZDNet Security",
-      "published": "2026-10-20T19:44:28.533259+00:00",
-      "raw_score": 0.0,
-      "score": 24,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.4
-    },
-    {
-      "title": "Linus Torvalds is using AI to develop Linux kernel code now",
-      "url": "https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/",
-      "summary": "The move is a turning point in the developer’s relationship with AI and Linux.",
-      "source": "ZDNet Security",
-      "published": "2026-10-20T19:44:28.533170+00:00",
-      "raw_score": 0.0,
-      "score": 24,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.4
     }
   ],
-  "updated": "2026-10-27T19:04:37.851175+00:00",
+  "updated": "2026-10-27T23:20:41.098657+00:00",
   "stats": {
-    "total": 68,
+    "total": 63,
     "relevant": 15,
     "critical": 9,
-    "new_this_run": 8,
+    "new_this_run": 1,
     "sources": 3
   }
 }
