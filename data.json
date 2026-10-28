@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "How to fix a bug in a fix",
+      "url": "https://projectzero.google/2026/10/emergency-patching.html",
+      "summary": "Project Zero often works with software vendors to remediate the vulnerabilities we report and provide broader guidance on making software more secure. Some vendors express concern about potential scenarios in which they are unable to fix vulnerabilities that are causing immediate user harm, due to limitations in their patch delivery systems. Since Project Zero encounters a wide array of systems designed to protect users in the case of exceptional exploitation scenarios, both through vendor discu",
+      "source": "Google Project Zero",
+      "published": "2026-10-28T03:04:01.218989+00:00",
+      "raw_score": 3.2734223403067078,
+      "score": 44,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 8.17
+    },
+    {
       "title": "Why this new Fitbit feature takes us one step closer to non-invasive glucose tracking",
       "url": "https://www.zdnet.com/tech/fitbit-glucose-patterns-blood-pressure-health-features/",
       "summary": "Insulin resistance and blood pressure trends are now available on two new Fitbit devices.",
@@ -936,25 +952,9 @@
         "General"
       ],
       "threshold": 8.4
-    },
-    {
-      "title": "How to fix a bug in a fix",
-      "url": "https://projectzero.google/2026/10/emergency-patching.html",
-      "summary": "Project Zero often works with software vendors to remediate the vulnerabilities we report and provide broader guidance on making software more secure. Some vendors express concern about potential scenarios in which they are unable to fix vulnerabilities that are causing immediate user harm, due to limitations in their patch delivery systems. Since Project Zero encounters a wide array of systems designed to protect users in the case of exceptional exploitation scenarios, both through vendor discu",
-      "source": "Google Project Zero",
-      "published": "2026-10-21T01:07:40.650151+00:00",
-      "raw_score": 3.2734223403067078,
-      "score": 43,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 8.4
     }
   ],
-  "updated": "2026-10-27T23:20:41.098657+00:00",
+  "updated": "2026-10-28T03:04:10.279572+00:00",
   "stats": {
     "total": 63,
     "relevant": 15,
