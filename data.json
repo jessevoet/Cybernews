@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title": "Amazon’s new Echo Dot can turn into a Wi-Fi extender – how it works",
+      "url": "https://www.zdnet.com/home-and-office/amazon-new-echo-dot-wi-fi-extender-smart-home-hub/",
+      "summary": "Amazon’s new Echo Dot includes a built-in Eero Wi-Fi extender, along with other smart home features.",
+      "source": "ZDNet Security",
+      "published": "2026-10-28T16:53:15.966013+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.19
+    },
+    {
+      "title": "Samsung’s new clip-style Galaxy Buds On have a major advantage over Sony and Bose",
+      "url": "https://www.zdnet.com/tech/samsung-galaxy-buds-on-availability-price/",
+      "summary": "Advanced audio features are great, but ecosystem integration is better. Here’s how Samsung’s newest clip-on Buds compare to its rivals.",
+      "source": "ZDNet Security",
+      "published": "2026-10-28T16:53:15.965879+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.19
+    },
+    {
+      "title": "Amazon’s new Echo Studio gives Alexa+ an AI camera to see inside your home",
+      "url": "https://www.zdnet.com/home-and-office/amazon-echo-studio-home-camera-2026-privacy-concerns/",
+      "summary": "The Echo Studio with Home Camera essentially equips Alexa+ with eyes to enable ‘visual intelligence’ features – but there’s a kill switch.",
+      "source": "ZDNet Security",
+      "published": "2026-10-28T16:53:15.965719+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.19
+    },
+    {
+      "title": "Opera will run AI locally in your browser now – why that’s a gamechanger and how to try it",
+      "url": "https://www.zdnet.com/innovation/opera-webai-local-ai-browser/",
+      "summary": "Thanks to the newly proposed WebAI web standard, the company will start shipping local AI models with its flagship browser.",
+      "source": "ZDNet Security",
+      "published": "2026-10-28T16:53:15.965546+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.19
+    },
+    {
+      "title": "Workshop on Economics and Information Security (WEIS) Archive",
+      "url": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
+      "summary": "<p>There&#8217;s a new <a href=\"https://papers.econinfosec.org\">archive</a> of all the papers from twenty-five years of the Workshop on Economics and Information Security (WEIS).</p>\n<p>Really nice resource. It&#8217;s fun to reread my <a href=\"https://papers.econinfosec.org/papers/weis2002/weis2002_02_computer-security-its-the-economics-stupid-position-paper.doc\">2002</a> essay on the economics of information security.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-10-28T16:53:03.819815+00:00",
+      "raw_score": 1.194692991909389,
+      "score": 32,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability",
+        "ICS / OT"
+      ],
+      "threshold": 8.19
+    },
+    {
+      "title": "Studying Fraudulent North Korean IT Workers",
+      "url": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
+      "summary": "<p>Researchers set up a fake start-up company to <a href=\"https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html \">study</a> fraudulent North Korean IT workers.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-10-28T16:53:03.818120+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.19
+    },
+    {
       "title": "Testing race conditions with memory access tracing and stack-based delay injection",
       "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
       "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static analysis. Regression tests: After fixing a race condition bug, there is often no good way to write a regression test that reliably triggers the bug as part of a test suite. Automatic bug discovery, such as fuzzing: It is hard for",
@@ -921,45 +1012,14 @@
         "General"
       ],
       "threshold": 8.05
-    },
-    {
-      "title": "Exclusive: ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
-      "url": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/",
-      "summary": "The two companies are trying to solve the AI agent security conundrum with multiple layers of real-time security checks.",
-      "source": "ZDNet Security",
-      "published": "2026-10-21T12:34:33.364165+00:00",
-      "raw_score": 1.8325582915371859,
-      "score": 37,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.05
-    },
-    {
-      "title": "Workshop on Economics and Information Security (WEIS) Archive",
-      "url": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
-      "summary": "<p>There&#8217;s a new <a href=\"https://papers.econinfosec.org\">archive</a> of all the papers from twenty-five years of the Workshop on Economics and Information Security (WEIS).</p>\n<p>Really nice resource. It&#8217;s fun to reread my <a href=\"https://papers.econinfosec.org/papers/weis2002/weis2002_02_computer-security-its-the-economics-stupid-position-paper.doc\">2002</a> essay on the economics of information security.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-10-21T12:34:22.000494+00:00",
-      "raw_score": 1.194692991909389,
-      "score": 33,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability",
-        "ICS / OT"
-      ],
-      "threshold": 8.05
     }
   ],
-  "updated": "2026-10-28T10:08:57.381873+00:00",
+  "updated": "2026-10-28T16:53:17.728413+00:00",
   "stats": {
-    "total": 63,
+    "total": 67,
     "relevant": 15,
     "critical": 9,
-    "new_this_run": 1,
+    "new_this_run": 6,
     "sources": 3
   }
 }
