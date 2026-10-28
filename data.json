@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "title": "Amazon’s Echo Show 16 makes Apple’s 7-inch HomeView look puny – is it worth $100+ extra?",
+      "url": "https://www.zdnet.com/home-and-office/amazon-echo-show-16-announced/",
+      "summary": "Amazon just dropped new smart home gear in response to Apple. Here’s how the Echo Show 16 stacks up.",
+      "source": "ZDNet Security",
+      "published": "2026-10-28T21:25:51.920438+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.6
+    },
+    {
+      "title": "These Claude Enterprise features let you track AI ROI – what’s new",
+      "url": "https://www.zdnet.com/innovation/claude-enterprise-efficiency-cost-tracking/",
+      "summary": "Is your pricey Claude Enterprise account worth it? Anthropic is trying to surface insights with three tools.",
+      "source": "ZDNet Security",
+      "published": "2026-10-28T21:25:51.920307+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.6
+    },
+    {
+      "title": "Amazon’s new Alexa Photo Frame could have what I’ve been missing – here’s why",
+      "url": "https://www.zdnet.com/tech/amazon-alexa-photo-frame/",
+      "summary": "You can ask Amazon’s voice assistant to show you your favorite photos.",
+      "source": "ZDNet Security",
+      "published": "2026-10-28T21:25:51.920188+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.6
+    },
+    {
+      "title": "Your public Discord messages may soon appear in Google search results – how to opt out",
+      "url": "https://www.zdnet.com/tech/discord-servers-searchable-on-web/",
+      "summary": "Discord announced a new feature that can make your server messages discoverable on Google. Here’s how to opt out.",
+      "source": "ZDNet Security",
+      "published": "2026-10-28T21:25:51.920064+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.6
+    },
+    {
+      "title": "Apple’s new touchscreen MacBook Pros may be late, but they have one big advantage",
+      "url": "https://www.zdnet.com/tech/apples-new-touchscreen-macbook-pros-may-be-late-but-they-have-one-big-advantage/",
+      "summary": "Apple finally revealed its new MacBook M5 Pro and Max with a touchscreen OLED display, bringing the best features from the iPhone to its laptops.",
+      "source": "ZDNet Security",
+      "published": "2026-10-28T21:25:51.919888+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "APT / Nation State"
+      ],
+      "threshold": 7.6
+    },
+    {
+      "title": "The 4 biggest Amazon smart home announcements from today",
+      "url": "https://www.zdnet.com/home-and-office/amazon-echo-smart-home-announcements-october-2026-price-availability/",
+      "summary": "From a new smart alarm clock to an Alexa-powered 3D map of your home, here’s what’s new from Amazon, including prices and release dates.",
+      "source": "ZDNet Security",
+      "published": "2026-10-28T21:25:51.919717+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.6
+    },
+    {
       "title": "Amazon’s new Echo Dot can turn into a Wi-Fi extender – how it works",
       "url": "https://www.zdnet.com/home-and-office/amazon-new-echo-dot-wi-fi-extender-smart-home-hub/",
       "summary": "Amazon’s new Echo Dot includes a built-in Eero Wi-Fi extender, along with other smart home features.",
@@ -876,149 +966,13 @@
         "Vulnerability"
       ],
       "threshold": 8.05
-    },
-    {
-      "title": "OpenAI’s most powerful AI models turned off safety monitoring – then lied about it",
-      "url": "https://www.zdnet.com/innovation/openai-astra-sol-models-disable-safety-monitoring/",
-      "summary": "The models Astra and Sol misinterpreted instructions during internal use, which has serious implications for alignment monitoring.",
-      "source": "ZDNet Security",
-      "published": "2026-10-21T21:01:39.128604+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.05
-    },
-    {
-      "title": "Hold onto your old HomePod – an upgrade is on the way",
-      "url": "https://www.zdnet.com/home-and-office/keep-old-apple-homepod-upgrades/",
-      "summary": "An upcoming update will bring new features to existing HomePods. Here’s what to know.",
-      "source": "ZDNet Security",
-      "published": "2026-10-21T21:01:39.128453+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.05
-    },
-    {
-      "title": "The Future of AI Cryptanalysis",
-      "url": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
-      "summary": "<p>Matthew Green <a href=\"https://x.com/matthew_d_green/status/2107992246360649879\">has</a> <a href=\"https://x.com/matthew_d_green/status/2108278850555674975?s=46\">been</a> <a href=\"https://x.com/matthew_d_green/status/2108552414978564418\">writing</a> a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers.</p>\n<p>I am more optimistic than he is. That is, I have stronger faith in the over-engine",
-      "source": "Schneier on Security",
-      "published": "2026-10-21T21:01:29.214113+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.05
-    },
-    {
-      "title": "Upcoming Speaking Engagements",
-      "url": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
-      "summary": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I’m speaking at <a href=\"https://www.attentionconferences.com/conferences/2026-forum\">ATTENTION: Democracy, Rebuilt</a> in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21.</li>\n<li>I’m speaking at the <a href=\"https://www.eventbrite.ca/e/conversations-in-computing-bruce-schneier-on-hacking-ai-tickets-1998780074007\">University of Toronto</a> in Toronto, Ontario, ",
-      "source": "Schneier on Security",
-      "published": "2026-10-21T21:01:29.214010+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.05
-    },
-    {
-      "title": "‘So perfect, they are literally identical’ – Your AI-polished resumes are recruiters’ new top stressor",
-      "url": "https://www.zdnet.com/education/employ-report-ai-hr-hiring/",
-      "summary": "Exclusive: A new Employ report shows how AI is both helping and hurting the hiring industry.",
-      "source": "ZDNet Security",
-      "published": "2026-10-21T17:46:44.282367+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.05
-    },
-    {
-      "title": "Windows update patches a whopping 1,400 security bugs –  including 2 zero days",
-      "url": "https://www.zdnet.com/tech/windows-october-update-patches-file-explorer-bluetooth/",
-      "summary": "This month’s update also marks the first official one for Windows 11 26H2 and the end of support for Windows 11 24H2 Home and Pro.",
-      "source": "ZDNet Security",
-      "published": "2026-10-21T17:46:44.282270+00:00",
-      "raw_score": 9.447730674364996,
-      "score": 80,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 8.05
-    },
-    {
-      "title": "Amazon unveiled 5 new Blink cameras, including a 4K model that caught my eye",
-      "url": "https://www.zdnet.com/home-and-office/new-amazon-blink-cameras-worth-the-upgrade/",
-      "summary": "Five new Blink cameras are coming to the market, and the extended-range model has all my attention.",
-      "source": "ZDNet Security",
-      "published": "2026-10-21T17:46:44.280641+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.05
-    },
-    {
-      "title": "Chrome warns you about suspicious websites now – how to turn on Google’s new scam protection",
-      "url": "https://www.zdnet.com/business/chrome-browser-warns-suspicious-websites-scam-protection/",
-      "summary": "Google’s browser will flash two  types of warnings based on whether the site is deemed dangerous or just suspicious.",
-      "source": "ZDNet Security",
-      "published": "2026-10-21T17:46:44.280531+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.05
-    },
-    {
-      "title": "Cyberattack on Connected Fridges in France",
-      "url": "https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html",
-      "summary": "<p>Another IoT <a href=\"https://www.bbc.com/news/articles/crq5nzxv9q4yo\">cyberattack</a>, this one in France:</p>\n<blockquote><p>Hackers gained control of the software that regulates the temperatures of the refrigeration units, forcing some to warm to 50C (120F) overnight, according to one supermarket chain affected.</p>\n<p>[&#8230;]</p>\n<p>Normally, supermarket freezers go through a short period of defrosting overnight, in which temperatures rise slightly. But the hackers ordered the units to h",
-      "source": "Schneier on Security",
-      "published": "2026-10-21T17:46:32.196900+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.05
     }
   ],
-  "updated": "2026-10-28T16:53:17.728413+00:00",
+  "updated": "2026-10-28T21:25:53.576618+00:00",
   "stats": {
-    "total": 67,
-    "relevant": 15,
-    "critical": 9,
+    "total": 64,
+    "relevant": 14,
+    "critical": 8,
     "new_this_run": 6,
     "sources": 3
   }
