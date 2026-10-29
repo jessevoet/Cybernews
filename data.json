@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Mistral’s Le Chonk is now a top open model for coding, ranking alongside Codex GPT-6.1 Terra",
+      "url": "https://www.zdnet.com/innovation/mistral-large-4-weights-release/",
+      "summary": "Mistral has released the weights for Large 4, along with some impressive Artificial Analysis scores.",
+      "source": "ZDNet Security",
+      "published": "2026-10-29T14:46:08.225391+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.6
+    },
+    {
       "title": "Amazon’s Echo Show 16 makes Apple’s 7-inch HomeView look puny – is it worth $100+ extra?",
       "url": "https://www.zdnet.com/home-and-office/amazon-echo-show-16-announced/",
       "summary": "Amazon just dropped new smart home gear in response to Apple. Here’s how the Echo Show 16 stacks up.",
@@ -938,12 +953,12 @@
       "threshold": 8.46
     }
   ],
-  "updated": "2026-10-29T07:48:34.566280+00:00",
+  "updated": "2026-10-29T14:46:09.560895+00:00",
   "stats": {
-    "total": 62,
+    "total": 63,
     "relevant": 13,
     "critical": 7,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 3
   }
 }
