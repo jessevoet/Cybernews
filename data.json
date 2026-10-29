@@ -1,6 +1,67 @@
 {
   "items": [
     {
+      "title": "Stop sharing your passwords with AI agents, Bank of America warns customers",
+      "url": "https://www.zdnet.com/innovation/bank-of-america-customers-no-sharing-passwords-ai-agents/",
+      "summary": "The bank’s message follows a trend among financial institutions that are restricting third-party AI agent access.",
+      "source": "ZDNet Security",
+      "published": "2026-10-29T19:57:28.546421+00:00",
+      "raw_score": 0.0,
+      "score": 23,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.67
+    },
+    {
+      "title": "Firefox and Chrome patch 200+ security flaws combined – update both ASAP",
+      "url": "https://www.zdnet.com/tech/firefox-chrome-browsers-patch-200-security-flaws-update-asap/",
+      "summary": "The latest version of Firefox fixes 167 security vulnerabilities, most of which are of high severity, while the newest version of Chrome patches 52 flaws, four of which are critical.",
+      "source": "ZDNet Security",
+      "published": "2026-10-29T19:57:28.546256+00:00",
+      "raw_score": 4.54975127105809,
+      "score": 52,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Advisory"
+      ],
+      "threshold": 7.67
+    },
+    {
+      "title": "Your headphones have hidden LE Audio features you’ll want to know about",
+      "url": "https://www.zdnet.com/tech/bluetooth-headphones-hidden-le-audio-features-jbl-sony-bose/",
+      "summary": "Your JBL, Sony, or Bose Bluetooth headphones got a top-to-bottom wireless makeover — not just Auracast.",
+      "source": "ZDNet Security",
+      "published": "2026-10-29T19:57:28.546048+00:00",
+      "raw_score": 0.0,
+      "score": 23,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.67
+    },
+    {
+      "title": "New Serious PHP Vulnerabilities Released and Patched",
+      "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
+      "summary": "<p>PHP maintainers have <a href=\"https://www.php.net/archive/2026.php#2026-10-20-1\">released</a> fixes for two critical vulnerabilities:</p>\n<blockquote><p>PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. </p>\n<p>Who is at risk: all PHP installations serving web requests, including PHP-FPM, Apache with mod_php, php-cgi, FrankenPHP and LiteSpeed. We consider the",
+      "source": "Schneier on Security",
+      "published": "2026-10-29T19:57:17.311170+00:00",
+      "raw_score": 7.262310390034352,
+      "score": 69,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 7.67
+    },
+    {
       "title": "Mistral’s Le Chonk is now a top open model for coding, ranking alongside Codex GPT-6.1 Terra",
       "url": "https://www.zdnet.com/innovation/mistral-large-4-weights-release/",
       "summary": "Mistral has released the weights for Large 4, along with some impressive Artificial Analysis scores.",
@@ -830,135 +891,14 @@
         "General"
       ],
       "threshold": 7.56
-    },
-    {
-      "title": "Google’s new Universal Cart tracks prices on items you want now – plus 3 other tricks",
-      "url": "https://www.zdnet.com/tech/google-universal-cart-when-to-buy-guide/",
-      "summary": "Google unveiled two new shopping tools ahead of the holiday buying season. Here’s what to know.",
-      "source": "ZDNet Security",
-      "published": "2026-10-22T19:38:17.194585+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.73
-    },
-    {
-      "title": "Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI",
-      "url": "https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/",
-      "summary": "Nvidia’s new models join a wave of open-weight releases from US labs on the heels of the Hugging Face hack.",
-      "source": "ZDNet Security",
-      "published": "2026-10-22T19:38:17.194424+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.73
-    },
-    {
-      "title": "Apple’s first touchscreen MacBook is days away – with another OLED surprise",
-      "url": "https://www.zdnet.com/tech/apple-touchscreen-macbook-oled-ipad-mini-october-event/",
-      "summary": "Apple reportedly set a date to unveil its new touchscreen MacBooks. Here’s what else we expect.",
-      "source": "ZDNet Security",
-      "published": "2026-10-22T19:38:17.194087+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.73
-    },
-    {
-      "title": "Renting? These 2 new Apple smart home devices are worth your money (and these 5 are not)",
-      "url": "https://www.zdnet.com/home-and-office/is-the-apple-home-collection-right-for-renters/",
-      "summary": "Eyeing Apple’s new Home Collection products? Renters should check their lease agreement before installing.",
-      "source": "ZDNet Security",
-      "published": "2026-10-22T19:38:17.193887+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.73
-    },
-    {
-      "title": "Amazon’s Kindle Unlimited is now Kindle+, and the 2 big changes include AI audiobooks",
-      "url": "https://www.zdnet.com/tech/kindle-unlimited-kindle-plus-audiobooks-ai/",
-      "summary": "Unlike narrated audiobooks from Audible and other providers, the audiobooks created with Virtual Voice in Kindle+ will instead be narrated by AI.",
-      "source": "ZDNet Security",
-      "published": "2026-10-22T19:38:17.190764+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.73
-    },
-    {
-      "title": "Measuring Human Cryptanalysis Effort",
-      "url": "https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html",
-      "summary": "<p>Matthew Green has a <a href=\"https://bitsofwork.org/\">new site</a> that tries to estimate the number of cryptanalyst-hours that have been spent analyzing different public-key algorithms:</p>\n<blockquote><p><b>Abstract:</b> We estimate how much public cryptanalysis each public-key assumption has received, using the literature itself as the instrument. From roughly sixteen thousand candidate papers we classify cryptanalytic work on ECDLP, structured and plain lattices, syndrome decoding and the",
-      "source": "Schneier on Security",
-      "published": "2026-10-22T19:38:04.675091+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.73
-    },
-    {
-      "title": "The latest PowerToys gives your mouse 2 new tricks for free – how to use them",
-      "url": "https://www.zdnet.com/tech/powertoys-102-windows-mouse-control/",
-      "summary": "PowerToys is one of my favorite free Windows utilities. With more than 30 tools, it offers something for everyone from beginners to power users. Here’s what’s new for mousing.",
-      "source": "ZDNet Security",
-      "published": "2026-10-22T15:44:05.582120+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.46
-    },
-    {
-      "title": "New Serious PHP Vulnerabilities Released and Patched",
-      "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
-      "summary": "<p>PHP maintainers have <a href=\"https://www.php.net/archive/2026.php#2026-10-20-1\">released</a> fixes for two critical vulnerabilities:</p>\n<blockquote><p>PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. </p>\n<p>Who is at risk: all PHP installations serving web requests, including PHP-FPM, Apache with mod_php, php-cgi, FrankenPHP and LiteSpeed. We consider the",
-      "source": "Schneier on Security",
-      "published": "2026-10-22T15:43:53.767875+00:00",
-      "raw_score": 7.262310390034352,
-      "score": 65,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 8.46
     }
   ],
-  "updated": "2026-10-29T14:46:09.560895+00:00",
+  "updated": "2026-10-29T19:57:29.985723+00:00",
   "stats": {
-    "total": 63,
-    "relevant": 13,
+    "total": 59,
+    "relevant": 14,
     "critical": 7,
-    "new_this_run": 1,
+    "new_this_run": 4,
     "sources": 3
   }
 }
