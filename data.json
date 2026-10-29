@@ -936,43 +936,13 @@
         "Advisory"
       ],
       "threshold": 8.46
-    },
-    {
-      "title": "Not impressed with Google Maps? Make Waze your default on Pixel – here’s how",
-      "url": "https://www.zdnet.com/tech/waze-your-way-to-a-different-default-map-app-on-pixel/",
-      "summary": "If you’re tired of Google Maps failing to get you where you need to go, set Waze as the default on your Pixel. I’ve finally figured out how.",
-      "source": "ZDNet Security",
-      "published": "2026-10-22T05:36:02.084090+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.05
-    },
-    {
-      "title": "GridCraft is the open-source Excel clone for Linux I’ve been waiting for",
-      "url": "https://www.zdnet.com/tech/gridcraft-excel-clone-hands-on/",
-      "summary": "If spreadsheets are your thing, but Microsoft Office isn’t, you might want to give the open-source clone, GridCraft, a try.",
-      "source": "ZDNet Security",
-      "published": "2026-10-22T05:36:02.083898+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 8.05
     }
   ],
-  "updated": "2026-10-29T01:23:46.668780+00:00",
+  "updated": "2026-10-29T07:48:34.566280+00:00",
   "stats": {
-    "total": 64,
-    "relevant": 14,
-    "critical": 8,
+    "total": 62,
+    "relevant": 13,
+    "critical": 7,
     "new_this_run": 0,
     "sources": 3
   }
