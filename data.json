@@ -1,6 +1,82 @@
 {
   "items": [
     {
+      "title": "Your Netgear router may be vulnerable to a security exploit – how to check and patch it",
+      "url": "https://www.zdnet.com/tech/netgear-routers-vulnerable-security-exploit/",
+      "summary": "A vulnerability in some Netgear routers could allow an attacker with access to your network to run malicious commands on the device.",
+      "source": "ZDNet Security",
+      "published": "2026-10-30T21:14:33.182903+00:00",
+      "raw_score": 15.476547114693135,
+      "score": 95,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 10.11
+    },
+    {
+      "title": "I’m finally ready for a smart calendar – why the Echo Show 16 stands out",
+      "url": "https://www.zdnet.com/home-and-office/im-finally-ready-for-a-smart-calendar-why-the-echo-show-16-stands-out/",
+      "summary": "I’m finally ready to upgrade to a smart calendar – and Amazon’s newest Echo device looks like an organizational solution for my family and I.",
+      "source": "ZDNet Security",
+      "published": "2026-10-30T21:14:33.182705+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.11
+    },
+    {
+      "title": "Samsung adds better sleep tracking to Galaxy Watches – here’s what to expect",
+      "url": "https://www.zdnet.com/health/advanced-sleep-apnea-tracking-galaxy-watches/",
+      "summary": "The FDA-approved sleep apnea tracking feature will first come to the Galaxy Watch Ultra 2, Watch 9, and Ring.",
+      "source": "ZDNet Security",
+      "published": "2026-10-30T21:14:33.182481+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.11
+    },
+    {
+      "title": "Android 17 adoption hits a staggering 1% – why you really should update now",
+      "url": "https://www.zdnet.com/tech/android-17-os-adoption-numbers-october-2026/",
+      "summary": "Only a quarter of Android phones have even made it to Android 16.",
+      "source": "ZDNet Security",
+      "published": "2026-10-30T21:14:33.182266+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.11
+    },
+    {
+      "title": "Friday Squid Blogging: Bigfin Squid Off California Coast",
+      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html",
+      "summary": "<p>Neat <a href=\"https://www.smithsonianmag.com/smart-news/watch-an-elusive-and-ethereal-bigfin-squid-float-above-the-seafloor-off-central-california-180989491/\">video</a>:</p>\n<blockquote><p>The sighting, announced September 2, marks the first time anyone has spotted a live bigfin squid, which belongs to the <i>Magnapinna</i> genus, in the northeastern Pacific Ocean.</p></blockquote>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;",
+      "source": "Schneier on Security",
+      "published": "2026-10-30T21:14:21.973708+00:00",
+      "raw_score": 1.6722489277682635,
+      "score": 36,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.11
+    },
+    {
       "title": "Google’s latest Home updates just fixed my biggest annoyances with its speakers and cameras",
       "url": "https://www.zdnet.com/home-and-office/google-home-gemini-updates-42-fixes/",
       "summary": "Google details 42 fixes to its Home app and the devices compatible with it.",
@@ -799,136 +875,14 @@
         "General"
       ],
       "threshold": 8.04
-    },
-    {
-      "title": "Want an iPhone Duo before 2027? Don’t preorder from Apple – try this instead",
-      "url": "https://www.zdnet.com/tech/iphone-duo-preorders-delay-supply/",
-      "summary": "Estimates for Duo preorders are now showing a ship date of late January, marking a new wait time record for Apple and its customers.",
-      "source": "ZDNet Security",
-      "published": "2026-10-23T20:48:16.246213+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.2
-    },
-    {
-      "title": "Anthropic gives third-party auditors ’employee-like access’ in AI industry first",
-      "url": "https://www.zdnet.com/uncategorized/anthropic-embed-third-party-ai-auditors-safety/",
-      "summary": "As AI labs continue to self-regulate, external evaluators play a crucial role in spotting risks.",
-      "source": "ZDNet Security",
-      "published": "2026-10-23T20:48:16.246037+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.2
-    },
-    {
-      "title": "Munich dumps proprietary for open source (again) – but no Linux desktop",
-      "url": "https://www.zdnet.com/business/munich-proprietary-open-source-no-linux-desktop/",
-      "summary": "Open source in the public sector doesn’t fail because of technical issues. It  fails because it’s not aligned with the political agenda",
-      "source": "ZDNet Security",
-      "published": "2026-10-23T20:48:16.245830+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 8.2
-    },
-    {
-      "title": "Have a Meta business account? You’re consenting to AI scraping now, legal experts say",
-      "url": "https://www.zdnet.com/business/meta-business-account-data-ai-scraping-terms/",
-      "summary": "And there’s no opt-out available.",
-      "source": "ZDNet Security",
-      "published": "2026-10-23T20:48:16.245667+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.2
-    },
-    {
-      "title": "How many jobs is your state losing to AI? This dashboard tracks the cuts – and the cost",
-      "url": "https://www.zdnet.com/innovation/ai-job-cuts-wage-loss-by-state-tracker/",
-      "summary": "CAIS’ Wage Loss Dashboard puts AI-related job cuts into dollars and cents.",
-      "source": "ZDNet Security",
-      "published": "2026-10-23T17:35:57.033381+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.2
-    },
-    {
-      "title": "PHP2Shell: Haven’t patched yet? Take these steps now to mitigate",
-      "url": "https://www.zdnet.com/tech/php2shell-php-patch-mitigation-critical-exploit/",
-      "summary": "The PHP Project provides instructions to stop further RCE exploits in limited settings.",
-      "source": "ZDNet Security",
-      "published": "2026-10-23T17:35:57.030285+00:00",
-      "raw_score": 9.067332303836492,
-      "score": 77,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 8.2
-    },
-    {
-      "title": "Android lets you ‘bubble’ apps for easy access now – how it works",
-      "url": "https://www.zdnet.com/tech/android-17-app-bubbles-how-to/",
-      "summary": "Keep your most-used apps accessible with this new feature.",
-      "source": "ZDNet Security",
-      "published": "2026-10-23T17:35:57.030105+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.2
-    },
-    {
-      "title": "Backdooring Open-Weight AI Models",
-      "url": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
-      "summary": "<p><a href=\"https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned\">This</a> is a problem:</p>\n<blockquote><p>Any open model whose weights have been edited can carry a backdoor, whether it&#8217;s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it&#8217;s the most popular reason people download modified weights without verifying what&#8217;s inside. Abliteration is a cheap fine-tune that takes away a mode",
-      "source": "Schneier on Security",
-      "published": "2026-10-23T17:35:45.925818+00:00",
-      "raw_score": 6.7872428940998315,
-      "score": 64,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "APT / Nation State",
-        "Malware"
-      ],
-      "threshold": 8.2
     }
   ],
-  "updated": "2026-10-30T16:52:26.811195+00:00",
+  "updated": "2026-10-30T21:14:34.616311+00:00",
   "stats": {
-    "total": 61,
-    "relevant": 15,
-    "critical": 7,
-    "new_this_run": 4,
+    "total": 58,
+    "relevant": 13,
+    "critical": 4,
+    "new_this_run": 5,
     "sources": 3
   }
 }
