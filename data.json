@@ -1,6 +1,67 @@
 {
   "items": [
     {
+      "title": "Google’s latest Home updates just fixed my biggest annoyances with its speakers and cameras",
+      "url": "https://www.zdnet.com/home-and-office/google-home-gemini-updates-42-fixes/",
+      "summary": "Google details 42 fixes to its Home app and the devices compatible with it.",
+      "source": "ZDNet Security",
+      "published": "2026-10-30T16:52:25.225403+00:00",
+      "raw_score": 0.0,
+      "score": 21,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.95
+    },
+    {
+      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
+      "source": "Google Project Zero",
+      "published": "2026-10-30T16:52:20.005959+00:00",
+      "raw_score": 7.092005476157869,
+      "score": 67,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 7.95
+    },
+    {
+      "title": "Compromised TLS Certificates",
+      "url": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
+      "summary": "<p>The Indian CA eMudhra Limited has eight TLS certificates with <a href=\"https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/\">laughably weak private keys</a>:</p>\n<blockquote><p>The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve cryptography private key contains roughly 384 bits of entropy, a size al",
+      "source": "Schneier on Security",
+      "published": "2026-10-30T16:51:56.724319+00:00",
+      "raw_score": 1.754802988759355,
+      "score": 32,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.95
+    },
+    {
+      "title": "Bloatware in Aftermarket Auto Parts",
+      "url": "https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html",
+      "summary": "<p>This <a href=\"https://www.thedrive.com/news/cheap-aftermarket-head-units-are-loaded-with-spyware-by-the-way\">story</a> is interesting:</p>\n<blockquote><p>One Civic owner purchased a cheap aftermarket head unit off Amazon, and decided to have Claude work its magic on it, like it would a smart TV. What was reportedly discovered isn’t surprising, but is worth knowing about.</p>\n<p>Among the pre-installed bloatware&#8212;­or spyware, if you’re being less charitable­&#8212;was a voice assistant eq",
+      "source": "Schneier on Security",
+      "published": "2026-10-30T16:51:56.723455+00:00",
+      "raw_score": 6.713289884357823,
+      "score": 64,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Malware"
+      ],
+      "threshold": 7.95
+    },
+    {
       "title": "Stop sharing your passwords with AI agents, Bank of America warns customers",
       "url": "https://www.zdnet.com/innovation/bank-of-america-customers-no-sharing-passwords-ai-agents/",
       "summary": "The bank’s message follows a trend among financial institutions that are restricting third-party AI agent access.",
@@ -860,45 +921,14 @@
         "Malware"
       ],
       "threshold": 8.2
-    },
-    {
-      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
-      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
-      "source": "Google Project Zero",
-      "published": "2026-10-23T12:16:42.478489+00:00",
-      "raw_score": 7.092005476157869,
-      "score": 69,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 7.56
-    },
-    {
-      "title": "Compromised TLS Certificates",
-      "url": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
-      "summary": "<p>The Indian CA eMudhra Limited has eight TLS certificates with <a href=\"https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/\">laughably weak private keys</a>:</p>\n<blockquote><p>The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve cryptography private key contains roughly 384 bits of entropy, a size al",
-      "source": "Schneier on Security",
-      "published": "2026-10-23T12:16:36.710536+00:00",
-      "raw_score": 1.754802988759355,
-      "score": 37,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.56
     }
   ],
-  "updated": "2026-10-30T10:34:23.468908+00:00",
+  "updated": "2026-10-30T16:52:26.811195+00:00",
   "stats": {
-    "total": 59,
-    "relevant": 14,
+    "total": 61,
+    "relevant": 15,
     "critical": 7,
-    "new_this_run": 0,
+    "new_this_run": 4,
     "sources": 3
   }
 }
