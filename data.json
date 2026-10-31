@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Friday Squid Blogging: Increasing Squid Populations",
+      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
+      "summary": "<p>This <a href=\"https://www.sciencealert.com/squid-are-taking-over-the-ocean-and-not-for-the-reason-you-might-think\">article</a> in <i>Nature</i> argues that it&#8217;s due to an overfishing of predators and warming sea temperatures.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
+      "source": "Schneier on Security",
+      "published": "2026-10-31T01:14:27.711007+00:00",
+      "raw_score": 1.6722489277682635,
+      "score": 36,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 10.11
+    },
+    {
       "title": "Your Netgear router may be vulnerable to a security exploit – how to check and patch it",
       "url": "https://www.zdnet.com/tech/netgear-routers-vulnerable-security-exploit/",
       "summary": "A vulnerability in some Netgear routers could allow an attacker with access to your network to run malicious commands on the device.",
@@ -845,44 +860,14 @@
         "General"
       ],
       "threshold": 8.04
-    },
-    {
-      "title": "Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html",
-      "summary": "<p><a href=\"https://eos.org/articles/squid-were-on-the-move-before-the-chicxulub-impact\">New</a> <a href=\"https://pubs.geoscienceworld.org/gsa/geology/article/54/9/938/732212/Squids-radiated-globally-prior-to-the-Cretaceous\">research</a> shows that squid lived all around the globe even before the Cretaceous-Paleogene mass extinction event.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.sch",
-      "source": "Schneier on Security",
-      "published": "2026-10-23T23:39:50.934116+00:00",
-      "raw_score": 1.6251985476200357,
-      "score": 36,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.04
-    },
-    {
-      "title": "Friday Squid Blogging: Increasing Squid Populations",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
-      "summary": "<p>This <a href=\"https://www.sciencealert.com/squid-are-taking-over-the-ocean-and-not-for-the-reason-you-might-think\">article</a> in <i>Nature</i> argues that it&#8217;s due to an overfishing of predators and warming sea temperatures.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
-      "source": "Schneier on Security",
-      "published": "2026-10-23T23:39:50.933090+00:00",
-      "raw_score": 1.6722489277682635,
-      "score": 36,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.04
     }
   ],
-  "updated": "2026-10-30T21:14:34.616311+00:00",
+  "updated": "2026-10-31T01:14:39.066447+00:00",
   "stats": {
-    "total": 58,
+    "total": 57,
     "relevant": 13,
     "critical": 4,
-    "new_this_run": 5,
+    "new_this_run": 1,
     "sources": 3
   }
 }
