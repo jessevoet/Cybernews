@@ -862,12 +862,12 @@
       "threshold": 8.04
     }
   ],
-  "updated": "2026-10-31T01:14:39.066447+00:00",
+  "updated": "2026-10-31T07:44:12.883499+00:00",
   "stats": {
     "total": 57,
     "relevant": 13,
     "critical": 4,
-    "new_this_run": 1,
+    "new_this_run": 0,
     "sources": 3
   }
 }
