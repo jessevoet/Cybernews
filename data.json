@@ -845,26 +845,11 @@
         "General"
       ],
       "threshold": 7.88
-    },
-    {
-      "title": "Plug-in solar is legal in these 10 states now – how it could save you money",
-      "url": "https://www.zdnet.com/uncategorized/plug-in-solar-balcony-solar-legalization-2026/",
-      "summary": "So-called balcony solar setups are becoming legal across the US. Here’s the latest.",
-      "source": "ZDNet Security",
-      "published": "2026-10-24T16:21:43.598320+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.04
     }
   ],
-  "updated": "2026-10-31T14:01:31.279278+00:00",
+  "updated": "2026-10-31T18:55:01.468538+00:00",
   "stats": {
-    "total": 57,
+    "total": 56,
     "relevant": 13,
     "critical": 4,
     "new_this_run": 0,
