@@ -800,26 +800,11 @@
         "General"
       ],
       "threshold": 7.92
-    },
-    {
-      "title": "As a home tech expert, I beg you: don’t run these appliances on a power station",
-      "url": "https://www.zdnet.com/home-and-office/do-not-run-these-appliances-on-power-stations/",
-      "summary": "Learn how to prioritize what to keep on during an outage.",
-      "source": "ZDNet Security",
-      "published": "2026-10-25T17:58:28.737923+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.88
     }
   ],
-  "updated": "2026-11-01T15:35:38.018493+00:00",
+  "updated": "2026-11-01T19:58:13.203756+00:00",
   "stats": {
-    "total": 54,
+    "total": 53,
     "relevant": 12,
     "critical": 4,
     "new_this_run": 0,
