@@ -1,6 +1,141 @@
 {
   "items": [
     {
+      "title": "Apple’s HomeView may double as security camera – watch out Ring, Nest, and Wyze",
+      "url": "https://www.zdnet.com/home-and-office/apple-homeview-indoor-security-camera/",
+      "summary": "HomeView settings reveal potential video recording and streaming options alongside privacy features.",
+      "source": "ZDNet Security",
+      "published": "2026-11-02T21:03:52.434619+00:00",
+      "raw_score": 1.6089885242387474,
+      "score": 36,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.72
+    },
+    {
+      "title": "Samsung’s Privacy Display may be coming to more Galaxy phones – what we know",
+      "url": "https://www.zdnet.com/tech/samsung-privacy-display-galaxy-s27-pro-ultra/",
+      "summary": "Privacy Display on the Galaxy S26 Ultra was a big hit in our hands-on. Now, we may see it roll out to more Galaxy phones.",
+      "source": "ZDNet Security",
+      "published": "2026-11-02T21:03:52.434488+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.72
+    },
+    {
+      "title": "Firefox’s new Mini Window is every multitasker’s dream – Chrome can’t do this",
+      "url": "https://www.zdnet.com/home-and-office/firefox-mini-window-browser-feature/",
+      "summary": "The open-source browser’s newest feature lets you pop out a page – or part of a page – into its own mini window. See why this is incredibly cool.",
+      "source": "ZDNet Security",
+      "published": "2026-11-02T21:03:52.434360+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 9.72
+    },
+    {
+      "title": "Don’t want a touchscreen? All premium MacBook Pros could have one soon, reports say",
+      "url": "https://www.zdnet.com/tech/all-premium-macbook-pros-touchscreens-2027/",
+      "summary": "New reports indicate the touchscreens are to become the standard on premium MacBook Pros.",
+      "source": "ZDNet Security",
+      "published": "2026-11-02T21:03:52.434219+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.72
+    },
+    {
+      "title": "Athenahealth patients can ask Claude about their medical records now",
+      "url": "https://www.zdnet.com/health/athenahealth-claude-ai-medical-partnership/",
+      "summary": "The partnership could provide one of the nation’s largest AI companies with a bevy of personal medical data.",
+      "source": "ZDNet Security",
+      "published": "2026-11-02T21:03:52.434054+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.72
+    },
+    {
+      "title": "50 AI agents tried to build a thriving Minecraft civilization – it didn’t end well",
+      "url": "https://www.zdnet.com/innovation/y-combinator-ai-agents-minecraft-experiment-behavior/",
+      "summary": "It turns out even bots can’t escape bureaucracy.",
+      "source": "ZDNet Security",
+      "published": "2026-11-02T21:03:52.433930+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.72
+    },
+    {
+      "title": "OpenAI will merge ChatGPT’s chat and work tabs – here’s when, and what to expect",
+      "url": "https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs/",
+      "summary": "On the heels of Anthropic’s similar move, the change will be tested among select users before being rolled out.",
+      "source": "ZDNet Security",
+      "published": "2026-11-02T21:03:52.433794+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.72
+    },
+    {
+      "title": "Bias in Qwen3-Coder Model",
+      "url": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
+      "summary": "<p>Interesting <a href=\"https://www.hirundo.io/blog/qwen3-coder-vulnerabilities\">research</a>:</p>\n<blockquote><p>TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model&#8217;s weights, and that removing the model&#8217;s CCP alignment removes it.</p>\n<ul>\n<li>One word tilts the code against Americans. As",
+      "source": "Schneier on Security",
+      "published": "2026-11-02T21:03:40.487760+00:00",
+      "raw_score": 5.7900122481141025,
+      "score": 55,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.72
+    },
+    {
+      "title": "AI Vulnerability Finding",
+      "url": "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html",
+      "summary": "<p>A <a href=\"https://x.com/NickADobos/status/2113430301183823901\">comment</a>:</p>\n<blockquote><p>3% of &#8216;critical&#8217; software security bugs, in all of recorded history, have been found in the last month. This is on pace to find another ~100,000 bugs this year alone, adding ~26% more vulnerabilities to the all time total Do you realize how fucking insane that is?</p></blockquote>\n<p>Yes. It is a new world out there.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-11-02T21:03:40.487066+00:00",
+      "raw_score": 5.498034612635875,
+      "score": 54,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.72
+    },
+    {
       "title": "Bypassing Windows Administrator Protection",
       "url": "https://projectzero.google/2026/26/windows-administrator-protection.html",
       "summary": "A headline feature introduced in the latest release of Windows 11, 25H2 is Administrator Protection. The goal of this feature is to replace User Account Control (UAC) with a more robust and importantly, securable system to allow a local user to access administrator privileges only when necessary. This blog post will give a brief overview of the new feature, how it works and how it’s different from UAC. I’ll then describe some of the security research I undertook while it was in the insider previ",
@@ -725,89 +860,14 @@
         "General"
       ],
       "threshold": 7.92
-    },
-    {
-      "title": "iPhone Duo screens are already cracking: What buyers need to know",
-      "url": "https://www.zdnet.com/tech/iphone-duo-cracked-screen-hinge-what-to-do-crackgate/",
-      "summary": "A handful of first-hand reports show similar damage, suggesting a bad batch of hinges. Here’s what to do if your Duo screen fails.",
-      "source": "ZDNet Security",
-      "published": "2026-10-26T17:54:39.351790+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.92
-    },
-    {
-      "title": "Apple’s new OLED iPad Mini is the upgrade I’ve been waiting for – here’s why",
-      "url": "https://www.zdnet.com/tech/apple-launches-new-ipad-mini-with-oled-screen-why-im-getting-one/",
-      "summary": "Starting at $799, the 8th-generation iPad mini is up for preorder on October 27 and hits stores on November 6. It’s already on my shopping list.",
-      "source": "ZDNet Security",
-      "published": "2026-10-26T17:54:39.351699+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.92
-    },
-    {
-      "title": "Github competitor Entire is live now – how the agent-first platform works",
-      "url": "https://www.zdnet.com/innovation/enitre-github-competitor-trail-git-forge/",
-      "summary": "Now that agents are writing so much code, Entire is trying to reinvent the coding platform itself.",
-      "source": "ZDNet Security",
-      "published": "2026-10-26T17:54:39.351577+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.92
-    },
-    {
-      "title": "Training AIs to Solve CAPTCHAs",
-      "url": "https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html",
-      "summary": "<p>Interesting <a href=\"https://arxiv.org/abs/2609.02393\">research</a>:</p>\n<blockquote><p><b>Abstract</b>: Vision-language models (VLMs) can solve visual CAPTCHAs without task-specific training, but the agents built on them approach every challenge from scratch. For such an agent, the hundredth instance of a familiar puzzle costs as much time and compute as the first. Specialized detectors invert the trade-off, answering in milliseconds but only for categories they were trained on. Neither impr",
-      "source": "Schneier on Security",
-      "published": "2026-10-26T11:52:09.499814+00:00",
-      "raw_score": 0.0,
-      "score": 27,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "APT / Nation State"
-      ],
-      "threshold": 7.92
-    },
-    {
-      "title": "Bias in Qwen3-Coder Model",
-      "url": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
-      "summary": "<p>Interesting <a href=\"https://www.hirundo.io/blog/qwen3-coder-vulnerabilities\">research</a>:</p>\n<blockquote><p>TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model&#8217;s weights, and that removing the model&#8217;s CCP alignment removes it.</p>\n<ul>\n<li>One word tilts the code against Americans. As",
-      "source": "Schneier on Security",
-      "published": "2026-10-26T11:52:09.498809+00:00",
-      "raw_score": 5.7900122481141025,
-      "score": 60,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.92
     }
   ],
-  "updated": "2026-11-02T11:50:14.224740+00:00",
+  "updated": "2026-11-02T21:03:53.948165+00:00",
   "stats": {
-    "total": 53,
-    "relevant": 12,
-    "critical": 4,
-    "new_this_run": 0,
+    "total": 57,
+    "relevant": 14,
+    "critical": 5,
+    "new_this_run": 9,
     "sources": 3
   }
 }
