@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "Your Apple Watch has 2 new controversial listening features – but you have to opt in",
+      "url": "https://www.zdnet.com/tech/apple-watch-siri-recap-live-rewind-available-beta-how-to-try/",
+      "summary": "Siri Recap and Live Rewind are finally here, two months after Apple unveiled the always-listening Apple Watch features. Here’s how they work.",
+      "source": "ZDNet Security",
+      "published": "2026-11-03T23:47:26.148965+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.64
+    },
+    {
+      "title": "Want an iPhone Duo for the holidays? Apple’s latest stock update isn’t reassuring",
+      "url": "https://www.zdnet.com/tech/apple-foldable-iphone-duo-stock-shortage/",
+      "summary": "The iPhone Duo likely won’t make it into Santa’s sleigh this year. Here’s what Apple had to say about it.",
+      "source": "ZDNet Security",
+      "published": "2026-11-03T23:47:26.148764+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.64
+    },
+    {
+      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+      "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+      "summary": "Summary Project Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. Fuzzilli is a generative JavaScript engine fuzzer and BigSleep is an LLM-based bug finding system. In the past six months, BigSleep found more vulnerabilities than Fuzzilli (45 versus 37) with a 25% overlap in the specific bugs reported. Since this comparison methodology has a tendency to underestimate overlap, we also performed dedicated experiments to ",
+      "source": "Google Project Zero",
+      "published": "2026-11-03T23:47:20.564591+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.64
+    },
+    {
       "title": "I tested the RedMagic 12 Pro – and it’s the fastest Android I’ve ever seen",
       "url": "https://www.zdnet.com/tech/the-redmagic-12-pro-is-an-elite-phone-with-one-glaring-issue/",
       "summary": "If it’s possible to release a flagship phone while at the same time making it appear more like a midrange phone, Red Magic has found a way.",
@@ -829,150 +874,14 @@
         "Advisory"
       ],
       "threshold": 8.17
-    },
-    {
-      "title": "Why this new Fitbit feature takes us one step closer to non-invasive glucose tracking",
-      "url": "https://www.zdnet.com/tech/fitbit-glucose-patterns-blood-pressure-health-features/",
-      "summary": "Insulin resistance and blood pressure trends are now available on two new Fitbit devices.",
-      "source": "ZDNet Security",
-      "published": "2026-10-27T23:20:39.857405+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.17
-    },
-    {
-      "title": "A fake TikTok shop is Surfshark’s most-blocked phishing scam – how to steer clear",
-      "url": "https://www.zdnet.com/tech/fake-tiktok-shop-phishing-scam-surfshark/",
-      "summary": "Blocked phishing attempts rose 83% in six months, according to Surfshark, largely due to one TikTok shop. Here’s how to spot the red flags.",
-      "source": "ZDNet Security",
-      "published": "2026-10-27T19:04:36.463619+00:00",
-      "raw_score": 4.828919848997417,
-      "score": 53,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Phishing"
-      ],
-      "threshold": 8.17
-    },
-    {
-      "title": "Apple’s M6 iMac has arrived – here’s what’s changed since the M4",
-      "url": "https://www.zdnet.com/tech/apple-imac-m6-vs-m4-whats-new/",
-      "summary": "Apple’s colorful all-in-one gets its first refresh in two years. Here’s what you get for the $1,499 starting price.",
-      "source": "ZDNet Security",
-      "published": "2026-10-27T19:04:36.463481+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.17
-    },
-    {
-      "title": "The new iPad Mini’s best upgrade has nothing to do with its flashy OLED screen",
-      "url": "https://www.zdnet.com/tech/ipad-mini-upgrade-ip67-rating-kids/",
-      "summary": "Apple’s newest Mini is the first iPad ever with an IP67 rating for dust and water resistance.",
-      "source": "ZDNet Security",
-      "published": "2026-10-27T19:04:36.463364+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.17
-    },
-    {
-      "title": "This tool can recover deleted AI chats from your phone – how it works",
-      "url": "https://www.zdnet.com/innovation/orisa-tool-recovers-deleted-local-ai-chats-android-phones/",
-      "summary": "This new tool proves it’s still best to limit the info you share with chatbots.",
-      "source": "ZDNet Security",
-      "published": "2026-10-27T19:04:36.463242+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.17
-    },
-    {
-      "title": "Windows finally gets a built-in internet speed test tool – how to try it",
-      "url": "https://www.zdnet.com/tech/microsoft-is-finally-adding-an-integrated-network-speed-test-tool-to-windows-how-to-try-it/",
-      "summary": "Available to Windows Insiders, the built-in tool measures your upload and download speeds over Ethernet or Wi-Fi.",
-      "source": "ZDNet Security",
-      "published": "2026-10-27T19:04:36.463112+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.17
-    },
-    {
-      "title": "Netflix now, Hulu later? T-Mobile’s T-Mix plans let you switch perks – what you need to know",
-      "url": "https://www.zdnet.com/home-and-office/t-mobile-t-mix-plans-switch-perks/",
-      "summary": "T-Mobile’s new T-Mix plans deliver tons of extras ranging from streaming to mobile discounts, but there are some caveats to know.",
-      "source": "ZDNet Security",
-      "published": "2026-10-27T19:04:36.462972+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.17
-    },
-    {
-      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
-      "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
-      "summary": "Summary Project Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. Fuzzilli is a generative JavaScript engine fuzzer and BigSleep is an LLM-based bug finding system. In the past six months, BigSleep found more vulnerabilities than Fuzzilli (45 versus 37) with a 25% overlap in the specific bugs reported. Since this comparison methodology has a tendency to underestimate overlap, we also performed dedicated experiments to ",
-      "source": "Google Project Zero",
-      "published": "2026-10-27T19:04:31.074290+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.17
-    },
-    {
-      "title": "Possible new Cellebrite iPhone Radio Zero-Day",
-      "url": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
-      "summary": "<p>Justin.sh is <a href=\"https://justin.sh/blog/2026/10/cellebrite-advanced-unlocks/\">reporting</a> on a confidential Cellebrite document that has been leaked to him:</p>\n<blockquote><p>Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the &#8220;advanced unlocking services&#8221; they&#8217;ve marketed for years. A <a href=\"https://web.archive.org/web/20260814034529/https://www.prnewswire.com/news-releases/cellebrite-appoints-shiven-ramji-chief-executive-officer-su",
-      "source": "Schneier on Security",
-      "published": "2026-10-27T19:04:24.475003+00:00",
-      "raw_score": 7.536526173014209,
-      "score": 68,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability",
-        "Data Breach"
-      ],
-      "threshold": 8.17
     }
   ],
-  "updated": "2026-11-03T18:48:59.319574+00:00",
+  "updated": "2026-11-03T23:47:27.959999+00:00",
   "stats": {
-    "total": 64,
-    "relevant": 16,
-    "critical": 6,
-    "new_this_run": 11,
+    "total": 58,
+    "relevant": 14,
+    "critical": 5,
+    "new_this_run": 3,
     "sources": 3
   }
 }
