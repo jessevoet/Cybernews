@@ -1,6 +1,171 @@
 {
   "items": [
     {
+      "title": "I tested the RedMagic 12 Pro – and it’s the fastest Android I’ve ever seen",
+      "url": "https://www.zdnet.com/tech/the-redmagic-12-pro-is-an-elite-phone-with-one-glaring-issue/",
+      "summary": "If it’s possible to release a flagship phone while at the same time making it appear more like a midrange phone, Red Magic has found a way.",
+      "source": "ZDNet Security",
+      "published": "2026-11-03T18:48:57.899289+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.64
+    },
+    {
+      "title": "Is Claude Code truly faster with message threads? I did the math on my logs",
+      "url": "https://www.zdnet.com/innovation/claude-code-message-threads-speed-test/",
+      "summary": "Claude Code’s update could save you time during demanding, hours-long coding sessions at no extra cost. But by how much? Here’s my real-world result.",
+      "source": "ZDNet Security",
+      "published": "2026-11-03T18:48:57.899124+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.64
+    },
+    {
+      "title": "This clever banking scam keeps phishing by faking its own demise – how it works",
+      "url": "https://www.zdnet.com/tech/bank-phishing-scam-kela/",
+      "summary": "You won’t see the ‘suspended’ sign because it’s not meant for you.",
+      "source": "ZDNet Security",
+      "published": "2026-11-03T18:48:57.898938+00:00",
+      "raw_score": 5.609201100310575,
+      "score": 53,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Phishing"
+      ],
+      "threshold": 9.64
+    },
+    {
+      "title": "Roku is taking away a fan-favorite screensaver – but you have alternatives",
+      "url": "https://www.zdnet.com/home-and-office/roku-aquatic-life-aquarium-screensaver-alternatives/",
+      "summary": "One of Roku’s most popular screensavers is about to make its last splash. Here’s how to switch before Dec. 1.",
+      "source": "ZDNet Security",
+      "published": "2026-11-03T18:48:57.898780+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.64
+    },
+    {
+      "title": "Windows 11 can run better on PCs with 8GB now, Microsoft says – here’s why",
+      "url": "https://www.zdnet.com/tech/windows-11-pc-8gb-ram-update-now/",
+      "summary": "The latest updates to Windows 11 offer improvements in speed, performance, and memory management.",
+      "source": "ZDNet Security",
+      "published": "2026-11-03T18:48:57.898624+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.64
+    },
+    {
+      "title": "I tried Sonos’ latest app features – these 2 small upgrades fix big annoyances",
+      "url": "https://www.zdnet.com/home-and-office/sonos-app-update-hands-on-11-3-2026/",
+      "summary": "New Sonos software and firmware updates are rolling out. Here’s what you can expect.",
+      "source": "ZDNet Security",
+      "published": "2026-11-03T18:48:57.898472+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.64
+    },
+    {
+      "title": "Nvidia RTX 50 GPUs hit with more price hikes – up to $500",
+      "url": "https://www.zdnet.com/tech/nvidia-rtx-50-cards-gpus-more-price-increases/",
+      "summary": "Some GPUs will see bigger increases than others, while Intel and AMD remain mum on their pricing plans",
+      "source": "ZDNet Security",
+      "published": "2026-11-03T18:48:57.898319+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.64
+    },
+    {
+      "title": "HomeView with an arm? Apple reportedly plans $1,000 swiveling smart panel",
+      "url": "https://www.zdnet.com/home-and-office/homeview-ultra-apple-robotic-smart-display/",
+      "summary": "The HomeView Ultra is expected to feature a robotic arm and 9-inch display. Shades of Amazon’s discontinued Echo Show 10?",
+      "source": "ZDNet Security",
+      "published": "2026-11-03T18:48:57.898173+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.64
+    },
+    {
+      "title": "SUSE lays off 1 in 10 workers – citing AI and automation",
+      "url": "https://www.zdnet.com/business/suse-lay-offs-workforce-ai-cited/",
+      "summary": "Squarespace also announced layoffs this week, but explicit ties to AI remain inconsistent.",
+      "source": "ZDNet Security",
+      "published": "2026-11-03T18:48:57.897970+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.64
+    },
+    {
+      "title": "Hiding Capabilities in AI Models",
+      "url": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
+      "summary": "<p>Interesting research: &#8220;<a href=\"https://arxiv.org/abs/2610.13928\">AI Models Can Provably Hide Arbitrary Capabilities</a>&#8221;</p>\n<blockquote><p><b>Abstract:</b> Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adversarial conditions by constructing backdoor attacks that embed encrypted neural networks within host model",
+      "source": "Schneier on Security",
+      "published": "2026-11-03T18:48:43.756271+00:00",
+      "raw_score": 6.837456774943973,
+      "score": 59,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Malware"
+      ],
+      "threshold": 9.64
+    },
+    {
+      "title": "AIs Hacking the Law",
+      "url": "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html",
+      "summary": "<p>In both a 2021 <a href=\"https://www.belfercenter.org/publication/coming-ai-hackers\">essay</a> and my 2022 book, <i><a href=\"https://www.schneier.com/books/a-hackers-mind/\">A Hacker&#8217;s Mind</a></i>, I talk about AIs finding vulnerabilities and exploits&#8212;hacking&#8212;the legal system.</p>\n<p><a href=\"https://www.felixringe.com/legal-exploits/\">Here&#8217;s</a> some demonstrations of this from Germany:</p>\n<blockquote><p>Legal systems encode the foundations of social order in natural ",
+      "source": "Schneier on Security",
+      "published": "2026-11-03T18:48:43.755425+00:00",
+      "raw_score": 3.344497855536527,
+      "score": 43,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 9.64
+    },
+    {
       "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
       "url": "https://projectzero.google/2026/09/windows-dangling-com.html",
       "summary": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed “Dark Elevator” by Calif. The root cause of the bug was a dangling COM object registration for the CrossDevice COM object with the CLSID {E9F83CF2-E0C0-4CA7-AF01-E90C70BEF496}. A COM registration typically needs two parts: a server executable, which for in-process components is a ",
@@ -800,44 +965,14 @@
         "Data Breach"
       ],
       "threshold": 8.17
-    },
-    {
-      "title": "I tried Windows 11’s customizable right-click menu – and it’s a much-needed change",
-      "url": "https://www.zdnet.com/tech/windows-11-customizable-right-click-menu/",
-      "summary": "The latest Windows Insider build lets you add, remove, and manage commands in the right-click menu so it’s less crowded and confusing.",
-      "source": "ZDNet Security",
-      "published": "2026-10-27T13:45:16.299586+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.07
-    },
-    {
-      "title": "Hiding Capabilities in AI Models",
-      "url": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
-      "summary": "<p>Interesting research: &#8220;<a href=\"https://arxiv.org/abs/2610.13928\">AI Models Can Provably Hide Arbitrary Capabilities</a>&#8221;</p>\n<blockquote><p><b>Abstract:</b> Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adversarial conditions by constructing backdoor attacks that embed encrypted neural networks within host model",
-      "source": "Schneier on Security",
-      "published": "2026-10-27T13:45:04.838975+00:00",
-      "raw_score": 6.837456774943973,
-      "score": 65,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Malware"
-      ],
-      "threshold": 8.07
     }
   ],
-  "updated": "2026-11-03T11:28:28.642776+00:00",
+  "updated": "2026-11-03T18:48:59.319574+00:00",
   "stats": {
-    "total": 55,
-    "relevant": 14,
-    "critical": 5,
-    "new_this_run": 0,
+    "total": 64,
+    "relevant": 16,
+    "critical": 6,
+    "new_this_run": 11,
     "sources": 3
   }
 }
