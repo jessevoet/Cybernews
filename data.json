@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "How to fix a bug in a fix",
+      "url": "https://projectzero.google/2026/10/emergency-patching.html",
+      "summary": "Project Zero often works with software vendors to remediate the vulnerabilities we report and provide broader guidance on making software more secure. Some vendors express concern about potential scenarios in which they are unable to fix vulnerabilities that are causing immediate user harm, due to limitations in their patch delivery systems. Since Project Zero encounters a wide array of systems designed to protect users in the case of exceptional exploitation scenarios, both through vendor discu",
+      "source": "Google Project Zero",
+      "published": "2026-11-04T03:55:37.829260+00:00",
+      "raw_score": 3.2734223403067078,
+      "score": 43,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 9.64
+    },
+    {
       "title": "Your Apple Watch has 2 new controversial listening features – but you have to opt in",
       "url": "https://www.zdnet.com/tech/apple-watch-siri-recap-live-rewind-available-beta-how-to-try/",
       "summary": "Siri Recap and Live Rewind are finally here, two months after Apple unveiled the always-listening Apple Watch features. Here’s how they work.",
@@ -858,30 +874,14 @@
         "General"
       ],
       "threshold": 8.17
-    },
-    {
-      "title": "How to fix a bug in a fix",
-      "url": "https://projectzero.google/2026/10/emergency-patching.html",
-      "summary": "Project Zero often works with software vendors to remediate the vulnerabilities we report and provide broader guidance on making software more secure. Some vendors express concern about potential scenarios in which they are unable to fix vulnerabilities that are causing immediate user harm, due to limitations in their patch delivery systems. Since Project Zero encounters a wide array of systems designed to protect users in the case of exceptional exploitation scenarios, both through vendor discu",
-      "source": "Google Project Zero",
-      "published": "2026-10-28T03:04:01.218989+00:00",
-      "raw_score": 3.2734223403067078,
-      "score": 44,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 8.17
     }
   ],
-  "updated": "2026-11-03T23:47:27.959999+00:00",
+  "updated": "2026-11-04T03:55:43.441178+00:00",
   "stats": {
     "total": 58,
     "relevant": 14,
     "critical": 5,
-    "new_this_run": 3,
+    "new_this_run": 1,
     "sources": 3
   }
 }
