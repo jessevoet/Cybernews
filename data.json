@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "Can Netflix’s new AI tool stop your TV-streaming doomscrolling? How to try it",
+      "url": "https://www.zdnet.com/home-and-office/netflix-ai-tool-discover-feature/",
+      "summary": "Netflix is adding a new Discover feature, which recommends tailored streaming selections. Here’s how it works.",
+      "source": "ZDNet Security",
+      "published": "2026-11-04T19:04:15.385383+00:00",
+      "raw_score": 0.0,
+      "score": 21,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.56
+    },
+    {
+      "title": "Safari finally gets 3 popular browser features – and I can’t wait to try them",
+      "url": "https://www.zdnet.com/tech/safari-os-27-3-developer-beta-features/",
+      "summary": "New developer beta release notes point to deeper Siri AI integration and more Safari customization.",
+      "source": "ZDNet Security",
+      "published": "2026-11-04T19:04:15.385227+00:00",
+      "raw_score": 0.0,
+      "score": 21,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.56
+    },
+    {
+      "title": "Want an AI job? Deployment engineers are earning executive-level pay – up to $1.45M a year",
+      "url": "https://www.zdnet.com/innovation/ai-deployment-engineers-salary-christian-timbers-report/",
+      "summary": "AI has ushered in new jobs, and some of them are paying handsomely, according to a new study.",
+      "source": "ZDNet Security",
+      "published": "2026-11-04T19:04:15.385064+00:00",
+      "raw_score": 0.0,
+      "score": 21,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.56
+    },
+    {
+      "title": "Researchers asked people to use AI chatbots for election info – results were mixed",
+      "url": "https://www.zdnet.com/innovation/ai-users-ask-chatbots-voting-advice-elections-yale-research/",
+      "summary": "Chatbots can skew election-related information and act as an intervening layer in a voter’s search, Yale researchers find.",
+      "source": "ZDNet Security",
+      "published": "2026-11-04T19:04:15.384845+00:00",
+      "raw_score": 5.587117631411713,
+      "score": 59,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.56
+    },
+    {
+      "title": "Studying Fraudulent North Korean IT Workers",
+      "url": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
+      "summary": "<p>Researchers set up a fake start-up company to <a href=\"https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html \">study</a> fraudulent North Korean IT workers.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-11-04T19:04:01.907287+00:00",
+      "raw_score": 0.0,
+      "score": 21,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.56
+    },
+    {
       "title": "Testing race conditions with memory access tracing and stack-based delay injection",
       "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
       "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static analysis. Regression tests: After fixing a race condition bug, there is often no good way to write a regression test that reliably triggers the bug as part of a test suite. Automatic bug discovery, such as fuzzing: It is hard for",
@@ -783,105 +858,14 @@
         "General"
       ],
       "threshold": 7.6
-    },
-    {
-      "title": "Amazon’s new Echo Dot can turn into a Wi-Fi extender – how it works",
-      "url": "https://www.zdnet.com/home-and-office/amazon-new-echo-dot-wi-fi-extender-smart-home-hub/",
-      "summary": "Amazon’s new Echo Dot includes a built-in Eero Wi-Fi extender, along with other smart home features.",
-      "source": "ZDNet Security",
-      "published": "2026-10-28T16:53:15.966013+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.19
-    },
-    {
-      "title": "Samsung’s new clip-style Galaxy Buds On have a major advantage over Sony and Bose",
-      "url": "https://www.zdnet.com/tech/samsung-galaxy-buds-on-availability-price/",
-      "summary": "Advanced audio features are great, but ecosystem integration is better. Here’s how Samsung’s newest clip-on Buds compare to its rivals.",
-      "source": "ZDNet Security",
-      "published": "2026-10-28T16:53:15.965879+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.19
-    },
-    {
-      "title": "Amazon’s new Echo Studio gives Alexa+ an AI camera to see inside your home",
-      "url": "https://www.zdnet.com/home-and-office/amazon-echo-studio-home-camera-2026-privacy-concerns/",
-      "summary": "The Echo Studio with Home Camera essentially equips Alexa+ with eyes to enable ‘visual intelligence’ features – but there’s a kill switch.",
-      "source": "ZDNet Security",
-      "published": "2026-10-28T16:53:15.965719+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.19
-    },
-    {
-      "title": "Opera will run AI locally in your browser now – why that’s a gamechanger and how to try it",
-      "url": "https://www.zdnet.com/innovation/opera-webai-local-ai-browser/",
-      "summary": "Thanks to the newly proposed WebAI web standard, the company will start shipping local AI models with its flagship browser.",
-      "source": "ZDNet Security",
-      "published": "2026-10-28T16:53:15.965546+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.19
-    },
-    {
-      "title": "Workshop on Economics and Information Security (WEIS) Archive",
-      "url": "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
-      "summary": "<p>There&#8217;s a new <a href=\"https://papers.econinfosec.org\">archive</a> of all the papers from twenty-five years of the Workshop on Economics and Information Security (WEIS).</p>\n<p>Really nice resource. It&#8217;s fun to reread my <a href=\"https://papers.econinfosec.org/papers/weis2002/weis2002_02_computer-security-its-the-economics-stupid-position-paper.doc\">2002</a> essay on the economics of information security.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-10-28T16:53:03.819815+00:00",
-      "raw_score": 1.194692991909389,
-      "score": 32,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability",
-        "ICS / OT"
-      ],
-      "threshold": 8.19
-    },
-    {
-      "title": "Studying Fraudulent North Korean IT Workers",
-      "url": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
-      "summary": "<p>Researchers set up a fake start-up company to <a href=\"https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html \">study</a> fraudulent North Korean IT workers.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-10-28T16:53:03.818120+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.19
     }
   ],
-  "updated": "2026-11-04T11:45:18.367734+00:00",
+  "updated": "2026-11-04T19:04:16.806675+00:00",
   "stats": {
-    "total": 58,
+    "total": 57,
     "relevant": 14,
-    "critical": 5,
-    "new_this_run": 1,
+    "critical": 4,
+    "new_this_run": 5,
     "sources": 3
   }
 }
