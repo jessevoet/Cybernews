@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Is Chrome’s settings menu getting a search bar? What we know",
+      "url": "https://www.zdnet.com/business/google-tests-new-chrome-search-menu-feature/",
+      "summary": "Chrome might receive a much-needed addition.",
+      "source": "ZDNet Security",
+      "published": "2026-11-05T00:38:11.868432+00:00",
+      "raw_score": 0.0,
+      "score": 21,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.57
+    },
+    {
       "title": "Can Netflix’s new AI tool stop your TV-streaming doomscrolling? How to try it",
       "url": "https://www.zdnet.com/home-and-office/netflix-ai-tool-discover-feature/",
       "summary": "Netflix is adding a new Discover feature, which recommends tailored streaming selections. Here’s how it works.",
@@ -768,104 +783,14 @@
         "General"
       ],
       "threshold": 7.6
-    },
-    {
-      "title": "Amazon’s Echo Show 16 makes Apple’s 7-inch HomeView look puny – is it worth $100+ extra?",
-      "url": "https://www.zdnet.com/home-and-office/amazon-echo-show-16-announced/",
-      "summary": "Amazon just dropped new smart home gear in response to Apple. Here’s how the Echo Show 16 stacks up.",
-      "source": "ZDNet Security",
-      "published": "2026-10-28T21:25:51.920438+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.6
-    },
-    {
-      "title": "These Claude Enterprise features let you track AI ROI – what’s new",
-      "url": "https://www.zdnet.com/innovation/claude-enterprise-efficiency-cost-tracking/",
-      "summary": "Is your pricey Claude Enterprise account worth it? Anthropic is trying to surface insights with three tools.",
-      "source": "ZDNet Security",
-      "published": "2026-10-28T21:25:51.920307+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.6
-    },
-    {
-      "title": "Amazon’s new Alexa Photo Frame could have what I’ve been missing – here’s why",
-      "url": "https://www.zdnet.com/tech/amazon-alexa-photo-frame/",
-      "summary": "You can ask Amazon’s voice assistant to show you your favorite photos.",
-      "source": "ZDNet Security",
-      "published": "2026-10-28T21:25:51.920188+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.6
-    },
-    {
-      "title": "Your public Discord messages may soon appear in Google search results – how to opt out",
-      "url": "https://www.zdnet.com/tech/discord-servers-searchable-on-web/",
-      "summary": "Discord announced a new feature that can make your server messages discoverable on Google. Here’s how to opt out.",
-      "source": "ZDNet Security",
-      "published": "2026-10-28T21:25:51.920064+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.6
-    },
-    {
-      "title": "Apple’s new touchscreen MacBook Pros may be late, but they have one big advantage",
-      "url": "https://www.zdnet.com/tech/apples-new-touchscreen-macbook-pros-may-be-late-but-they-have-one-big-advantage/",
-      "summary": "Apple finally revealed its new MacBook M5 Pro and Max with a touchscreen OLED display, bringing the best features from the iPhone to its laptops.",
-      "source": "ZDNet Security",
-      "published": "2026-10-28T21:25:51.919888+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "APT / Nation State"
-      ],
-      "threshold": 7.6
-    },
-    {
-      "title": "The 4 biggest Amazon smart home announcements from today",
-      "url": "https://www.zdnet.com/home-and-office/amazon-echo-smart-home-announcements-october-2026-price-availability/",
-      "summary": "From a new smart alarm clock to an Alexa-powered 3D map of your home, here’s what’s new from Amazon, including prices and release dates.",
-      "source": "ZDNet Security",
-      "published": "2026-10-28T21:25:51.919717+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.6
     }
   ],
-  "updated": "2026-11-04T19:04:16.806675+00:00",
+  "updated": "2026-11-05T00:38:13.201492+00:00",
   "stats": {
-    "total": 57,
+    "total": 52,
     "relevant": 14,
     "critical": 4,
-    "new_this_run": 5,
+    "new_this_run": 1,
     "sources": 3
   }
 }
