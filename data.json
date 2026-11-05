@@ -783,29 +783,14 @@
         "Advisory"
       ],
       "threshold": 7.67
-    },
-    {
-      "title": "Mistral’s Le Chonk is now a top open model for coding, ranking alongside Codex GPT-6.1 Terra",
-      "url": "https://www.zdnet.com/innovation/mistral-large-4-weights-release/",
-      "summary": "Mistral has released the weights for Large 4, along with some impressive Artificial Analysis scores.",
-      "source": "ZDNet Security",
-      "published": "2026-10-29T14:46:08.225391+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.6
     }
   ],
-  "updated": "2026-11-05T07:33:16.117480+00:00",
+  "updated": "2026-11-05T15:55:49.561909+00:00",
   "stats": {
-    "total": 53,
+    "total": 52,
     "relevant": 14,
     "critical": 4,
-    "new_this_run": 1,
+    "new_this_run": 0,
     "sources": 3
   }
 }
