@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Linux Mint 27 arrives next month, and I like it already: New features and other upgrades to expect",
+      "url": "https://www.zdnet.com/tech/linux-mint-27-release-date/",
+      "summary": "It starts with a surprise version number: Linux Mint 27 instead of 24. But the next release brings far more changes than that.",
+      "source": "ZDNet Security",
+      "published": "2026-11-05T07:33:14.791924+00:00",
+      "raw_score": 0.0,
+      "score": 21,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.57
+    },
+    {
       "title": "Is Chrome’s settings menu getting a search bar? What we know",
       "url": "https://www.zdnet.com/business/google-tests-new-chrome-search-menu-feature/",
       "summary": "Chrome might receive a much-needed addition.",
@@ -785,9 +800,9 @@
       "threshold": 7.6
     }
   ],
-  "updated": "2026-11-05T00:38:13.201492+00:00",
+  "updated": "2026-11-05T07:33:16.117480+00:00",
   "stats": {
-    "total": 52,
+    "total": 53,
     "relevant": 14,
     "critical": 4,
     "new_this_run": 1,
