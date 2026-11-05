@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title": "The Siri AI waitlist is gone in iOS 27: How to try the beta today",
+      "url": "https://www.zdnet.com/business/siri-ai-beta-waitlist-ends-ios-27/",
+      "summary": "The wait is over for trying Siri AI on iOS 27. Here’s what you need to know to get started.",
+      "source": "ZDNet Security",
+      "published": "2026-11-05T21:42:33.891000+00:00",
+      "raw_score": 0.0,
+      "score": 20,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.67
+    },
+    {
+      "title": "3 ways Bluetooth 7 upgrades your devices beyond lossless audio",
+      "url": "https://www.zdnet.com/tech/bluetooth-7-features-headphones-smart-home-lossless-audio/",
+      "summary": "Bluetooth 7 could make your smart home devices easier to set up, for one. Here’s what we know about the new core specification.",
+      "source": "ZDNet Security",
+      "published": "2026-11-05T21:42:33.890848+00:00",
+      "raw_score": 0.0,
+      "score": 20,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.67
+    },
+    {
+      "title": "Claude’s new Personal Finance tool aims to help analyze your spending – read-only, of course",
+      "url": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/",
+      "summary": "Anthropic has released what appears to be its answer to ChatGPT Finances.",
+      "source": "ZDNet Security",
+      "published": "2026-11-05T21:42:33.890680+00:00",
+      "raw_score": 0.0,
+      "score": 20,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.67
+    },
+    {
+      "title": "6 default Pixel 11 settings I changed that made a big difference – and why",
+      "url": "https://www.zdnet.com/tech/pixel-11-settings-to-change/",
+      "summary": "If you’re a new Pixel 11 user, here are six things I recommend changing right away to get the most from your phone.",
+      "source": "ZDNet Security",
+      "published": "2026-11-05T21:42:33.890500+00:00",
+      "raw_score": 0.0,
+      "score": 20,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.67
+    },
+    {
+      "title": "HR thinks you can learn AI skills – so why is your company hiring elsewhere?",
+      "url": "https://www.zdnet.com/innovation/ai-hiring-vs-reskilling-careerminds-research/",
+      "summary": "Over 90% of HR professionals say they believe employees can learn AI roles – but half of companies still hire outside for those positions, according to a new report.",
+      "source": "ZDNet Security",
+      "published": "2026-11-05T21:42:33.890304+00:00",
+      "raw_score": 0.0,
+      "score": 20,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.67
+    },
+    {
+      "title": "New Serious PHP Vulnerabilities Released and Patched",
+      "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
+      "summary": "<p>PHP maintainers have <a href=\"https://www.php.net/archive/2026.php#2026-10-20-1\">released</a> fixes for two critical vulnerabilities:</p>\n<blockquote><p>PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. </p>\n<p>Who is at risk: all PHP installations serving web requests, including PHP-FPM, Apache with mod_php, php-cgi, FrankenPHP and LiteSpeed. We consider the",
+      "source": "Schneier on Security",
+      "published": "2026-11-05T21:42:23.620104+00:00",
+      "raw_score": 7.262310390034352,
+      "score": 69,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 7.67
+    },
+    {
       "title": "Linux Mint 27 arrives next month, and I like it already: New features and other upgrades to expect",
       "url": "https://www.zdnet.com/tech/linux-mint-27-release-date/",
       "summary": "It starts with a surprise version number: Linux Mint 27 instead of 24. But the next release brings far more changes than that.",
@@ -722,75 +813,14 @@
         "Malware"
       ],
       "threshold": 7.95
-    },
-    {
-      "title": "Stop sharing your passwords with AI agents, Bank of America warns customers",
-      "url": "https://www.zdnet.com/innovation/bank-of-america-customers-no-sharing-passwords-ai-agents/",
-      "summary": "The bank’s message follows a trend among financial institutions that are restricting third-party AI agent access.",
-      "source": "ZDNet Security",
-      "published": "2026-10-29T19:57:28.546421+00:00",
-      "raw_score": 0.0,
-      "score": 23,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.67
-    },
-    {
-      "title": "Firefox and Chrome patch 200+ security flaws combined – update both ASAP",
-      "url": "https://www.zdnet.com/tech/firefox-chrome-browsers-patch-200-security-flaws-update-asap/",
-      "summary": "The latest version of Firefox fixes 167 security vulnerabilities, most of which are of high severity, while the newest version of Chrome patches 52 flaws, four of which are critical.",
-      "source": "ZDNet Security",
-      "published": "2026-10-29T19:57:28.546256+00:00",
-      "raw_score": 4.54975127105809,
-      "score": 52,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Advisory"
-      ],
-      "threshold": 7.67
-    },
-    {
-      "title": "Your headphones have hidden LE Audio features you’ll want to know about",
-      "url": "https://www.zdnet.com/tech/bluetooth-headphones-hidden-le-audio-features-jbl-sony-bose/",
-      "summary": "Your JBL, Sony, or Bose Bluetooth headphones got a top-to-bottom wireless makeover — not just Auracast.",
-      "source": "ZDNet Security",
-      "published": "2026-10-29T19:57:28.546048+00:00",
-      "raw_score": 0.0,
-      "score": 23,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.67
-    },
-    {
-      "title": "New Serious PHP Vulnerabilities Released and Patched",
-      "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
-      "summary": "<p>PHP maintainers have <a href=\"https://www.php.net/archive/2026.php#2026-10-20-1\">released</a> fixes for two critical vulnerabilities:</p>\n<blockquote><p>PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. </p>\n<p>Who is at risk: all PHP installations serving web requests, including PHP-FPM, Apache with mod_php, php-cgi, FrankenPHP and LiteSpeed. We consider the",
-      "source": "Schneier on Security",
-      "published": "2026-10-29T19:57:17.311170+00:00",
-      "raw_score": 7.262310390034352,
-      "score": 69,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 7.67
     }
   ],
-  "updated": "2026-11-05T15:55:49.561909+00:00",
+  "updated": "2026-11-05T21:42:35.227982+00:00",
   "stats": {
-    "total": 52,
-    "relevant": 14,
+    "total": 54,
+    "relevant": 13,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 6,
     "sources": 3
   }
 }
