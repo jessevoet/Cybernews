@@ -1,6 +1,112 @@
 {
   "items": [
     {
+      "title": "Apple will monitor your public iCloud links now, starting with iOS 27.3",
+      "url": "https://www.zdnet.com/innovation/apple-monitor-public-icloud-links-27-3-harmful-content/",
+      "summary": "Under Apple’s new policy, the company will scan publicly shared iCloud links for harmful content – and possibly ban violators.",
+      "source": "ZDNet Security",
+      "published": "2026-11-06T21:52:31.254416+00:00",
+      "raw_score": 0.0,
+      "score": 20,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.42
+    },
+    {
+      "title": "Thinking Machines’ new model takes the lead in western open-weight AI",
+      "url": "https://www.zdnet.com/innovation/thinking-machines-inkling-2-small-open-weight/",
+      "summary": "Another competitive model developed outside of China could change the open-weight landscape.",
+      "source": "ZDNet Security",
+      "published": "2026-11-06T21:52:31.254266+00:00",
+      "raw_score": 0.0,
+      "score": 20,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.42
+    },
+    {
+      "title": "Android is getting my favorite iOS tracking feature – what to expect",
+      "url": "https://www.zdnet.com/tech/android-find-hub-left-behind-upgrade/",
+      "summary": "‘Notify when left behind’ is making its way to Android – but to limited devices for now.",
+      "source": "ZDNet Security",
+      "published": "2026-11-06T21:52:31.254134+00:00",
+      "raw_score": 0.0,
+      "score": 20,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.42
+    },
+    {
+      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
+      "source": "Google Project Zero",
+      "published": "2026-11-06T21:52:25.481979+00:00",
+      "raw_score": 7.092005476157869,
+      "score": 70,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 7.42
+    },
+    {
+      "title": "Compromised TLS Certificates",
+      "url": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
+      "summary": "<p>The Indian CA eMudhra Limited has eight TLS certificates with <a href=\"https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/\">laughably weak private keys</a>:</p>\n<blockquote><p>The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve cryptography private key contains roughly 384 bits of entropy, a size al",
+      "source": "Schneier on Security",
+      "published": "2026-11-06T21:52:19.485787+00:00",
+      "raw_score": 1.754802988759355,
+      "score": 32,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.42
+    },
+    {
+      "title": "Bloatware in Aftermarket Auto Parts",
+      "url": "https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html",
+      "summary": "<p>This <a href=\"https://www.thedrive.com/news/cheap-aftermarket-head-units-are-loaded-with-spyware-by-the-way\">story</a> is interesting:</p>\n<blockquote><p>One Civic owner purchased a cheap aftermarket head unit off Amazon, and decided to have Claude work its magic on it, like it would a smart TV. What was reportedly discovered isn’t surprising, but is worth knowing about.</p>\n<p>Among the pre-installed bloatware&#8212;­or spyware, if you’re being less charitable­&#8212;was a voice assistant eq",
+      "source": "Schneier on Security",
+      "published": "2026-11-06T21:52:19.485208+00:00",
+      "raw_score": 6.713289884357823,
+      "score": 67,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Malware"
+      ],
+      "threshold": 7.42
+    },
+    {
+      "title": "Friday Squid Blogging: Bigfin Squid Off California Coast",
+      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html",
+      "summary": "<p>Neat <a href=\"https://www.smithsonianmag.com/smart-news/watch-an-elusive-and-ethereal-bigfin-squid-float-above-the-seafloor-off-central-california-180989491/\">video</a>:</p>\n<blockquote><p>The sighting, announced September 2, marks the first time anyone has spotted a live bigfin squid, which belongs to the <i>Magnapinna</i> genus, in the northeastern Pacific Ocean.</p></blockquote>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;",
+      "source": "Schneier on Security",
+      "published": "2026-11-06T21:52:19.485015+00:00",
+      "raw_score": 1.6722489277682635,
+      "score": 32,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.42
+    },
+    {
       "title": "Pinpointing Location of Videos from Background Airplane Sounds",
       "url": "https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html",
       "summary": "<p>This is <a href=\"https://gizmodo.com/a-youtuber-figured-out-how-to-find-almost-anyone-using-airplane-sounds-2000835861\">fascinating</a>:</p>\n<blockquote><p>The video describes a technique that can reveal where an otherwise unidentifiable recording was made by analyzing its audio for the faint sounds of passing aircraft. The technique is both fascinating and frightening.</p>\n<p>It works by looking at Doppler curves, which plot the way a plane’s sound changes as it passes overhead because of th",
@@ -691,151 +797,14 @@
         "General"
       ],
       "threshold": 10.11
-    },
-    {
-      "title": "Your Netgear router may be vulnerable to a security exploit – how to check and patch it",
-      "url": "https://www.zdnet.com/tech/netgear-routers-vulnerable-security-exploit/",
-      "summary": "A vulnerability in some Netgear routers could allow an attacker with access to your network to run malicious commands on the device.",
-      "source": "ZDNet Security",
-      "published": "2026-10-30T21:14:33.182903+00:00",
-      "raw_score": 15.476547114693135,
-      "score": 95,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 10.11
-    },
-    {
-      "title": "I’m finally ready for a smart calendar – why the Echo Show 16 stands out",
-      "url": "https://www.zdnet.com/home-and-office/im-finally-ready-for-a-smart-calendar-why-the-echo-show-16-stands-out/",
-      "summary": "I’m finally ready to upgrade to a smart calendar – and Amazon’s newest Echo device looks like an organizational solution for my family and I.",
-      "source": "ZDNet Security",
-      "published": "2026-10-30T21:14:33.182705+00:00",
-      "raw_score": 0.0,
-      "score": 29,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.11
-    },
-    {
-      "title": "Samsung adds better sleep tracking to Galaxy Watches – here’s what to expect",
-      "url": "https://www.zdnet.com/health/advanced-sleep-apnea-tracking-galaxy-watches/",
-      "summary": "The FDA-approved sleep apnea tracking feature will first come to the Galaxy Watch Ultra 2, Watch 9, and Ring.",
-      "source": "ZDNet Security",
-      "published": "2026-10-30T21:14:33.182481+00:00",
-      "raw_score": 0.0,
-      "score": 29,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.11
-    },
-    {
-      "title": "Android 17 adoption hits a staggering 1% – why you really should update now",
-      "url": "https://www.zdnet.com/tech/android-17-os-adoption-numbers-october-2026/",
-      "summary": "Only a quarter of Android phones have even made it to Android 16.",
-      "source": "ZDNet Security",
-      "published": "2026-10-30T21:14:33.182266+00:00",
-      "raw_score": 0.0,
-      "score": 29,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.11
-    },
-    {
-      "title": "Friday Squid Blogging: Bigfin Squid Off California Coast",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html",
-      "summary": "<p>Neat <a href=\"https://www.smithsonianmag.com/smart-news/watch-an-elusive-and-ethereal-bigfin-squid-float-above-the-seafloor-off-central-california-180989491/\">video</a>:</p>\n<blockquote><p>The sighting, announced September 2, marks the first time anyone has spotted a live bigfin squid, which belongs to the <i>Magnapinna</i> genus, in the northeastern Pacific Ocean.</p></blockquote>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;",
-      "source": "Schneier on Security",
-      "published": "2026-10-30T21:14:21.973708+00:00",
-      "raw_score": 1.6722489277682635,
-      "score": 36,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.11
-    },
-    {
-      "title": "Google’s latest Home updates just fixed my biggest annoyances with its speakers and cameras",
-      "url": "https://www.zdnet.com/home-and-office/google-home-gemini-updates-42-fixes/",
-      "summary": "Google details 42 fixes to its Home app and the devices compatible with it.",
-      "source": "ZDNet Security",
-      "published": "2026-10-30T16:52:25.225403+00:00",
-      "raw_score": 0.0,
-      "score": 21,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.95
-    },
-    {
-      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
-      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
-      "source": "Google Project Zero",
-      "published": "2026-10-30T16:52:20.005959+00:00",
-      "raw_score": 7.092005476157869,
-      "score": 67,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 7.95
-    },
-    {
-      "title": "Compromised TLS Certificates",
-      "url": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
-      "summary": "<p>The Indian CA eMudhra Limited has eight TLS certificates with <a href=\"https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/\">laughably weak private keys</a>:</p>\n<blockquote><p>The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve cryptography private key contains roughly 384 bits of entropy, a size al",
-      "source": "Schneier on Security",
-      "published": "2026-10-30T16:51:56.724319+00:00",
-      "raw_score": 1.754802988759355,
-      "score": 32,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.95
-    },
-    {
-      "title": "Bloatware in Aftermarket Auto Parts",
-      "url": "https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html",
-      "summary": "<p>This <a href=\"https://www.thedrive.com/news/cheap-aftermarket-head-units-are-loaded-with-spyware-by-the-way\">story</a> is interesting:</p>\n<blockquote><p>One Civic owner purchased a cheap aftermarket head unit off Amazon, and decided to have Claude work its magic on it, like it would a smart TV. What was reportedly discovered isn’t surprising, but is worth knowing about.</p>\n<p>Among the pre-installed bloatware&#8212;­or spyware, if you’re being less charitable­&#8212;was a voice assistant eq",
-      "source": "Schneier on Security",
-      "published": "2026-10-30T16:51:56.723455+00:00",
-      "raw_score": 6.713289884357823,
-      "score": 64,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Malware"
-      ],
-      "threshold": 7.95
     }
   ],
-  "updated": "2026-11-06T16:29:15.037624+00:00",
+  "updated": "2026-11-06T21:52:32.793377+00:00",
   "stats": {
-    "total": 55,
-    "relevant": 13,
+    "total": 53,
+    "relevant": 12,
     "critical": 4,
-    "new_this_run": 1,
+    "new_this_run": 7,
     "sources": 3
   }
 }
