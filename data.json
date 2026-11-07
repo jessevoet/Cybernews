@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "Alpine Linux and OpenSSH patch flaw that’s as bad as it can get",
+      "url": "https://www.zdnet.com/tech/alpine-linux-openssh-patch-flaw/",
+      "summary": "This dangerous Linux security hole must be patched as soon as possible.",
+      "source": "ZDNet Security",
+      "published": "2026-11-07T01:27:02.334406+00:00",
+      "raw_score": 5.165019690499813,
+      "score": 55,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Advisory"
+      ],
+      "threshold": 7.5
+    },
+    {
+      "title": "Friday Squid Blogging: Increasing Squid Populations",
+      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
+      "summary": "<p>This <a href=\"https://www.sciencealert.com/squid-are-taking-over-the-ocean-and-not-for-the-reason-you-might-think\">article</a> in <i>Nature</i> argues that it&#8217;s due to an overfishing of predators and warming sea temperatures.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
+      "source": "Schneier on Security",
+      "published": "2026-11-07T01:26:51.999222+00:00",
+      "raw_score": 1.6722489277682635,
+      "score": 30,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.5
+    },
+    {
+      "title": "Friday Squid Blogging: New Jurassic Squid Predecessors",
+      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html",
+      "summary": "<p>News story: &#8220;<a href=\"https://www.sciencedaily.com/releases/2026/10/261019093434.htm\">Scientists discover a bizarre Jurassic &#8216;squid&#8217; unlike anything ever seen</a>.&#8221;</p>\n<blockquote><p>Scientists have identified the &#8220;fattest&#8221; belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming&#8217;s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unlike anything previously known, potentially a predat",
+      "source": "Schneier on Security",
+      "published": "2026-11-07T01:26:51.997785+00:00",
+      "raw_score": 0.0,
+      "score": 17,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.5
+    },
+    {
       "title": "Apple will monitor your public iCloud links now, starting with iOS 27.3",
       "url": "https://www.zdnet.com/innovation/apple-monitor-public-icloud-links-27-3-harmful-content/",
       "summary": "Under Apple’s new policy, the company will scan publicly shared iCloud links for harmful content – and possibly ban violators.",
@@ -782,29 +827,14 @@
         "General"
       ],
       "threshold": 10.11
-    },
-    {
-      "title": "Friday Squid Blogging: Increasing Squid Populations",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
-      "summary": "<p>This <a href=\"https://www.sciencealert.com/squid-are-taking-over-the-ocean-and-not-for-the-reason-you-might-think\">article</a> in <i>Nature</i> argues that it&#8217;s due to an overfishing of predators and warming sea temperatures.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
-      "source": "Schneier on Security",
-      "published": "2026-10-31T01:14:27.711007+00:00",
-      "raw_score": 1.6722489277682635,
-      "score": 36,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 10.11
     }
   ],
-  "updated": "2026-11-06T21:52:32.793377+00:00",
+  "updated": "2026-11-07T01:27:03.756736+00:00",
   "stats": {
-    "total": 53,
-    "relevant": 12,
+    "total": 55,
+    "relevant": 13,
     "critical": 4,
-    "new_this_run": 7,
+    "new_this_run": 3,
     "sources": 3
   }
 }
