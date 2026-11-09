@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Samsung mulls Galaxy AI usage limits and subscription tiers – what we know",
+      "url": "https://www.zdnet.com/innovation/samsung-galaxy-ai-paid-subscription/",
+      "summary": "Galaxy device owners who are heavy AI users would likely start paying for some features they’ve long enjoyed for free.",
+      "source": "ZDNet Security",
+      "published": "2026-11-09T17:58:31.501357+00:00",
+      "raw_score": 0.0,
+      "score": 18,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.54
+    },
+    {
+      "title": "AI Security",
+      "url": "https://www.schneier.com/blog/archives/2026/11/ai-security.html",
+      "summary": "<p>Two weeks ago, I attended the <a href=\"https://unpromptedcon.org/\">[un]prompted</a> AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspects of AI security. (My talk was about integrous AI, and I will post it when it is online.)</p>\n<p>AI security can be divided into three broad topics. It&#8217;s important for researchers to understand which one they are working on. And it&#8217;s important for us as a community to work on them all.",
+      "source": "Schneier on Security",
+      "published": "2026-11-09T17:58:21.452861+00:00",
+      "raw_score": 1.0592810464948619,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "ICS / OT"
+      ],
+      "threshold": 7.54
+    },
+    {
       "title": "Bypassing Windows Administrator Protection",
       "url": "https://projectzero.google/2026/26/windows-administrator-protection.html",
       "summary": "A headline feature introduced in the latest release of Windows 11, 25H2 is Administrator Protection. The goal of this feature is to replace User Account Control (UAC) with a more robust and importantly, securable system to allow a local user to access administrator privileges only when necessary. This blog post will give a brief overview of the new feature, how it works and how it’s different from UAC. I’ll then describe some of the security research I undertook while it was in the insider previ",
@@ -829,12 +859,12 @@
       "threshold": 9.72
     }
   ],
-  "updated": "2026-11-09T07:26:15.500754+00:00",
+  "updated": "2026-11-09T17:58:32.921379+00:00",
   "stats": {
-    "total": 55,
+    "total": 57,
     "relevant": 13,
     "critical": 4,
-    "new_this_run": 0,
+    "new_this_run": 2,
     "sources": 3
   }
 }
