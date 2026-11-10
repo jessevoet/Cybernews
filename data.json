@@ -1,6 +1,112 @@
 {
   "items": [
     {
+      "title": "Google’s new AI tool just proved Signal encryption really works – here’s how",
+      "url": "https://www.zdnet.com/tech/google-deepmind-researchers-prove-signal-whatsapp-encryption-works/",
+      "summary": "With the aim of securing other vital systems, Google DeepMind plans to open-source its AlphaProof Code.",
+      "source": "ZDNet Security",
+      "published": "2026-11-10T22:03:06.520422+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 8.62
+    },
+    {
+      "title": "All your Apple devices need to be patched ASAP – here’s why",
+      "url": "https://www.zdnet.com/tech/apple-27-2-1-security-fix-iphone-ipad-mac-watch-patch/",
+      "summary": "Security updates for iPhones, iPads, Macs, Apple Watches, and Vision Pro just rolled out.",
+      "source": "ZDNet Security",
+      "published": "2026-11-10T22:03:06.520311+00:00",
+      "raw_score": 1.980420515885558,
+      "score": 37,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Advisory"
+      ],
+      "threshold": 8.62
+    },
+    {
+      "title": "I found a hidden Android tool that solves all my tiny text troubles",
+      "url": "https://www.zdnet.com/tech/android-display-help-magnification/",
+      "summary": "When the print on your Android display is too small to read, and the pinch-to-zoom feature isn’t working as expected, try this.",
+      "source": "ZDNet Security",
+      "published": "2026-11-10T22:03:06.520207+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.62
+    },
+    {
+      "title": "Need more AI in Creator Studio? Apple may charge you for it",
+      "url": "https://www.zdnet.com/innovation/ai-creator-studio-apple-usage-packs-fee/",
+      "summary": "With its new $50 AI usage packes, Apple is the latest company to introduce paid model for AI access.",
+      "source": "ZDNet Security",
+      "published": "2026-11-10T22:03:06.520090+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.62
+    },
+    {
+      "title": "New Windows 11 update fixes File Explorer menu mess – and patches an exploited flaw",
+      "url": "https://www.zdnet.com/tech/november-windows-11-update-customizable-right-click-menu/",
+      "summary": "With the November Patch Tuesday rollout, you can finally customize your right-click menu in Windows 11. It fixes 1,094 security flaws, too.",
+      "source": "ZDNet Security",
+      "published": "2026-11-10T22:03:06.519982+00:00",
+      "raw_score": 12.095185701046027,
+      "score": 90,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 8.62
+    },
+    {
+      "title": "Hiding Capabilities in AI Models",
+      "url": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
+      "summary": "<p>Interesting research: &#8220;<a href=\"https://arxiv.org/abs/2610.13928\">AI Models Can Provably Hide Arbitrary Capabilities</a>&#8221;</p>\n<blockquote><p><b>Abstract:</b> Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adversarial conditions by constructing backdoor attacks that embed encrypted neural networks within host model",
+      "source": "Schneier on Security",
+      "published": "2026-11-10T22:02:54.770291+00:00",
+      "raw_score": 6.837456774943973,
+      "score": 63,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Malware"
+      ],
+      "threshold": 8.62
+    },
+    {
+      "title": "AIs Hacking the Law",
+      "url": "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html",
+      "summary": "<p>In both a 2021 <a href=\"https://www.belfercenter.org/publication/coming-ai-hackers\">essay</a> and my 2022 book, <i><a href=\"https://www.schneier.com/books/a-hackers-mind/\">A Hacker&#8217;s Mind</a></i>, I talk about AIs finding vulnerabilities and exploits&#8212;hacking&#8212;the legal system.</p>\n<p><a href=\"https://www.felixringe.com/legal-exploits/\">Here&#8217;s</a> some demonstrations of this from Germany:</p>\n<blockquote><p>Legal systems encode the foundations of social order in natural ",
+      "source": "Schneier on Security",
+      "published": "2026-11-10T22:02:54.769748+00:00",
+      "raw_score": 3.344497855536527,
+      "score": 44,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 8.62
+    },
+    {
       "title": "Can you still trust Proton?",
       "url": "https://www.zdnet.com/tech/can-you-still-trust-proton/",
       "summary": "The Swiss software company has built its reputation on a commitment to privacy. Did its CEO just destroy the trust of its customer base?",
@@ -782,179 +888,14 @@
         "General"
       ],
       "threshold": 9.64
-    },
-    {
-      "title": "I tested the RedMagic 12 Pro – and it’s the fastest Android I’ve ever seen",
-      "url": "https://www.zdnet.com/tech/the-redmagic-12-pro-is-an-elite-phone-with-one-glaring-issue/",
-      "summary": "If it’s possible to release a flagship phone while at the same time making it appear more like a midrange phone, Red Magic has found a way.",
-      "source": "ZDNet Security",
-      "published": "2026-11-03T18:48:57.899289+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.64
-    },
-    {
-      "title": "Is Claude Code truly faster with message threads? I did the math on my logs",
-      "url": "https://www.zdnet.com/innovation/claude-code-message-threads-speed-test/",
-      "summary": "Claude Code’s update could save you time during demanding, hours-long coding sessions at no extra cost. But by how much? Here’s my real-world result.",
-      "source": "ZDNet Security",
-      "published": "2026-11-03T18:48:57.899124+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.64
-    },
-    {
-      "title": "This clever banking scam keeps phishing by faking its own demise – how it works",
-      "url": "https://www.zdnet.com/tech/bank-phishing-scam-kela/",
-      "summary": "You won’t see the ‘suspended’ sign because it’s not meant for you.",
-      "source": "ZDNet Security",
-      "published": "2026-11-03T18:48:57.898938+00:00",
-      "raw_score": 5.609201100310575,
-      "score": 53,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Phishing"
-      ],
-      "threshold": 9.64
-    },
-    {
-      "title": "Roku is taking away a fan-favorite screensaver – but you have alternatives",
-      "url": "https://www.zdnet.com/home-and-office/roku-aquatic-life-aquarium-screensaver-alternatives/",
-      "summary": "One of Roku’s most popular screensavers is about to make its last splash. Here’s how to switch before Dec. 1.",
-      "source": "ZDNet Security",
-      "published": "2026-11-03T18:48:57.898780+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.64
-    },
-    {
-      "title": "Windows 11 can run better on PCs with 8GB now, Microsoft says – here’s why",
-      "url": "https://www.zdnet.com/tech/windows-11-pc-8gb-ram-update-now/",
-      "summary": "The latest updates to Windows 11 offer improvements in speed, performance, and memory management.",
-      "source": "ZDNet Security",
-      "published": "2026-11-03T18:48:57.898624+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.64
-    },
-    {
-      "title": "I tried Sonos’ latest app features – these 2 small upgrades fix big annoyances",
-      "url": "https://www.zdnet.com/home-and-office/sonos-app-update-hands-on-11-3-2026/",
-      "summary": "New Sonos software and firmware updates are rolling out. Here’s what you can expect.",
-      "source": "ZDNet Security",
-      "published": "2026-11-03T18:48:57.898472+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.64
-    },
-    {
-      "title": "Nvidia RTX 50 GPUs hit with more price hikes – up to $500",
-      "url": "https://www.zdnet.com/tech/nvidia-rtx-50-cards-gpus-more-price-increases/",
-      "summary": "Some GPUs will see bigger increases than others, while Intel and AMD remain mum on their pricing plans",
-      "source": "ZDNet Security",
-      "published": "2026-11-03T18:48:57.898319+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.64
-    },
-    {
-      "title": "HomeView with an arm? Apple reportedly plans $1,000 swiveling smart panel",
-      "url": "https://www.zdnet.com/home-and-office/homeview-ultra-apple-robotic-smart-display/",
-      "summary": "The HomeView Ultra is expected to feature a robotic arm and 9-inch display. Shades of Amazon’s discontinued Echo Show 10?",
-      "source": "ZDNet Security",
-      "published": "2026-11-03T18:48:57.898173+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.64
-    },
-    {
-      "title": "SUSE lays off 1 in 10 workers – citing AI and automation",
-      "url": "https://www.zdnet.com/business/suse-lay-offs-workforce-ai-cited/",
-      "summary": "Squarespace also announced layoffs this week, but explicit ties to AI remain inconsistent.",
-      "source": "ZDNet Security",
-      "published": "2026-11-03T18:48:57.897970+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.64
-    },
-    {
-      "title": "Hiding Capabilities in AI Models",
-      "url": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
-      "summary": "<p>Interesting research: &#8220;<a href=\"https://arxiv.org/abs/2610.13928\">AI Models Can Provably Hide Arbitrary Capabilities</a>&#8221;</p>\n<blockquote><p><b>Abstract:</b> Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption does not hold under adversarial conditions by constructing backdoor attacks that embed encrypted neural networks within host model",
-      "source": "Schneier on Security",
-      "published": "2026-11-03T18:48:43.756271+00:00",
-      "raw_score": 6.837456774943973,
-      "score": 59,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Malware"
-      ],
-      "threshold": 9.64
-    },
-    {
-      "title": "AIs Hacking the Law",
-      "url": "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html",
-      "summary": "<p>In both a 2021 <a href=\"https://www.belfercenter.org/publication/coming-ai-hackers\">essay</a> and my 2022 book, <i><a href=\"https://www.schneier.com/books/a-hackers-mind/\">A Hacker&#8217;s Mind</a></i>, I talk about AIs finding vulnerabilities and exploits&#8212;hacking&#8212;the legal system.</p>\n<p><a href=\"https://www.felixringe.com/legal-exploits/\">Here&#8217;s</a> some demonstrations of this from Germany:</p>\n<blockquote><p>Legal systems encode the foundations of social order in natural ",
-      "source": "Schneier on Security",
-      "published": "2026-11-03T18:48:43.755425+00:00",
-      "raw_score": 3.344497855536527,
-      "score": 43,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 9.64
     }
   ],
-  "updated": "2026-11-10T16:45:56.534975+00:00",
+  "updated": "2026-11-10T22:03:08.276537+00:00",
   "stats": {
-    "total": 63,
-    "relevant": 13,
-    "critical": 3,
-    "new_this_run": 8,
+    "total": 59,
+    "relevant": 14,
+    "critical": 4,
+    "new_this_run": 7,
     "sources": 3
   }
 }
