@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
+      "url": "https://projectzero.google/2026/09/windows-dangling-com.html",
+      "summary": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed “Dark Elevator” by Calif. The root cause of the bug was a dangling COM object registration for the CrossDevice COM object with the CLSID {E9F83CF2-E0C0-4CA7-AF01-E90C70BEF496}. A COM registration typically needs two parts: a server executable, which for in-process components is a ",
+      "source": "Google Project Zero",
+      "published": "2026-11-10T08:57:39.313617+00:00",
+      "raw_score": 6.593552252651085,
+      "score": 66,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 7.52
+    },
+    {
       "title": "Samsung’s new SmartTag 3 debuts with next-gen Bluetooth – and one big problem",
       "url": "https://www.zdnet.com/tech/samsung-smart-tag-3-channel-sounding/",
       "summary": "The Galaxy SmartTag 3 supports emerging Bluetooth tracking tech, but it’s not a match for Samsung’s OS exclusivity.",
@@ -812,29 +827,14 @@
         "Vulnerability"
       ],
       "threshold": 9.64
-    },
-    {
-      "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
-      "url": "https://projectzero.google/2026/09/windows-dangling-com.html",
-      "summary": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed “Dark Elevator” by Calif. The root cause of the bug was a dangling COM object registration for the CrossDevice COM object with the CLSID {E9F83CF2-E0C0-4CA7-AF01-E90C70BEF496}. A COM registration typically needs two parts: a server executable, which for in-process components is a ",
-      "source": "Google Project Zero",
-      "published": "2026-11-03T03:09:40.371365+00:00",
-      "raw_score": 6.593552252651085,
-      "score": 58,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 9.72
     }
   ],
-  "updated": "2026-11-10T01:12:18.464866+00:00",
+  "updated": "2026-11-10T08:57:46.127064+00:00",
   "stats": {
     "total": 55,
     "relevant": 12,
     "critical": 3,
-    "new_this_run": 7,
+    "new_this_run": 1,
     "sources": 3
   }
 }
