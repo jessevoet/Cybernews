@@ -1,6 +1,126 @@
 {
   "items": [
     {
+      "title": "Can you still trust Proton?",
+      "url": "https://www.zdnet.com/tech/can-you-still-trust-proton/",
+      "summary": "The Swiss software company has built its reputation on a commitment to privacy. Did its CEO just destroy the trust of its customer base?",
+      "source": "ZDNet Security",
+      "published": "2026-11-10T16:45:54.844023+00:00",
+      "raw_score": 0.0,
+      "score": 21,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.38
+    },
+    {
+      "title": "How AI security failures are endangering your supply chain – and what you can do",
+      "url": "https://www.zdnet.com/tech/ai-security-failures-supply-chain-risks-black-kite-research/",
+      "summary": "New research provides a stark look at the AI supply chain and the risks it brings to businesses.",
+      "source": "ZDNet Security",
+      "published": "2026-11-10T16:45:54.843971+00:00",
+      "raw_score": 1.5900592474829975,
+      "score": 32,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.38
+    },
+    {
+      "title": "Ring’s new drone patrols your home to keep an eye on things – even upstairs",
+      "url": "https://www.zdnet.com/home-and-office/ring-drone-cam-rover-cam-security-robots/",
+      "summary": "Alongside the Ring Drone Cam, Ring introduced the Rover Cam for businesses. It investigates disturbances and streams 4K footage.",
+      "source": "ZDNet Security",
+      "published": "2026-11-10T16:45:54.843879+00:00",
+      "raw_score": 0.0,
+      "score": 21,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.38
+    },
+    {
+      "title": "5 apps I need Siri AI to work with now that it’s open to third-party developers",
+      "url": "https://www.zdnet.com/home-and-office/third-party-app-developers-siri-ai-integration/",
+      "summary": "With the latest betas for iOS and other platforms, Siri AI is now available to all developers for full integration into their apps. Here are the ones I hope will jump on board.",
+      "source": "ZDNet Security",
+      "published": "2026-11-10T16:45:54.843790+00:00",
+      "raw_score": 0.0,
+      "score": 21,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.38
+    },
+    {
+      "title": "Reddit launches AI-powered Reviews feature – with 10,000 products to start",
+      "url": "https://www.zdnet.com/innovation/reddit-reviews-feature/",
+      "summary": "Reddit is adding AI-generated product reviews that compile real user sentiment from across communities. Here’s how they work.",
+      "source": "ZDNet Security",
+      "published": "2026-11-10T16:45:54.843678+00:00",
+      "raw_score": 0.0,
+      "score": 21,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.38
+    },
+    {
+      "title": "Done with Debian Linux distros? Try Fedora next – 7 reasons why",
+      "url": "https://www.zdnet.com/linux/debian-fedora-linux-migration/",
+      "summary": "After using a Debian-based distribution, you may find yourself longing for something different. I know exactly what you should try next.",
+      "source": "ZDNet Security",
+      "published": "2026-11-10T16:45:54.843586+00:00",
+      "raw_score": 0.0,
+      "score": 21,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.38
+    },
+    {
+      "title": "Your FitBit Versa and Sense smartwatches will lose some features this month – what to know",
+      "url": "https://www.zdnet.com/tech/fitbit-versa-sense-smartwatches-third-party-apps/",
+      "summary": "Time’s running out for some Versa and Sense models. After Nov. 28, you can no longer install or update third-party apps or clockfaces on these Google smartwatches.",
+      "source": "ZDNet Security",
+      "published": "2026-11-10T16:45:54.843480+00:00",
+      "raw_score": 0.0,
+      "score": 21,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.38
+    },
+    {
+      "title": "New OpenSSH Vulnerability",
+      "url": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
+      "summary": "<p>It&#8217;s a <a href=\"https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/\">bad one</a>, and it&#8217;s been in the code for a decade:</p>\n<blockquote><p>A newly disclosed flaw involving OpenSSH and musl, dubbed &#8220;*sshole,&#8221; allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts configured to block password authentication simply by entering an oversized password.</p></blockquote>\n<p>&#82",
+      "source": "Schneier on Security",
+      "published": "2026-11-10T16:45:42.166985+00:00",
+      "raw_score": 5.566103260885702,
+      "score": 59,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.38
+    },
+    {
       "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
       "url": "https://projectzero.google/2026/09/windows-dangling-com.html",
       "summary": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed “Dark Elevator” by Calif. The root cause of the bug was a dangling COM object registration for the CrossDevice COM object with the CLSID {E9F83CF2-E0C0-4CA7-AF01-E90C70BEF496}. A COM registration typically needs two parts: a server executable, which for in-process components is a ",
@@ -829,12 +949,12 @@
       "threshold": 9.64
     }
   ],
-  "updated": "2026-11-10T08:57:46.127064+00:00",
+  "updated": "2026-11-10T16:45:56.534975+00:00",
   "stats": {
-    "total": 55,
-    "relevant": 12,
+    "total": 63,
+    "relevant": 13,
     "critical": 3,
-    "new_this_run": 1,
+    "new_this_run": 8,
     "sources": 3
   }
 }
