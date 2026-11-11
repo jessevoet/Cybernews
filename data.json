@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+      "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+      "summary": "Summary Project Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. Fuzzilli is a generative JavaScript engine fuzzer and BigSleep is an LLM-based bug finding system. In the past six months, BigSleep found more vulnerabilities than Fuzzilli (45 versus 37) with a 25% overlap in the specific bugs reported. Since this comparison methodology has a tendency to underestimate overlap, we also performed dedicated experiments to ",
+      "source": "Google Project Zero",
+      "published": "2026-11-11T02:23:08.265801+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.62
+    },
+    {
       "title": "Google’s new AI tool just proved Signal encryption really works – here’s how",
       "url": "https://www.zdnet.com/tech/google-deepmind-researchers-prove-signal-whatsapp-encryption-works/",
       "summary": "With the aim of securing other vital systems, Google DeepMind plans to open-source its AlphaProof Code.",
@@ -843,59 +858,14 @@
         "Advisory"
       ],
       "threshold": 9.64
-    },
-    {
-      "title": "Your Apple Watch has 2 new controversial listening features – but you have to opt in",
-      "url": "https://www.zdnet.com/tech/apple-watch-siri-recap-live-rewind-available-beta-how-to-try/",
-      "summary": "Siri Recap and Live Rewind are finally here, two months after Apple unveiled the always-listening Apple Watch features. Here’s how they work.",
-      "source": "ZDNet Security",
-      "published": "2026-11-03T23:47:26.148965+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.64
-    },
-    {
-      "title": "Want an iPhone Duo for the holidays? Apple’s latest stock update isn’t reassuring",
-      "url": "https://www.zdnet.com/tech/apple-foldable-iphone-duo-stock-shortage/",
-      "summary": "The iPhone Duo likely won’t make it into Santa’s sleigh this year. Here’s what Apple had to say about it.",
-      "source": "ZDNet Security",
-      "published": "2026-11-03T23:47:26.148764+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.64
-    },
-    {
-      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
-      "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
-      "summary": "Summary Project Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. Fuzzilli is a generative JavaScript engine fuzzer and BigSleep is an LLM-based bug finding system. In the past six months, BigSleep found more vulnerabilities than Fuzzilli (45 versus 37) with a 25% overlap in the specific bugs reported. Since this comparison methodology has a tendency to underestimate overlap, we also performed dedicated experiments to ",
-      "source": "Google Project Zero",
-      "published": "2026-11-03T23:47:20.564591+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.64
     }
   ],
-  "updated": "2026-11-10T22:03:08.276537+00:00",
+  "updated": "2026-11-11T02:23:16.357920+00:00",
   "stats": {
-    "total": 59,
+    "total": 57,
     "relevant": 14,
     "critical": 4,
-    "new_this_run": 7,
+    "new_this_run": 1,
     "sources": 3
   }
 }
