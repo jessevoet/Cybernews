@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "Over Ubuntu? Fedora is the Linux distro I’d hop to next – here’s why",
+      "url": "https://www.zdnet.com/linux/ubuntu-fedora-migration-linux-distro-hopping/",
+      "summary": "If you’re an Ubuntu user considering a leap to Fedora, but you’re hesitating, I explain why you should go ahead and just do it.",
+      "source": "ZDNet Security",
+      "published": "2026-11-11T18:12:05.553181+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.59
+    },
+    {
+      "title": "Claude can collaborate in your team meetings soon – like an intern",
+      "url": "https://www.zdnet.com/innovation/claude-meetings-workplace-features/",
+      "summary": "Claude is responding ‘Yes’ to that calendar invite – with some limitations. Plus: Anthropic launches two more new features that are available now.",
+      "source": "ZDNet Security",
+      "published": "2026-11-11T18:12:05.553029+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.59
+    },
+    {
+      "title": "Pixel users are getting a major Android Auto update – and it rivals Siri AI",
+      "url": "https://www.zdnet.com/tech/android-auto-gemini-intelligence-update/",
+      "summary": "More phones are getting Gemini Intelligence, but only Pixel users can access it in a new way.",
+      "source": "ZDNet Security",
+      "published": "2026-11-11T18:12:05.552855+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.59
+    },
+    {
+      "title": "Testing race conditions with memory access tracing and stack-based delay injection",
+      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+      "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static analysis. Regression tests: After fixing a race condition bug, there is often no good way to write a regression test that reliably triggers the bug as part of a test suite. Automatic bug discovery, such as fuzzing: It is hard for",
+      "source": "Google Project Zero",
+      "published": "2026-11-11T18:12:00.622706+00:00",
+      "raw_score": 1.5541416604483076,
+      "score": 36,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.59
+    },
+    {
+      "title": "Three People Arrested for AI-Enhanced Impersonation Fraud",
+      "url": "https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html",
+      "summary": "<p>It&#8217;s hard to believe how lucrative <a href=\"https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft\">this crime</a> can be:</p>\n<blockquote><p>According to a <a href=\"https://www.justice.gov/usao-sdny/pr/three-foreign-nationals-arrested-and-charged-scheme-use-super-intelligence-defraud#ref-ftn1\">press release</a> from the United States attorney’s office for the southern district of New York, three men ­ Jacob Soall, Sharon Hazan, and Guy Sheetrit ­ were arrested for u",
+      "source": "Schneier on Security",
+      "published": "2026-11-11T18:11:53.894386+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Law Enforcement"
+      ],
+      "threshold": 8.59
+    },
+    {
       "title": "How to fix a bug in a fix",
       "url": "https://projectzero.google/2026/10/emergency-patching.html",
       "summary": "Project Zero often works with software vendors to remediate the vulnerabilities we report and provide broader guidance on making software more secure. Some vendors express concern about potential scenarios in which they are unable to fix vulnerabilities that are causing immediate user harm, due to limitations in their patch delivery systems. Since Project Zero encounters a wide array of systems designed to protect users in the case of exceptional exploitation scenarios, both through vendor discu",
@@ -843,29 +918,14 @@
         "General"
       ],
       "threshold": 7.56
-    },
-    {
-      "title": "Testing race conditions with memory access tracing and stack-based delay injection",
-      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
-      "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static analysis. Regression tests: After fixing a race condition bug, there is often no good way to write a regression test that reliably triggers the bug as part of a test suite. Automatic bug discovery, such as fuzzing: It is hard for",
-      "source": "Google Project Zero",
-      "published": "2026-11-04T11:45:12.754467+00:00",
-      "raw_score": 1.5541416604483076,
-      "score": 35,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 9.64
     }
   ],
-  "updated": "2026-11-11T10:01:07.228204+00:00",
+  "updated": "2026-11-11T18:12:06.930761+00:00",
   "stats": {
-    "total": 57,
+    "total": 61,
     "relevant": 14,
     "critical": 4,
-    "new_this_run": 1,
+    "new_this_run": 5,
     "sources": 3
   }
 }
