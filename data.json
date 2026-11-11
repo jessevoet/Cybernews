@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "How to fix a bug in a fix",
+      "url": "https://projectzero.google/2026/10/emergency-patching.html",
+      "summary": "Project Zero often works with software vendors to remediate the vulnerabilities we report and provide broader guidance on making software more secure. Some vendors express concern about potential scenarios in which they are unable to fix vulnerabilities that are causing immediate user harm, due to limitations in their patch delivery systems. Since Project Zero encounters a wide array of systems designed to protect users in the case of exceptional exploitation scenarios, both through vendor discu",
+      "source": "Google Project Zero",
+      "published": "2026-11-11T10:01:01.237679+00:00",
+      "raw_score": 3.2734223403067078,
+      "score": 44,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 8.62
+    },
+    {
       "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
       "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
       "summary": "Summary Project Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. Fuzzilli is a generative JavaScript engine fuzzer and BigSleep is an LLM-based bug finding system. In the past six months, BigSleep found more vulnerabilities than Fuzzilli (45 versus 37) with a 25% overlap in the specific bugs reported. Since this comparison methodology has a tendency to underestimate overlap, we also performed dedicated experiments to ",
@@ -842,25 +858,9 @@
         "General"
       ],
       "threshold": 9.64
-    },
-    {
-      "title": "How to fix a bug in a fix",
-      "url": "https://projectzero.google/2026/10/emergency-patching.html",
-      "summary": "Project Zero often works with software vendors to remediate the vulnerabilities we report and provide broader guidance on making software more secure. Some vendors express concern about potential scenarios in which they are unable to fix vulnerabilities that are causing immediate user harm, due to limitations in their patch delivery systems. Since Project Zero encounters a wide array of systems designed to protect users in the case of exceptional exploitation scenarios, both through vendor discu",
-      "source": "Google Project Zero",
-      "published": "2026-11-04T03:55:37.829260+00:00",
-      "raw_score": 3.2734223403067078,
-      "score": 43,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 9.64
     }
   ],
-  "updated": "2026-11-11T02:23:16.357920+00:00",
+  "updated": "2026-11-11T10:01:07.228204+00:00",
   "stats": {
     "total": 57,
     "relevant": 14,
