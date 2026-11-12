@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "If the November Windows update fails to install on your PC, here’s what to do",
+      "url": "https://www.zdnet.com/tech/microsoft-windows-november-update-fails-install-some-pcs/",
+      "summary": "This month’s security update is failing on some systems already running the preview update released in October. But there is a fix afoot.",
+      "source": "ZDNet Security",
+      "published": "2026-11-12T17:20:07.825724+00:00",
+      "raw_score": 1.809783761253121,
+      "score": 38,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.46
+    },
+    {
+      "title": "Fitbit users can’t see Google Health metrics after update – how to fix it",
+      "url": "https://www.zdnet.com/tech/fitbit-health-metrics-missing-software-update-how-to-fix/",
+      "summary": "Google says it’s working on a fix – meantime, users have found workarounds.",
+      "source": "ZDNet Security",
+      "published": "2026-11-12T17:20:07.825540+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "ICS / OT"
+      ],
+      "threshold": 8.46
+    },
+    {
+      "title": "Another Way Police Are Locating People from Their Smartphones",
+      "url": "https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html",
+      "summary": "<p>Penlink&#8217;s Webloc is an application that <a href=\"https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzg4OTgyNSwiZXhwIjoxNzk0NDk0NjI1LCJhcnRpY2xlSWQiOiJUTzEyT0pUM0JaTUwwMCIsImJjb25uZWN0SWQiOiJCRkMyNTg1RUFENTA0RTM2OUU3MzBBNTBCNkVGRTk5RSJ9.uWvJBwAKCyQsXzSli3He-XStaEQCVyprRIKmrsheWZs&#38;utm_source=substack&#38;utm_medium=email&#38;leadSource=article-gift",
+      "source": "Schneier on Security",
+      "published": "2026-11-12T17:19:54.688445+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 8.46
+    },
+    {
       "title": "Oura Ring users may get in-app access to real doctors soon – what we know",
       "url": "https://www.zdnet.com/tech/oura-ring-users-may-get-in-app-access-to-real-doctors-soon-what-we-know/",
       "summary": "Oura’s acquisition of Counsel Health could signal a new dawn for digital care.",
@@ -875,12 +920,12 @@
       "threshold": 7.67
     }
   ],
-  "updated": "2026-11-12T08:57:50.524065+00:00",
+  "updated": "2026-11-12T17:20:09.087578+00:00",
   "stats": {
-    "total": 58,
-    "relevant": 13,
-    "critical": 4,
-    "new_this_run": 0,
+    "total": 61,
+    "relevant": 14,
+    "critical": 5,
+    "new_this_run": 3,
     "sources": 3
   }
 }
