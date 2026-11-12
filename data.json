@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "title": "Google’s Pixel Tag tracker won’t work as well on older Android phones – check our list",
+      "url": "https://www.zdnet.com/tech/google-pixel-tag-android-tracker-bluetooth-6-0-older-phones/",
+      "summary": "Several of the tracker’s best features require Bluetooth 6.0-compatible device.",
+      "source": "ZDNet Security",
+      "published": "2026-11-12T22:58:26.942129+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.46
+    },
+    {
+      "title": "Google Wallet just turned your Android phone into a digital house key – how it works",
+      "url": "https://www.zdnet.com/home-and-office/google-wallet-digital-home-keys-smart-locks/",
+      "summary": "Google is moving digital keys out of individual smart lock apps and into the Google Wallet.",
+      "source": "ZDNet Security",
+      "published": "2026-11-12T22:58:26.941983+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.46
+    },
+    {
+      "title": "You can force Gemini to forget about you now – how to edit its Memory",
+      "url": "https://www.zdnet.com/innovation/google-gemini-memory-summary-user-control/",
+      "summary": "A new option called Memory summary lets you see and control the things that Gemini AI knows about you.",
+      "source": "ZDNet Security",
+      "published": "2026-11-12T22:58:26.941827+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 8.46
+    },
+    {
+      "title": "Attention, Android power users: This app unlocks 30+ features you won’t find in Settings",
+      "url": "https://www.zdnet.com/uncategorized/essentials-android-app-power-user-settings/",
+      "summary": "Is Android Settings not delivering enough power? The Essentials app features 30+ mods and tweaks – but you won’t find it in the Play Store",
+      "source": "ZDNet Security",
+      "published": "2026-11-12T22:58:26.941693+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.46
+    },
+    {
+      "title": "Roku drops smart home products to focus on streaming – what that means for your devices",
+      "url": "https://www.zdnet.com/home-and-office/roku-discontinues-smart-home-products/",
+      "summary": "Roku is winding down its smart home business following its sale to Fox. Here’s what to know.",
+      "source": "ZDNet Security",
+      "published": "2026-11-12T22:58:26.941536+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.46
+    },
+    {
+      "title": "Several Microsoft services appear to be down – what we know",
+      "url": "https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot/",
+      "summary": "Reports of the outage are beginning to drop as Microsoft restarts affected servers.",
+      "source": "ZDNet Security",
+      "published": "2026-11-12T22:58:26.941373+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.46
+    },
+    {
       "title": "If the November Windows update fails to install on your PC, here’s what to do",
       "url": "https://www.zdnet.com/tech/microsoft-windows-november-update-fails-install-some-pcs/",
       "summary": "This month’s security update is failing on some systems already running the preview update released in October. But there is a fix afoot.",
@@ -827,105 +917,14 @@
         "General"
       ],
       "threshold": 7.42
-    },
-    {
-      "title": "The Siri AI waitlist is gone in iOS 27: How to try the beta today",
-      "url": "https://www.zdnet.com/business/siri-ai-beta-waitlist-ends-ios-27/",
-      "summary": "The wait is over for trying Siri AI on iOS 27. Here’s what you need to know to get started.",
-      "source": "ZDNet Security",
-      "published": "2026-11-05T21:42:33.891000+00:00",
-      "raw_score": 0.0,
-      "score": 20,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.67
-    },
-    {
-      "title": "3 ways Bluetooth 7 upgrades your devices beyond lossless audio",
-      "url": "https://www.zdnet.com/tech/bluetooth-7-features-headphones-smart-home-lossless-audio/",
-      "summary": "Bluetooth 7 could make your smart home devices easier to set up, for one. Here’s what we know about the new core specification.",
-      "source": "ZDNet Security",
-      "published": "2026-11-05T21:42:33.890848+00:00",
-      "raw_score": 0.0,
-      "score": 20,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.67
-    },
-    {
-      "title": "Claude’s new Personal Finance tool aims to help analyze your spending – read-only, of course",
-      "url": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/",
-      "summary": "Anthropic has released what appears to be its answer to ChatGPT Finances.",
-      "source": "ZDNet Security",
-      "published": "2026-11-05T21:42:33.890680+00:00",
-      "raw_score": 0.0,
-      "score": 20,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.67
-    },
-    {
-      "title": "6 default Pixel 11 settings I changed that made a big difference – and why",
-      "url": "https://www.zdnet.com/tech/pixel-11-settings-to-change/",
-      "summary": "If you’re a new Pixel 11 user, here are six things I recommend changing right away to get the most from your phone.",
-      "source": "ZDNet Security",
-      "published": "2026-11-05T21:42:33.890500+00:00",
-      "raw_score": 0.0,
-      "score": 20,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.67
-    },
-    {
-      "title": "HR thinks you can learn AI skills – so why is your company hiring elsewhere?",
-      "url": "https://www.zdnet.com/innovation/ai-hiring-vs-reskilling-careerminds-research/",
-      "summary": "Over 90% of HR professionals say they believe employees can learn AI roles – but half of companies still hire outside for those positions, according to a new report.",
-      "source": "ZDNet Security",
-      "published": "2026-11-05T21:42:33.890304+00:00",
-      "raw_score": 0.0,
-      "score": 20,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.67
-    },
-    {
-      "title": "New Serious PHP Vulnerabilities Released and Patched",
-      "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
-      "summary": "<p>PHP maintainers have <a href=\"https://www.php.net/archive/2026.php#2026-10-20-1\">released</a> fixes for two critical vulnerabilities:</p>\n<blockquote><p>PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. </p>\n<p>Who is at risk: all PHP installations serving web requests, including PHP-FPM, Apache with mod_php, php-cgi, FrankenPHP and LiteSpeed. We consider the",
-      "source": "Schneier on Security",
-      "published": "2026-11-05T21:42:23.620104+00:00",
-      "raw_score": 7.262310390034352,
-      "score": 69,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 7.67
     }
   ],
-  "updated": "2026-11-12T17:20:09.087578+00:00",
+  "updated": "2026-11-12T22:58:28.125624+00:00",
   "stats": {
     "total": 61,
     "relevant": 14,
     "critical": 5,
-    "new_this_run": 3,
+    "new_this_run": 6,
     "sources": 3
   }
 }
