@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "Oura Ring users may get in-app access to real doctors soon – what we know",
+      "url": "https://www.zdnet.com/tech/oura-ring-users-may-get-in-app-access-to-real-doctors-soon-what-we-know/",
+      "summary": "Oura’s acquisition of Counsel Health could signal a new dawn for digital care.",
+      "source": "ZDNet Security",
+      "published": "2026-11-12T01:09:22.673765+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.59
+    },
+    {
+      "title": "Google Fi now switches between the best mobile networks automatically – how it works",
+      "url": "https://www.zdnet.com/home-and-office/google-fi-super-network-pixel/",
+      "summary": "Pixel users also get a bonus Wi-Fi upgrade. Here’s what to know.",
+      "source": "ZDNet Security",
+      "published": "2026-11-12T01:09:22.673656+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.59
+    },
+    {
+      "title": "This tiny box gives your older tech smart home superpowers – and it’s only $69",
+      "url": "https://www.zdnet.com/home-and-office/home-assistant-connect-aux-2-hardware-older-tech-smart/",
+      "summary": "Home Assistant gets new equipment to battle planned obsolescence and abandoned cloud services.",
+      "source": "ZDNet Security",
+      "published": "2026-11-12T01:09:22.673529+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.59
+    },
+    {
+      "title": "Studying Fraudulent North Korean IT Workers",
+      "url": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
+      "summary": "<p>Researchers set up a fake start-up company to <a href=\"https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html \">study</a> fraudulent North Korean IT workers.</p>",
+      "source": "Schneier on Security",
+      "published": "2026-11-12T01:09:10.357594+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.59
+    },
+    {
       "title": "Over Ubuntu? Fedora is the Linux distro I’d hop to next – here’s why",
       "url": "https://www.zdnet.com/linux/ubuntu-fedora-migration-linux-distro-hopping/",
       "summary": "If you’re an Ubuntu user considering a leap to Fedora, but you’re hesitating, I explain why you should go ahead and just do it.",
@@ -828,104 +888,14 @@
         "General"
       ],
       "threshold": 7.57
-    },
-    {
-      "title": "Is Chrome’s settings menu getting a search bar? What we know",
-      "url": "https://www.zdnet.com/business/google-tests-new-chrome-search-menu-feature/",
-      "summary": "Chrome might receive a much-needed addition.",
-      "source": "ZDNet Security",
-      "published": "2026-11-05T00:38:11.868432+00:00",
-      "raw_score": 0.0,
-      "score": 21,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.57
-    },
-    {
-      "title": "Can Netflix’s new AI tool stop your TV-streaming doomscrolling? How to try it",
-      "url": "https://www.zdnet.com/home-and-office/netflix-ai-tool-discover-feature/",
-      "summary": "Netflix is adding a new Discover feature, which recommends tailored streaming selections. Here’s how it works.",
-      "source": "ZDNet Security",
-      "published": "2026-11-04T19:04:15.385383+00:00",
-      "raw_score": 0.0,
-      "score": 21,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.56
-    },
-    {
-      "title": "Safari finally gets 3 popular browser features – and I can’t wait to try them",
-      "url": "https://www.zdnet.com/tech/safari-os-27-3-developer-beta-features/",
-      "summary": "New developer beta release notes point to deeper Siri AI integration and more Safari customization.",
-      "source": "ZDNet Security",
-      "published": "2026-11-04T19:04:15.385227+00:00",
-      "raw_score": 0.0,
-      "score": 21,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.56
-    },
-    {
-      "title": "Want an AI job? Deployment engineers are earning executive-level pay – up to $1.45M a year",
-      "url": "https://www.zdnet.com/innovation/ai-deployment-engineers-salary-christian-timbers-report/",
-      "summary": "AI has ushered in new jobs, and some of them are paying handsomely, according to a new study.",
-      "source": "ZDNet Security",
-      "published": "2026-11-04T19:04:15.385064+00:00",
-      "raw_score": 0.0,
-      "score": 21,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.56
-    },
-    {
-      "title": "Researchers asked people to use AI chatbots for election info – results were mixed",
-      "url": "https://www.zdnet.com/innovation/ai-users-ask-chatbots-voting-advice-elections-yale-research/",
-      "summary": "Chatbots can skew election-related information and act as an intervening layer in a voter’s search, Yale researchers find.",
-      "source": "ZDNet Security",
-      "published": "2026-11-04T19:04:15.384845+00:00",
-      "raw_score": 5.587117631411713,
-      "score": 59,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.56
-    },
-    {
-      "title": "Studying Fraudulent North Korean IT Workers",
-      "url": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
-      "summary": "<p>Researchers set up a fake start-up company to <a href=\"https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html \">study</a> fraudulent North Korean IT workers.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-11-04T19:04:01.907287+00:00",
-      "raw_score": 0.0,
-      "score": 21,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.56
     }
   ],
-  "updated": "2026-11-11T18:12:06.930761+00:00",
+  "updated": "2026-11-12T01:09:23.936487+00:00",
   "stats": {
-    "total": 61,
-    "relevant": 14,
+    "total": 59,
+    "relevant": 13,
     "critical": 4,
-    "new_this_run": 5,
+    "new_this_run": 4,
     "sources": 3
   }
 }
