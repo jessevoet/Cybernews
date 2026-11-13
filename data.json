@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "title": "Policy and Disclosure: 2026 Edition",
+      "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+      "summary": "Since 2021, Project Zero has followed a “90 + 30” vulnerability disclosure policy, allowing vendors up to 90 days to remediate a vulnerability plus an extra 30 days “soak time” for patch rollout. Our goal was to encourage faster patching and give vendors time to deliver patches to users. The advent of AI-assisted vulnerability discovery and exploitation has changed the threat landscape such that the vulnerability remediation timeline encouraged by our disclosure policy is clearly insufficient. L",
+      "source": "Google Project Zero",
+      "published": "2026-11-13T18:58:10.738208+00:00",
+      "raw_score": 6.695348570345186,
+      "score": 62,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 8.65
+    },
+    {
+      "title": "Pinpointing Location of Videos from Background Airplane Sounds",
+      "url": "https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html",
+      "summary": "<p>This is <a href=\"https://gizmodo.com/a-youtuber-figured-out-how-to-find-almost-anyone-using-airplane-sounds-2000835861\">fascinating</a>:</p>\n<blockquote><p>The video describes a technique that can reveal where an otherwise unidentifiable recording was made by analyzing its audio for the faint sounds of passing aircraft. The technique is both fascinating and frightening.</p>\n<p>It works by looking at Doppler curves, which plot the way a plane’s sound changes as it passes overhead because of th",
+      "source": "Schneier on Security",
+      "published": "2026-11-13T18:58:02.872827+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.65
+    },
+    {
+      "title": "AI Doesn’t Have to Go Rogue to Break the World",
+      "url": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html",
+      "summary": "<p><em>This essay is adapted from <a href=\"https://www.youtube.com/watch?v=eEBv0STiYhI\">a keynote speech</a> delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in <a href=\"https://www.schneier.com/essays/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html\">CyberScoop</a>.</em></p>\n<p>I want to talk about AI hacking. There are three aspects: people hacking AI systems, people using AI to hack other systems, and AIs hacking systems o",
+      "source": "Schneier on Security",
+      "published": "2026-11-13T18:58:02.871993+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "APT / Nation State"
+      ],
+      "threshold": 8.65
+    },
+    {
       "title": "Google’s Pixel Tag tracker won’t work as well on older Android phones – check our list",
       "url": "https://www.zdnet.com/tech/google-pixel-tag-android-tracker-bluetooth-6-0-older-phones/",
       "summary": "Several of the tracker’s best features require Bluetooth 6.0-compatible device.",
@@ -902,29 +948,14 @@
         "General"
       ],
       "threshold": 7.42
-    },
-    {
-      "title": "Pinpointing Location of Videos from Background Airplane Sounds",
-      "url": "https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html",
-      "summary": "<p>This is <a href=\"https://gizmodo.com/a-youtuber-figured-out-how-to-find-almost-anyone-using-airplane-sounds-2000835861\">fascinating</a>:</p>\n<blockquote><p>The video describes a technique that can reveal where an otherwise unidentifiable recording was made by analyzing its audio for the faint sounds of passing aircraft. The technique is both fascinating and frightening.</p>\n<p>It works by looking at Doppler curves, which plot the way a plane’s sound changes as it passes overhead because of th",
-      "source": "Schneier on Security",
-      "published": "2026-11-06T16:29:00.255971+00:00",
-      "raw_score": 0.0,
-      "score": 20,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.42
     }
   ],
-  "updated": "2026-11-13T11:42:30.967782+00:00",
+  "updated": "2026-11-13T18:58:18.048648+00:00",
   "stats": {
-    "total": 61,
-    "relevant": 14,
+    "total": 63,
+    "relevant": 15,
     "critical": 5,
-    "new_this_run": 0,
+    "new_this_run": 3,
     "sources": 3
   }
 }
