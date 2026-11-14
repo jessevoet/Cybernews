@@ -1,6 +1,37 @@
 {
   "items": [
     {
+      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
+      "source": "Google Project Zero",
+      "published": "2026-11-14T00:05:17.205166+00:00",
+      "raw_score": 7.092005476157869,
+      "score": 64,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 8.65
+    },
+    {
+      "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
+      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
+      "summary": "<p>Climate change is the <a href=\"https://news.mongabay.com/2026/11/south-koreas-beloved-squid-may-vanish-from-its-waters-due-to-climate-change-heat-waves/\">issue</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
+      "source": "Schneier on Security",
+      "published": "2026-11-14T00:05:12.090168+00:00",
+      "raw_score": 1.66621918403833,
+      "score": 37,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.65
+    },
+    {
       "title": "Policy and Disclosure: 2026 Edition",
       "url": "https://projectzero.google/2026/11/disclosure-policy.html",
       "summary": "Since 2021, Project Zero has followed a “90 + 30” vulnerability disclosure policy, allowing vendors up to 90 days to remediate a vulnerability plus an extra 30 days “soak time” for patch rollout. Our goal was to encourage faster patching and give vendors time to deliver patches to users. The advent of AI-assisted vulnerability discovery and exploitation has changed the threat landscape such that the vulnerability remediation timeline encouraged by our disclosure policy is clearly insufficient. L",
@@ -842,120 +873,14 @@
         "General"
       ],
       "threshold": 7.5
-    },
-    {
-      "title": "Apple will monitor your public iCloud links now, starting with iOS 27.3",
-      "url": "https://www.zdnet.com/innovation/apple-monitor-public-icloud-links-27-3-harmful-content/",
-      "summary": "Under Apple’s new policy, the company will scan publicly shared iCloud links for harmful content – and possibly ban violators.",
-      "source": "ZDNet Security",
-      "published": "2026-11-06T21:52:31.254416+00:00",
-      "raw_score": 0.0,
-      "score": 20,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.42
-    },
-    {
-      "title": "Thinking Machines’ new model takes the lead in western open-weight AI",
-      "url": "https://www.zdnet.com/innovation/thinking-machines-inkling-2-small-open-weight/",
-      "summary": "Another competitive model developed outside of China could change the open-weight landscape.",
-      "source": "ZDNet Security",
-      "published": "2026-11-06T21:52:31.254266+00:00",
-      "raw_score": 0.0,
-      "score": 20,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.42
-    },
-    {
-      "title": "Android is getting my favorite iOS tracking feature – what to expect",
-      "url": "https://www.zdnet.com/tech/android-find-hub-left-behind-upgrade/",
-      "summary": "‘Notify when left behind’ is making its way to Android – but to limited devices for now.",
-      "source": "ZDNet Security",
-      "published": "2026-11-06T21:52:31.254134+00:00",
-      "raw_score": 0.0,
-      "score": 20,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.42
-    },
-    {
-      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
-      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
-      "source": "Google Project Zero",
-      "published": "2026-11-06T21:52:25.481979+00:00",
-      "raw_score": 7.092005476157869,
-      "score": 70,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 7.42
-    },
-    {
-      "title": "Compromised TLS Certificates",
-      "url": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
-      "summary": "<p>The Indian CA eMudhra Limited has eight TLS certificates with <a href=\"https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/\">laughably weak private keys</a>:</p>\n<blockquote><p>The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve cryptography private key contains roughly 384 bits of entropy, a size al",
-      "source": "Schneier on Security",
-      "published": "2026-11-06T21:52:19.485787+00:00",
-      "raw_score": 1.754802988759355,
-      "score": 32,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.42
-    },
-    {
-      "title": "Bloatware in Aftermarket Auto Parts",
-      "url": "https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html",
-      "summary": "<p>This <a href=\"https://www.thedrive.com/news/cheap-aftermarket-head-units-are-loaded-with-spyware-by-the-way\">story</a> is interesting:</p>\n<blockquote><p>One Civic owner purchased a cheap aftermarket head unit off Amazon, and decided to have Claude work its magic on it, like it would a smart TV. What was reportedly discovered isn’t surprising, but is worth knowing about.</p>\n<p>Among the pre-installed bloatware&#8212;­or spyware, if you’re being less charitable­&#8212;was a voice assistant eq",
-      "source": "Schneier on Security",
-      "published": "2026-11-06T21:52:19.485208+00:00",
-      "raw_score": 6.713289884357823,
-      "score": 67,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Malware"
-      ],
-      "threshold": 7.42
-    },
-    {
-      "title": "Friday Squid Blogging: Bigfin Squid Off California Coast",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html",
-      "summary": "<p>Neat <a href=\"https://www.smithsonianmag.com/smart-news/watch-an-elusive-and-ethereal-bigfin-squid-float-above-the-seafloor-off-central-california-180989491/\">video</a>:</p>\n<blockquote><p>The sighting, announced September 2, marks the first time anyone has spotted a live bigfin squid, which belongs to the <i>Magnapinna</i> genus, in the northeastern Pacific Ocean.</p></blockquote>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;",
-      "source": "Schneier on Security",
-      "published": "2026-11-06T21:52:19.485015+00:00",
-      "raw_score": 1.6722489277682635,
-      "score": 32,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.42
     }
   ],
-  "updated": "2026-11-13T18:58:18.048648+00:00",
+  "updated": "2026-11-14T00:05:25.553195+00:00",
   "stats": {
-    "total": 63,
-    "relevant": 15,
+    "total": 58,
+    "relevant": 14,
     "critical": 5,
-    "new_this_run": 3,
+    "new_this_run": 2,
     "sources": 3
   }
 }
