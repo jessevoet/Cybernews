@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "‘We need more reviewers’: Finding Linux bugs is easy now – fixing them is another story",
+      "url": "https://www.zdnet.com/innovation/ai-bug-reports-linux-windows/",
+      "summary": "Some Linux maintainers are quitting under the crushing strain of AI bug reports, while others see signs for hope.",
+      "source": "ZDNet Security",
+      "published": "2026-11-14T07:11:13.716796+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.85
+    },
+    {
+      "title": "Friday Squid Blogging: New Jurassic Squid Predecessors",
+      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html",
+      "summary": "<p>News story: &#8220;<a href=\"https://www.sciencedaily.com/releases/2026/10/261019093434.htm\">Scientists discover a bizarre Jurassic &#8216;squid&#8217; unlike anything ever seen</a>.&#8221;</p>\n<blockquote><p>Scientists have identified the &#8220;fattest&#8221; belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming&#8217;s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unlike anything previously known, potentially a predat",
+      "source": "Schneier on Security",
+      "published": "2026-11-14T07:11:01.755793+00:00",
+      "raw_score": 0.0,
+      "score": 28,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.85
+    },
+    {
       "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
@@ -828,57 +858,12 @@
         "General"
       ],
       "threshold": 7.5
-    },
-    {
-      "title": "Alpine Linux and OpenSSH patch flaw that’s as bad as it can get",
-      "url": "https://www.zdnet.com/tech/alpine-linux-openssh-patch-flaw/",
-      "summary": "This dangerous Linux security hole must be patched as soon as possible.",
-      "source": "ZDNet Security",
-      "published": "2026-11-07T01:27:02.334406+00:00",
-      "raw_score": 5.165019690499813,
-      "score": 55,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Advisory"
-      ],
-      "threshold": 7.5
-    },
-    {
-      "title": "Friday Squid Blogging: Increasing Squid Populations",
-      "url": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
-      "summary": "<p>This <a href=\"https://www.sciencealert.com/squid-are-taking-over-the-ocean-and-not-for-the-reason-you-might-think\">article</a> in <i>Nature</i> argues that it&#8217;s due to an overfishing of predators and warming sea temperatures.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
-      "source": "Schneier on Security",
-      "published": "2026-11-07T01:26:51.999222+00:00",
-      "raw_score": 1.6722489277682635,
-      "score": 30,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.5
-    },
-    {
-      "title": "Friday Squid Blogging: New Jurassic Squid Predecessors",
-      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html",
-      "summary": "<p>News story: &#8220;<a href=\"https://www.sciencedaily.com/releases/2026/10/261019093434.htm\">Scientists discover a bizarre Jurassic &#8216;squid&#8217; unlike anything ever seen</a>.&#8221;</p>\n<blockquote><p>Scientists have identified the &#8220;fattest&#8221; belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming&#8217;s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unlike anything previously known, potentially a predat",
-      "source": "Schneier on Security",
-      "published": "2026-11-07T01:26:51.997785+00:00",
-      "raw_score": 0.0,
-      "score": 17,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.5
     }
   ],
-  "updated": "2026-11-14T00:05:25.553195+00:00",
+  "updated": "2026-11-14T07:11:14.989539+00:00",
   "stats": {
-    "total": 58,
-    "relevant": 14,
+    "total": 57,
+    "relevant": 13,
     "critical": 5,
     "new_this_run": 2,
     "sources": 3
