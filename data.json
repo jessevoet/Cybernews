@@ -1,6 +1,141 @@
 {
   "items": [
     {
+      "title": "AI finds zero-day flaws for just $4 now – even mediocre hackers can cash in",
+      "url": "https://www.zdnet.com/innovation/ai-finds-zero-day-security-flaws-for-cheap-hackers/",
+      "summary": "Rapidly advancing AI models are making it cheaper and easier to uncover critical vulnerabilities, but it’s a double-edged sword – and a gift to hackers.",
+      "source": "ZDNet Security",
+      "published": "2026-11-16T22:38:47.198728+00:00",
+      "raw_score": 7.8426519943552115,
+      "score": 66,
+      "is_relevant": true,
+      "critical": true,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 9.17
+    },
+    {
+      "title": "Your enterprise AI access can be sold for pennies – beware ‘LLM Mixers’",
+      "url": "https://www.zdnet.com/innovation/google-threat-intelligence-report-llmjacking-ai/",
+      "summary": "Underground brokers are selling access to hijacked enterprise AI accounts, with companies footing the usage bill, Google reports.",
+      "source": "ZDNet Security",
+      "published": "2026-11-16T22:38:47.198613+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.17
+    },
+    {
+      "title": "Lost or stolen Windows laptop? IT can lock it down without wiping it now",
+      "url": "https://www.zdnet.com/tech/microsoft-preview-remote-lock-intune-windows-devices/",
+      "summary": "The Intune-enabled feature will allow admins to remotely lock down any compromised Windows device.",
+      "source": "ZDNet Security",
+      "published": "2026-11-16T22:38:47.198504+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "APT / Nation State"
+      ],
+      "threshold": 9.17
+    },
+    {
+      "title": "4 new Google Maps features to try on your next holiday road trip",
+      "url": "https://www.zdnet.com/tech/google-ask-maps-new-features-holiday-travel/",
+      "summary": "Google’s Ask Maps features start rolling out today on Android and iOS. Here’s what they can do for you now.",
+      "source": "ZDNet Security",
+      "published": "2026-11-16T22:38:47.198325+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.17
+    },
+    {
+      "title": "Your Samsung phone could soon get a personal AI agent – what we know about Galaxy Claw",
+      "url": "https://www.zdnet.com/innovation/samsung-galaxy-claw-ai-cross-app-upgrade/",
+      "summary": "Similar to Gemini Intelligence and Siri AI, Galaxy Claw could bring cross-app intelligence to your phone.",
+      "source": "ZDNet Security",
+      "published": "2026-11-16T22:38:47.198203+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.17
+    },
+    {
+      "title": "iPhone Duo 2 prototypes suggest FaceID, Action Button, other potential 2027 features",
+      "url": "https://www.zdnet.com/tech/apple-iphone-duo-2-face-id-upgrades-2027/",
+      "summary": "With manufacturing deadlines looming, it’s unclear which of several feature upgrades may have to wait until the foldable’s third generation.",
+      "source": "ZDNet Security",
+      "published": "2026-11-16T22:38:47.198088+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.17
+    },
+    {
+      "title": "5 ways AI will change how you defend your business in 2027",
+      "url": "https://www.zdnet.com/innovation/google-cloud-ciso-perspectives-2027-ai-security-defenses/",
+      "summary": "Security leaders reveal the future consequences of AI outpacing human defenders.",
+      "source": "ZDNet Security",
+      "published": "2026-11-16T22:38:47.197963+00:00",
+      "raw_score": 2.0062147049491905,
+      "score": 38,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.17
+    },
+    {
+      "title": "Apple could build its AI health chatbot from this study – how to enroll",
+      "url": "https://www.zdnet.com/tech/apple-health-ai-usage-study-how-to-enroll/",
+      "summary": "Apple is leaning into AI-powered health tools with the launch of its Apple Health AI Usage Study.",
+      "source": "ZDNet Security",
+      "published": "2026-11-16T22:38:47.197871+00:00",
+      "raw_score": 0.0,
+      "score": 29,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 9.17
+    },
+    {
+      "title": "AI Security",
+      "url": "https://www.schneier.com/blog/archives/2026/11/ai-security.html",
+      "summary": "<p>Two weeks ago, I attended the <a href=\"https://unpromptedcon.org/\">[un]prompted</a> AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspects of AI security. (My talk was about integrous AI, and I will post it when it is online.)</p>\n<p>AI security can be divided into three broad topics. It&#8217;s important for researchers to understand which one they are working on. And it&#8217;s important for us as a community to work on them all.",
+      "source": "Schneier on Security",
+      "published": "2026-11-16T22:38:34.725747+00:00",
+      "raw_score": 1.0592810464948619,
+      "score": 34,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "ICS / OT"
+      ],
+      "threshold": 9.17
+    },
+    {
       "title": "Usable Security at Luxury Hotels",
       "url": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
       "summary": "<p>Interesting <a href=\"https://www.benthamsgaze.org/2026/11/11/phishing-at-the-front-desk-usable-security-in-luxury-hotels/\">case study</a> from luxury hotels. Attackers used a fake booking request to gain access to a reservations inbox, where they copied genuine refund requests and got fraudulent ones approved.</p>\n<p>This is a good illustration why &#8220;just don&#8217;t click on links&#8221; is bad advice. It can&#8217;t work when answering strangers&#8217; emails is the job. Even worse, in",
@@ -843,44 +978,14 @@
         "General"
       ],
       "threshold": 7.52
-    },
-    {
-      "title": "Samsung mulls Galaxy AI usage limits and subscription tiers – what we know",
-      "url": "https://www.zdnet.com/innovation/samsung-galaxy-ai-paid-subscription/",
-      "summary": "Galaxy device owners who are heavy AI users would likely start paying for some features they’ve long enjoyed for free.",
-      "source": "ZDNet Security",
-      "published": "2026-11-09T17:58:31.501357+00:00",
-      "raw_score": 0.0,
-      "score": 18,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.54
-    },
-    {
-      "title": "AI Security",
-      "url": "https://www.schneier.com/blog/archives/2026/11/ai-security.html",
-      "summary": "<p>Two weeks ago, I attended the <a href=\"https://unpromptedcon.org/\">[un]prompted</a> AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspects of AI security. (My talk was about integrous AI, and I will post it when it is online.)</p>\n<p>AI security can be divided into three broad topics. It&#8217;s important for researchers to understand which one they are working on. And it&#8217;s important for us as a community to work on them all.",
-      "source": "Schneier on Security",
-      "published": "2026-11-09T17:58:21.452861+00:00",
-      "raw_score": 1.0592810464948619,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "ICS / OT"
-      ],
-      "threshold": 7.54
     }
   ],
-  "updated": "2026-11-16T12:16:00.603005+00:00",
+  "updated": "2026-11-16T22:38:48.496368+00:00",
   "stats": {
-    "total": 58,
-    "relevant": 13,
-    "critical": 5,
-    "new_this_run": 1,
+    "total": 65,
+    "relevant": 14,
+    "critical": 6,
+    "new_this_run": 9,
     "sources": 3
   }
 }
