@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "6 Chrome settings tweaks every power user needs to know",
+      "url": "https://www.zdnet.com/home-and-office/chrome-default-settings-to-change/",
+      "summary": "For improved privacy and security, fewer interruptions, and enhanced productivity, I highly recommend changing these default browser settings.",
+      "source": "ZDNet Security",
+      "published": "2026-11-17T04:52:34.751942+00:00",
+      "raw_score": 1.9975423070891798,
+      "score": 39,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 8.95
+    },
+    {
       "title": "AI finds zero-day flaws for just $4 now – even mediocre hackers can cash in",
       "url": "https://www.zdnet.com/innovation/ai-finds-zero-day-security-flaws-for-cheap-hackers/",
       "summary": "Rapidly advancing AI models are making it cheaper and easier to uncover critical vulnerabilities, but it’s a double-edged sword – and a gift to hackers.",
@@ -873,119 +888,14 @@
         "Vulnerability"
       ],
       "threshold": 7.52
-    },
-    {
-      "title": "Samsung’s new SmartTag 3 debuts with next-gen Bluetooth – and one big problem",
-      "url": "https://www.zdnet.com/tech/samsung-smart-tag-3-channel-sounding/",
-      "summary": "The Galaxy SmartTag 3 supports emerging Bluetooth tracking tech, but it’s not a match for Samsung’s OS exclusivity.",
-      "source": "ZDNet Security",
-      "published": "2026-11-10T01:12:17.019121+00:00",
-      "raw_score": 0.0,
-      "score": 20,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.52
-    },
-    {
-      "title": "Android Auto requires Android 11 or higher now – check your compatibility",
-      "url": "https://www.zdnet.com/tech/android-auto-new-requirements-android-11/",
-      "summary": "Android Auto’s minimum requirements have changed. Here’s what to know.",
-      "source": "ZDNet Security",
-      "published": "2026-11-10T01:12:17.018942+00:00",
-      "raw_score": 0.0,
-      "score": 20,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.52
-    },
-    {
-      "title": "Ready for a Siri AI agent? Apple under pressure to upgrade its assistant faster",
-      "url": "https://www.zdnet.com/home-and-office/apple-siri-ai-agentic-strategy/",
-      "summary": "Apple’s public-facing satisfaction with the Siri AI launch obscures internal pressures and tensions.",
-      "source": "ZDNet Security",
-      "published": "2026-11-10T01:12:17.018808+00:00",
-      "raw_score": 0.0,
-      "score": 20,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.52
-    },
-    {
-      "title": "AMD confirms GPU driver bug is wearing out your SSD – how to stop it",
-      "url": "https://www.zdnet.com/tech/amd-confirms-gpu-driver-bug-is-wearing-out-your-ssd-how-to-stop-it/",
-      "summary": "AMD has admitted a bug within its External Events Utility is wearing out SSDs, and promises a fix.",
-      "source": "ZDNet Security",
-      "published": "2026-11-10T01:12:17.018652+00:00",
-      "raw_score": 0.0,
-      "score": 20,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.52
-    },
-    {
-      "title": "You can change Windows settings directly from a search now – how to try it",
-      "url": "https://www.zdnet.com/tech/windows-11-control-settings-from-search-insiders-preview/",
-      "summary": "The latest Windows 11 Insiders Preview enhances the Search feature so that you can access specific settings right from a search window.",
-      "source": "ZDNet Security",
-      "published": "2026-11-10T01:12:17.018496+00:00",
-      "raw_score": 0.0,
-      "score": 20,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.52
-    },
-    {
-      "title": "Bias in Qwen3-Coder Model",
-      "url": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
-      "summary": "<p>Interesting <a href=\"https://www.hirundo.io/blog/qwen3-coder-vulnerabilities\">research</a>:</p>\n<blockquote><p>TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model&#8217;s weights, and that removing the model&#8217;s CCP alignment removes it.</p>\n<ul>\n<li>One word tilts the code against Americans. As",
-      "source": "Schneier on Security",
-      "published": "2026-11-10T01:12:06.238444+00:00",
-      "raw_score": 5.7900122481141025,
-      "score": 60,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.52
-    },
-    {
-      "title": "AI Vulnerability Finding",
-      "url": "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html",
-      "summary": "<p>A <a href=\"https://x.com/NickADobos/status/2113430301183823901\">comment</a>:</p>\n<blockquote><p>3% of &#8216;critical&#8217; software security bugs, in all of recorded history, have been found in the last month. This is on pace to find another ~100,000 bugs this year alone, adding ~26% more vulnerabilities to the all time total Do you realize how fucking insane that is?</p></blockquote>\n<p>Yes. It is a new world out there.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-11-10T01:12:06.237674+00:00",
-      "raw_score": 5.498034612635875,
-      "score": 58,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.52
     }
   ],
-  "updated": "2026-11-16T22:38:48.496368+00:00",
+  "updated": "2026-11-17T04:52:35.762258+00:00",
   "stats": {
-    "total": 65,
-    "relevant": 14,
+    "total": 59,
+    "relevant": 12,
     "critical": 6,
-    "new_this_run": 9,
+    "new_this_run": 1,
     "sources": 3
   }
 }
