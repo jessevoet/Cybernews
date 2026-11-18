@@ -1,6 +1,37 @@
 {
   "items": [
     {
+      "title": "How to fix a bug in a fix",
+      "url": "https://projectzero.google/2026/10/emergency-patching.html",
+      "summary": "Project Zero often works with software vendors to remediate the vulnerabilities we report and provide broader guidance on making software more secure. Some vendors express concern about potential scenarios in which they are unable to fix vulnerabilities that are causing immediate user harm, due to limitations in their patch delivery systems. Since Project Zero encounters a wide array of systems designed to protect users in the case of exceptional exploitation scenarios, both through vendor discu",
+      "source": "Google Project Zero",
+      "published": "2026-11-18T12:33:44.664240+00:00",
+      "raw_score": 3.2734223403067078,
+      "score": 45,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 7.69
+    },
+    {
+      "title": "France Is Blaming Iran for the Fridge Cyberattack",
+      "url": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html",
+      "summary": "<p><a href=\"https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html\">Interesting</a>:</p>\n<blockquote><p>U.S. intelligence agencies have recently reached a &#8220;&#8221;ow confidence&#8221; assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss sensitive intelligence. A &#8220;low confidence&#8221; assessment generally means that there is some intelligence that points",
+      "source": "Schneier on Security",
+      "published": "2026-11-18T12:33:38.076629+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 7.69
+    },
+    {
       "title": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost",
       "url": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/",
       "summary": "Microsoft announced two new AI models at Ignite 2026 that promise impressive performance for much lower cost. They could reshape its relationship with OpenAI and Anthropic for good.",
@@ -826,30 +857,14 @@
         "Law Enforcement"
       ],
       "threshold": 8.59
-    },
-    {
-      "title": "How to fix a bug in a fix",
-      "url": "https://projectzero.google/2026/10/emergency-patching.html",
-      "summary": "Project Zero often works with software vendors to remediate the vulnerabilities we report and provide broader guidance on making software more secure. Some vendors express concern about potential scenarios in which they are unable to fix vulnerabilities that are causing immediate user harm, due to limitations in their patch delivery systems. Since Project Zero encounters a wide array of systems designed to protect users in the case of exceptional exploitation scenarios, both through vendor discu",
-      "source": "Google Project Zero",
-      "published": "2026-11-11T10:01:01.237679+00:00",
-      "raw_score": 3.2734223403067078,
-      "score": 44,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 8.62
     }
   ],
-  "updated": "2026-11-18T03:57:02.120132+00:00",
+  "updated": "2026-11-18T12:33:52.173250+00:00",
   "stats": {
-    "total": 56,
+    "total": 57,
     "relevant": 8,
     "critical": 3,
-    "new_this_run": 4,
+    "new_this_run": 2,
     "sources": 3
   }
 }
