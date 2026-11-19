@@ -857,74 +857,14 @@
         "Vulnerability"
       ],
       "threshold": 8.46
-    },
-    {
-      "title": "Oura Ring users may get in-app access to real doctors soon – what we know",
-      "url": "https://www.zdnet.com/tech/oura-ring-users-may-get-in-app-access-to-real-doctors-soon-what-we-know/",
-      "summary": "Oura’s acquisition of Counsel Health could signal a new dawn for digital care.",
-      "source": "ZDNet Security",
-      "published": "2026-11-12T01:09:22.673765+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.59
-    },
-    {
-      "title": "Google Fi now switches between the best mobile networks automatically – how it works",
-      "url": "https://www.zdnet.com/home-and-office/google-fi-super-network-pixel/",
-      "summary": "Pixel users also get a bonus Wi-Fi upgrade. Here’s what to know.",
-      "source": "ZDNet Security",
-      "published": "2026-11-12T01:09:22.673656+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.59
-    },
-    {
-      "title": "This tiny box gives your older tech smart home superpowers – and it’s only $69",
-      "url": "https://www.zdnet.com/home-and-office/home-assistant-connect-aux-2-hardware-older-tech-smart/",
-      "summary": "Home Assistant gets new equipment to battle planned obsolescence and abandoned cloud services.",
-      "source": "ZDNet Security",
-      "published": "2026-11-12T01:09:22.673529+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.59
-    },
-    {
-      "title": "Studying Fraudulent North Korean IT Workers",
-      "url": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
-      "summary": "<p>Researchers set up a fake start-up company to <a href=\"https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html \">study</a> fraudulent North Korean IT workers.</p>",
-      "source": "Schneier on Security",
-      "published": "2026-11-12T01:09:10.357594+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.59
     }
   ],
-  "updated": "2026-11-18T20:59:32.774810+00:00",
+  "updated": "2026-11-19T02:19:32.180465+00:00",
   "stats": {
-    "total": 61,
+    "total": 57,
     "relevant": 8,
     "critical": 3,
-    "new_this_run": 9,
+    "new_this_run": 0,
     "sources": 3
   }
 }
