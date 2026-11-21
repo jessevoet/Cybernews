@@ -812,44 +812,14 @@
         "General"
       ],
       "threshold": 8.68
-    },
-    {
-      "title": "‘We need more reviewers’: Finding Linux bugs is easy now – fixing them is another story",
-      "url": "https://www.zdnet.com/innovation/ai-bug-reports-linux-windows/",
-      "summary": "Some Linux maintainers are quitting under the crushing strain of AI bug reports, while others see signs for hope.",
-      "source": "ZDNet Security",
-      "published": "2026-11-14T07:11:13.716796+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.85
-    },
-    {
-      "title": "Friday Squid Blogging: New Jurassic Squid Predecessors",
-      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html",
-      "summary": "<p>News story: &#8220;<a href=\"https://www.sciencedaily.com/releases/2026/10/261019093434.htm\">Scientists discover a bizarre Jurassic &#8216;squid&#8217; unlike anything ever seen</a>.&#8221;</p>\n<blockquote><p>Scientists have identified the &#8220;fattest&#8221; belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming&#8217;s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unlike anything previously known, potentially a predat",
-      "source": "Schneier on Security",
-      "published": "2026-11-14T07:11:01.755793+00:00",
-      "raw_score": 0.0,
-      "score": 28,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.85
     }
   ],
-  "updated": "2026-11-21T00:29:49.231236+00:00",
+  "updated": "2026-11-21T07:51:28.910266+00:00",
   "stats": {
-    "total": 56,
+    "total": 54,
     "relevant": 7,
     "critical": 2,
-    "new_this_run": 5,
+    "new_this_run": 0,
     "sources": 3
   }
 }
