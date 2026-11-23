@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "Can AI help plan terrorist attacks? The US tested ChatGPT, Claude, Gemini, and Grok",
+      "url": "https://www.zdnet.com/innovation/ai-chatbots-terrorist-attack-plans-us-government-test/",
+      "summary": "Investigators tried to bypass AI safeguards to generate plans. The results exposed security gaps and raised questions about preventing misuse.",
+      "source": "ZDNet Security",
+      "published": "2026-11-23T13:51:48.380349+00:00",
+      "raw_score": 1.8835521210868078,
+      "score": 39,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "Usable Security at Luxury Hotels",
+      "url": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
+      "summary": "<p>Interesting <a href=\"https://www.benthamsgaze.org/2026/11/11/phishing-at-the-front-desk-usable-security-in-luxury-hotels/\">case study</a> from luxury hotels. Attackers used a fake booking request to gain access to a reservations inbox, where they copied genuine refund requests and got fraudulent ones approved.</p>\n<p>This is a good illustration why &#8220;just don&#8217;t click on links&#8221; is bad advice. It can&#8217;t work when answering strangers&#8217; emails is the job. Even worse, in",
+      "source": "Schneier on Security",
+      "published": "2026-11-23T13:51:36.556135+00:00",
+      "raw_score": 1.4934258125530917,
+      "score": 36,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "Phishing"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "Humans Have Rights. Machines Do Not.",
+      "url": "https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html",
+      "summary": "<p><em>This essay originally appeared in <a href=\"https://www.techpolicy.press/humans-have-rights-machines-do-not/\">Tech Policy Press</a>.</em></p>\n<p>Last year, Character.AI <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.flmd.433581/gov.uscourts.flmd.433581.59.0.pdf\">asked</a> a federal court in Florida to dismiss a wrongful-death suit, brought by the mother of a fourteen-year-old boy who had killed himself after months of conversation with its chatbot. The company made two argum",
+      "source": "Schneier on Security",
+      "published": "2026-11-23T13:51:36.555339+00:00",
+      "raw_score": 0.0,
+      "score": 26,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
       "title": "Breaking the Sound Barrier, Part II: Exploiting CVE-2024-54529",
       "url": "https://projectzero.google/2026/01/sound-barrier-2.html",
       "summary": "In the first part of this series, I detailed my journey into macOS security research, which led to the discovery of a type confusion vulnerability (CVE-2024-54529) and a double-free vulnerability (CVE-2025-31235) in the coreaudiod system daemon through a process I call knowledge-driven fuzzing. While the first post focused on the process of finding the vulnerabilities, this post dives into the intricate process of exploiting the type confusion vulnerability. I’ll explain the technical details of",
@@ -797,29 +842,14 @@
         "ICS / OT"
       ],
       "threshold": 9.17
-    },
-    {
-      "title": "Usable Security at Luxury Hotels",
-      "url": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
-      "summary": "<p>Interesting <a href=\"https://www.benthamsgaze.org/2026/11/11/phishing-at-the-front-desk-usable-security-in-luxury-hotels/\">case study</a> from luxury hotels. Attackers used a fake booking request to gain access to a reservations inbox, where they copied genuine refund requests and got fraudulent ones approved.</p>\n<p>This is a good illustration why &#8220;just don&#8217;t click on links&#8221; is bad advice. It can&#8217;t work when answering strangers&#8217; emails is the job. Even worse, in",
-      "source": "Schneier on Security",
-      "published": "2026-11-16T12:15:46.248826+00:00",
-      "raw_score": 1.4934258125530917,
-      "score": 38,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Phishing"
-      ],
-      "threshold": 8.65
     }
   ],
-  "updated": "2026-11-23T03:29:25.054765+00:00",
+  "updated": "2026-11-23T13:51:49.497943+00:00",
   "stats": {
-    "total": 54,
+    "total": 56,
     "relevant": 7,
     "critical": 2,
-    "new_this_run": 0,
+    "new_this_run": 3,
     "sources": 3
   }
 }
