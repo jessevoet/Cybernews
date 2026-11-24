@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "title": "Disney+ and Hulu are 61% off for a year with this Black Friday deal – how to get it",
+      "url": "https://www.zdnet.com/home-and-office/disney-plus-hulu-black-friday-deal-2026/",
+      "summary": "Disney and Hulu’s Black Friday deal just dropped, and you’ll only pay $4.99 a month for 12 months for both streaming services.",
+      "source": "ZDNet Security",
+      "published": "2026-11-24T21:43:12.590120+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "This hidden iOS 27 feature ensures you’ll never sleep through an alarm again",
+      "url": "https://www.zdnet.com/tech/iphone-hidden-alarm-volume-ios-27/",
+      "summary": "Say goodbye to accidentally silencing your alarms.",
+      "source": "ZDNet Security",
+      "published": "2026-11-24T21:43:12.589994+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "I gave Gemini access to my Wallet, and it immediately started saving me money",
+      "url": "https://www.zdnet.com/innovation/gemini-wallet-personal-intelligence/",
+      "summary": "Gemini gave me a little tough love and told me what I needed to hear about my finances.",
+      "source": "ZDNet Security",
+      "published": "2026-11-24T21:43:12.589870+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
+      "url": "https://projectzero.google/2026/09/windows-dangling-com.html",
+      "summary": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed “Dark Elevator” by Calif. The root cause of the bug was a dangling COM object registration for the CrossDevice COM object with the CLSID {E9F83CF2-E0C0-4CA7-AF01-E90C70BEF496}. A COM registration typically needs two parts: a server executable, which for in-process components is a ",
+      "source": "Google Project Zero",
+      "published": "2026-11-24T21:43:06.554088+00:00",
+      "raw_score": 6.593552252651085,
+      "score": 70,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "Formal Verification of the Signal Protocol Using AI",
+      "url": "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html",
+      "summary": "<p><a href=\"https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/\">This</a> seems like a good thing:</p>\n<blockquote><p>Google Deepmind researchers used agentic AI to mathematically prove, or “formally verify,” a number of the Signal protocol’s key cryptographic guarantees­a landmark development for the widely used cryptography and AI itself.</p>\n<p>Conducted as a sort of proof-of-concept project in just four weeks, the work is significant in two w",
+      "source": "Schneier on Security",
+      "published": "2026-11-24T21:43:00.643424+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "We Get the Infrastructure We Pay For",
+      "url": "https://www.schneier.com/blog/archives/2026/11/we-get-the-infrastructure-we-pay-for.html",
+      "summary": "<p><em>This essay originally appeared as part of a <a href=\"https://www.thefp.com/p/cybersecurity-terrorism-iran-china-russia-apocalypse\">round table</a> in <cite>The Free Press</cite> entitled &#8220;Is America’s Infrastructure Under Attack?&#8221;</em></p>\n<p>Microsoft, the FAA, banks, United Airlines, the NSA&#8212;it&#8217;s been a really bad week in cyberspace. But, amazing as it might seem, these are not related. As far as we know, they&#8217;re not the result of cyberattacks. They&#8217;r",
+      "source": "Schneier on Security",
+      "published": "2026-11-24T21:43:00.642819+00:00",
+      "raw_score": 4.006631101502574,
+      "score": 52,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability"
+      ],
+      "threshold": 6.94
+    },
+    {
       "title": "Nvidia CEO Jensen Huang is back after a stunning reversal",
       "url": "https://www.zdnet.com/innovation/jensen-huang-is-back-as-nvidia-ceo-after-a-stunning-reversal/",
       "summary": "Nvidia’s board unanimously reinstated Huang 11 days after his removal, but his troubles may not be over.",
@@ -752,44 +842,14 @@
         "General"
       ],
       "threshold": 7.49
-    },
-    {
-      "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
-      "url": "https://projectzero.google/2026/09/windows-dangling-com.html",
-      "summary": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed “Dark Elevator” by Calif. The root cause of the bug was a dangling COM object registration for the CrossDevice COM object with the CLSID {E9F83CF2-E0C0-4CA7-AF01-E90C70BEF496}. A COM registration typically needs two parts: a server executable, which for in-process components is a ",
-      "source": "Google Project Zero",
-      "published": "2026-11-17T13:58:38.689975+00:00",
-      "raw_score": 6.593552252651085,
-      "score": 61,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 8.95
-    },
-    {
-      "title": "Formal Verification of the Signal Protocol Using AI",
-      "url": "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html",
-      "summary": "<p><a href=\"https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/\">This</a> seems like a good thing:</p>\n<blockquote><p>Google Deepmind researchers used agentic AI to mathematically prove, or “formally verify,” a number of the Signal protocol’s key cryptographic guarantees­a landmark development for the widely used cryptography and AI itself.</p>\n<p>Conducted as a sort of proof-of-concept project in just four weeks, the work is significant in two w",
-      "source": "Schneier on Security",
-      "published": "2026-11-17T13:58:33.462888+00:00",
-      "raw_score": 0.0,
-      "score": 29,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.95
     }
   ],
-  "updated": "2026-11-24T11:48:42.907130+00:00",
+  "updated": "2026-11-24T21:43:14.061328+00:00",
   "stats": {
-    "total": 52,
-    "relevant": 7,
+    "total": 56,
+    "relevant": 8,
     "critical": 1,
-    "new_this_run": 0,
+    "new_this_run": 6,
     "sources": 3
   }
 }
