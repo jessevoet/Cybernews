@@ -782,29 +782,14 @@
         "General"
       ],
       "threshold": 8.95
-    },
-    {
-      "title": "6 Chrome settings tweaks every power user needs to know",
-      "url": "https://www.zdnet.com/home-and-office/chrome-default-settings-to-change/",
-      "summary": "For improved privacy and security, fewer interruptions, and enhanced productivity, I highly recommend changing these default browser settings.",
-      "source": "ZDNet Security",
-      "published": "2026-11-17T04:52:34.751942+00:00",
-      "raw_score": 1.9975423070891798,
-      "score": 39,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 8.95
     }
   ],
-  "updated": "2026-11-24T01:22:53.097421+00:00",
+  "updated": "2026-11-24T11:48:42.907130+00:00",
   "stats": {
-    "total": 53,
+    "total": 52,
     "relevant": 7,
     "critical": 1,
-    "new_this_run": 6,
+    "new_this_run": 0,
     "sources": 3
   }
 }
