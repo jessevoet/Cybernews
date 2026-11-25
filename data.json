@@ -1,6 +1,156 @@
 {
   "items": [
     {
+      "title": "Microsoft’s new Licensed Weights lets businesses customize AI models with their own data",
+      "url": "https://www.zdnet.com/innovation/microsoft-licensed-weights-ai-models-ignite-2026/",
+      "summary": "Microsoft is bridging the gap between proprietary and open-weight AI while targeting data-conscious businesses.",
+      "source": "ZDNet Security",
+      "published": "2026-11-25T23:53:38.313942+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "I’ve tested Ubuntu 27.04 ahead of its April release – and it will wow you",
+      "url": "https://www.zdnet.com/tech/ubuntu-27-04-april-release-new-features-performance/",
+      "summary": "I’ve been using Ubuntu 27.04, and the speed boost is noticeable. Here’s what else is coming.",
+      "source": "ZDNet Security",
+      "published": "2026-11-25T23:53:38.313793+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "Your Wear OS smartwatch just got a new way to save battery life",
+      "url": "https://www.zdnet.com/tech/wear-os-smartwatches-update-save-battery-life-galaxy-pixel/",
+      "summary": "It could make your Pixel Watch or Samsung Galaxy Watch more power efficient.",
+      "source": "ZDNet Security",
+      "published": "2026-11-25T23:53:38.313647+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "74% of shoppers trust AI agents for buying advice – but checkout is another story",
+      "url": "https://www.zdnet.com/innovation/retailer-shoppers-ai-agents-buying-advice/",
+      "summary": "Shoppers who use AI agents spend 8% more than the average buyer and purchase 23% more items per order.",
+      "source": "ZDNet Security",
+      "published": "2026-11-25T23:53:38.313534+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "You can use Google’s Spark AI agent, renamed Tasks, for free now – with limits",
+      "url": "https://www.zdnet.com/innovation/gemini-spark-tasks-free-personal-agent/",
+      "summary": "At least if Tasks disappoints, it won’t cost you – unlike OpenAI and Anthropic’s subscription-based agents.",
+      "source": "ZDNet Security",
+      "published": "2026-11-25T23:53:38.313391+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "5 new Apple Health features you should try in iOS 27.3 – if your phone qualifies",
+      "url": "https://www.zdnet.com/health/apple-health-ios-27-3-ai-features-compatible-iphones/",
+      "summary": "Apple’s redesigned Health app arrives in December with some major upgrades, but not every iPhone will get the full experience.",
+      "source": "ZDNet Security",
+      "published": "2026-11-25T23:53:38.313250+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "Google Wallet comes to your iPhone – but without this feature",
+      "url": "https://www.zdnet.com/tech/google-wallet-iphone-ios-no-tap-to-pay/",
+      "summary": "The new Google Wallet app brings Gemini agentic shopping to US-based iOS users –  sorry, no tap-to-pay.",
+      "source": "ZDNet Security",
+      "published": "2026-11-25T23:53:38.313101+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "Gen Z is the least interested in AI at work – and it’s not even close",
+      "url": "https://www.zdnet.com/innovation/gen-z-employees-ai-survey/",
+      "summary": "Younger workers don’t find AI useful, according to a recent survey.",
+      "source": "ZDNet Security",
+      "published": "2026-11-25T23:53:38.310886+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "You can turn Claude artifacts into Windows and Mac apps now – here’s how",
+      "url": "https://www.zdnet.com/innovation/claude-artifacts-desktop-apps-mac-windows/",
+      "summary": "Anthropic’s new ‘install as app’ feature makes it easy to turn your Claude artifacts into desktop apps on your computer – with some limitations.",
+      "source": "ZDNet Security",
+      "published": "2026-11-25T23:53:38.310731+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "Testing race conditions with memory access tracing and stack-based delay injection",
+      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+      "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static analysis. Regression tests: After fixing a race condition bug, there is often no good way to write a regression test that reliably triggers the bug as part of a test suite. Automatic bug discovery, such as fuzzing: It is hard for",
+      "source": "Google Project Zero",
+      "published": "2026-11-25T23:53:33.066304+00:00",
+      "raw_score": 1.5541416604483076,
+      "score": 36,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
       "title": "How to fix a bug in a fix",
       "url": "https://projectzero.google/2026/10/emergency-patching.html",
       "summary": "Project Zero often works with software vendors to remediate the vulnerabilities we report and provide broader guidance on making software more secure. Some vendors express concern about potential scenarios in which they are unable to fix vulnerabilities that are causing immediate user harm, due to limitations in their patch delivery systems. Since Project Zero encounters a wide array of systems designed to protect users in the case of exceptional exploitation scenarios, both through vendor discu",
@@ -602,149 +752,14 @@
         "Vulnerability"
       ],
       "threshold": 7.1
-    },
-    {
-      "title": "Microsoft’s new Licensed Weights lets businesses customize AI models with their own data",
-      "url": "https://www.zdnet.com/innovation/microsoft-licensed-weights-ai-models-ignite-2026/",
-      "summary": "Microsoft is bridging the gap between proprietary and open-weight AI while targeting data-conscious businesses.",
-      "source": "ZDNet Security",
-      "published": "2026-11-18T20:59:31.557608+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.1
-    },
-    {
-      "title": "I’ve tested Ubuntu 27.04 ahead of its April release – and it will wow you",
-      "url": "https://www.zdnet.com/tech/ubuntu-27-04-april-release-new-features-performance/",
-      "summary": "I’ve been using Ubuntu 27.04, and the speed boost is noticeable. Here’s what else is coming.",
-      "source": "ZDNet Security",
-      "published": "2026-11-18T20:59:31.557495+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.1
-    },
-    {
-      "title": "Your Wear OS smartwatch just got a new way to save battery life",
-      "url": "https://www.zdnet.com/tech/wear-os-smartwatches-update-save-battery-life-galaxy-pixel/",
-      "summary": "It could make your Pixel Watch or Samsung Galaxy Watch more power efficient.",
-      "source": "ZDNet Security",
-      "published": "2026-11-18T20:59:31.557390+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.1
-    },
-    {
-      "title": "74% of shoppers trust AI agents for buying advice – but checkout is another story",
-      "url": "https://www.zdnet.com/innovation/retailer-shoppers-ai-agents-buying-advice/",
-      "summary": "Shoppers who use AI agents spend 8% more than the average buyer and purchase 23% more items per order.",
-      "source": "ZDNet Security",
-      "published": "2026-11-18T20:59:31.557324+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.1
-    },
-    {
-      "title": "You can use Google’s Spark AI agent, renamed Tasks, for free now – with limits",
-      "url": "https://www.zdnet.com/innovation/gemini-spark-tasks-free-personal-agent/",
-      "summary": "At least if Tasks disappoints, it won’t cost you – unlike OpenAI and Anthropic’s subscription-based agents.",
-      "source": "ZDNet Security",
-      "published": "2026-11-18T20:59:31.557213+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.1
-    },
-    {
-      "title": "5 new Apple Health features you should try in iOS 27.3 – if your phone qualifies",
-      "url": "https://www.zdnet.com/health/apple-health-ios-27-3-ai-features-compatible-iphones/",
-      "summary": "Coming next month, Apple’s new Health app relies on AI for certain features, which means you’ll need an iPhone that supports Apple Intelligence.",
-      "source": "ZDNet Security",
-      "published": "2026-11-18T20:59:31.557098+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.1
-    },
-    {
-      "title": "Google Wallet comes to your iPhone – but without this feature",
-      "url": "https://www.zdnet.com/tech/google-wallet-iphone-ios-no-tap-to-pay/",
-      "summary": "The new Google Wallet app brings Gemini agentic shopping to US-based iOS users –  sorry, no tap-to-pay.",
-      "source": "ZDNet Security",
-      "published": "2026-11-18T20:59:31.556942+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.1
-    },
-    {
-      "title": "Testing race conditions with memory access tracing and stack-based delay injection",
-      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
-      "summary": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static analysis. Regression tests: After fixing a race condition bug, there is often no good way to write a regression test that reliably triggers the bug as part of a test suite. Automatic bug discovery, such as fuzzing: It is hard for",
-      "source": "Google Project Zero",
-      "published": "2026-11-18T20:59:23.894765+00:00",
-      "raw_score": 1.5541416604483076,
-      "score": 36,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.1
-    },
-    {
-      "title": "Three People Arrested for AI-Enhanced Impersonation Fraud",
-      "url": "https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html",
-      "summary": "<p>It&#8217;s hard to believe how lucrative <a href=\"https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft\">this crime</a> can be:</p>\n<blockquote><p>According to a <a href=\"https://www.justice.gov/usao-sdny/pr/three-foreign-nationals-arrested-and-charged-scheme-use-super-intelligence-defraud#ref-ftn1\">press release</a> from the United States attorney’s office for the southern district of New York, three men ­ Jacob Soall, Sharon Hazan, and Guy Sheetrit ­ were arrested for u",
-      "source": "Schneier on Security",
-      "published": "2026-11-18T20:59:18.511216+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "Law Enforcement"
-      ],
-      "threshold": 7.1
     }
   ],
-  "updated": "2026-11-25T15:09:21.426127+00:00",
+  "updated": "2026-11-25T23:53:39.505974+00:00",
   "stats": {
-    "total": 49,
+    "total": 50,
     "relevant": 7,
     "critical": 1,
-    "new_this_run": 3,
+    "new_this_run": 10,
     "sources": 3
   }
 }
