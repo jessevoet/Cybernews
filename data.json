@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost",
+      "url": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/",
+      "summary": "Microsoft announced two new AI models at Ignite 2026 that promise impressive performance for much lower cost. They could reshape its relationship with OpenAI and Anthropic for good.",
+      "source": "ZDNet Security",
+      "published": "2026-11-25T04:41:19.725201+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "Microsoft wants to put a dollar value on AI’s work – but can you trust the math?",
+      "url": "https://www.zdnet.com/innovation/microsoft-agent-365-business-analytics-ignite/",
+      "summary": "With Agent 365 Business Analytics, Microsoft could reshape enterprise spending, but there’s a critical difference between estimated value and money saved.",
+      "source": "ZDNet Security",
+      "published": "2026-11-25T04:41:19.725126+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "ICS / OT"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace updates",
+      "url": "https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026/",
+      "summary": "The company also released new ROI tracking tools for companies monitoring their AI spend.",
+      "source": "ZDNet Security",
+      "published": "2026-11-25T04:41:19.725007+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+      "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+      "summary": "Summary Project Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. Fuzzilli is a generative JavaScript engine fuzzer and BigSleep is an LLM-based bug finding system. In the past six months, BigSleep found more vulnerabilities than Fuzzilli (45 versus 37) with a 25% overlap in the specific bugs reported. Since this comparison methodology has a tendency to underestimate overlap, we also performed dedicated experiments to ",
+      "source": "Google Project Zero",
+      "published": "2026-11-25T04:41:14.362854+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
       "title": "Disney+ and Hulu are 61% off for a year with this Black Friday deal – how to get it",
       "url": "https://www.zdnet.com/home-and-office/disney-plus-hulu-black-friday-deal-2026/",
       "summary": "Disney and Hulu’s Black Friday deal just dropped, and you’ll only pay $4.99 a month for 12 months for both streaming services.",
@@ -662,194 +722,14 @@
         "General"
       ],
       "threshold": 7.69
-    },
-    {
-      "title": "Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost",
-      "url": "https://www.zdnet.com/innovation/microsoft-ai-coding-model-rivals-claude-opus-5-5-ignite/",
-      "summary": "Microsoft announced two new AI models at Ignite 2026 that promise impressive performance for much lower cost. They could reshape its relationship with OpenAI and Anthropic for good.",
-      "source": "ZDNet Security",
-      "published": "2026-11-18T03:57:01.036711+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.69
-    },
-    {
-      "title": "Microsoft wants to put a dollar value on AI’s work – but can you trust the math?",
-      "url": "https://www.zdnet.com/innovation/microsoft-agent-365-business-analytics-ignite/",
-      "summary": "With Agent 365 Business Analytics, Microsoft could reshape enterprise spending, but there’s a critical difference between estimated value and money saved.",
-      "source": "ZDNet Security",
-      "published": "2026-11-18T03:57:01.036629+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "ICS / OT"
-      ],
-      "threshold": 7.69
-    },
-    {
-      "title": "Microsoft unveiled Copilot Workspaces at Ignite 2026, plus more AI workplace updates",
-      "url": "https://www.zdnet.com/innovation/microsoft-copilot-workspaces-ignite-2026/",
-      "summary": "The company also released new ROI tracking tools for companies monitoring their AI spend.",
-      "source": "ZDNet Security",
-      "published": "2026-11-18T03:57:01.036477+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.69
-    },
-    {
-      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
-      "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
-      "summary": "Summary Project Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. Fuzzilli is a generative JavaScript engine fuzzer and BigSleep is an LLM-based bug finding system. In the past six months, BigSleep found more vulnerabilities than Fuzzilli (45 versus 37) with a 25% overlap in the specific bugs reported. Since this comparison methodology has a tendency to underestimate overlap, we also performed dedicated experiments to ",
-      "source": "Google Project Zero",
-      "published": "2026-11-18T03:56:54.731892+00:00",
-      "raw_score": 0.0,
-      "score": 25,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.69
-    },
-    {
-      "title": "Oura’s new feature could help you kick jet lag – how to enable it",
-      "url": "https://www.zdnet.com/tech/oura-jet-lag-plan/",
-      "summary": "Oura just launched a Jet Lag Plan to help you stay alert when you switch time zones, whether you’re traveling for business or pleasure.",
-      "source": "ZDNet Security",
-      "published": "2026-11-17T22:01:41.142664+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.49
-    },
-    {
-      "title": "Own 2 Android phones? Google may let you switch service fast – like iPhone Handoff",
-      "url": "https://www.zdnet.com/tech/android-fast-switch-like-iphone-handoff/",
-      "summary": "If Android Fast Switch works like iPhone Handoff, one eSIM can be quickly switched between two phones.",
-      "source": "ZDNet Security",
-      "published": "2026-11-17T22:01:41.142555+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.49
-    },
-    {
-      "title": "Apple reveals daily limits on your Siri AI use – here’s how much you’ll have to pay",
-      "url": "https://www.zdnet.com/innovation/apple-siri-ai-daily-limits-cost-icloud-plus-plan/",
-      "summary": "The more you pay for an iCloud+ plan, the more you’ll be able to use Siri AI and Apple Intelligence for advanced server-side tasks.",
-      "source": "ZDNet Security",
-      "published": "2026-11-17T22:01:41.142444+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.49
-    },
-    {
-      "title": "I asked Gemini Notebook to ‘make me a site’ from my notes – it was satisfying",
-      "url": "https://www.zdnet.com/innovation/google-gemini-notebook-interactive-sites-notes/",
-      "summary": "A new Gemini Notebook feature lets you create interactive sites from intricate data.",
-      "source": "ZDNet Security",
-      "published": "2026-11-17T22:01:41.142327+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.49
-    },
-    {
-      "title": "Google is making it easier to opt out of Gemini AI model training – here’s how",
-      "url": "https://www.zdnet.com/innovation/google-gemini-ai-model-training-opt-out-how/",
-      "summary": "You’ll soon be able to turn off Gemini model training but still retain access to your previous chats with Google’s AI.",
-      "source": "ZDNet Security",
-      "published": "2026-11-17T22:01:41.142219+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.49
-    },
-    {
-      "title": "Your Googlebook just got a Chrome update – 5 new features",
-      "url": "https://www.zdnet.com/tech/googlebook-os-chrome-update-new-features/",
-      "summary": "The Chrome update includes more useful vertical tabs, easier screen sharing, and some handy keyboard shortcuts.",
-      "source": "ZDNet Security",
-      "published": "2026-11-17T22:01:41.142087+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.49
-    },
-    {
-      "title": "Goodbye, Gemini Gems: How to use Google’s new Skills – and share them",
-      "url": "https://www.zdnet.com/business/gemini-gems-google-skills-transition/",
-      "summary": "Google is retiring Gemini Gems. Here’s what to do to access the same tools as Skills.",
-      "source": "ZDNet Security",
-      "published": "2026-11-17T22:01:41.141964+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.49
-    },
-    {
-      "title": "New OpenSSH Vulnerability",
-      "url": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
-      "summary": "<p>It&#8217;s a <a href=\"https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/\">bad one</a>, and it&#8217;s been in the code for a decade:</p>\n<blockquote><p>A newly disclosed flaw involving OpenSSH and musl, dubbed &#8220;*sshole,&#8221; allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts configured to block password authentication simply by entering an oversized password.</p></blockquote>\n<p>&#82",
-      "source": "Schneier on Security",
-      "published": "2026-11-17T22:01:28.338282+00:00",
-      "raw_score": 5.566103260885702,
-      "score": 60,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.49
     }
   ],
-  "updated": "2026-11-24T21:43:14.061328+00:00",
+  "updated": "2026-11-25T04:41:20.971220+00:00",
   "stats": {
-    "total": 56,
-    "relevant": 8,
+    "total": 48,
+    "relevant": 7,
     "critical": 1,
-    "new_this_run": 6,
+    "new_this_run": 4,
     "sources": 3
   }
 }
