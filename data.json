@@ -754,12 +754,12 @@
       "threshold": 7.1
     }
   ],
-  "updated": "2026-11-25T23:53:39.505974+00:00",
+  "updated": "2026-11-26T05:58:19.672795+00:00",
   "stats": {
     "total": 50,
     "relevant": 7,
     "critical": 1,
-    "new_this_run": 10,
+    "new_this_run": 0,
     "sources": 3
   }
 }
