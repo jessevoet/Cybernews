@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "ZDNET’s best headphones of 2026: These two pairs left us impressed",
+      "url": "https://www.zdnet.com/tech/zdnet-best-headphones-of-2026/",
+      "summary": "We tested dozens of Bluetooth headphones in 2026, but two stood out. Here’s our top picks.",
+      "source": "ZDNet Security",
+      "published": "2026-11-26T16:23:31.776677+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
       "title": "Microsoft’s new Licensed Weights lets businesses customize AI models with their own data",
       "url": "https://www.zdnet.com/innovation/microsoft-licensed-weights-ai-models-ignite-2026/",
       "summary": "Microsoft is bridging the gap between proprietary and open-weight AI while targeting data-conscious businesses.",
@@ -754,12 +769,12 @@
       "threshold": 7.1
     }
   ],
-  "updated": "2026-11-26T05:58:19.672795+00:00",
+  "updated": "2026-11-26T16:23:33.031002+00:00",
   "stats": {
-    "total": 50,
+    "total": 51,
     "relevant": 7,
     "critical": 1,
-    "new_this_run": 0,
+    "new_this_run": 1,
     "sources": 3
   }
 }
