@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "90% of employers reject resumes that look like AI – yet half use AI to interview",
+      "url": "https://www.zdnet.com/innovation/ai-applications-skipped-interview/",
+      "summary": "In today’s job market, do applicants really have a choice of whether to comply with AI hiring tools?",
+      "source": "ZDNet Security",
+      "published": "2026-11-27T00:52:25.080653+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "The Flipper One is more than a Zero 2.0 – it’s a $399 Linux computer with a $13M Kickstarter",
+      "url": "https://www.zdnet.com/tech/flipper-one-cost-features-linux-computer-kickstarter/",
+      "summary": "Backers are going big on the $759 Ultimate Bundle, but Flipper warns that rising RAM prices could affect production.",
+      "source": "ZDNet Security",
+      "published": "2026-11-27T00:52:25.080534+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "Your Google AI mode searches can stay private now with ‘temporary threads’ – here’s how",
+      "url": "https://www.zdnet.com/innovation/google-ai-mode-searches-private-temporary-threads/",
+      "summary": "With temporary threads, any searches you run in Google’s AI Mode won’t be associated with your account or saved to your chat history.",
+      "source": "ZDNet Security",
+      "published": "2026-11-27T00:52:25.080415+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "I’ve tested countless Linux distros, and Pond is unlike anything I’ve tried – here’s why",
+      "url": "https://www.zdnet.com/tech/pond-distro-arch-linux-unique-ui/",
+      "summary": "Feeling adventurous? This Linux distribution is exciting, efficient and totally unique.",
+      "source": "ZDNet Security",
+      "published": "2026-11-27T00:52:25.080297+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "Meta Muse booked an Airbnb without permission – and that’s not the worst of it",
+      "url": "https://www.zdnet.com/tech/meta-muse-privacy-violatons-employees-report/",
+      "summary": "Meta employees have reported alarming privacy violations involving Muse, including unauthorized actions. An investigation also found the AI agent accessed private messages.",
+      "source": "ZDNet Security",
+      "published": "2026-11-27T00:52:25.080190+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
       "title": "ZDNET’s best headphones of 2026: These two pairs left us impressed",
       "url": "https://www.zdnet.com/tech/zdnet-best-headphones-of-2026/",
       "summary": "We tested dozens of Bluetooth headphones in 2026, but two stood out. Here’s our top picks.",
@@ -677,104 +752,14 @@
         "General"
       ],
       "threshold": 7.27
-    },
-    {
-      "title": "90% of employers reject resumes that look like AI – yet half use AI to interview",
-      "url": "https://www.zdnet.com/innovation/ai-applications-skipped-interview/",
-      "summary": "In today’s job market, do applicants really have a choice of whether to comply with AI hiring tools?",
-      "source": "ZDNet Security",
-      "published": "2026-11-19T19:15:36.461499+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.1
-    },
-    {
-      "title": "The Flipper One is more than a Zero 2.0 – it’s a $399 Linux computer with a $13M Kickstarter",
-      "url": "https://www.zdnet.com/tech/flipper-one-cost-features-linux-computer-kickstarter/",
-      "summary": "Backers are going big on the $759 Ultimate Bundle, but Flipper warns that rising RAM prices could affect production.",
-      "source": "ZDNet Security",
-      "published": "2026-11-19T19:15:36.461309+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.1
-    },
-    {
-      "title": "Your Google AI mode searches can stay private now with ‘temporary threads’ – here’s how",
-      "url": "https://www.zdnet.com/innovation/google-ai-mode-searches-private-temporary-threads/",
-      "summary": "With temporary threads, any searches you run in Google’s AI Mode won’t be associated with your account or saved to your chat history.",
-      "source": "ZDNet Security",
-      "published": "2026-11-19T19:15:36.461116+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.1
-    },
-    {
-      "title": "I’ve tested countless Linux distros, and Pond is unlike anything I’ve tried – here’s why",
-      "url": "https://www.zdnet.com/tech/pond-distro-arch-linux-unique-ui/",
-      "summary": "Feeling adventurous? This Linux distribution is exciting, efficient and totally unique.",
-      "source": "ZDNet Security",
-      "published": "2026-11-19T19:15:36.460922+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.1
-    },
-    {
-      "title": "Meta Muse booked an Airbnb without permission – and that’s not the worst of it",
-      "url": "https://www.zdnet.com/tech/meta-muse-privacy-violatons-employees-report/",
-      "summary": "Meta employees have reported alarming privacy violations involving Muse, including unauthorized actions. An investigation also found the AI agent accessed private messages.",
-      "source": "ZDNet Security",
-      "published": "2026-11-19T19:15:36.460724+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 7.1
-    },
-    {
-      "title": "Another Way Police Are Locating People from Their Smartphones",
-      "url": "https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html",
-      "summary": "<p>Penlink&#8217;s Webloc is an application that <a href=\"https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzg4OTgyNSwiZXhwIjoxNzk0NDk0NjI1LCJhcnRpY2xlSWQiOiJUTzEyT0pUM0JaTUwwMCIsImJjb25uZWN0SWQiOiJCRkMyNTg1RUFENTA0RTM2OUU3MzBBNTBCNkVGRTk5RSJ9.uWvJBwAKCyQsXzSli3He-XStaEQCVyprRIKmrsheWZs&#38;utm_source=substack&#38;utm_medium=email&#38;leadSource=article-gift",
-      "source": "Schneier on Security",
-      "published": "2026-11-19T19:15:22.616820+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": true,
-      "critical": true,
-      "categories": [
-        "Vulnerability"
-      ],
-      "threshold": 7.1
     }
   ],
-  "updated": "2026-11-26T16:23:33.031002+00:00",
+  "updated": "2026-11-27T00:52:26.231414+00:00",
   "stats": {
-    "total": 51,
-    "relevant": 7,
-    "critical": 1,
-    "new_this_run": 1,
+    "total": 50,
+    "relevant": 6,
+    "critical": 0,
+    "new_this_run": 5,
     "sources": 3
   }
 }
