@@ -1,6 +1,83 @@
 {
   "items": [
     {
+      "title": "I found a DualSense deal that knocks 28% off this wireless PlayStation controller",
+      "url": "https://www.zdnet.com/home-and-office/playstation-5-dualsense-controller-black-friday-deal/",
+      "summary": "The basic white variant is down to a record-low $54 for Black Friday, with plenty of other colors also on sale.",
+      "source": "ZDNet Security",
+      "published": "2026-11-28T02:22:27.241032+00:00",
+      "raw_score": 0.0,
+      "score": 25,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
+      "source": "Google Project Zero",
+      "published": "2026-11-28T02:22:22.111301+00:00",
+      "raw_score": 7.092005476157869,
+      "score": 73,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "Policy and Disclosure: 2026 Edition",
+      "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+      "summary": "Since 2021, Project Zero has followed a “90 + 30” vulnerability disclosure policy, allowing vendors up to 90 days to remediate a vulnerability plus an extra 30 days “soak time” for patch rollout. Our goal was to encourage faster patching and give vendors time to deliver patches to users. The advent of AI-assisted vulnerability discovery and exploitation has changed the threat landscape such that the vulnerability remediation timeline encouraged by our disclosure policy is clearly insufficient. L",
+      "source": "Google Project Zero",
+      "published": "2026-11-28T02:22:22.110356+00:00",
+      "raw_score": 6.695348570345186,
+      "score": 70,
+      "is_relevant": true,
+      "critical": false,
+      "categories": [
+        "Vulnerability",
+        "Advisory"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "Friday Squid Blogging: The Largest Squid Ever Filmed",
+      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
+      "summary": "<p>This <a href=\"https://www.worldatlas.com/oceans/the-largest-squid-ever-filmed.html\"> is the story</a> of the largest squid ever filmed, in December 2006 near Japan&#8217;s Ogasawara Islands.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
+      "source": "Schneier on Security",
+      "published": "2026-11-28T02:22:16.852088+00:00",
+      "raw_score": 1.6367111701533539,
+      "score": 36,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
+      "title": "Friday Squid Blogging: Giant Squid in Newfoundland",
+      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-giant-squid-in-newfoundland.html",
+      "summary": "<p>The two have an <a href=\"https://theconversation.com/what-lurks-below-newfoundland-waters-a-marine-biologist-explains-the-science-behind-the-show-295615\">interesting history</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
+      "source": "Schneier on Security",
+      "published": "2026-11-28T02:22:16.851212+00:00",
+      "raw_score": 1.754802988759355,
+      "score": 37,
+      "is_relevant": false,
+      "critical": false,
+      "categories": [
+        "General"
+      ],
+      "threshold": 6.94
+    },
+    {
       "title": "Signal to restrict screenshots over AI agent concerns – again",
       "url": "https://www.zdnet.com/innovation/signal-restricts-screenshots-over-ai-agent-concerns/",
       "summary": "The messaging app similarly limited screenshots because of Microsoft Recall last year.",
@@ -690,91 +767,14 @@
         "General"
       ],
       "threshold": 6.94
-    },
-    {
-      "title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
-      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "summary": "We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible to go from a zero-click context to root on Android in just two exploits. The Dolby 0-click vulnerability existed across all of Android, until it was patched in January 2026. While we had an exploit chain for the Pixel 9, we wanted to see if it was possible to write a similar exploit chain for Pixel 10. Updating the Dolby Exploit Altering our exploit for CVE-2025-54957 was fairly straightforward. The m",
-      "source": "Google Project Zero",
-      "published": "2026-11-21T00:29:42.103722+00:00",
-      "raw_score": 7.092005476157869,
-      "score": 73,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 6.94
-    },
-    {
-      "title": "Policy and Disclosure: 2026 Edition",
-      "url": "https://projectzero.google/2026/11/disclosure-policy.html",
-      "summary": "Since 2021, Project Zero has followed a “90 + 30” vulnerability disclosure policy, allowing vendors up to 90 days to remediate a vulnerability plus an extra 30 days “soak time” for patch rollout. Our goal was to encourage faster patching and give vendors time to deliver patches to users. The advent of AI-assisted vulnerability discovery and exploitation has changed the threat landscape such that the vulnerability remediation timeline encouraged by our disclosure policy is clearly insufficient. L",
-      "source": "Google Project Zero",
-      "published": "2026-11-21T00:29:42.103130+00:00",
-      "raw_score": 6.695348570345186,
-      "score": 70,
-      "is_relevant": true,
-      "critical": false,
-      "categories": [
-        "Vulnerability",
-        "Advisory"
-      ],
-      "threshold": 6.94
-    },
-    {
-      "title": "AI Doesn’t Have to Go Rogue to Break the World",
-      "url": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html",
-      "summary": "<p><em>This essay is adapted from <a href=\"https://www.youtube.com/watch?v=eEBv0STiYhI\">a keynote speech</a> delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in <a href=\"https://www.schneier.com/essays/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html\">CyberScoop</a>.</em></p>\n<p>I want to talk about AI hacking. There are three aspects: people hacking AI systems, people using AI to hack other systems, and AIs hacking systems o",
-      "source": "Schneier on Security",
-      "published": "2026-11-21T00:29:33.678882+00:00",
-      "raw_score": 0.0,
-      "score": 26,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "APT / Nation State"
-      ],
-      "threshold": 6.94
-    },
-    {
-      "title": "Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
-      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html",
-      "summary": "<p>Climate change is the <a href=\"https://news.mongabay.com/2026/11/south-koreas-beloved-squid-may-vanish-from-its-waters-due-to-climate-change-heat-waves/\">issue</a>.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
-      "source": "Schneier on Security",
-      "published": "2026-11-21T00:29:33.678751+00:00",
-      "raw_score": 1.66621918403833,
-      "score": 37,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 6.94
-    },
-    {
-      "title": "Friday Squid Blogging: The Largest Squid Ever Filmed",
-      "url": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
-      "summary": "<p>This <a href=\"https://www.worldatlas.com/oceans/the-largest-squid-ever-filmed.html\"> is the story</a> of the largest squid ever filmed, in December 2006 near Japan&#8217;s Ogasawara Islands.</p>\n<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>\n<p><a href=\"https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html\">Blog moderation policy.</a></p>",
-      "source": "Schneier on Security",
-      "published": "2026-11-21T00:29:33.678113+00:00",
-      "raw_score": 1.6367111701533539,
-      "score": 37,
-      "is_relevant": false,
-      "critical": false,
-      "categories": [
-        "General"
-      ],
-      "threshold": 6.94
     }
   ],
-  "updated": "2026-11-27T19:15:37.177443+00:00",
+  "updated": "2026-11-28T02:22:28.397629+00:00",
   "stats": {
     "total": 51,
     "relevant": 6,
     "critical": 0,
-    "new_this_run": 3,
+    "new_this_run": 5,
     "sources": 3
   }
 }
